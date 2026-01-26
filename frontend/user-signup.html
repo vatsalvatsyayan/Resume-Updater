@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Registration - Resume Builder</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Create Your Profile</h1>
+            <p>Fill in your details to build your professional resume</p>
+        </header>
+
+        <form id="userSignupForm" novalidate>
+            <!-- Section 1: Personal Information -->
+            <section class="form-section" id="personalInfoSection">
+                <h2 class="section-title">Personal Information</h2>
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="name">Full Name <span class="required">*</span></label>
+                        <input type="text" id="name" name="name" required placeholder="John Doe">
+                        <span class="error-message"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email Address <span class="required">*</span></label>
+                        <input type="email" id="email" name="email" required placeholder="john@example.com">
+                        <span class="error-message"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="portfolioWebsite">Portfolio Website</label>
+                        <input type="url" id="portfolioWebsite" name="portfolioWebsite" placeholder="https://yourportfolio.com">
+                        <span class="error-message"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="githubUrl">GitHub URL</label>
+                        <input type="url" id="githubUrl" name="githubUrl" placeholder="https://github.com/username">
+                        <span class="error-message"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="linkedinUrl">LinkedIn URL</label>
+                        <input type="url" id="linkedinUrl" name="linkedinUrl" placeholder="https://linkedin.com/in/username">
+                        <span class="error-message"></span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 2: Education -->
+            <section class="form-section" id="educationSection">
+                <div class="section-header">
+                    <h2 class="section-title">Education</h2>
+                    <button type="button" class="btn-add" data-section="education">+ Add Education</button>
+                </div>
+                <div class="entries-container" id="educationEntries">
+                    <!-- Education entries will be added here dynamically -->
+                </div>
+            </section>
+
+            <!-- Section 3: Work Experience -->
+            <section class="form-section" id="workExperienceSection">
+                <div class="section-header">
+                    <h2 class="section-title">Work Experience</h2>
+                    <button type="button" class="btn-add" data-section="workExperience">+ Add Experience</button>
+                </div>
+                <div class="entries-container" id="workExperienceEntries">
+                    <!-- Work experience entries will be added here dynamically -->
+                </div>
+            </section>
+
+            <!-- Section 4: Projects -->
+            <section class="form-section" id="projectsSection">
+                <div class="section-header">
+                    <h2 class="section-title">Projects</h2>
+                    <button type="button" class="btn-add" data-section="projects">+ Add Project</button>
+                </div>
+                <div class="entries-container" id="projectsEntries">
+                    <!-- Project entries will be added here dynamically -->
+                </div>
+            </section>
+
+            <!-- Section 5: Skills -->
+            <section class="form-section" id="skillsSection">
+                <h2 class="section-title">Skills</h2>
+                <p class="section-hint">Enter skills separated by commas (e.g., Python, JavaScript, React)</p>
+                <div class="skills-grid">
+                    <div class="form-group">
+                        <label for="programmingLanguages">Programming Languages</label>
+                        <input type="text" id="programmingLanguages" name="programmingLanguages" placeholder="Python, JavaScript, Java, C++">
+                        <div class="tags-container" id="programmingLanguagesTags"></div>
+                    </div>
+                    <div class="form-group">
+                        <label for="frameworks">Frameworks</label>
+                        <input type="text" id="frameworks" name="frameworks" placeholder="React, Django, Express, Spring Boot">
+                        <div class="tags-container" id="frameworksTags"></div>
+                    </div>
+                    <div class="form-group">
+                        <label for="databases">Databases</label>
+                        <input type="text" id="databases" name="databases" placeholder="PostgreSQL, MongoDB, Redis, MySQL">
+                        <div class="tags-container" id="databasesTags"></div>
+                    </div>
+                    <div class="form-group">
+                        <label for="toolsAndTechnologies">Tools & Technologies</label>
+                        <input type="text" id="toolsAndTechnologies" name="toolsAndTechnologies" placeholder="Git, Docker, Kubernetes, VS Code">
+                        <div class="tags-container" id="toolsAndTechnologiesTags"></div>
+                    </div>
+                    <div class="form-group">
+                        <label for="cloud">Cloud Platforms</label>
+                        <input type="text" id="cloud" name="cloud" placeholder="AWS, GCP, Azure, Heroku">
+                        <div class="tags-container" id="cloudTags"></div>
+                    </div>
+                    <div class="form-group">
+                        <label for="ai">AI / Machine Learning</label>
+                        <input type="text" id="ai" name="ai" placeholder="TensorFlow, PyTorch, scikit-learn, OpenAI">
+                        <div class="tags-container" id="aiTags"></div>
+                    </div>
+                    <div class="form-group">
+                        <label for="otherSkills">Other Skills</label>
+                        <input type="text" id="otherSkills" name="otherSkills" placeholder="Agile, Scrum, Technical Writing">
+                        <div class="tags-container" id="otherSkillsTags"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 6: Certifications -->
+            <section class="form-section" id="certificationsSection">
+                <div class="section-header">
+                    <h2 class="section-title">Certifications</h2>
+                    <button type="button" class="btn-add" data-section="certifications">+ Add Certification</button>
+                </div>
+                <div class="entries-container" id="certificationsEntries">
+                    <!-- Certification entries will be added here dynamically -->
+                </div>
+            </section>
+
+            <!-- Section 7: Volunteer Experience -->
+            <section class="form-section" id="volunteerSection">
+                <div class="section-header">
+                    <h2 class="section-title">Volunteer Experience</h2>
+                    <button type="button" class="btn-add" data-section="volunteer">+ Add Volunteer Experience</button>
+                </div>
+                <div class="entries-container" id="volunteerEntries">
+                    <!-- Volunteer entries will be added here dynamically -->
+                </div>
+            </section>
+
+            <!-- Section 8: Leadership -->
+            <section class="form-section" id="leadershipSection">
+                <div class="section-header">
+                    <h2 class="section-title">Leadership Experience</h2>
+                    <button type="button" class="btn-add" data-section="leadership">+ Add Leadership Experience</button>
+                </div>
+                <div class="entries-container" id="leadershipEntries">
+                    <!-- Leadership entries will be added here dynamically -->
+                </div>
+            </section>
+
+            <!-- Submit Section -->
+            <section class="form-section submit-section">
+                <div class="form-actions">
+                    <button type="button" class="btn-secondary" id="resetFormBtn">Reset Form</button>
+                    <button type="submit" class="btn-primary" id="submitBtn">
+                        <span class="btn-text">Submit Registration</span>
+                        <span class="btn-loader" style="display: none;">Submitting...</span>
+                    </button>
+                </div>
+            </section>
+        </form>
+
+        <!-- Success Modal -->
+        <div class="modal" id="successModal" style="display: none;">
+            <div class="modal-content">
+                <div class="modal-icon success-icon">&#10003;</div>
+                <h3>Registration Successful!</h3>
+                <p>Your profile has been created successfully.</p>
+                <button class="btn-primary" id="closeSuccessModal">Close</button>
+            </div>
+        </div>
+
+        <!-- Error Modal -->
+        <div class="modal" id="errorModal" style="display: none;">
+            <div class="modal-content">
+                <div class="modal-icon error-icon">&#10007;</div>
+                <h3>Registration Failed</h3>
+                <p id="errorMessage">An error occurred. Please try again.</p>
+                <button class="btn-primary" id="closeErrorModal">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/validation.js"></script>
+    <script src="js/form-handlers.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
