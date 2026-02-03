@@ -1,0 +1,57 @@
+About the job
+
+Job Description
+
+As a Software Engineer I, you will develop and maintain software solutions, working on cutting-edge projects that transform businesses. Your expertise will shape the future of technology and industry solutions. You will report directly to our Director Software Engineer, and you’ll work out of our Fort Mill, SC location on a hybrid work schedule.
+
+As a Software Engineer I, you will play a critical role in developing and implementing advanced software solutions for our Industrial Automation business. You will be accountable for designing, coding, testing, and debugging software applications, as well as collaborating with cross-functional teams to deliver high-quality products. Your expertise in software development and problem-solving will contribute to the success of our business and help drive innovation in the industry.
+
+In this role, you will impact the development of cutting-edge software solutions that enable our customers to enhance the safety, sustainability, resiliency, and productivity of their operations.
+
+Due to compliance with U.S. export control laws and regulations, candidate must be a U.S. Person, which is defined as, a U.S. citizen, a U.S. permanent resident, or have protected status in the U.S. under asylum or refugee status or have the ability to obtain an export authorization.
+
+Responsibilities
+
+KEY RESPONSIBILITIES
+
+
+ Design, develop, and test software applications using various programming languages and frameworks.
+ Write automated unit and integration tests for the code.
+ Deploy code on cloud-based CI/CD pipelines using Docker, Kubernetes, and Github Actions.
+ Troubleshoot and debug software issues to ensure high quality and reliable performance.
+ Stay up-to-date with the latest software development trends and technologies.
+ Participate in code reviews and provide constructive feedback to improve code quality.
+
+
+Qualifications
+
+YOU MUST HAVE
+
+
+ Bachelor's degree in Computer Science, Software Engineering, or a related field.
+ Proficiency in programming languages and frameworks such as C#, .NET, and Python.
+ Strong problem-solving and thoughtful skills.
+ Excellent communication and collaboration abilities.
+ Experience designing and developing microservice systems deployable on cloud-based environments.
+
+
+WE VALUE
+
+
+ Master's degree in Computer Science or a related field.
+ Experience with industrial automation software development.
+ Knowledge of Agile development methodologies.
+ Familiarity with Azure cloud technologies and services.
+ Strong attention to detail and a passion for delivering high-quality software solutions.
+ Experience with data streamlining like Kafka Streams and tools like Databricks.
+ Proficiency in writing automation tests.
+ CI/CD tools experience such as Git, Github Actions, and Kubernetes.
+
+
+In addition to a competitive salary, leading-edge work, and developing solutions side-by-side with dedicated experts in their fields, Honeywell employees are eligible for a comprehensive benefits package. This package includes employer subsidized Medical, Dental, Vision, and Life Insurance; Short-Term and Long-Term Disability; 401(k) match, Flexible Spending Accounts, Health Savings Accounts, EAP, and Educational Assistance; Parental Leave, Paid Time Off (for vacation, personal business, sick time, and parental leave), and 12 Paid Holidays. For more Honeywell Benefits information visit: https://benefits.honeywell.com/
+
+The application period for the job is estimated to be 40 days from the job posting date; however, this may be shortened or extended depending on business needs and the availability of qualified candidates.
+
+About Us
+
+Honeywell helps organizations solve the world's most complex challenges in automation, the future of aviation and energy transition. As a trusted partner, we provide actionable solutions and innovation through our Aerospace Technologies, Building Automation, Energy and Sustainability Solutions, and Industrial Automation business segments – powered by our Honeywell Forge software – that help make the world smarter, safer and more sustainable.

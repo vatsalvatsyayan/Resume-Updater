@@ -1,0 +1,41 @@
+About the job
+
+About Sixtyfour
+
+Sixtyfour is a data orchestration engine for company and people data. Our AI agents specialize in enriching detailed datapoints about individuals and organizations, gathering information from both public and proprietary sources. We enable enterprise customers to build custom data pipelines that help them find, enrich, qualify, and act on company-specific requirements for people and business data.
+
+Our Mission
+
+To power how enterprises understand and act on people and companies with world-class intelligence.\ \ What you’ll do
+
+
+Build polished, fast product experiences in Next.js + TypeScript (design-quality UI, accessible components, responsive layouts).
+Design clean backend contracts and APIs (FastAPI/Python) for workflows, jobs, billing, and auth.
+Evolve our workflow engine (DAG/state machine): scheduling, retries/idempotency, rate limits, progress tracking, logs, and user-visible run history.
+Ship data pipelines and background workers (Celery/queues), with strong observability and alerting.
+Deploy the stack on AWS + Docker (ECS/EKS or similar), with caching (Redis), pagination, backpressure, and cost controls.
+Implement product features end-to-end: DB schema → API → UI, including tests and telemetry.
+Maintain a high bar for reliability, performance, and UX; instrument everything.
+Be very customer-focused on how certain product decisions impact end customers.
+
+
+Minimum Requirements
+
+
+Strong backend skills in Python (FastAPI preferred): API design, testing, error handling, schema/versioning.
+Good design taste is a must.
+Experience deploying/operating with Docker and a major cloud (AWS preferred: ECS/EKS/Lambda, SQS, CloudWatch).
+Comfortable with Postgres (or MySQL) schema design and Redis (caching, rate limiting, locks).
+Performance mindset: RSC/Server Actions, data-fetching patterns, bundle/TTFB tuning, DB query perf.
+Production observability: logs, traces, metrics (e.g., Langfuse, OpenTelemetry, Sentry), and on-call pragmatism.
+Solid security hygiene (PII handling, secrets, JWT/session auth, CSRF/CORS, least-privilege access).
+
+
+Nice to have
+
+
+Next.js App Router, RSC, Server Actions, edge/runtime primitives (Vercel/AWS CloudFront).
+Prisma/Drizzle; tRPC or GraphQL; Zod/JSON schema; feature flags/experimentation.
+Realtime UX (WebSockets/SSE), optimistic updates, background revalidation.
+Celery/RQ, event sourcing, or state-machine libs (e.g., Temporal, Dagster, Prefect, XState).
+Testing: Playwright (e2e), Vitest/Jest, pytest; accessibility checks.

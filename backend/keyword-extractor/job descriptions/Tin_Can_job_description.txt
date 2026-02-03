@@ -1,0 +1,452 @@
+Tin Can
+
+Software Engineer
+
+Seattle, WA · 59 minutes ago · 29 people clicked apply
+
+Responses managed off LinkedIn
+
+$150K/yr - $170K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Melissa Blume 
+
+• 3rd
+
+Head of Product at Tin Can
+
+School alum from University of Southern California
+
+Message
+About the job
+
+About Tin Can
+
+Tin Can is building a safer, simpler way for kids to connect — without smartphones. We’re creating screen-free, delightful devices and services that let families call the people who matter most, free from the noise of today’s digital world.
+
+We’re building a bold, authentic, nostalgic, and kinda quirky brand that resonates with folks who want something simpler & better for their kids than the tech-infused lives we’re currently living (and who have a sense of humor about it). As we gear up to scale to thousands of families, we’re ready to bring on an engineer to help make it happen.
+
+The Role
+
+We’re looking for a Full Stack Software Engineer to take the reins of our technical stack alongside the founding team. In this role, you’ll focus on making our systems more scalable, efficient, and secure as we grow. You’ll work on everything from backend APIs and databases to IoT device provisioning to customer-facing frontend features and internal tools, prioritizing practical solutions that keep families connected safely.
+
+This is a highly hands-on role. You’ll be building and maintaining APIs, developing dashboards and internal tooling, deploying and managing IoT devices, collaborating with designers to ship frontend features and continuously improving how our systems run. You don’t need to come in knowing everything—but you do need to be a strong problem solver, comfortable learning independently, and eager to dive into new challenges.
+
+What You’ll Do
+
+
+Strengthen Our Systems: Improve and maintain our infrastructure to be secure, scalable, and reliable as we grow. 
+Backend & APIs: Build, document, and optimize scalable backend services and APIs powering user management, messaging, and device operations. 
+VoIP Systems: Support, manage, and improve our VoIP stack (Kamailio, Asterisk, FreeSWITCH) to ensure reliable and high-quality connectivity for families. 
+IoT Device Management: Deploy and maintain our fleet of custom VoIP handsets, ensuring smooth provisioning, onboarding, and monitoring. 
+Frontend Development: Collaborate with designers to build and launch responsive web and mobile applications, integrating seamlessly with backend APIs and data systems. 
+Security & Privacy: Ensure everything we build is designed with safety and data privacy at its core. 
+Problem Solving: Tackle complex technical challenges with curiosity, resourcefulness, and a focus on practical solutions. 
+Collaboration: Work closely with the engineering and product teams to prioritize features, plan roadmaps, and make key technical decisions as we scale. 
+Launch & Beyond: Support technical efforts for upcoming product launches and keep momentum going post-launch with ongoing improvements. 
+
+
+What We’re Looking For
+
+
+Strong Problem Solver: You thrive on figuring things out, even when you haven’t done them before, and enjoy working autonomously to find practical solutions. 
+DIY Mentality: Comfortable wearing multiple hats and switching contexts—whether debugging an API, provisioning a device, or improving infrastructure performance. 
+Backend Skills: Experience with Node, JS, Express, or similar frameworks for backend development. 
+Database Fluency: Experience with PostgreSQL, AWS RDS, or similar systems for data modeling, performance tuning, and schema design. 
+AWS Fluency: Experience with AWS (Lambda, EC2, VPCs, security groups, serverless architectures) and DevOps best practices. 
+Security & Privacy Awareness: You build with safety and data privacy top of mind—whether designing APIs, managing infrastructure, or handling customer data. 
+Comfort with Frontend Development: Willingness to collaborate with designers to implement customer-facing features, occasionally using tools like FlutterFlow, Shopify (Liquid), or WordPress as needed. 
+VoIP as a Bonus: Experience with VoIP systems (Kamailio, Asterisk, FreeSWITCH) is a plus, but not required. Comfort diving in to learn and troubleshoot SIP and VoIP technologies is essential. 
+Startup Mindset: Adaptable, proactive, excited to build within a small team where priorities can shift quickly, and eager to be part of something mission-driven from the ground up. 
+
+
+Why Join Tin Can
+
+
+Mission: We’re on a quest to give kids a more analog childhood—one with real conversations, real connection, and way less screen time. No doomscrolling, data mining, or dopamine traps—just a simpler, better way for kids to stay in touch. At Tin Can, security isn’t a checkbox — it’s how we earn and keep the trust of every family we serve. This is a rare opportunity to build something that truly matters: technology that protects what’s most precious. 
+Impact & Autonomy: This is the dream role for an engineer who wants to fully own building and scaling secure systems from the ground up — with the full backing of the founding team. You’ll have both the autonomy and the responsibility to shape Tin Can’s security vision, tools, and culture as we scale. 
+Collaboration: Every company says “team,” but at Tin Can it means something different. We’re a small, mission-driven group that genuinely has each other’s backs — professionally and personally. You’ll be joining a tight-knit crew where your ideas and instincts matter from day one. 
+Creative Freedom: You’ll have the space to explore new ideas, challenge assumptions, and build secure systems that reflect our values of trust, simplicity, and care. 
+
+
+If you’re excited by the idea of taking a solid technical foundation and scaling it to support thousands of families—while making it more efficient, secure, and delightful along the way—please reach out. We can’t wait to meet someone who’s ready to jump in, level up what we’ve started, and help us grow.
+
+Compensation Range: $150K - $170K
+
+
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Seattle, Washington, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+29
+
+total
+
+29
+
+in the past day
+
+Candidate seniority level
+
+86% Entry level candidates
+
+Candidate education level
+
+68
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+29
+
+%
+
+have a Bachelor's Degree
+
+
+4
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Tin Can
+Powered by Bing
+
+Tin Can hires candidates from some of these companies and schools
+
+Tin Can hired 1 person from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+Tin Can
+
+2,163 followers
+
+Follow
+
+Consumer Services
+
+ • 
+
+2-10 employees
+
+ • 
+
+24 on LinkedIn
+
+Tin Can is a screen-free phone for kids that gives them the independence to call friends and family—without giving them a smartphone.
+
+Built like a modern landline, Tin Can connects over Wi-Fi and uses a simple mobile app for parents to control who can call in and out. There’s no browser, no app store, no camera, no spam—just voice. It’s a safer, saner way for kids to communicate and gain a bit of freedom without the baggage of adult tech.
+
+We believe that real connection doesn’t require a screen. And that childhood is better when it’s full of imagination, not notifications.
+
+Tin Can started in one neighborhood in Seattle, where we hand-installed 40 early prototypes and watched them spread by word of mouth. Now, Tin Can is being used by kids in over 30 states—with no marketing, no paid ads, just families telling other families.
+
+We’re growing fast, and so is the movement of parents looking for a better way to let their kids be independent, without handing over the internet in their pocket.
+
+Our newest Tin Can is fully custom hardware, designed from the ground up to be beautifully simple. It works out of the box, connects through our app, and comes with smart features like emergency calling, quiet hours, and a free Can2Can plan that lets any two Tin Cans call each other with no subscription required.
+
+Tin Can is built for the 4–13 age range—when kids are old enough to want a phone, but not quite old enough to manage one.
+
+We’re on a mission to bring back the freedom of the old-school landline, updated for today’s families.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Software Engineer
+
+Simply Bee Farms
+
+Davis, CA (On-site)
+
+You’d be a top applicant
+
+Posted on December 27, 2025, 7:28 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+ai tracking integration with drones and Betaflight Jetson pi hd zero analog nav
+
+Beverly Hills Aerials
+
+Los Angeles Metropolitan Area (On-site)
+
+You’d be a top applicant
+
+Posted on December 27, 2025, 11:22 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Full Stack (Verified job)
+Software Engineer, Full Stack 
+
+Sift
+
+El Segundo, CA (Hybrid)
+
+$150K/yr - $200K/yr
+
+1 company alumni works here
+
+Posted on December 29, 2025, 2:40 AM
+16 hours ago
+
+Software Design Engineer in Test (SDET) (Verified job)
+Software Design Engineer in Test (SDET) 
+
+Ascendion
+
+Redmond, WA (Hybrid)
+
+$130K/yr - $140K/yr
+
+ • 
+
+Medical, Vision, Dental, 401(k), +1 benefit
+
+3 school alumni work here
+
+Posted on December 29, 2025, 4:43 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Frontend
+
+Oureon Technologies
+
+Austin, Texas Metropolitan Area (On-site)
+
+Vision, 401(k)
+
+You’d be a top applicant
+
+Posted on December 29, 2025, 1:06 PM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Frontend (Verified job)
+Software Engineer, Frontend 
+
+Sift
+
+El Segundo, CA (Hybrid)
+
+$160K/yr - $200K/yr
+
+1 company alumni works here
+
+Posted on December 29, 2025, 2:40 AM
+16 hours ago
+
+Videogame Programmer / Coder - - Kingmakers - Unreal Engine
+
+Redemption Road Games
+
+Atlanta, GA (On-site)
+
+$110K/yr
+
+You’d be a top applicant
+
+Posted on December 29, 2025, 2:38 PM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (Verified job)
+Software Engineer 
+
+Riccione Resources, Inc.
+
+Dallas, TX (Remote)
+
+$110K/yr - $130K/yr
+
+ • 
+
+5 benefits
+
+Actively reviewing applicants
+
+Posted on December 29, 2025, 5:35 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Python Software Engineer (Verified job)
+Python Software Engineer 
+
+Chalk Mountain Services of Texas
+
+Fort Worth, TX (On-site)
+
+5 benefits
+
+Posted on December 29, 2025, 7:42 AM
+11 hours ago
+
+Entry Level AI Software Engineer (Verified job)
+Entry Level AI Software Engineer 
+
+IBM
+
+Research Park, CA (Hybrid)
+
+1 connection works here
+
+Posted on December 27, 2025, 3:50 AM
+2 days ago
+
+Software Engineer, Applied AI (Verified job)
+Software Engineer, Applied AI 
+
+Commure
+
+Mountain View, CA (On-site)
+
+$130K/yr - $180K/yr
+
+7 school alumni work here
+
+Posted on December 29, 2025, 6:37 PM
+22 minutes ago
+
+Full Stack Developer (Verified job)
+Full Stack Developer 
+
+ 800-FLOWERS,Inc
+
+Jericho, NY (Hybrid)
+
+1 company alumni works here
+
+Posted on December 29, 2025, 10:04 AM
+8 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2025
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

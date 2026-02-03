@@ -1,0 +1,78 @@
+About the job
+
+About Collective:
+
+Collective is on a mission to redefine the way businesses-of-one work. Our technology and team of trusted advisors help members achieve financial independence by taking care of everything from business incorporation to accounting, bookkeeping, tax services, and access to a thriving community, all in one integrated platform. We believe in empowering self-employed people to enjoy the same tax savings that big companies get, so they can focus on their passion, not paperwork.
+
+Featured in Forbes, Business Insider, Yahoo, Bloomberg, Financial Times, TechCrunch, and more. We are backed by General Catalyst, Sound Ventures (Ashton Kutcher and Guy Oseary), QED Investors, Google's Gradient Ventures, Expa, and other investors who have financed iconic companies like YouTube, Substack, Twitch, Box, Hims, Instacart, and Lyft.
+
+About the role:
+
+We're looking for highly motivated newly graduated students or early in career Software Engineers looking to start their careers on Collective's Product Engineering team. This is an ideal opportunity for someone 0-2 years out of school who wants to work in a fast-paced, high-growth environment. You'll work on financial products that directly impact self-employed individuals and small businesses across the U.S.
+
+As a key contributor on our product engineering team, you'll work closely with experienced engineers, product managers, and designers to build and scale core features of our platform. If you're excited to ship fast, learn constantly, and have real product impact from day one, we would be excited to meet you.
+
+What you'll do:
+
+
+Build and maintain core product features that are used by real customers every day
+Collaborate with product managers and designers to build a best-in-class product experience
+Contribute across the stack (Python/Django, React/TypeScript)
+Participate in technical discussions, code reviews, and planning sessions
+Learn from senior engineers and level up quickly
+Help shape our team culture, engineering practices, and technical foundation as we scale
+
+
+You are:
+
+
+A recent graduate (0–2 years of experience) with a degree in Computer Engineering or a related field 
+Excited about startups, ownership, and building quickly with a small team
+You've used a programming language deeply enough to build real projects, complete coursework, or contribute to a team, and you're eager to learn more.
+Familiar with modern web technologies, either through internships or academic projects
+Based in the Bay Area and are committed to a hybrid schedule (3 days/week onsite in SF)
+Curious, collaborative, and eager to grow
+
+
+Nice to have:
+
+
+Internship experience at high-growth consumer tech companies
+Exposure to Django
+
+
+Our stack
+
+
+Python/Django 
+React
+
+
+Why work with us:
+
+
+You'll get hands-on experience building a product that makes a difference
+We're a small, collaborative team that values learning, ownership, and thoughtful work
+You'll work on challenging problems in the fintech space
+You'll join our lively team energy in our beautiful office in San Francisco
+
+
+What we offer in return
+
+Compensation Range: $100,000-$120,000 annual base salary
+
+The salary ranges for the roles are posted for your convenience and review. Please understand that if an offer is presented, the offer compensation package will be based on the relevant position related skills a candidate demonstrates during our formal interview process.
+
+
+Competitive entry-level salary and equity package
+A hybrid work environment based in San Francisco
+14 company holidays + flexible PTO
+401K
+Employer-paid Health, Vision, and Dental Insurance
+Generous paid parental leave
+Team events and virtual gatherings
+
+
+Equal Employment Opportunity
+
+At Collective, we celebrate and support differences, knowing they make us stronger as a team and community. We are committed to building a workplace that values diverse backgrounds, perspectives, and skills. Inclusivity helps us do our best work and create the greatest impact. Collective is proud to be an equal opportunity employer.

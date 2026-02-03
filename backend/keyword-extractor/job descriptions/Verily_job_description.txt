@@ -1,0 +1,47 @@
+About the job
+
+Who We Are
+
+Verily is a subsidiary of Alphabet that is using a data-driven approach to change the way people manage their health and the way healthcare is delivered. Launched from Google X in 2015, our purpose is to bring the promise of precision health to everyone, every day. We are focused on generating and activating data from a variety of sources, including clinical, social, behavioral and the real world, to arrive at the best solutions for a person based on a comprehensive view of the evidence. Our unique expertise and capabilities in technology, data science and healthcare enable the entire healthcare ecosystem to drive better health outcomes.
+
+Description
+
+The mission of the CIAM team is to provide identity management, authentication, and authorization capabilities to Verily product teams. The goal is to provide this feature centrally to reduce duplication of effort, support a common user experience, accelerate time to market, and drive compliance to regulations from a central foundational point.
+
+Responsibilities
+
+
+Work closely with the development team, Product Management, UXD and A11y to design, develop, and deliver new application components.
+Come up with ideas to technical design problems, compare options, and propose solutions.
+Develop using industry-standard tools including GitHub, React, TypeScript, Storybook and Cypress to name a few.
+
+
+Qualifications
+
+Minimum Qualifications:
+
+
+BA/BS degree in Computer Science, Electrical Engineering, or equivalent practical experience in software engineering
+At least 2 year experience as a frontend software engineer in an industry setting and strong React fundamentals
+Ability to work independently and collaborate effectively
+Clear written communication, especially in design and architecture documents
+Ability to facilitate productive discussions across the extended team (UXD, A11y)
+
+
+Preferred Qualifications
+
+
+Testing experience (BDD, Integration)
+MUI library experience
+Agile production methods (Jira)
+
+
+Qualified applicants must not require employer sponsored work authorization now or in the future for employment in the United States.
+
+The US base salary range for this full-time position is $125,000 - $178,000 + bonus + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus or benefits.
+
+Verily Life Sciences LLC is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here.
+
+If you have a need that requires accommodation, please let us know by completing our Accommodations for Applicants form.

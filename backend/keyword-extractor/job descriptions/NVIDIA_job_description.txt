@@ -1,0 +1,41 @@
+About the job
+
+Today, NVIDIA is tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, encouraging environment where everyone is inspired to do their best work. Come join the team and see how we can make a lasting impact on the world.
+
+The Advanced Technology Group is looking for a highly motivated Systems Software Engineer - New College Grad to join our group. Do you have a proven software development background in advanced computational methods for advanced semiconductor manufacturing and design? Are you seen as a technical leader and an industry expert in several of the underlying fields, such as massively distributed computing, computational geometry, diffractive optics, and artificial intelligence? If yes, then we’d love to hear from you! The job requires creating strategy, driving industry-leading innovation, and working in lean teams to realize these strategies, from invention to production.
+
+This role will be located in Hillsboro, Oregon.
+
+What You'll Be Doing
+
+
+Working with some of the best technologists in the world to build industry-leading advanced computational methods for advanced semiconductor manufacturing and design.
+Exploiting the potential of the GPU to dramatically accelerate these software solutions.
+Ultimately, keeping the cadence of semiconductor innovation alive by accelerating semiconductor yield and time to market.
+
+
+What We Need To See
+
+
+Pursuing or recently completed a MS or PhD in Computer Science or Computer Engineering (or equivalent experience).
+Research/Industry experience is highly preferred
+A track record of innovation, for example by the invention of computer algorithms.
+Experience in developing and delivering complex software solutions for enabling or improving semiconductor fabrication and design.
+
+
+Ways To Stand Out From The Crowd
+
+
+ Deep understanding of technology and passionate about what you do. 
+ Strong collaborative and interpersonal skills 
+
+
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!
+
+Your base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 120,000 USD - 189,750 USD for Level 2, and 148,000 USD - 235,750 USD for Level 3.
+
+You will also be eligible for equity and benefits .
+
+Applications for this job will be accepted at least until December 22, 2025.NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+
+JR2009926

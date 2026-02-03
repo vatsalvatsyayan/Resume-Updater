@@ -1,0 +1,50 @@
+About the job
+
+Critical infrastructure plays an unseen but central role in ensuring a safer and connected world. Rohde & Schwarz (R&S) is at the forefront of innovation and excellence, providing solutions to Air Traffic Control (ATC) providers worldwide. We are currently expanding our development teams to create the next generation of voice communication systems for the ATC market. We are searching for passionate individuals who possess a vision for the future, a desire to make a global impact, and the determination to make ideas real. When you join us, you will become a part of a highly skilled and talented team developing and testing software for our ATC systems. Your unique contributions and leadership will further enhance our long-term vision and commitment to ensure the success of our customer’s mission.
+
+Your tasks
+
+
+Review software requirements for testability.
+Write software test procedures and test cases.
+Oversee execution of automated test plans and creation of software test reports.
+Operate test systems to execute functional test cases and collect debugging information.
+Work alongside senior engineers to meet project deadlines.
+Work with distributed R&D teams based in North America and Europe.
+
+
+Your Qualifications
+
+
+B.S. in Computer Science, Electrical or Computer Engineering, or other relevant engineering degree.
+Entry-level relevant work experience. Internship experience is highly desirable.
+Ability to understand and test complex software systems in formal SW development lifecycles.
+Willingness to learn software development and testing for safety critical applications.
+Experience in scripting with Python is required.
+Experience with Linux OS development environments and Virtualization platforms.
+Familiar with DevOps processes and tools (TeamCity, GitLab, Jenkins) is desired.
+Knowledge of programming with C, C++, PHP, SQL, QT QML, and Rust is desired.
+Experience with VoIP protocols SIP and RTP is desired.
+Occasional travel within U.S. and to international locations.
+Excellent communication (verbal and written) in English.
+To be considered, candidates must have US citizenship or permanent work authorization.
+
+
+Interested?
+
+We are looking forward to receiving your application!
+
+The total compensation for this position is $80K-110K. Total compensation includes base salary, variable pay (when applicable) plus benefits. The range is determined by the position, geographic location and level. Individual pay within the range is determined by several factors including location, education or training, relevant work history, sales incentive structure and job-related skills.
+
+We promote equal opportunities and welcome applications from people with and without disabilities. We offer an inclusive work environment where all individuals can develop their skills and talents regardless of gender, nationality, ethnic and social background, religion, worldview, age, sexual orientation, identity, and other characteristics.
+
+Rohde & Schwarz is a global technology company with approximately 14,000 employees and three divisions: Test & Measurement, Technology Systems and Networks & Cybersecurity. For 90 years, the company has been developing cutting-edge technology, pushing the boundaries of what is technically possible and enabling customers from various sectors such as business, government and public authorities to maintain their technological sovereignty.
+
+Our offer
+
+
+Flexible working hour models
+Training & continuing education
+Privately owned company
+Promoting innovation
+Long-term & attractive work environment

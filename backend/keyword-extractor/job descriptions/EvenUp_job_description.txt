@@ -1,0 +1,528 @@
+EvenUp
+
+Software Engineer, New Products 
+
+San Francisco, CA · 17 hours ago · Over 100 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+$125K/yr - $287.5K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+EvenUp is on a mission to close the justice gap using technology and AI. We empower personal injury lawyers and victims to get the justice they deserve. Our products enable law firms to secure faster settlements, higher payouts, and better outcomes for victims injured through no fault of their own in vehicle collisions, accidents, natural disasters, and more.
+
+We are one of the fastest-growing vertical SaaS companies in history, and we are just getting started. EvenUp is backed by top VCs, including Bessemer Venture Partners, Bain Capital Ventures, SignalFire, and Lightspeed. We are looking to expand our team with talented, driven, and collaborative individuals who seek to have a lasting impact. Learn more at www.evenuplaw.com.
+
+🎥 Life as an Engineer at EvenUp
+
+Location & Work Model
+
+This is a hybrid role, with an expectation of being in our SF office three days per week.
+
+About The Team
+
+The New Products Engineering team is responsible for building and launching entirely new products that directly impact how personal injury attorneys serve their clients. Over the past year, EvenUp’s engineering and data science organization has grown rapidly — from 40 to 100+ team members — alongside major infrastructure investments, new product launches, and significant workflow improvements across data, ML, frontend, and backend systems.
+
+Over the next 12 months, the team will continue to scale as we deliver on an ambitious roadmap to handle 10x our current volume and introduce new AI-powered products. The work this team does directly influences customer workflows and outcomes, ultimately impacting millions of people navigating the personal injury system. A true zero-to-one product focus with high ownership and autonomy, deep collaboration across engineering, product, data, ML, and operations, and a rare opportunity to modernize a historically analog industry at scale.
+
+Responsibilities
+
+
+Own and evolve core systems and product workflows that support the launch of new customer-facing products
+Partner closely with Product, Design, Data Science, and other Engineering teams to bring new ideas from concept to production
+Contribute to scalable, reliable, and high-quality software that can support rapid growth and increasing complexity
+Drive projects end-to-end, from early design and architecture through delivery and iteration
+Uphold high standards for performance, reliability, security, and maintainability
+Contribute to a strong, collaborative, and inclusive engineering culture
+
+
+What You’ll Do
+
+
+Execution & Delivery: Build, ship, and iterate on new features and products that directly impact customer workflows. Start contributing production code quickly and help establish strong foundations for new systems
+Architecture & Quality: Design, implement, and maintain scalable and maintainable backend, frontend, or full-stack systems. Write high-quality, well-tested, and production-ready code. Help define and reinforce engineering best practices as the team scales
+Cross-Functional Collaboration: Work closely with Product Managers, Designers, Data Scientists, and other Engineers to scope and deliver impactful solutions. Communicate technical concepts clearly to both technical and non-technical stakeholders
+Ownership & Growth: Own projects from start to finish and drive them across the finish line. Mentor and support teammates, contributing to continuous learning and improvement. Learn and apply new technologies across the stack, including ML-adjacent systems, data pipelines, and DevOps workflows
+Tech Stack Exposure: Python, TypeScript, React, Postgres, Kubernetes, Elasticsearch, and more
+
+
+What We Look For
+
+
+Experience building high-quality, production-ready software in backend, frontend, or full-stack environments
+Strong understanding of software design, data modeling, and system architecture
+Ability to operate effectively in fast-paced, ambiguous environments
+Proven ability to own projects end-to-end and deliver meaningful outcomes
+Clear, thoughtful communication and strong cross-functional collaboration skills
+High ownership, accountability, and a bias toward action
+Demonstrated commitment to engineering excellence and team culture
+
+
+Bonus (Nice to Have)
+
+
+Experience with Kubernetes or cloud-native infrastructure
+Exposure to machine learning, data engineering, or AI-driven products
+Prior experience in startups, scale-ups, or high-growth environments
+
+
+Notice to Candidates:
+
+EvenUp has been made aware of fraudulent job postings and unaffiliated third parties posing as our recruiting team – please know that we have no affiliation or connection to these situations. We only post open roles on our career page (evenuplaw.com/careers) or reputable job boards like our official LinkedIn or Indeed pages, and all official EvenUp recruitment emails will come from the domains @evenuplaw.com, @evenup.ai, @ext-evenuplaw.com, no-reply@ashbyhq.com or no‑reply@canditech.io email addresses.
+
+To ensure fairness and proper consideration, we do not accept resumes or expressions of interest via email or social media messages. If you’re interested in a role, please submit your application directly through our careers page.
+
+If you receive communication from someone you believe is impersonating EvenUp, please report it to us at talent-ops-team@evenuplaw.com. Examples of fraudulent domains include “careers-evenuplaw.com” and “careers-evenuplaws.com”.
+
+Benefits & Perks:
+
+As part of our total rewards package, we offer attractive benefits and perks to our employees, including:
+
+
+Choice of medical, dental, and vision insurance plans for you and your family
+Additional insurance coverage options for life, accident, or critical illness
+Flexible paid time off, sick leave, short-term and long-term disability
+10 US observed holidays, and Canadian statutory holidays by province
+A home office stipend
+401(k) for US-based employees and RRSP for Canada-based employees
+Paid parental leave
+A local in-person meet-up program
+Hubs in San Francisco and Toronto
+
+
+Please note the above benefits & perks are for full-time employees
+
+EvenUp is an equal opportunity employer. We are committed to diversity and inclusion in our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+Compensation Range: $125K - $287.5K
+
+
+… more
+
+Benefits found in job post
+
+Vision insurance, 401(k)
+
+Set alert for similar jobs
+
+New Product Engineer, San Francisco, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+146
+
+total
+
+146
+
+in the past day
+
+Candidate seniority level
+
+84% Entry level candidates
+
+7% Senior level candidates
+
+Candidate education level
+
+78
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+21
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about EvenUp
+Powered by Bing
+
+Company focus areas
+
+• AI Innovations: EvenUp is focused on transforming personal injury law practice through AI innovations, including the introduction of AI Playbooks and Voice Agent features.
+
+...more
+
+Sources: legalnewsfeed.com +1 more
+
+Hiring & headcount
+
+Significant growth in sales and engineering: The 'Sales' and 'Engineering' departments have seen substantial increases in headcount by 80% and 50% respectively, indicating a strong focus on expanding these critical areas for business growth and innovation. Expansion in IT and HR: The 'Information Technology' and 'Human Resources' departments have experienced notable growth with 87% and 47% increases in headcount, suggesting investments in technology infrastructure and talent management. Increased focus on legal and business development: The 'Legal' and 'Business Development' departments have grown by 41% and 77% respectively, highlighting a strategic emphasis on legal compliance and new business opportunities. Overall headcount growth: The company's total headcount has increased by 40% over the year, reflecting a broad-based expansion and potential for continued growth across multiple functions.
+… more
+
+The latest hiring trend
+
+696
+
+Total employees
+
+98%
+
+Company-wide
+
+2 year growth
+
+425%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+500
+1000
+
+Median employee tenure: 1.3 years
+
+EvenUp hires candidates from some of these companies and schools
+
+EvenUp hired 3 people from University of Southern California. See all
+
+Competitors
+
+EvenUp operates in a competitive landscape within the legal tech industry, particularly focusing on personal injury law. The company leverages AI to streamline case management, document drafting, and workflow automation, providing significant efficiency and precision. Competitors like Harvey, Casetext, and Litify offer various legal tech solutions, but EvenUp's specialization in personal injury law and its proprietary AI technology create a strong competitive edge.
+… more
+
+Sources: ventureindet.com +2 more
+
+Show Premium Insights
+About the company
+
+EvenUp
+
+23,770 followers
+
+Follow
+
+Technology, Information and Internet
+
+ • 
+
+201-500 employees
+
+ • 
+
+696 on LinkedIn
+
+EvenUp is the leading AI platform for personal injury law. Trusted by 2,000+ firms, EvenUp helps legal teams run casework like clockwork—drafting documents, automating workflows, and maximizing the outcome of every case from intake to resolution.
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Senior Product Engineer
+
+Axle Automation
+
+San Francisco Bay Area (Hybrid)
+
+$600K/yr
+
+Actively reviewing applicants
+
+Posted on November 12, 2025, 11:33 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Wire DED Application Engineer
+
+FormAlloy Technologies, Inc.
+
+San Diego Metropolitan Area (On-site)
+
+Actively reviewing applicants
+
+Posted on December 1, 2025, 10:11 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+⭐️ Lead Product Engineer (First Engineering Hire – Nano.com) ⭐️
+
+Nano.com
+
+Las Vegas, NV (Hybrid)
+
+Medical benefit
+
+Posted on September 8, 2025, 1:24 PM
+4 months ago
+
+ · 
+
+ Easy Apply
+
+Senior Product Engineer
+
+GPTZero
+
+New York City Metropolitan Area (Hybrid)
+
+$170K/yr - $230K/yr
+
+Posted on October 24, 2025, 5:03 PM
+2 months ago
+
+Mechanical Engineer 2
+
+Samson Sky
+
+Prineville, OR (On-site)
+
+Posted on October 30, 2025, 6:22 PM
+2 months ago
+
+Mechro Founding AI Product Engineer
+
+Gitwit
+
+Tulsa, OK (Hybrid)
+
+$165K/yr - $190K/yr
+
+ • 
+
+Medical, Vision, Dental, 401(k), +2 benefits
+
+You’d be a top applicant
+
+Posted on December 22, 2025, 12:09 PM
+1 week ago
+
+Senior Product Engineer
+
+Stealth Company
+
+Redwood City, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 26, 2025, 3:03 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Senior Mechanical Engineer (Verified job)
+Senior Mechanical Engineer 
+
+DIMAAG
+
+Fremont, CA (On-site)
+
+Medical, Vision, Dental, 401(k)
+
+1 school alumni works here
+
+Posted on December 2, 2025, 9:47 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Entry & Mid-Level Structures & Systems Design Engineer
+
+TLG Aerospace
+
+Greater Seattle Area (On-site)
+
+$100K/yr - $130K/yr
+
+ • 
+
+Dental, 401(k), +1 benefit
+
+Actively reviewing applicants
+
+Posted on December 23, 2025, 10:24 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Mechanical Engineer
+
+Drummond Scientific Company
+
+Broomall, PA (On-site)
+
+$95K/yr - $100K/yr
+
+Posted on December 5, 2025, 10:33 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Product Engineer (Software)
+
+Automotus
+
+United States (Remote)
+
+$140K/yr - $180K/yr
+
+ • 
+
+6 benefits
+
+1 school alumni works here
+
+Posted on November 7, 2025, 10:10 AM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Senior Mechanical Engineer - Amusement Rides/Attractions
+
+Allegro Recruiting LLC
+
+Orlando, FL (On-site)
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 10:16 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

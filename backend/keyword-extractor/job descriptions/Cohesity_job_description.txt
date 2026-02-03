@@ -1,0 +1,66 @@
+About the job
+
+Interested candidates based outside of the designated areas are welcome to apply, provided they have the indefinite right to work in the job location.
+
+Cohesity is a leader in AI-powered data security and management. Aided by an extensive ecosystem of partners, Cohesity makes it easy to secure, protect, manage, and get value from data — across the data center, edge, and cloud. Cohesity helps organizations defend against cybersecurity threats with comprehensive data security and management capabilities, including immutable backup snapshots, AI-based threat detection, monitoring for malicious behavior, and rapid recovery at scale.
+
+We’ve been named a Leader by multiple analyst firms and have been globally recognized for Innovation, Product Strength, and Simplicity in Design.
+
+Join us on our mission to shape the future of our industry.
+
+Want to help us simplify the world of data management?
+
+We are seeking a Software Engineer at Cohesity to work with innovative technologies in distributed systems, Cloud, and hyper-converged systems. In our collaborative environment, you'll have the chance to continuously learn and apply your skills to develop powerful enterprise-grade software. Join our dedicated team committed to delivering exceptional products and services and make a significant impact from day one. This is a hybrid position that will be in the Santa Clara office 2 to 3 days a week.
+
+How You’ll Spend Your Time Here
+
+
+Contribute to the design, development, and implementation of software features under the guidance of senior engineers 
+Write clean, maintainable, and testable code for on-prem and cloud-based platforms 
+Participate in feature development based on requirements from Product Management and customer needs 
+Assist in debugging, troubleshooting, and fixing functional and performance issues 
+Collaborate with team members, QA, support, and field teams to investigate and resolve customer-reported issues 
+Learn to assess risks, understand metrics, and make data-informed decisions with mentorship 
+Participate in code reviews, design discussions, sprint planning, and agile ceremonies 
+Grow your technical and communication skills by working with globally distributed teams 
+
+
+WE’D LOVE TO TALK TO YOU IF YOU HAVE MANY OF THE FOLLOWING
+
+
+Bachelor’s degree (Graduated in 2024/25) in Computer Science, Engineering, or a related field 
+Hands-on coding experience (coursework, internships, or projects) in one or more of the following languages: C++, Python, Java, or Go 
+Experience with academic or personal projects on Linux and/or Windows platforms 
+Good understanding of data structures, algorithms, and object-oriented programming concepts 
+Demonstrated ability to leverage AI tools to enhance productivity, streamline workflows, and support decision making. 
+Familiarity with software development tools such as Git/GitHub, JIRA, and basic testing frameworks 
+Strong problem-solving skills with an interest in debugging and troubleshooting software issues 
+Knowledge in Distributed Systems 
+Familiarity with Agile/Scrum methodologies through coursework, projects, or internships 
+Good written and verbal communication skills and the ability to learn from feedback 
+Eagerness to grow, ask questions, and work collaboratively in a team environment
+
+
+Disclosure Pursuant to Applicable State Equal Pay Transparency Laws - This position has a starting pay range as listed below. Actual salary depends upon many factors, including a candidate’s skills, qualifications and experience, location, and salary expectations, and therefore a starting salary at the low end, high end, or even above the stated range may be offered. This position may also be eligible for bonus compensation, commission (if in a sales function), and/or equity grants. Additionally, full-time employees are eligible to participate in our comprehensive benefits framework, including health and wellness benefits, vacation, paid holidays and refresh days, 401(k) retirement plan, life and disability insurance coverages, and other benefits the Company may offer from time to time.
+
+Pay Range :
+
+$107,200.00-$134,000.00
+
+The compensation noted above is based on an annualized hourly rate assuming normal full-time employment.
+
+Data Privacy Notice for Job Candidates:
+
+For information on personal data processing, please see our Privacy Policy.
+
+Equal Employment Opportunity Employer (EEOE)
+
+Cohesity is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status or any other category protected by law.
+
+If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact us at 1-855-9COHESITY or talent@cohesity.com for assistance.
+
+In-Office Expectations
+
+Cohesity employees who are within a reasonable commute (e.g. within a forty-five (45) minute average travel time) work out of our core offices 2-3 days a week of their choosing.
+
+Interested candidates based outside of the designated areas are welcome to apply, provided they have the right to work in the job location.

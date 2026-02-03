@@ -1,0 +1,49 @@
+About the job
+
+Job Req ID: 27697
+
+About Supermicro
+
+Supermicro® is a Top Tier provider of advanced server, storage, and networking solutions for Data Center, Cloud Computing, Enterprise IT, Hadoop/ Big Data, Hyperscale, HPC and IoT/Embedded customers worldwide. We are the #5 fastest growing company among the Silicon Valley Top 50 technology firms. Our unprecedented global expansion has provided us with the opportunity to offer a large number of new positions to the technology community. We seek talented, passionate, and committed engineers, technologists, and business leaders to join us.
+
+Job Summary
+
+As a Software Engineer, you’ll be the go-to person to roll out and maintain business critical applications and services for Supermicro. You are also responsible for resolving escalated service issues, coaching other engineers to resolutions, engineering and implementing complex projects. You will be a person who is independent with leadership to drive the technical development and with excellent communication skills.
+
+Essential Duties And Responsibilities
+
+Includes the following essential duties and responsibilities (other duties may also be assigned):
+
+
+ Design, develop, and maintain automation test script for firmware and software
+ Perform software UI, Functional, stress testing, and more
+ Test suite containerization
+ Work closely with RD and PM to new features and bug fixes
+ Prepare evaluation reports on software test findings
+ Enforce software quality control
+ Utilize analytical skills to validate and verify software issues
+ Maintain the standards set by the company
+
+
+Qualifications
+
+
+ BS or MS in CS/CE/EE is required
+ 1+ years of relevant work experience preferred
+ Strong understanding of relational database (MySQL, MSSQL)
+ Experience testing RESTful APIs, Redfish API, web applications, and microservices.
+ Familiarity with containers (Docker) and orchestration (Kubernetes).
+ Proficiency in test automation using Python, Java, or similar languages.
+ Strong programming skills in Python, Shell Script, PHP
+ Excellent verbal and written communication skills
+
+
+Salary Range
+
+$84,000 - $134,000
+
+The salary offered will depend on several factors, including your location, level, education, training, specific skills, years of experience, and comparison to other employees already in this role. In addition to a comprehensive benefits package, candidates may be eligible for other forms of compensation, such as participation in bonus and equity award programs.
+
+EEO Statement
+
+Supermicro is an Equal Opportunity Employer and embraces diversity in our employee population. It is the policy of Supermicro to provide equal opportunity to all qualified applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status or special disabled veteran, marital status, pregnancy, genetic information, or any other legally protected status.

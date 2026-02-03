@@ -1,0 +1,48 @@
+About the job
+
+At Commure, our mission is to simplify healthcare. We have bold ambitions to reimagine the healthcare experience, setting a new standard for how care is delivered and experienced across the industry. Our growing suite of AI solutions spans ambient AI clinical documentation, provider copilots, autonomous coding, revenue cycle management and more — all designed for providers & administrators to focus on what matters most: providing care.
+
+Healthcare is a $4.5 trillion industry with more than $500 billion spent annually on administrative costs, and Commure is at the heart of transforming it. We power over 500,000 clinicians across hundreds of care sites nationwide – more than $10 billion flows through our systems and we support over 100 million patient interactions. With new product launches on the horizon, expansion into additional care segments, and a bold vision to tackle healthcare's most pressing challenges, our ambition is to move from upstart innovator to the industry standard over the next few years.
+
+Commure was recently named to Fortune’s Future 50 list for 2025 and is backed by world-class investors including General Catalyst, Sequoia, Y Combinator, Lux, Human Capital, 8VC, Greenoaks Capital, Elad Gil, and more. Commure has achieved over 300% year-over-year growth for the past two years and this is only the beginning. Healthcare's moment for AI-powered transformation is here, and we're building the technology to power it. Come join us in shaping the future of healthcare.
+
+About The Role
+
+At Commure + Athelas, our Ambient Scribe team is at the forefront of revolutionizing healthcare technology by building Ambient AI solutions for the entire care journey. We're looking for a talented backend engineer to help take Ambient AI to the next level. If you love working on important, exciting problems in healthcare and love shipping quickly, come join us!
+
+This full-time position requires working 5 days a week in our Mountain View, CA office.
+
+What You’ll Do
+
+
+Contribute to the most advanced healthcare platform in the country
+Help scale infrastructure that supports the largest health systems in the country
+Be a part of a tremendously fast-paced team that celebrates fast execution and decisions
+Design eval and AI pipelines that are reliable, reproducible, and extendable
+Shape model interactions by partnering with engineering and product teams on how models are deployed and measured
+Work with a stack that includes Python, Flask, Django, FastAPIs and other frameworks
+Work directly with customers to solve their issues daily
+
+
+What You Have
+
+
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field, or equivalent extensive experience
+1+ years of professional software development industry experience
+[Preferred] Strong Backend Programming Skills (Must be comfortable with Python)
+[Preferred] Experience in environments where you have to ship quickly. We move fast. 
+Have experience building AI applications, including designing evals and improving performance through prompting or scaffolding
+Are familiar with evaluation methods for LLMs and have worked with patterns like multi-agent workflows, tool use, or long context. 
+General Understanding of Containers and Cloud (Docker, Kubernetes)
+Excitement to work in a high impact field with a builder attitude!
+Extremely motivated to grow
+Strong leadership skills
+
+
+Commure is committed to creating and fostering a diverse team. We are open to all backgrounds and levels of experience, and believe that great people can always find a place. We are committed to providing reasonable accommodations to all applicants throughout the application process.
+
+Please be aware that all official communication from us will come exclusively from email addresses ending in @getathelas.com, @commure.com or @augmedix.com. Any emails from other domains are not affiliated with our organization.
+
+Employees will act in accordance with the organization’s information security policies, to include but not limited to protecting assets from unauthorized access, disclosure, modification, destruction or interference nor execute particular security processes or activities. Employees will report to the information security office any confirmed or potential events or other risks to the organization. Employees will be required to attest to these requirements upon hire and on an annual basis.
+
+Compensation Range: $130K - $180K

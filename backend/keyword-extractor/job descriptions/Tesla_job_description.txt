@@ -1,0 +1,507 @@
+Tesla
+
+Fullstack Software Engineer, Energy Products Software 
+
+Palo Alto, CA · 20 hours ago · Over 100 people clicked apply
+
+Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Siddhant and others in your network
+
+Show all
+About the job
+
+What To Expect
+The Tesla Energy UI team is seeking a skilled Full-Stack Software Engineer to join our mission of accelerating the world’s transition to sustainable energy. You will develop customer-facing tools that empower users to understand the value and technical capabilities of Megapacks during the sales stage. Using TypeScript, React, and high-performance backend distributed systems, you’ll build scalable, data-driven user interfaces that drive Megapack sales and shape a sustainable future. Your work will directly impact the energy industry by enabling intuitive, visually compelling tools that enhance customer experiences and operational efficiency.
+
+You’ll collaborate closely with customers, product managers, and cross-functional teams to deliver extensible design systems and open-source quality solutions. Our fast-paced, entrepreneurial environment encourages rapid iteration and innovation, where your passion for engineering groundbreaking energy solutions will thrive. Expect to tackle complex challenges, contribute to a dynamic team culture, and create delightful user interactions that redefine how energy systems are presented and sold.
+
+This role requires a high degree of initiative, creativity, and technical expertise. You will be expected to work collaboratively with the sales and engineering teams, as well as independently on projects and initiatives as needed.
+
+What You'll Do
+
+
+Contribute to the complete software development lifecycle for Energy UI applications, ensuring that all projects are delivered on time and meet high-quality standards
+Design, develop, and maintain full stack web applications, utilizing React, TypeScript, GraphQL and web tooling such as Next.js to create highly performant and scalable user experiences
+Build, deploy, and scale web systems ranging from sites to middleware APIs using Git, Docker, Kubernetes, AWS and other relevant DevOps technologies
+Collaborate with teams to create and implement world-class UI/UX designs using Figma, ensuring accurate code implementation
+Work with cross-functional teams, including product managers, sales engineers, business stakeholders and other software engineers, to define and implement features that enhance operational efficiency for our customers
+Ensure that our web applications integrate seamlessly with backend distributed systems and support real-time monitoring of all applications owned by the team
+Contribute to the definition and implementation of extensible design systems that prioritize scalability, maintainability, and exceptional user experiences
+Implement rigorous testing strategies, including unit, integration, and end-to-end testing, to guarantee the reliability and performance of applications under various conditions
+Actively maintain and promote the core values of the team, which include engineering excellence, curiosity, a bias for action, self-awareness, inclusivity, and vulnerability, contributing to a positive and productive team culture
+
+
+
+What You'll Bring
+
+
+Proven experience as a Full Stack Software Engineer with a strong focus on developing and delivering user-centric web applications using React, TypeScript, GraphQL, and Next.js
+Solid understanding of web development best practices, design patterns, and scalability principles, including strategies for component reuse, such as module federation
+Strong problem-solving and analytical skills, with the ability to understand complex business problems and design software solutions to address them
+Enthusiasm for staying at the forefront of technology trends and a commitment to continuous learning, particularly in the fields of renewable energy and sustainable technologies
+Excellent written and verbal communication skills, with the ability to collaborate effectively with stakeholders from different functional areas
+Maintain the values of the team which include engineering excellence, curiosity, a bias for action, self-awareness, inclusivity, and vulnerability
+
+
+
+Benefits
+Compensation and Benefits
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+
+ Medical plans > plan options with $0 payroll deduction
+ Family-building, fertility, adoption and surrogacy benefits
+ Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+ Company Paid (Health Savings Accounts) HSA Contribution when enrolled in the High-Deductible medical plan with HSA
+ Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+ 401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+ Company paid Basic Life, AD&D
+ Short-term and long-term disability insurance (90 day waiting period)
+ Employee Assistance Program
+ Sick and Vacation time (Flex time for salary positions, Accrued hours for Hourly positions), and Paid Holidays
+ Back-up childcare and parenting support resources
+ Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+ Weight Loss and Tobacco Cessation Programs
+ Tesla Babies program
+ Commuter benefits
+ Employee discounts and perks program
+
+
+
+Expected Compensation
+
+$120,000 - $252,000/annual salary + cash and stock awards + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+
+, Tesla
+… more
+
+Benefits found in job post
+
+Disability insurance, Commuter benefits, 401(k)
+
+Set alert for similar jobs
+
+Software Engineer, Palo Alto, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+354
+
+total
+
+354
+
+in the past day
+
+Candidate seniority level
+
+84% Entry level candidates
+
+9% Senior level candidates
+
+Candidate education level
+
+85
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+12
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Tesla
+Powered by Bing
+
+Company focus areas
+
+• Expansion of Manufacturing Capacity: Tesla is focused on growing its manufacturing capacity, including ramping up production at existing Gigafactories and developing new vehicle models such as the Cybertruck and Tesla Semi. This includes increasing production rate and efficiency at current factories.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Significant growth in education: The 'Education' department has seen a 61% increase in employee count, indicating a major initiative in educational programs or training, which could present opportunities for investment in educational technologies and resources. Expansion in business development: The 'Business Development' department has experienced a 41% increase in headcount, suggesting a strategic focus on new business opportunities and partnerships, which could be a key area for growth and investment. Increase in administrative support: The 'Administrative' department has grown by 45%, reflecting a need for enhanced administrative capabilities, potentially indicating organizational scaling and the need for investment in administrative tools and services. Focus on healthcare services: The 'Healthcare Services' department has seen a 50% increase in employee count, highlighting a significant push in healthcare initiatives, which could be a lucrative area for investment in healthcare solutions and services.
+… more
+
+The latest hiring trend
+
+80,326
+
+Total employees
+
+28%
+
+Company-wide
+
+2 year growth
+
+23%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+50000
+100000
+
+Median employee tenure: 2.4 years
+
+Tesla hires candidates from some of these companies and schools
+
+Tesla hired 191 people from University of Southern California. See all
+
+Tesla hired 1,242 people from University of Southern California. See all
+
+Competitors
+
+Tesla operates in a highly competitive electric vehicle market, facing significant challenges from companies like BYD, Rivian, and Lucid Motors. Tesla's strategy includes vertical integration, advanced software and AI, and a strong focus on sustainability through its energy storage and solar solutions. The market is evolving rapidly with new model launches and technological advancements from competitors, making it crucial for Tesla to maintain its innovation and affordability to stay ahead.
+… more
+
+Sources: accio.com +3 more
+
+Show Premium Insights
+About the company
+
+Tesla
+
+12,307,991 followers
+
+Follow
+
+Motor Vehicle Manufacturing
+
+ • 
+
+10001+ employees
+
+ • 
+
+80,326 on LinkedIn
+
+Tesla is accelerating the world’s transition to sustainable abundance. To achieve our mission, we're building a world powered by solar, enabled by battery storage and transported by electric vehicles.
+ 
+We’re committed to hiring and developing top talent from around the world for any given discipline. Headquartered in Texas, we operate six huge, vertically integrated factories across three continents. With over 100,000 employees, our teams take a first-principles approach to designing, building, selling and servicing our products in-house.
+ 
+Our world-class teams operate with a non-conventional philosophy of inter-disciplinary collaboration. Each member of the team is expected to challenge and to be challenged, to create, and to innovate. We’re tackling the world’s most difficult and important problems—and we wouldn’t succeed without our shared passion for making the world a better place.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Solutions Engineer (Verified job)
+Solutions Engineer 
+
+LeapXpert
+
+United States (Remote)
+
+Medical, Vision, Dental, 401(k)
+
+Posted on January 7, 2026, 2:20 PM
+1 day ago
+
+Founding Solutions Engineer (Enterprise AI)
+
+Neon Blue
+
+San Francisco Bay Area (Hybrid)
+
+$130K/yr + Stock options
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 1:27 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Web Developer – Maintenance & Support (Verified job)
+Web Developer – Maintenance & Support 
+
+Opus Design
+
+Newton, MA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 10:54 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+AI Project Systems Integrator (Verified job)
+AI Project Systems Integrator 
+
+ADCO Electrical Corp.
+
+New York, NY (On-site)
+
+Posted on January 8, 2026, 7:35 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+Data Engineer
+
+Prepaire Labs
+
+Boston, MA (On-site)
+
+$120K/yr - $145K/yr
+
+Posted on January 7, 2026, 10:08 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+AI / ML Engineer
+
+Prepaire Labs
+
+Boston, MA (On-site)
+
+$130K/yr - $160K/yr
+
+Posted on January 7, 2026, 10:14 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Developer (Angular + Java Spring Boot)
+
+Innovative Object Solutions, Inc.
+
+Washington DC-Baltimore Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 9:18 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Systems Engineer
+
+LinkTech, LLC
+
+Waukesha, WI (On-site)
+
+Medical benefit
+
+Posted on January 8, 2026, 7:06 AM
+12 hours ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer
+
+Shinkei
+
+El Segundo, CA (On-site)
+
+$145K/yr - $195K/yr
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 12:25 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Developer (Founding Team / Future CTO)
+
+IaxaI, Inc.
+
+United States (Remote)
+
+Posted on January 8, 2026, 4:52 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+Staff Flight Software Engineer (Verified job)
+Staff Flight Software Engineer 
+
+Lunar Outpost
+
+Golden, CO (On-site)
+
+1 school alumni works here
+
+Posted on January 8, 2026, 12:52 PM
+6 hours ago
+
+TS/SCI w/poly Software Engineer
+
+Black Cat Technologies
+
+Herndon, VA (On-site)
+
+$236.0K/yr - $271.4K/yr
+
+ • 
+
+401(k) benefit
+
+Posted on January 7, 2026, 4:20 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

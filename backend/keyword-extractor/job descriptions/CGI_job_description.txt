@@ -1,0 +1,511 @@
+CGI
+
+AWS Application Developer 
+
+Reston, VA · Reposted 41 minutes ago · 17 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+
+Meet the hiring team
+
+Lauren Barry 
+
+• 3rd
+
+Senior Technical Recruiter at CGI - The best version of us starts with you!
+
+Job poster
+
+Message
+About the job
+
+Position Description
+
+CGI has an immediate need for a AWS Application Developer to join our team. This is an exciting opportunity to work in a fast-paced team environment supporting one of the largest customers. We take an innovative approach to supporting our client, working side-by-side in an agile environment using emerging technologies.
+
+We partner with 15 of the top 20 banks globally, and our top 10 banking clients have worked with us for an average of 26 years!. This role is located at a client site in Reston, VA. A hybrid working model is acceptable.
+
+Your future duties and responsibilities
+
+The AWS Application Developer is responsible for designing, building, and supporting cloud-based applications on the AWS platform. This role focuses on developing scalable, data-driven solutions using modern programming languages and AWS services, while contributing to application architecture, API design, and continuous integration practices. The developer works closely with cross-functional teams in an Agile environment to deliver reliable, well-documented, and production-ready systems.
+
+Required Qualifications To Be Successful In This Role
+
+
+ 6+ years experience developing applications on AWS using services such as EC2, Lambda, Step Functions, DynamoDB, CloudFormation, EMR, and Batch
+ Hands-on programming experience with Java, Python, and/or PySpark
+ Solid understanding of API design and implementation using tools like AWS API Gateway, Apigee, and API security frameworks
+ Experience working with big data technologies on AWS, including S3, Hadoop, Hive, Spark, Redshift, and AWS Glue
+ Proficiency in SQL with a good grasp of relational and non-relational databases, data modeling, and query optimization
+ Ability to analyze data, troubleshoot complex issues, and perform root cause analysis
+ Experience working in Linux-based environments
+ Familiarity with CI/CD pipelines and setting up continuous integration environments
+ Comfortable working in Agile Scrum teams and collaborating across development, testing, and operations groups
+ Strong documentation skills, including writing and maintaining technical and design documentation with diagrams and clear standards
+ AWS certifications are a plus (e.g., AWS Certified Developer or Solutions Architect), but not explicitly required
+
+
+Education:
+
+Bachelor's degree in Computer Science, Information Systems, or a related field.
+
+#DICE
+
+Other Information:
+
+CGI is required by law in some jurisdictions to include a reasonable estimate of the compensation range for this role. The determination of this range includes various factors not limited to skill set, level, experience, relevant training, and licensure and certifications. To support the ability to reward for merit-based performance, CGI typically does not hire individuals at or near the top of the range for their role. Compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range for this role in the U.S. is $95,800.00 - $136,400.00.
+
+CGI's benefits are offered to eligible professionals on their first day of employment to include: . Competitive compensation . Comprehensive insurance options . Matching contributions through the 401(k) plan and the share purchase plan . Paid time off for vacation, holidays, and sick time . Paid parental leave .Learning opportunities and tuition assistance . Wellness and Well-being programs
+
+Together, as owners, let’s turn meaningful insights into action.
+
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
+
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
+
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
+
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+
+Come join our team—one of the largest IT and business consulting services firms in the world.
+
+Qualified applicants will receive consideration for employment without regard to their race, ethnicity, ancestry, color, sex, religion, creed, age, national origin, citizenship status, disability, pregnancy, medical condition, military and veteran status, marital status, sexual orientation or perceived sexual orientation, gender, gender identity, and gender expression, familial status or responsibilities, reproductive health decisions, political affiliation, genetic information, height, weight, or any other legally protected status or characteristics to the extent required by applicable federal, state, and/or local laws where we do business.
+
+CGI provides reasonable accommodations to qualified individuals with disabilities. If you need an accommodation to apply for a job in the U.S., please email the CGI U.S. Employment Compliance mailbox at US_Employment_Compliance@cgi.com. You will need to reference the Position ID of the position in which you are interested. Your message will be routed to the appropriate recruiter who will assist you. Please note, this email address is only to be used for those individuals who need an accommodation to apply for a job. Emails for any other reason or those that do not include a Position ID will not be returned.
+
+We make it easy to translate military experience and skills! Click here to be directed to our site that is dedicated to veterans and transitioning service members.
+
+All CGI offers of employment in the U.S. are contingent upon the ability to successfully complete a background investigation. Background investigation components can vary dependent upon specific assignment and/or level of US government security clearance held. Dependent upon role and/or federal government security clearance requirements, and in accordance with applicable laws, some background investigations may include a credit check. CGI will consider for employment qualified applicants with arrests and conviction records in accordance with all local regulations and ordinances.
+
+CGI will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with CGI’s legal duty to furnish information.
+
+
+… more
+
+Benefits found in job post
+
+Tuition assistance
+
+Set alert for similar jobs
+
+Application Developer, Reston, Virginia, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+17
+
+total
+
+13
+
+in the past day
+
+Candidate seniority level
+
+65% Entry level candidates
+
+29% Senior level candidates
+
+Candidate education level
+
+76
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+18
+
+%
+
+have a Bachelor's Degree
+
+
+6
+
+%
+
+have a Master of Science
+Exclusive Job Seeker Insights about CGI
+Powered by Bing
+
+Company focus areas
+
+• Business and IT Consulting: CGI focuses on delivering strategic IT and business consulting services to help clients balance short-term and long-term imperatives. This includes insights, capabilities, and advisory services.
+
+...more
+
+Sources: cgi.com +1 more
+
+Hiring & headcount
+
+Focus on Engineering and IT: Despite a slight decrease in headcount, Engineering and Information Technology remain the largest departments, indicating ongoing investment and potential growth in these areas. Growth in Media and Communication: The Media and Communication department has seen a significant increase in job openings by 200%, suggesting new initiatives or expansion in this area. Expansion in Real Estate: The Real Estate department has experienced a 200% increase in job openings, indicating potential new projects or investments in property and infrastructure. Stability in Sales: The Sales department has maintained a stable headcount with a slight increase in job openings by 27%, suggesting a steady focus on maintaining and potentially growing their sales capabilities.
+… more
+
+The latest hiring trend
+
+70,362
+
+Total employees
+
+10%
+
+Company-wide
+
+2 year growth
+
+100%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+50000
+100000
+
+Median employee tenure: 5.2 years
+
+CGI hires candidates from some of these companies and schools
+
+CGI hired 2 people from University of Southern California. See all
+
+CGI hired 16 people from University of Southern California. See all
+
+Competitors
+
+CGI operates in a highly competitive IT and business consulting landscape, with significant emphasis on digital transformation, AI, and cloud services. The company maintains a strong market position through its diversified portfolio and client-proximity model, but faces challenges from competitors with innovative capabilities and strong brand perceptions.
+… more
+
+Sources: swotanalysis.com +3 more
+
+Show Premium Insights
+About the company
+
+CGI
+
+1,875,249 followers
+
+Follow
+
+IT Services and IT Consulting
+
+ • 
+
+10001+ employees
+
+ • 
+
+64,586 on LinkedIn
+
+Insights you can act on.
+
+Founded in 1976, CGI is among the largest IT and business consulting services firms in the world. We are insights-driven and outcomes-focused to help accelerate returns on your investments. Across hundreds of locations worldwide, we provide comprehensive, scalable and sustainable IT and business consulting services that are informed globally and delivered locally.
+
+We value your opinions and welcome your comments and questions on our posts here on LinkedIn. Please keep a polite, professional and constructive tone. We remove comments containing objectionable language and derogatory views. We do not allow content that is unrelated to the subject, and we remove discriminatory and racist comments as well as spam and advertising. 
+
+Note that content on this page contains general information regarding CGI’s services and initiatives and should not be considered direct business advice. To engage in a discussion with one of our experts, please make a request through https://www.cgi.com/en/contact-us
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Member of Technical Staff - Full Stack Engineer
+
+Vinci4D.ai
+
+San Francisco Bay Area (Hybrid)
+
+Posted on November 17, 2025, 11:42 AM
+2 months ago
+
+Associate Software Engineer (New College Grad 2026) (Verified job)
+Associate Software Engineer (New College Grad 2026) 
+
+Solace
+
+Redwood City, CA (On-site)
+
+1 company alumni works here
+
+Posted on January 14, 2026, 8:28 PM
+2 weeks ago
+
+Backend Software Engineer – Matching and Scheduling Optimization
+
+Sage Care
+
+Palo Alto, CA (Hybrid)
+
+1 school alumni works here
+
+Posted on December 4, 2025, 10:19 AM
+2 months ago
+
+Firmware Audio Engineer
+
+Polaro
+
+San Mateo, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 6:02 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Founding Fullstack Engineer
+
+Jampack Labs
+
+New York, NY (Hybrid)
+
+$160K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 3:41 PM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Member of Technical Staff
+
+Plato
+
+San Francisco Bay Area (On-site)
+
+$140K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on October 6, 2025, 10:34 AM
+4 months ago
+
+ · 
+
+ Easy Apply
+
+We're Hiring! Backend Developer (Verified job)
+We're Hiring! Backend Developer 
+
+Hidonix Industries
+
+Santa Monica, CA (On-site)
+
+$90K/yr - $100K/yr
+
+Actively reviewing applicants
+
+Posted on January 20, 2026, 4:55 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer
+
+Onyx Odds
+
+New York, NY (On-site)
+
+$170K/yr - $250K/yr
+
+1 school alumni works here
+
+Posted on January 17, 2026, 1:15 PM
+1 week ago
+
+Backend Infrastructure Engineer
+
+Conduit
+
+San Francisco, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 31, 2025, 12:29 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Product Developer
+
+Ravic
+
+Prescott, AZ (On-site)
+
+Actively reviewing applicants
+
+Posted on December 17, 2025, 9:42 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Software Speech C++ Developer (Verified job)
+Software Speech C++ Developer 
+
+Adacel
+
+Orlando, FL (Hybrid)
+
+$74K/yr
+
+Actively reviewing applicants
+
+Posted on January 28, 2026, 6:12 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Startup Software Engineer
+
+Storytime
+
+New York City Metropolitan Area (On-site)
+
+Posted on December 9, 2025, 10:32 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

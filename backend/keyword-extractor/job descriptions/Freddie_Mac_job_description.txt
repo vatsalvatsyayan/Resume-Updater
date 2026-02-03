@@ -1,0 +1,56 @@
+About the job
+
+At Freddie Mac, our mission of Making Home Possible is what motivates us, and it’s at the core of everything we do. Since our charter in 1970, we have made home possible for more than 90 million families across the country. Join an organization where your work contributes to a greater purpose.
+
+Position Overview:
+
+Are you a problem solver? Do you have strong technical skills analyzing data using R, Python, and SQL? Do you have a passion for understanding the business and presenting information for non-technical audiences? Are you excited about learning new technologies? We are looking for Software Engineer Associate who is enthusiastic and a fast learner with a strong technical background to join our team. Apply today to the position to join our Automation team in Internal Audit!
+
+Our Impact:
+
+Members on our team are highly skilled developers with a proven track record of supporting audit and risk management teams at Freddie Mac. The team plays a meaningful role by leveraging automation and analytics to transform traditional control testing into streamlined technology-driven workflows that provide deeper insights into risk and compliance. Our team collaborates across the company to develop innovative solutions that allow continuous monitoring, improve decision making, and enable combined assurance.
+
+Your Impact:
+
+The Software Engineer Associate will be a key member of the Automation team within Freddie Mac’s Internal Audit division. This role will collaborate with stakeholders to develop, enhance, and implement automation and data analytics solutions to support control testing automation. The developer will be responsible for understanding and implementing requirements, ensuring code quality and best practices, and communicating progress and challenges promptly.
+
+Qualifications:
+
+
+Bachelor’s degree in Data Analytics, Computer Science, Engineering, or a related field.
+1-3 years of experience performing data analytics using R, Python, and/or SQL.
+1 years of experience using DevOps (CI/CD) Jenkins, GitHub, Bitbucket, Spinnaker, Cucumber JS unit testing library.
+1 years of experience in database technologies - Snowflake, Postgres, etc.
+Basic knowledge of Linux command-line tools and Git for version control.
+Experience in source code management, repository management and package. management with tools such as JFrog Artifactory, Bitbucket, and Kubernetes. 
+Experience working in an agile environment with cross-functional teams, including technical developers and business stakeholders.
+Strong writing and communication skills. Detail-driven with respect to documentation and able to communicate effectively with team members and stakeholders.
+
+
+Keys to Success in this Role:
+
+
+Exhibits independent judgment, strong problem solving, deep analytical ability to identify, assess, and mitigate risks and test controls.
+Ability to operate as a self-motivated, pro-active, and result-driven problem solver with excellent analytical and interpersonal skills.
+Quick learner of new technologies, tools, and concepts.
+Maintain positive attitude, be flexible, and be a team player.
+Demonstrates effective verbal and written communication skills, including the ability to communicate progress and challenges in a timely manner.
+
+
+Current Freddie Mac employees please apply through the internal career site.
+
+We consider all applicants for all positions without regard to gender, race, color, religion, national origin, age, marital status, veteran status, sexual orientation, gender identity/expression, physical and mental disability, pregnancy, ethnicity, genetic information or any other protected categories under applicable federal, state or local laws. We will ensure that individuals are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+A safe and secure environment is critical to Freddie Mac’s business. This includes employee commitment to our acceptable use policy, applying a vigilance-first approach to work, supporting regulatory mandates, and using best practices to protect Freddie Mac from potential threats and risk. Employees exercise this responsibility by executing against policies and procedures and adhering to privacy & security obligations as required via training programs.
+
+CA Applicants: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.
+
+Notice to External Search Firms: Freddie Mac partners with BountyJobs for contingency search business through outside firms. Resumes received outside the BountyJobs system will be considered unsolicited and Freddie Mac will not be obligated to pay a placement fee. If interested in learning more, please visit www.BountyJobs.com and register with our referral code: MAC.
+
+Time-type:Full time
+
+FLSA Status:Non-Exempt
+
+Freddie Mac offers a comprehensive total rewards package to include competitive compensation and market-leading benefit programs. Information on these benefit programs is available on our Careers site.
+
+This position has an annualized market-based salary range of $77,000 - $115,000 and is eligible to participate in the annual incentive program. The final salary offered will generally fall within this range and is dependent on various factors including but not limited to the responsibilities of the position, experience, skill set, internal pay equity and other relevant qualifications of the applicant.

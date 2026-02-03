@@ -1,0 +1,90 @@
+About the job
+
+To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+
+About Futureforce University Recruiting
+
+Our Futureforce University Recruiting program is dedicated to attracting, retaining and cultivating talent. Our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. With offices all over the world, our recruits have the chance to collaborate and connect with fellow employees on a global scale. We offer job shadowing, mentorship programs, talent development courses, and much more.
+
+Job Category
+
+Software Engineering
+
+Job Details
+
+About Salesforce
+
+Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn’t a buzzword — it’s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passionate about bettering business and the world through AI, driving innovation, and keeping Salesforce's core values at the heart of it all.
+
+Ready to level-up your career at the company leading workforce transformation in the agentic era? You’re in the right place! Agentforce is the future of AI, and you are the future of Salesforce.
+
+About Salesforce
+
+We’re Salesforce, the Customer Company, inspiring the future of business with AI + Data + CRM. Leading with our core values, we help companies across every industry blaze new trails and connect with customers in a whole new way. And, we empower you to be a Trailblazer, too — driving your performance and career growth, charting new paths, and improving the state of the world. If you believe in business as the greatest platform for change and in companies doing well and doing good – you’ve come to the right place.
+
+About The Role
+
+We are looking for the best and brightest new college graduates to join our Agentforce Forward Deployed Engineer organization. This hybrid technologist and strategic partner role will personally drive transformative AI solutions by designing, developing, and directly implementing bespoke solutions leveraging our Agentforce platform and other cutting-edge technologies. The role demands technical mastery, problem-solving prowess, and a relentless focus on delivering tangible value in dynamic, real-world environments, from initial concept to successful deployment and ongoing optimization. As an Agentforce Forward Deployed Engineer, you'll be at the forefront of bringing cutting-edge AI solutions to our clients, rolling up your sleeves to make it happen. This isn't just about coding; it's about deeply understanding our customers' most complex problems and crafting, building, and delivering innovative, impactful solutions that leverage our Agentforce platform and beyond.
+
+Your Impact
+
+
+Drive Tangible Outcomes through Hands-On Implementation: Be responsible for the end-to-end technical delivery of AI solutions, personally writing code, configuring systems, and troubleshooting issues to ensure successful deployment and measurable business impact.
+Remove Technical Blockers: Proactively identify and directly resolve complex technical challenges during all phases of solution delivery, from data integration to model deployment and agent orchestration. You'll be the go-to expert for unblocking progress.
+Build Transformative AI Solutions: Design, develop, and personally implement high-quality, scalable production systems. A significant part of this will involve leveraging AI and Large Language Models (LLMs) to create intelligent agents and automate workflows, all built on top of the Salesforce platform.
+Data Configuration & Integration: Take direct ownership of data from end-to-end. You'll design robust data models, hands-on build efficient processing pipelines, and establish seamless integration strategies to ingest, transform, and analyze complex datasets. Your work will ensure data is always ready and optimized for our AI applications.
+Drive Agentforce Innovation: Become an expert in our innovative Agentforce platform. You'll directly push its capabilities to the limit, developing bespoke intelligent agents, automating intricate business processes, and crafting intuitive user experiences that deliver tangible value.
+Become a Trusted Partner: Embed yourself with client teams to truly grasp their operational challenges and strategic goals. You'll translate these nuanced needs into clear, actionable technical requirements, building strong relationships as their primary technical advisor.
+Conduct Deep-Dive Technical Debugging: Perform detailed analysis and debugging of complex system interactions, data flows, and AI model behaviors to optimize performance and ensure reliability.
+Prototype and Iterate Rapidly: Quickly develop proofs-of-concept and minimum viable products, coding alongside client teams to demonstrate capabilities and gather feedback for iterative refinement.
+Implement Best Practices: Directly apply engineering best practices for code quality, scalability, security, and maintainability across all deployed solutions.
+
+
+Required Qualifications
+
+
+Strong background in Computer Science or a related engineering discipline.
+Academic, professional or internship experience working in a professional coding setting environment
+Proficiency in one or more programming languages (e.g., JavaScript, Java, Python, Apex).
+Proven track record of hands-on, end-to-end delivery of high-quality, scalable production solutions in a professional environment.
+Hands-on experience building solutions with AI/LLM technologies, including integrating LLMs, applying AI orchestration frameworks, and prompt engineering techniques.
+Strong experience in data modeling, processing, integration, and analytics, with demonstrable proficiency in data platforms (e.g., Salesforce Data Cloud, Snowflake, Databricks).
+Direct experience with the Salesforce platform, including configuration, customization, and development.
+Demonstrated entrepreneurship, a "get-things-done" attitude, and a focus on fast delivery.
+Excellent collaboration and communication skills, both written and verbal.
+Ability to travel 25-50% of the time, as needed to customer sites.
+
+
+Preferred Qualifications
+
+
+Experience with Salesforce Data Cloud and/or Agentforce platform.
+Experience developing conversational AI solutions within regulated industries.
+Experience with Apex and/or Python coding languages.
+Prior customer-facing experience.
+Salesforce platform certifications (e.g., Administrator, Platform Developer I, Architect).
+Knowledgeable across Salesforce CRM (Service, Sales, and Marketing).
+Experience with Salesforce Flows and Lightning Web Components (LWC).
+
+
+Unleash Your Potential
+
+When you join Salesforce, you’ll be limitless in all areas of your life. Our benefits and resources support you to find balance and be your best, and our AI agents accelerate your impact so you can do your best. Together, we’ll bring the power of Agentforce to organizations of all sizes and deliver amazing experiences that customers love. Apply today to not only shape the future — but to redefine what’s possible — for yourself, for AI, and the world.
+
+Accommodations
+
+If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form.
+
+Posting Statement
+
+Salesforce is an equal opportunity employer and maintains a policy of non-discrimination with all employees and applicants for employment. What does that mean exactly? It means that at Salesforce, we believe in equality for all. And we believe we can lead the path to equality in part by creating a workplace that’s inclusive, and free from discrimination. Know your rights: workplace discrimination is illegal. Any employee or potential employee will be assessed on the basis of merit, competence and qualifications – without regard to race, religion, color, national origin, sex, sexual orientation, gender expression or identity, transgender status, age, disability, veteran or marital status, political viewpoint, or other classifications protected by law. This policy applies to current and prospective employees, no matter where they are in their Salesforce employment journey. It also applies to recruiting, hiring, job assignment, compensation, promotion, benefits, training, assessment of job performance, discipline, termination, and everything in between. Recruiting, hiring, and promotion decisions at Salesforce are fair and based on merit. The same goes for compensation, benefits, promotions, transfers, reduction in workforce, recall, training, and education.
+
+In the United States, compensation offered will be determined by factors such as location, job level, job-related knowledge, skills, and experience. Certain roles may be eligible for incentive compensation, equity, and benefits. Salesforce offers a variety of benefits to help you live well including: time off programs, medical, dental, vision, mental health support, paid parental leave, life and disability insurance, 401(k), and an employee stock purchasing program. More details about company benefits can be found at the following link: https://www.salesforcebenefits.com.Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.
+
+For New York-based roles, the base salary hiring range for this position is $133,000 to $147,000.
+
+For Washington-based roles, the base salary hiring range for this position is $110,000 to $136,000.
+
+For California-based roles, the base salary hiring range for this position is $133,000 to $147,000.
+
+For Illinois based roles, the base salary hiring range for this position is $110,000 to $136,000.

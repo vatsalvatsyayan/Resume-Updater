@@ -1,0 +1,55 @@
+About the job
+
+Awardco is reimagining the workplace to be more rewarding, supportive, and fun for everyone. As one of the fastest-growing companies in the employee experience industry, our mission is to help employees love what they do, love where they work, and get recognized for their efforts—especially our own employees! And as winners of Glassdoor's Best Places to Work, Best in Brightest in the Nation, and Great Place to Work, we do much more than talk the talk.
+
+Awardco is looking for a Back-End Software Engineer to join our Product team in Lindon, Utah. This is a great opportunity to begin or continue your career by building the robust back-end systems that power our global employee recognition and rewards platform. You'll work on a collaborative team to design and implement new features, maintain existing ones, and learn modern software development best practices. We're seeking a motivated individual with a strong foundation in computer science, or related field, who is ready to contribute to a fast-paced environment and help us build better company cultures.
+
+What you will do:
+
+
+Work as part of a team to plan and implement software solutions that help drive business culture and success
+Design and implement new software features and maintain existing ones to ensure reliability and performance
+Participate in making team commitments and collaborating to deliver on them within an Agile framework
+Adhere to company architectural standards and software development best practices
+Write comprehensive unit and integration tests and participate in quality assurance efforts
+Engage in peer code reviews, willingly incorporating team feedback and providing thoughtful feedback to others
+Write code that is easy to understand and can be considered self-documenting, providing additional documentation when necessary
+Involve technical leadership in the solution design process where appropriate to ensure scalability and quality
+Keep up to date with new technologies and industry trends to continuously improve your skills
+Help in the recruiting and hiring of engineering team members
+
+
+What you will bring:
+
+Minimum Qualifications:
+
+
+BS/MS degree in Computer Science or a related technical field
+0+ years of professional experience in back-end web development
+Experience in a general purpose programming language including but not limited to: C, C++, C#, Java, JavaScript, Go, or Python, with interest and ability to learn other programming languages
+Experience working with data structures and algorithms
+Legal authorization to work in the US and professional proficiency in verbal and written English
+
+
+Preferred Qualifications:
+
+
+A professional, hands-on, team-oriented attitude with sound judgment and analytical skills
+Excellent communication and interpersonal skills, with a willingness to collaborate and receive feedback
+Strong attention to detail and a commitment to producing high-quality, maintainable code
+The ability to break down complex problems into simpler ones and implement readable solutions
+Familiarity with relational databases and an understanding of how to write efficient queries
+
+
+Why Awardco:
+
+
+We have a revolutionary, client-approved product.
+One of the fastest growing companies in the nation: 3x Inc. 500, 2x Deloitte Technology Fast 500, 2x Mountain West Capital Network Fast 100, 3x Fast 50 (Utah Business), and 3x UV50 Fastest Growing Companies (BusinessQ), to name just a few.
+Great Place to Work certified, ranked in Inc. Best Workplaces, one of the Best and Brightest companies to work for, and ranked on the Salt Lake Tribune's Top Workplaces.
+Backed by renowned investors, both local and national.
+
+
+Awardco is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+
+Disclaimer: Please be aware that all official communication regarding your application will only come from an email address ending in @awardco.com. If you receive any communication from a different domain, it may be fraudulent, and we encourage you to report it.

@@ -1,0 +1,115 @@
+About the job
+
+Why Clipboard Exists
+
+We exist to lift as many people up the socioeconomic ladder as possible. We dramatically improve lives by letting professionals turn extra time and ambition into career growth and financial opportunity. We achieve this with our app-based marketplace that connects workplaces and professionals, allowing professionals to book on-demand shifts and workplaces to access on-demand talent.
+
+About Clipboard
+
+Clipboard is a fast-growing Series C marketplace. We are a leader in our Long Term Care vertical and are expanding into several others (Dental Offices, Schools, etc).
+
+We are a YC Top Company with a global, remote team of 700+ people. We have been profitable since 2022, and fill millions of shifts annually at partner workplaces across the US, where tens of thousands of professionals work with us every year.
+
+We are looking for your help to keep growing so we can serve more professionals and workplaces.
+
+To learn more about us, take a look at our website here.
+
+Your Mission: Innovate, Execute, and Deliver Impact
+
+As a Software Engineer at Clipboard Health, you won’t just write code—you’ll craft solutions that reshape how healthcare professionals and facilities connect. You’ll collaborate closely with product managers, designers, and fellow engineers to build features that matter. If you love diving deep into technical challenges and emerging with high-impact solutions, this is your opportunity to make a real difference. Because we’re growing quickly, this is an evergreen role—we’re continually looking to add talented software engineers to our team.
+
+What You’ll Do: Own the Code, Shape the Future
+
+
+Deliver High-Quality, Scalable Code
+Write performant backend services using Node/NestJS and reliable frontend experiences with React and TypeScript.
+Leverage MongoDB, Postgres, and Redis to ensure data integrity and speed at scale.
+Develop Reusable Components and Utilities
+Contribute clean, modular code for our web and mobile applications (Ionic/React, Dart/Flutter).
+Work closely with the DevX team to enhance tooling and libraries that bolster productivity across our global engineering org.
+Own the Full Software Development Lifecycle
+From problem definition and design through to development, testing, demoing, and supporting production code.
+Deploy your own code using trunk-based development and short-lived feature branches with automated regression testing.
+Collaborate with Product Managers and Customers
+Understand the real-world problems faced by our facility clients, nurses, and internal users.
+Occasionally engage directly with customers to gather feedback, confirm requirements, and ensure solutions truly solve their problems.
+Embrace a Remote-First Culture
+Communicate effectively in a globally distributed team—embrace asynchronous discussions, thorough documentation, and over-communication when needed.
+Participate in daily overlap sessions or syncs, typically in the mornings (US PST), to stay aligned with your team.
+Contribute to a Customer-Centric Approach
+Whether fixing bugs, tackling tech debt (about 20% of our time), or brainstorming new features, always keep the user’s experience front and center.
+Balance speedy fixes for pressing customer issues with longer-term structural improvements.
+Participate in On-Call Rotations
+Own the systems you build: if something breaks, you’re part of the solution.
+Typically on-call for one week out of the month, ensuring our platform remains reliable around the clock.
+
+What You Bring to the Table: A High-Ownership Mindset
+
+
+Professional Software Development
+Proficiency in building complex web or mobile apps, ideally with TypeScript, React, and Node/NestJS (but a specific language background is not required)
+Experience developing, monitoring, and supporting services in production.
+Deep Technical Expertise
+Strong understanding of service-specific integration testing, E2E testing, and selective unit tests.
+Familiarity with AWS (ECS, Terraform) and best practices for deploying cloud-based applications.
+Problem-Solving Chops
+You thrive in “low-structure, high-ownership” environments, diving deep into complex issues and surfacing clear, elegant solutions.
+Comfortable balancing immediate customer needs with robust long-term architecture planning.
+Excellent Communication
+Clear writing is essential for our remote culture—you know how to articulate ideas, provide concise PR feedback, and document decisions thoroughly.
+Open to giving and receiving frequent feedback, even when it’s uncomfortable, to drive continuous improvement.
+Customer Empathy
+Driven by a desire to make real-world impacts. You love collaborating with PMs and occasionally customers, ensuring that features resonate with end-users’ needs.
+
+Bonus Points For
+
+
+Startup Experience: You’ve thrived in high-growth environments or founded your own venture, appreciating the speed and agility of startups.
+Experience with Trunk-Based Development: Familiarity with short-lived branches and continuous deployment workflows.
+First-Principles Thinking: You like to question assumptions, break down problems, and find innovative solutions that raise the bar.
+
+
+Why Clipboard Health?
+
+Meaningful Impact
+
+
+We serve critical healthcare staffing needs, helping facilities and professionals stay focused on patient care. Your work has immediate, tangible benefits.
+
+
+Flexible Work Environment, Unlimited PTO
+
+
+Join a globally distributed team with the flexibility to work remotely or in office in SF and NY if you want to, plus an unlimited PTO policy.
+
+
+Strong Product-Market Fit
+
+
+With significant growth in booked shifts and revenue, you’ll build features that customers are already eager to use.
+
+
+Customer-Focused Culture
+
+
+We favor a “testing trophy” mindset, regularly reevaluate tech debt, and encourage open, written communication for collaborative problem-solving.
+
+
+Estimated total annual compensation: $200,000-$400,000.
+
+
+Each candidate's compensation offer within this range will be based on multiple factors including, but not limited to, relevant education, qualifications, certifications, experience, and geographic location.
+
+
+Interview Process
+
+
+PR assignment and a follow-up interview
+(Technical Design Document / Second PR assignment) and a follow-up interview
+Hiring Manager interview
+Final round interview with Co-CEO
+
+
+If you’re passionate about crafting robust, user-friendly features and enjoy a dynamic, remote-first environment, join us at Clipboard Health.
+
+Compensation Range: $200K - $400K

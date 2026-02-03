@@ -1,0 +1,37 @@
+About the job
+
+About The Team
+
+The Developer Platform's vision is to be the industry leader for how developers build high-quality software productively at scale. Our mission is to Enable Uber developers to build high-quality software consistently and with ease.
+
+About The Role
+
+At Uber the Developer Platform teams build the technical foundation for engineers to develop the future of quality. Our engineering community depends on us to develop centralized solutions to support each part of the development life cycle from writing the first line of code to shipping software to production that touches millions of users. We have a unique opportunity to work across Uber's products to solve for scale and impact company wide technical roadmaps.
+
+What You'll Do
+
+
+ What the Candidate Will Do
+ Excellent problem-solving skills and ability to work with large-scale system efficiently. 
+ Strong communication skills and ability to collaborate effectively in a team environment. 
+ Familiarity with distributed system concepts, building robust control plane and creation of seamless UI experience. 
+
+
+Basic Qualifications
+
+
+ Bachelor's degree in Computer Science, Software Engineering, or a related field. 
+ 1+ year industry experience in software development. 
+ Proficiency in at least one programming language such as Java, Go, C++, etc. 
+ Ability to learn quickly on the go. We're looking for software engineers who thrive while learning new technologies and don't believe in one-size-fits-all solutions. 
+
+
+ Preferred Qualifications 
+
+
+ Proven track record of successfully driving projects in a fast-paced, agile environment. 
+ Excellent communication, interpersonal, and problem-solving skills. 
+ Ability to thrive in a collaborative, cross-functional team environment. 
+
+
+For San Francisco, CA-based roles: The base salary range for this role is USD$150,000 per year - USD$158,000 per year. For Sunnyvale, CA-based roles: The base salary range for this role is USD$150,000 per year - USD$158,000 per year. For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. You will also be eligible for various benefits. More details can be found at the following link https://www.uber.com/careers/benefits.

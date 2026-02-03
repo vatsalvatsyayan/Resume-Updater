@@ -1,0 +1,72 @@
+About the job
+
+Job Description
+
+Software Engineer - Global Banking & Markets - Commodity Trading and Sales - Associate or Vice President - New York
+
+About Goldman Sachs
+
+At Goldman Sachs, we connect people, capital, and ideas to help solve problems for our clients. We are a leading global financial services firm providing investment banking, securities, and investment management services to a substantial and diversified client base that includes corporations, financial institutions, governments, and individuals.
+
+What We Do
+
+At Goldman Sachs, our Engineers don't just make things - we make things possible. Change the world by connecting people and capital with ideas. Solve the most challenging and pressing engineering problems for our clients. Join our engineering teams that build massively scalable software and systems, architect low latency infrastructure solutions, proactively guard against cyber threats, and leverage machine learning alongside financial engineering to continuously turn data into action. Create new businesses, transform finance, and explore a world of opportunity at the speed of markets.
+
+Want to push the limit of digital possibilities? Start here.
+
+Who We Look For
+
+Goldman Sachs Engineers are innovators and problem-solvers, building solutions in risk management, big data, mobile and more. We look for creative collaborators who evolve, adapt to change, and thrive in a fast-paced global environment.
+
+Role Summary
+
+Goldman Sachs is seeking a dynamic, entrepreneurial developer to join the New York Commodities technology team and play a key role in leading a range of development projects. The Commodities business is extremely focused on digitization, so this role will provide many challenging and rewarding opportunities for the successful candidate. The candidate will partner with engineers, traders, and salespeople to work on brand new projects focused on automation of sales and trading quoting, trade booking workflows, and data platform to systematically process data and share actionable insights to enable trading decisions. The candidate will directly experience their impact as they see the automation of the Commodities trading franchise through their work.
+
+The ideal candidate will have experience and interest in leading execution of projects to build enterprise systems that are highly reliable and require low maintenance. The opportunity will appeal to motivated individuals who want to work directly with the trading desks as well as develop strong technical skills while learning about the trading business.
+
+Key Responsibilities
+
+
+Liaise with traders, salespeople, and engineers to determine development requirements and lead project execution to deliver solutions to complex business problems.
+Gain experience in a variety of technologies, including Java, Python, Slang / SecDB (GS proprietary language), web technologies (JavaScript, Angular etc.), and real-time cluster technologies like SPARK and NoSQL data stores like MongoDB.
+Fantastic opportunity to learn about the Commodities trading businesses, while developing engineering solutions to solve business problems.
+
+
+Basic Qualifications
+
+
+Strong analytical and programming skills in any language.
+4+ years of experience with programming in any language.
+Ability to quickly learn new languages and technologies.
+Strong object-oriented analysis and design skills.
+Excellent written and verbal communication skills including experience speaking to global engineering and business audience.
+Comfort with multi-tasking, managing multiple stakeholders and working as a part of a global team.
+Ability to apply an entrepreneurial approach and passion to problem solving, product development and support.
+
+
+Preferred Qualifications
+
+
+Knowledge of trading technologies in the front-office of a trading organization.
+Background in finance.
+
+
+About Goldman Sachs
+
+At Goldman Sachs, we commit our people, capital, and ideas to help our clients, shareholders, and the communities we serve to grow. Founded in 1869, we are a leading global investment banking, securities, and investment management firm. Headquartered in New York, we maintain offices around the world.
+
+We believe who you are makes you better at what you do. We're committed to fostering and advancing diversity and inclusion in our own workplace and beyond by ensuring every individual within our firm has a number of opportunities to grow professionally and personally, from our training and development opportunities and firmwide networks to benefits, wellness and personal finance offerings and mindfulness programs. Learn more about our culture, benefits, and people at GS.com/careers.
+
+We're committed to finding reasonable accommodations for candidates with special needs or disabilities during our recruiting process. Learn more: https://www.goldmansachs.com/careers/footer/disability-statement.html
+
+© The Goldman Sachs Group, Inc., 2023. All rights reserved.
+
+Goldman Sachs is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, national origin, age, veterans status, disability, or any other characteristic protected by applicable law.
+
+Salary Range
+
+The expected base salary for this New York, New York, United States-based position is $150000-$250000. In addition, you may be eligible for a discretionary bonus if you are an active employee as of fiscal year-end.
+
+Benefits
+
+Goldman Sachs is committed to providing our people with valuable and competitive benefits and wellness offerings, as it is a core part of providing a strong overall employee experience. A summary of these offerings, which are generally available to active, non-temporary, full-time and part-time US employees who work at least 20 hours per week, can be found here .

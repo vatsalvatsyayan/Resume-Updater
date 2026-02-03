@@ -1,0 +1,520 @@
+Clearstory
+
+Junior FullStack Software Engineer - Integrations 
+
+Walnut Creek, CA · 5 hours ago · Over 100 applicants
+
+Promoted by hirer · No response insights available yet
+
+On-site
+Full-time
+Easy Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+About The Role
+
+Clearstory is looking for a Junior Fullstack Software Engineer to join our Integrations team, a foundational group that powers how our platform connects with the broader construction technology ecosystem. Integrations are critical to Clearstory's success, and in this role you'll help build the systems that allow customers, partners, and products to work together seamlessly.
+
+This is a high-impact opportunity for an early-career engineer who's eager to learn, contribute across the stack, and grow within a collaborative, product-focused engineering team. You'll work closely with experienced engineers and product leaders to help shape a category-defining SaaS platform transforming how commercial construction teams manage change.
+
+Clearstory is an AI-forward engineering organization. We actively encourage engineers to leverage modern AI tools to accelerate learning, improve code quality, and move faster while still holding a high bar for craftsmanship and customer impact.
+
+We operate in a hybrid work model: 3 days per week in the office, with the option to work 2 days per week from home if desired. We value in-person collaboration while supporting flexibility.
+
+As a junior engineer, you will:
+
+
+ Build meaningful features across the stack, from UI components to backend services and integrations. 
+ Work on integrations that are core to Clearstory's platform and customer experience. 
+ Learn through hands-on mentorship, code reviews, and close collaboration with senior engineers. 
+ Gain experience with modern development workflows and SDLC in a SOC 2-compliant environment. 
+ Use AI-powered tools as part of your day-to-day development workflow to learn faster and deliver better outcomes. 
+
+
+
+About You
+
+We're looking for someone who:
+
+
+ Is curious, proactive, and genuinely excited to learn. 
+ Takes ownership, follows through, and asks thoughtful questions. 
+ Communicates clearly and collaborates well across engineering and product. 
+ Cares deeply about code quality, reliability, and delivering real customer value. 
+ Thrives in a fast-paced, evolving startup environment. 
+ Embodies our core values: Be Curious, Customer Obsession, and Keep It Simple. 
+
+
+If you're excited to grow quickly, work on meaningful problems, and see your impact firsthand, you'll fit right in.
+
+About Clearstory
+
+Clearstory is a first-of-its-kind, category-defining SaaS company revolutionizing how commercial construction teams manage and communicate change orders. Our platform digitizes and automates outdated, manual workflows, bringing efficiency, transparency, and collaboration to one of the most critical (and historically underserved) parts of construction.
+
+We are:
+
+
+ A Series B, 100% SaaS company. 
+ Solving a multi-billion dollar problem with strong product-market fit. 
+ Led by a team with deep expertise in both construction and software
+
+
+
+Requirements
+
+
+1-3 years of professional software development experience. 
+ Familiarity with React and TypeScript. 
+ Exposure to backend development with Node.js, TypeScript, or Golang. 
+ Basic understanding of SQL and relational databases. 
+ Experience working with Git and CI/CD tools. 
+ A strong desire to learn, grow, and take on increasing responsibility in a startup environment. 
+
+
+Nice to Have
+
+
+ Experience with Material UI, pub/sub messaging systems, or ETL pipelines. 
+ Understanding of Agile methodologies and collaborative software development practices. 
+ Previous experience in a startup, FinTech, or ConTech environment
+
+
+
+Benefits
+
+
+Competitive salary and equity
+Subsidized healthcare, vision, and dental coverage
+Access to online learning and professional development resources
+Regular interaction with executive leadership
+A collaborative and mission-driven team environment
+… more
+
+Set alert for similar jobs
+
+Junior Software Engineer, Walnut Creek, California, United States
+
+Off
+See how you compare to other applicants
+Based on LinkedIn data. Excludes subsidiaries.
+Applicants for this job
+
+1146
+
+Applicants
+
+1146
+
+Applicants in the past day
+
+Applicant seniority level
+
+87% Entry level people applied for this job
+
+7% Senior level people applied for this job
+
+Applicant education level
+
+87
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+11
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Clearstory
+Powered by Bing
+
+Company focus areas
+
+• Transforming Construction Cost Management: Clearstory Data aims to redefine how construction teams communicate costs by providing a platform that transforms messy change order data into clean, real-time insights.
+
+...more
+
+Sources: youtube.com +1 more
+
+Hiring & headcount
+
+Expanding their salesforce: The 'Sales' department has seen a 30% increase in employee count over the past year, indicating a strong focus on expanding their sales capabilities. Growing engineering team: The 'Engineering' department has experienced a 40% increase in headcount, suggesting significant investment in product development and technical capabilities. Increasing customer support: The 'Customer Success and Support' department has grown by 38%, highlighting an emphasis on enhancing customer service and support functions. Marketing and design focus: The 'Marketing' and 'Arts and Design' departments have seen increases of 50% and 100% respectively, indicating new initiatives in branding, marketing, and creative design.
+… more
+
+The latest hiring trend
+
+84
+
+Total employees
+
+58%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+50
+100
+
+Median employee tenure: 1.7 years
+
+Clearstory hires candidates from some of these companies and schools
+
+Clearstory hired 2 people from University of Southern California. See all
+
+Competitors
+
+Clearstory Data specializes in change order management within the construction industry, offering a unique and focused solution compared to broader construction ERP platforms. While it excels in its niche, it faces competition from more comprehensive platforms like Procore and Autodesk Construction Cloud, which provide a wider range of functionalities. The competitive landscape is marked by the need for integrated solutions that streamline communication and workflow across all construction project stakeholders.
+… more
+
+Sources: selecthub.com
+
+Show Premium Insights
+About the company
+
+Clearstory
+
+19,611 followers
+
+Follow
+
+Software Development
+
+ • 
+
+51-200 employees
+
+ • 
+
+84 on LinkedIn
+
+Clearstory is the construction industry’s only Change Order Communication and workflow software built to close the change order gap between GCs, subs, and owners. Our cloud-based platform brings everyone onto the same page with a live, shared Change Order Log, digital T&M workflows, and real-time visibility into extra work. The result? Faster approvals, better forecasting, and fewer late surprises.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Graduate Software Engineer
+
+DeepQuery
+
+United States (Remote)
+
+Posted on January 21, 2026, 8:48 AM
+3 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Advanced Software Talent
+
+South San Francisco, CA (On-site)
+
+$65/yr - $89/yr
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 10:28 AM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Jack & Jill
+
+San Francisco, CA (On-site)
+
+Posted on January 21, 2026, 6:08 AM
+6 hours ago
+
+Full Stack Intern
+
+Sparrow
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 1:04 PM
+4 days ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Developer (Verified job)
+Full Stack Software Developer 
+
+Cognizant
+
+Plano, TX (Hybrid)
+
+$65K/yr
+
+ • 
+
+401(k) benefit
+
+2 connections work here
+
+Posted on January 21, 2026, 12:14 PM
+2 minutes ago
+
+Junior Full Stack Engineer
+
+Mentor Talent Acquisition
+
+New York, United States (On-site)
+
+$100K/yr - $170K/yr
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 3:47 AM
+8 hours ago
+
+ · 
+
+ Easy Apply
+
+Junior Backend Django Engineer
+
+MyFundedFutures
+
+Dallas-Fort Worth Metroplex (On-site)
+
+You’d be a top applicant
+
+Posted on January 21, 2026, 10:14 AM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Developer (Frontend/Backend) (Verified job)
+Full Stack Developer (Frontend/Backend) 
+
+Zyxware Technologies
+
+United States (Remote)
+
+$100K/yr - $105K/yr
+
+ • 
+
+4 benefits
+
+Posted on January 21, 2026, 11:34 AM
+43 minutes ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Core Platform (Verified job)
+Software Engineer, Core Platform 
+
+Cribl Inc
+
+United States (Remote)
+
+$120K/yr - $150K/yr
+
+ • 
+
+401(k), +1 benefit
+
+2 company alumni work here
+
+Posted on January 20, 2026, 7:30 PM
+16 hours ago
+
+Fullstack Engineer (Python) (Verified job)
+Fullstack Engineer (Python) 
+
+Avenue Code
+
+United States (Remote)
+
+$65/hr - $70/hr
+
+1 company alumni works here
+
+Posted on January 21, 2026, 8:14 AM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+SQL & Database Performance Engineer (Data Analyst / Data Engineer)
+
+Fynite Corp.
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 20, 2026, 10:39 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Flight Software Engineer I
+
+True Anomaly
+
+Long Beach, CA (On-site)
+
+$70K/yr - $105K/yr
+
+ • 
+
+401(k) benefit
+
+5 school alumni work here
+
+Posted on January 21, 2026, 11:57 AM
+19 minutes ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

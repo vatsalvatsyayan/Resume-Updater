@@ -1,0 +1,493 @@
+Reejig
+
+Forward Deployed Engineer 
+
+New York City Metropolitan Area · 41 minutes ago · 9 applicants
+
+Promoted by hirer · No response insights available yet
+
+Hybrid
+Full-time
+Easy Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Meet the hiring team
+
+Marie Flavin 
+
+• 3rd
+
+Global Talent Acquisition Partner | Recruiting @ Reejig
+
+Job poster
+
+Message
+About the job
+
+Reejig is the Work Operating System for the AI powered enterprise.
+
+
+
+
+We give companies a complete, validated view of their work by mapping every role, task, skill, and workflow. With this intelligence, we redesign how work should flow, surface where automation creates the highest leverage, and recommend the right AI agents for the enterprise. Every change is measured and tied to real operational and workforce impact.
+
+Inside Reejig, we build the same future we sell.
+
+We are developing our own AI powered workforce that supports our teams and our customers.
+
+This is a place for Builders who want to help define how work will operate in the AI era.
+
+
+
+
+
+
+
+The Role
+
+We’re hiring a Forward Deployed Engineer (FDE), Enterprise AI Agents.
+
+You’ll work directly with enterprise customers to design, build, and deploy agents in their live environments — then translate those customer-specific solutions into scalable, reusable agent patterns for the broader platform.
+
+You’ll sit at the boundary between product, engineering, and customer operations. You’ll operate in ambiguity, ship quickly, and feed what you learn back into our product roadmap.
+
+
+
+
+
+
+
+What You’ll Do
+
+Embed directly in customer environments to understand how work actually happens — systems, data, permissions, constraints, and edge cases.
+Own the redesign of real enterprise workflows by introducing Microsoft Copilot Studio agents where they meaningfully change how work gets done.
+Rapidly prototype, test, and iterate with customers until agents deliver clear, measurable operational impact and are generalized into best practices.
+
+
+
+
+What Success Looks Like
+
+Copilot agents running in live customer environments with measurable impact on time, cost, or quality of work.
+Reusable agents and templates added to a shared library and adopted by multiple customers.
+Faster customer time-to-value as learnings from one deployment compound into the platform.
+Progress made without waiting for perfect requirements, perfect data, or perfect conditions.
+
+
+
+
+What We’re Looking For
+
+Strong, hands-on experience building with Microsoft Copilot Studio, Copilot agents, connectors, and integrations (real deployments, not just demos).
+Experience operating inside Microsoft 365 environments, including identity, permissions, and enterprise constraints.
+Comfort working directly with customers in messy, ambiguous, real-world setups.
+Ability to move from a one-off customer problem to a generalized, scalable solution.
+Strong execution bias: build → test → deploy → learn → repeat.
+Product thinking and systems judgment — the ability to decide when AI helps, when it doesn’t, and when a simpler solution is better.
+
+
+
+
+This Role Is Not For You If
+
+You need detailed specifications before you start.
+You prefer bespoke, one-off products that don’t need to scale or leverage the capability of AI platforms in a way that recognizes their current level of maturity/ability.
+You want to focus on prompts, demos, or theoretical use cases rather than production agents.
+
+
+
+
+Why Reejig
+
+You’ll be building at the intersection of real enterprise work, AI agents, and measurable impact: helping define how work operates in the AI era, not just talking about it.
+
+… more
+
+Featured benefits
+
+Medical insurance, Vision insurance, Dental insurance, 401(k)
+
+Requirements added by the job poster
+
+• Authorized to work in the United States
+
+• No need for visa sponsorship
+
+• Working in a hybrid setting
+
+Set alert for similar jobs
+
+Software Engineer, New York City Metropolitan Area
+
+Off
+See how you compare to other applicants
+Based on LinkedIn data. Excludes subsidiaries.
+Applicants for this job
+
+9
+
+Applicants
+
+9
+
+Applicants in the past day
+
+Applicant seniority level
+
+67% Entry level people applied for this job
+
+11% Senior level people applied for this job
+
+Applicant education level
+
+78
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+22
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about Reejig
+Powered by Bing
+
+The latest hiring trend
+
+44
+
+Total employees
+
+7%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Information Technology
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+25
+50
+
+Median employee tenure: 2.5 years
+
+Show Premium Insights
+About the company
+
+Reejig
+
+19,090 followers
+
+Follow
+
+Software Development
+
+ • 
+
+51-200 employees
+
+ • 
+
+44 on LinkedIn
+
+Reejig is a Work Intelligence Platform powered by a proprietary Work Ontology®—we are the universal language for jobs, tasks, skills, and processes. We make work visible across your enterprise, enabling smart decisions about work allocation between humans and AI.
+
+Reejig empowers organizations to boldly and responsibly reinvent work for the AI era. We re-engineer jobs, optimize work allocation between humans and AI, and ensure your workforce evolves as technology advances. 
+
+This is Zero Wasted Potential.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Creative Technology Engineer
+
+Origin
+
+New York, NY (Hybrid)
+
+Posted on January 21, 2026, 12:10 PM
+1 day ago
+
+Senior Avionics Software Engineer
+
+HighQ Aero
+
+Centennial, CO (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 7:47 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Infrastructure Engineer - St. Louis Only (Verified job)
+Infrastructure Engineer - St. Louis Only 
+
+Lemonaid Health
+
+St Louis, MO (On-site)
+
+$75K/yr
+
+ • 
+
+Medical, Vision, Dental, 401(k)
+
+You’d be a top applicant
+
+Posted on January 22, 2026, 12:34 PM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+AI Product Engineer
+
+Tacit
+
+San Francisco, CA (On-site)
+
+$120K/yr - $180K/yr
+
+Posted on January 21, 2026, 10:53 PM
+18 hours ago
+
+Applied AI Engineer
+
+Louisville Metro Government
+
+Louisville Metropolitan Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 1:11 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Crest Labs
+
+United States (Remote)
+
+Posted on January 22, 2026, 1:05 PM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer/Architect - Strategic & AI-Focused
+
+CAPX
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 1:13 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+LLM Engineer
+
+Prana Tree
+
+Chicago, IL (Hybrid)
+
+Posted on January 22, 2026, 6:29 AM
+10 hours ago
+
+ · 
+
+ Easy Apply
+
+Firmware Engineer
+
+Intercreate
+
+Boulder, CO (Hybrid)
+
+1 school alumni works here
+
+Posted on January 22, 2026, 8:56 AM
+8 hours ago
+
+ · 
+
+ Easy Apply
+
+AI/ML Engineer
+
+Tiposi
+
+Milpitas, CA (On-site)
+
+$100K/yr - $120K/yr
+
+ • 
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 10:29 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Robotics Firmware Engineer
+
+Zenblen
+
+Chicago, IL (On-site)
+
+Posted on January 22, 2026, 9:16 AM
+8 hours ago
+
+Senior Developer Advocate (Developer Evangelist)
+
+Typesense
+
+United States (Remote)
+
+$150K/yr - $170K/yr
+
+ • 
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 2:33 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

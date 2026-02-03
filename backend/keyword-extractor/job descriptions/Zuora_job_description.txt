@@ -1,0 +1,86 @@
+About the job
+
+Company Overview
+
+At Zuora, we do Modern Business. We’re helping people subscribe to new ways of doing business that are better for people, companies and ultimately the planet. It’s an approach resulting from the shift to the Subscription Economy that puts customers first by building recurring relationships instead of one-time product sales and focuses on sustainable growth. Through our leading expertise and multi-product suite, we are transforming all industries and working with the world’s most innovative companies to monetize new business models, nurture subscriber relationships and optimize their digital experiences.
+
+The Team & Role
+
+The Data Platform team at Zuora is driven by a mission to unlock the full potential of data assets. The team builds the foundational infrastructure and robust data pipelines that power everything from product insights to strategic business decisions. The work directly impacts the success of Zuora by providing accurate, timely, and accessible data to analytics, product, and business teams.
+
+This Is a Pivotal Time To Join As The Company Redefines Its Data Architecture And Embraces Cutting-edge Technologies. The Software Engineer Will Have The Opportunity To Make a Significant Impact By
+
+
+Contributing to the design and implementation of next-generation data platforms and frameworks that will be the backbone of Zuora's data strategy.
+Solving complex data engineering challenges related to real-time streaming, large-scale data processing, and cloud infrastructure optimization.
+Directly influencing how the company leverages data to improve products, optimize operations, and achieve strategic objectives.
+Working with a team of experienced engineers and gaining exposure to a modern tech stack, including Java, Spring, Rest API, Microservices, Kafka, Debezium, Flink, Snowflake, AWS and Kubernetes. 
+
+
+This is a location-specific position based in Redwood City, CA, that requires you to come into the office certain days of the week.
+
+Our Tech Stack: Java, Spring, Rest API, Microservices, Kafka, Debezium, Flink, Snowflake, AWS, Trino and Kubernetes.
+
+What you’ll do
+
+
+Enhance Data Pipeline Efficiency and Reliability: Designing and implementing robust data pipelines, reducing data processing latency and achieving a higher data quality.
+Drive Data Accessibility and Self-Service: Collaborating with teams to define and implement data models and schemas, enabling seamless data integration and self-service analytics.
+Optimize Cloud Data Infrastructure: Contributing to the design and implementation of scalable data storage solutions and improving data processing performance in the cloud environment.
+
+
+Your experience
+
+
+Designing, building, and maintaining production-grade data pipelines, including ETL/ELT processes and big data solutions.
+Utilizing modern data engineering technologies such as Kafka, Spark, Flink, Trino, and Debezium for change data capture.
+Working with cloud platforms (AWS, Azure, or GCP) and related services, including Kubernetes and Terraform.
+Strong proficiency in programming languages like Java and Python, and expert-level SQL skills.
+
+
+Nice to haves
+
+
+Experience with Data Lake/Lake House solutions like Apache Iceberg.
+Knowledge of modern data warehousing solutions such as Snowflake.
+Familiarity with data governance principles and tools, including data cataloging and lineage tracking.
+Experience with real-time analytics platforms or streaming architectures.
+Hands-on experience with AI-powered development tools such as Cursor, GitHub Copilot, or Gemini AI to improve productivity and streamline coding workflows.
+
+
+#ZEOLife at Zuora
+
+As an industry pioneer, our work is constantly evolving and challenging us in new ways that require us to think differently, iterate often and learn constantly—it’s exciting. Our people, whom we refer to as “ZEOs" are empowered to take on a mindset of ownership and make a bigger impact here. Our teams collaborate deeply, exchange different ideas openly and together we’re making what’s next possible for our customers, community and the world.
+
+As Part Of Our Commitment To Building An Inclusive, High-performance Culture Where ZEOs Feel Inspired, Connected And Valued, We Support ZEOs With
+
+
+Competitive compensation, variable bonus and performance reward opportunities, and retirement programs
+Medical, dental and vision insurance
+Generous, flexible time off
+Paid holidays, “wellness” days and company wide end of year break
+6 months fully paid parental leave
+Learning & Development stipend
+Opportunities to volunteer and give back, including charitable donation match
+Free resources and support for your mental wellbeing
+
+
+Specific benefits offerings may vary by country and can be viewed in more detail during your interview process.
+
+Location & Work Arrangements
+
+Organizations and teams at Zuora are empowered to design efficient and flexible ways of working, being intentional about scheduling, communication, and collaboration strategies that help us achieve our best results. In our dynamic, globally distributed company, this means balancing flexibility and responsibility — flexibility to live our lives to the fullest, and responsibility to each other, to our customers, and to our shareholders. For most roles, we offer the flexibility to work both remotely and at Zuora offices.
+
+Our Commitment to an Inclusive Workplace
+
+Think, be and do you! At Zuora, different perspectives, experiences and contributions matter. Everyone counts. Zuora is proud to be an Equal Opportunity Employer committed to creating an inclusive environment for all.
+
+Zuora does not discriminate on the basis of, and considers individuals seeking employment with Zuora without regards to, race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.
+
+We encourage candidates from all backgrounds to apply. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistance@zuora.com.
+
+The base pay details represent the annualized salary range for the posted position. While we share a comprehensive range, a candidate’s final base salary will fall within these guidelines and will be determined based on multiple factors including but not limited to: qualifications of the candidate, job related knowledge, prior related experience, specific and unique skills, the location of the role, internal equity and internal budget. Base pay is only one element of Zuora’s Total Rewards Package. Additional elements may also include bonus/variable compensation, equity and comprehensive benefits, more details found here.
+
+Base Pay Details
+
+$146,500—$201,450 USD

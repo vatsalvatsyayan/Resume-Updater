@@ -1,0 +1,92 @@
+About the job
+
+About The Team
+
+The Storage teams build and operate online stateful systems and abstractions that are reliable, efficient, secure and easy to use for DoorDash Engineering. The teams are responsible for understanding Product Engineering’s evolving needs and developing platform and infrastructure capabilities to serve them. The team currently supports CockroachDB, Cassandra, Kafka and Redis as well as data abstraction services to reduce the complexity of interacting with storage systems for Product Engineers.
+
+About The Role
+
+The Storage team is building and operating a high-performance, scalable, and reliable data abstraction layer that optimizes both efficiency and reliability. Our goal is to create a platform that manages itself and fades into the background—empowering engineers to focus on delivering product experiences our customers love.
+
+This role is available across three teams within Storage, each solving unique and high-impact challenges:
+
+
+One team is building a dedicated data gateway service to streamline and abstract interactions with CockroachDB, enabling consistent and efficient database access across the organization.
+Another team is developing a service that integrates Kafka and gRPC protocols, acting as a bridge to allow services to seamlessly produce and consume messages—leveraging the strengths of both streaming and RPC paradigms.
+The third team focuses on building caching abstractions that support diverse performance and scalability needs across DoorDash, helping product teams deliver fast and reliable experiences.
+
+
+If you're passionate about distributed systems, developer experience, and building foundational infrastructure at scale, we'd love to hear from you.
+
+You must be located in San Francisco, Sunnyvale, Seattle, or the New York Metro Area for this hybrid position. You will report into the Engineering Manager on our Storage team within the Core Infrastructure Organization.
+
+You’re Excited About This Opportunity Because You Will…
+
+
+Build and optimize distributed storage systems that improve data reliability, consistency, and performance.
+Develop and maintain data abstraction services tailored for high-throughput, low-latency workloads.
+Implement and refine caching strategies using Redis, Memcached, and similar technologies to enhance system efficiency.
+Collaborate with teams across infrastructure, platform, and application layers to ensure seamless data access and storage performance.
+Drive innovation in storage architecture by identifying and addressing scalability and efficiency challenges in distributed systems.
+
+
+We’re Excited About You Because…
+
+
+You have 2+ years of experience in designing, building and maintaining scalable, distributed data infrastructure.
+You are proficient in GoLang, or Java with a deeper expertise in multi-threading, distributed systems and databases.
+You have deep expertise in NoSQL databases (Cassandra, DynamoDB, or similar) and distributed caching systems (Redis, Memcached).
+You have built and optimized high-scale data storage systems with a focus on reliability, availability, and performance.
+You thrive in a fast-paced, execution-driven environment and have a proven track record of delivering impactful storage solutions.
+
+
+We use Covey as part of our hiring and / or promotional process for jobs in NYC and certain features may qualify it as an AEDT. As part of the evaluation process we provide Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound on August 21, 2023.
+
+Please see the independent bias audit report covering our use of Covey here.
+
+Compensation
+
+The successful candidate's starting pay will fall within the pay range listed below and is determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Base salary is localized according to an employee’s work location. Ranges are market-dependent and may be modified in the future.
+
+In addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information.
+
+DoorDash cares about you and your overall well-being. That’s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family-forming assistance, and a mental health program, among others.
+
+To learn more about our benefits, visit our careers page here.
+
+See Below For Paid Time Off Details
+
+
+For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year.
+For hourly roles: vacation accrued at about 1 hour for every 25.97 hours worked (e.g. about 6.7 hours/month if working 40 hours/week; about 3.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5.8 hours/month if working 40 hours/week; about 2.9 hours/month if working 20 hours/week).
+
+
+The national base pay ranges for this position within the United States, including Illinois and Colorado.
+
+I4
+
+$130,600—$192,000 USD
+
+I5
+
+$159,800—$235,000 USD
+
+I6
+
+$193,800—$285,000 USD
+
+About DoorDash
+
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods.
+
+DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees’ happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+
+Our Commitment to Diversity and Inclusion
+
+We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+
+Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on “protected categories,” we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce – people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.
+
+Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
+
+If you need any accommodations, please inform your recruiting contact upon initial connection.

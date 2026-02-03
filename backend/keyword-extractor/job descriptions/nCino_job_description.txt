@@ -1,0 +1,74 @@
+About the job
+
+nCino offers exciting career opportunities for individuals who want to join the worldwide leader in cloud banking.
+
+As a Software Engineer on nCino's Portfolio Analytics team, you'll develop full-stack solutions that help financial institutions make data-driven decisions. Working with TypeScript on the front end while leveraging AWS infrastructure and Java services, you'll build user-facing features that transform complex financial data into intuitive, actionable tools.
+
+You'll collaborate with experienced engineers through code reviews and technical discussions while gradually taking on more complex features across the entire stack. Your day-to-day work involves building new capabilities from the ground up, shaping product direction through hands-on development, and contributing to an emerging fintech solution within nCino's established platform. This opportunity offers the combination of startup energy with enterprise stability. Grow your full-stack development skills with modern web technologies and cloud platforms all while making meaningful contributions to innovative fintech solutions from day one.
+
+Essential Functions
+
+
+Support product refinement process such as the creation of tickets and analysis for development work.
+Follow architectural decisions made by the team and understand the reasoning behind them.
+Engage in brainstorming sessions to propose innovative ideas and solutions.
+Be involved in proof-of-concept implementations and prototypes used to gather feedback and make informed decisions. Consider potential risks that might impact solution.
+Express themselves clearly to both technical and non-technical audiences in written and verbal formats. Independently analyze, troubleshoot, break down complex tickets, and identify dependencies across teams and epics.
+Contributes to CI/CD process including Automated Testing and enhancing the testing coverage of their product.
+Understand adoption and release barriers to entry for the product and technology.
+Support team in developing a strategic launch and release plan with cross functional teams.
+Promote cross-team collaboration focused on taking end to end solutions to market and supporting Go-live activities.
+Analyze adoption of product and understand how to improve the customer journey by applying solutions to address new enhancement requests.
+Play an active role in addressing system hygiene.
+Mitigate future hygiene issues by consistently producing high-quality code
+Adhere to coding standards and is up to date with the latest technology trends, best practices.
+Encourages continuous learning and is able to define a personalized continuous learning path that assists with career growth.
+Independently handle complex tickets, actively collaborate with the team to drive continuous improvement.
+Increased expectations in quality code review process
+Leverage AI tools and techniques to enhance software development activities, including code generation, testing, debugging, and optimization.
+Apply AI insights to identify patterns, automate repetitive tasks, and improve overall development efficiency and product quality.
+Evaluate and integrate AI/ML capabilities where appropriate to strengthen product functionality and user experience.
+Maintain awareness of emerging AI trends and best practices to inform continuous learning and innovation.
+
+
+Qualifications
+
+Required: 
+
+
+Bachelor’s Degree in Computer Science or a related field with 2+ years of experience/proficiency or a combination of education and experience
+Knowledge of software design principles and development tools, technologies (languages, frameworks, etc.) and domains used
+Proficiency in at least one programming language
+Experience with web application development
+Strong understanding of software engineering best practices, including coding standards, code reviews, source control management, and testing
+Ability to collaborate with others in a professional and respectful manner
+Proficient knowledge of code versioning tools, such as Git.
+
+
+Desired
+
+
+Experience with AWS stack
+Experience with Java, JavaScript, and TypeScript
+Experience with web application development
+Experience with React, or other client-side JS frameworks
+Experience with SQL
+Experience with Docker or other containerization
+Familiarity with agile or scrum methodologies and DevOps tools
+Verbal and written communication skills for technical and non-technical audiences
+Agile software development experience
+
+
+If you thrive in a high-energy, entrepreneurial environment, we invite you to share your passion, ideas and excitement at nCino.
+
+The pay range for this role is based on relative market data and alignment with our compensation philosophy. The range displayed reflects the minimum and maximum of the pay range for each job posting, which is used to determine new hire rates/salaries and takes into consideration multiple factors including but not limited to knowledge, skills, abilities, proficiencies, experience, education, licensures/certifications, as well as business and organizational needs. nCino reserves the right to modify the posted range consistent with our internal practices and external market movement. The recruiter for this job posting can share more compensation details during the recruitment process, as base salary is only one component of the total compensation package per position posted.
+
+The Base Salary Range For This Job Is
+
+$93,900.00 - $159,600.00
+
+nCino provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran status, disability, genetics or other protected groups. In addition to federal law requirements, nCino complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+nCino is committed to the full inclusion of all qualified individuals. As part of this commitment, nCino will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact us at recruiting@ncino.com.
+
+Our commitment to inclusion and equality includes a strong belief that the diversity of our team is instrumental to our success. We strive to create workplaces where employees are empowered to bring their authentic selves to work.

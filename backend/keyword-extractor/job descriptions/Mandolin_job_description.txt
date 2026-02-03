@@ -1,0 +1,39 @@
+About the job
+
+About Mandolin
+
+Nearly every disease will become treatable in our lifetimes. Mandolin is laying the clinical and financial infrastructure to get groundbreaking treatments to patients faster, powered by AI agents.
+
+Mandolin partners closely with the largest healthcare institutions in the US, covering more than $10B drug spend across the country. We're backed by Greylock, SV Angel, Maverick, SignalFire, and the founders of Vercel, Decagon, and Yahoo.
+
+Why we need you
+
+We’re building a new Engineering team with a clear mission: to seamlessly integrate Mandolin into our customers’ systems and ensure every new partnership starts strong. Think of this as a launchpad—where you’ll gain deep, hands-on experience with our product, technology, team, and customers. It’s a chance to build foundational knowledge that can grow into a long-term path within Integrations or across other parts of Mandolin as you expand your impact. We’re looking for curious, driven engineers eager to dive in and start building.
+
+What You’ll Do
+
+
+Designing and implementing integration solutions to connect disparate systems, applications, and platforms
+Collaborating with cross-functional teams to gather and analyze system requirements
+Developing and maintaining system integration architecture and documentation
+Conducting integration testing and troubleshooting to ensure system compatibility and stability
+Monitoring system performance and implementing improvements to enhance functionality
+Configuring and maintaining middleware and other integration tools
+Providing technical support and guidance for integration-related issues to IT teams and stakeholders
+Staying current with industry trends and emerging technologies to drive innovation in integration practices
+Creating and managing APIs for system interaction and data exchange
+
+
+Must-have Experience
+
+
+Excellent communicator with strong relationship-building skills
+Strong technical intuition and systems thinking
+Comfortable in fast-paced and ambiguous environments
+
+
+Nice-to-haves
+
+
+Domain knowledge in healthcare, life sciences, biotech, or enterprise operations
+Prior experience in customer-facing implementation, solutions engineering, or technical consulting

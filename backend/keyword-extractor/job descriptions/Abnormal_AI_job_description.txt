@@ -1,0 +1,53 @@
+About the job
+
+About The Role
+
+(This position requires you be in the SF Bay Area, you will be expected to work roughly 25% in office)
+
+At Abnormal Security, we safeguard the world's largest enterprises from cybercrime. We protect our customers against adversaries who are constantly evolving their techniques and tactics to outwit and undermine the traditional approaches to Email Security. That’s what makes our novel behavioral-based approach so…Abnormal. Abnormal has consistently been named as one of the top cybersecurity startups, and our behavioral AI system has helped us win various cybersecurity accolades. We’ve built our reputation & brand through an industry-leading email security solution, which is currently trusted to protect more than 20% of the Fortune 500. Now is the time for Abnormal to expand our ambitions and potential to add even more value for our customers beyond email.
+
+As a Software Engineer 1 on our new Identity Security initiatives, you’ll build protections for non‑human identities across complex enterprise environments. This is a 0→1 founding product team that requires a creative, incubator mindset—rapid prototyping, tight feedback loops, and comfort with ambiguity. You will work under the top engineers in the company, gaining significant mentorship and growth through close collaboration and rigorous design practices.
+
+What You Will Do
+
+
+Build discovery, classification, monitoring, and protection for machine identities and their agentic actions.
+Ship guardrails and policy engines that enable safe automation while preventing misuse, escalation, and anomalous behavior.
+Create high‑availability pipelines that ingest and correlate identity, authorization, and behavioral signals from cloud, SaaS, IAM/SSO, and audit logs.
+Drive 0→1 iteration: prototype quickly, test assumptions, learn from usage, and scale simple solutions.
+Collaborate across security, platform, and data teams; write and review technical designs; and participate in core SDLC rituals.
+
+
+Must Haves
+
+
+1+ years building software applications.
+Experience productionizing large‑scale, data‑intensive systems.
+High velocity and creativity in solving technical challenges.
+Experience & desire to adopt & improve AI-native development workflows. 
+Strong debugging with logs, metrics, and signals.
+Ability to translate business requirements into high‑quality software.
+Ability to independently solve complex problems and work cross‑functionally.
+BS in CS/SE/IS or related field.
+
+
+Nice to Have
+
+
+Experience with Go and Python.
+Experience in IAM, non‑human/machine identities, secrets management, workload identities, OAuth/OIDC, SCIM, SSO, or policy engines.
+Experience in cybersecurity or related industries.
+Experience with big data, statistics, and ML for identity/behavioral risk modeling.
+
+
+At Abnormal AI, certain roles are eligible for a bonus, restricted stock units (RSUs), and benefits. Individual compensation packages are based on factors unique to each candidate, including their skills, experience, qualifications and other job-related reasons.
+
+Base pay range:
+
+$127,500—$150,000 USD
+
+San Francisco/New York Base pay range:
+
+$140,300—$165,000 USD
+
+Abnormal AI is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status or other characteristics protected by law. For our EEO policy statement please click here. If you would like more information on your EEO rights under the law, please click here.

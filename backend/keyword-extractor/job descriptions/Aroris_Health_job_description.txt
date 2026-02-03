@@ -1,0 +1,81 @@
+About the job
+
+Title: AI Engineer, Aroris Health
+
+Salary Range: $100-$125K + 20% bonus, total comp range $100K - $150K, plus eligible for equity.
+
+Location: Minneapolis, Hybrid
+
+About Us: Aroris Health is a leader in healthcare contract negotiations and revenue cycle management, helping private practices, ambulatory surgery centers (ASCs), and other healthcare providers optimize their payer contracts, improve profitability, and enhance operational efficiencies. Leveraging advanced analytics and SaaS solutions, we drive significant growth and value for our clients. 
+
+ 
+
+Position Overview: We are seeking a driven and results-oriented AI Engineer to design, build, and optimize AI-powered features for our Aroris360 SaaS platform. This is an exciting opportunity to be part of building AI-enabled products from the ground up. The AI Engineer will work closely with product, data, and engineering teams to implement LangChain- and LLM-based solutions, manage AI infrastructure, and integrate intelligent copilots that improve both customer outcomes and internal team efficiency. The role demands technical, analytical, and collaborative abilities, along with a passion for building transformative healthcare products.
+
+ 
+
+What You'll Do:
+
+· Design and Build AI Solutions: Develop retrieval-augmented generation (RAG) pipelines, LangChain agents, MCP, and AI-enabled features for Aroris360 and internal bots.
+
+· Integrate Data Sources: Connect external and internal datasets into AI frameworks and customer workflows.
+
+· Collaborate Cross-Functionally: Partner with product managers, UX, and customer-facing teams to translate business requirements into technical implementations.
+
+· Ensure Compliance and Guardrails: Implement HIPAA/PHI-safe practices, logging, and monitoring to ensure secure and reliable AI outputs.
+
+· Optimize and Monitor: Continuously measure accuracy, performance, and adoption of AI features, applying iterative improvements.
+
+· Evaluate Tools and Vendors: Support build-vs-buy decisions for AI platforms and tools.
+
+· Mentor and Share Knowledge: Contribute to building AI best practices within the engineering organization.
+
+
+
+
+Who You Are:
+
+· 1–5 years of experience as an AI Engineer, ML Engineer, Data Scientist, or Software Engineer with AI/LLM focus.
+
+· Practical experience with LangChain, LlamaIndex, AutoGen, or similar frameworks.
+
+· Experience with prompt engineering.
+
+· Familiarity with vector databases (Pinecone, Weaviate, FAISS, Milvus).
+
+· Experience with cloud platforms like GCP and ML infrastructure tools for AI deployment.
+
+· Strong collaborator and communicator who can work across product, engineering, and data teams.
+
+· Proactive, detail-oriented, organized, and self-sufficient, with a self-starter mentality and ownership attitude.
+
+· Works quickly without sacrificing quality to find creative technical solutions.
+
+· Excited to work at a fast-paced, scaling organization building cutting-edge healthcare technology. 
+
+
+
+
+Great to Have: 
+
+· Retrieval-Augmented Generation experience.
+
+· Proficiency in coding/programming experience (python, node.js) as well as exposure to full-stack integration.
+
+· MLOps/LLMOps/NLP model evaluation, deployment, and monitoring performance metrics.
+
+· Practice with experimentation techniques.
+
+· Proficiency in data manipulation and analysis using tools like pandas, NumPy, and SQL.
+
+ 
+
+Blow Us Away: 
+
+· Experience with B2B software products.
+
+· Growth-stage company experience.
+
+· Healthcare experience.
+
+· Notable experience in a world-class product offering featuring AI.

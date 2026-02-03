@@ -1,0 +1,51 @@
+About the job
+
+(*) This is a remote position; however, the candidate must reside within 30 miles of one of the following locations: Portland, ME; Boston, MA; Chicago, IL; Dallas, TX; San Francisco Bay Area, CA; and Seattle/WA. 
+
+About The Team/Role
+
+We are a group dedicated to enabling payments of all sorts. We help individuals pay bills, we help businesses do the same, and we even help technology firms move funds at high volumes to facilitate their core capabilities.
+
+Our goal is to use our technology to make paying for anything as simple as possible behind the scenes. Our team consists of small, agile development teams focused on building state-of-the-art solutions from the ground up using the best technology available. We focus on cloud-based microservice solutions to help achieve fast, scalable results that allow our business partners the flexibility they need to compete in our competitive market.
+
+Our team of professionals works hard, covers for one another, and maintains a work-life balance. We own our results and we take pride in ownership in everything we do.
+
+How you'll make an impact
+
+Changing The World Isn’t Easy, And We Have a Lot Of Work Ahead Of Us. From New Product Features To Automation To Supporting Microservices, We’ve Got More Work Than We Can Handle, And We’re Looking For Great People To Come Along For The Ride. We Are Looking For
+
+
+ A highly motivated engineer who loves working on small, high-performing teams
+ Collaborative, a solid communicator, and work well with your team and stakeholders
+ Someone who cares deeply for team results, checks your ego at the door and takes pride in owning results
+ A professional who can advocate strongly for positions and still be 100% behind team decisions even if they don’t go your way
+ Are comfortable balancing the need to move fast with the realities of working in a highly regulated space like payments
+ Pick up new technology and switch between tech stacks with a minimum of fuss
+ Are comfortable working on front-end web code, back-end services, data stores, and infrastructure systems
+ Are a solid architect/designer
+ Have experience writing modern software deployed in the cloud
+ Are comfortable with encryption schemes, modern APIs, and front-end frameworks
+ Have worked on agile teams to deliver software iteratively
+
+
+Experience You’ll Bring
+
+
+ Have a BS in an engineering field OR coding bootcamp certification with one year of work/internship experience (preferable)
+ Have experience working with a team on a project
+ A demonstrable working understanding of at least one modern web framework
+ Have experience with one of the following languages: Java, C#, TypeScript
+
+
+It Would Be Nice If You
+
+
+ Have familiarity with Salesforce
+ Can show us one or more passion projects or open-source work you have contributed to in your own time
+ Have experience with JavaScript
+Have experience with at least one cloud platform
+
+
+The base pay range represents the anticipated low and high end of the pay range for this position. Actual pay rates will vary and will be based on various factors, such as your qualifications, skills, competencies, and proficiency for the role. Base pay is one component of WEX's total compensation package. Most sales positions are eligible for commission under the terms of an applicable plan. Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan. WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being. Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more. For more information, check out the "About Us" section.
+
+Pay Range: $68,000.00 - $90,000.00

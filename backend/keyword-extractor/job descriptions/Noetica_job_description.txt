@@ -1,0 +1,77 @@
+About the job
+
+About Noetica
+
+Noetica is solving critical NLP problems at the heart of the trillion-dollar capital markets ecosystem with an in-house machine learning platform and decades of ML PhD expertise. Founded in 2022 and based in New York, our high-caliber team is dedicated to bringing innovation and efficiency to legal and financial industries.
+
+We count many of the top law firms in the world among our customers.
+
+To date we have raised ~$30M with our last round (Series A) led by Lightspeed.
+
+We're fortunate to have been covered by Matt Levine, Bloomberg Law, and Business Insider, amongst others, and named a top AI company 2024 and 2025 by Business Insider, CB Insights, and others.
+
+The Opportunity
+
+The global capital markets are among the largest markets in the world valued at $50T+ and growing. Transactions in these markets are complex. Critical, nuanced legal terms are woven into lengthy documents. These documents must be digested and analyzed by many different parties over the course of a single transaction and multiple decisions are made based on the terms laid out and quantitative and qualitative attributes within. This fundamental need plus a booming market drives enormous demand for precise extraction and benchmarking of legal terms.
+
+Why We Need You
+
+Our customers operate within a constellation of enterprise tools—document management systems, identity providers, fine-grained access managers, and an ever-expanding roster of platforms. The Nexus team exists to establish Noetica as the central node of that graph; ensuring seamless onboarding and maximizing insights for our customers. Without your craft, data would remain siloed, user experiences would fragment, and our product edge would dull. Your work keeps information moving, customers delighted, and innovation accelerating inside a rapidly evolving market.
+
+Here's What You'll Be Doing
+
+As a Software Engineer, Backend at Noetica, you'll be a key player in building the robust foundation of our groundbreaking platform. You will:
+
+
+Craft elegant data bridges. Build services that coalesce diverse third party schemas while absorbing schema drift, partial outages, and every quirky edge-case with composure. 
+Build resilient, performant data syncs. Craft back-pressure-aware pipelines that respect flaky networks and strict rate limits while still achieving near-real-time freshness. 
+Collaborate across disciplines. Pair with ML researchers, product managers, and fellow platform engineers to design contracts that are clear, composable, and future-proof. 
+Raise the bar. Champion code quality, testing strategy, and sustainable operational practices that make on-call a non-event. 
+
+
+Required Qualifications
+
+
+You have a Bachelor’s degree in Computer Science, Information Technology, or a related field (or equivalent experience). 
+You’re well-versed in object-oriented design and familiar with functional programming principles. 
+You are proficient in relational database technologies, modern Python, and concurrency models. 
+Hands-on knowledge of AWS (or another hyperscaler), containerization, and orchestration (Docker, Kubernetes, ECS). 
+Familiarity with modern auth standards (OAuth 2.0, OIDC, SAML) and secret management. 
+Experience designing and operating production-grade backend services that integrate with third-party REST or gRPC APIs. 
+You are a strong communicator, eager collaborator, and self-starting problem solver, eager to learn alongside a team of world class ML researchers. 
+
+
+Preferred Qualifications
+
+
+You are interested in language and economics. 
+You have worked in single-tenant architectures. 
+You’ve implemented change-data-capture or delta-sync patterns at scale. 
+You’re comfortable with data-engineering concepts (Parquet, Protobuf, streaming queues, Airflow/Prefect). 
+You are motivated by having high impact and the growth that comes from moving quickly and adapting to an emerging product landscape. 
+You’ve wrangled rate-limited or eventually consistent partner APIs and built clever ways to maintain synchronicity within the rules. 
+
+
+Compensation
+
+The reasonably estimated yearly salary for this role is $140,000-$209,000 USD. You will also be entitled to receive a significant early stage equity package and benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, and skillset.
+
+Benefits
+
+We offer numerous employee benefits, including:
+
+
+Medical, dental, and vision insurance with 100% employer-paid premiums for employees and 65% for dependents
+Hybrid in-office schedule
+Amazing office location next to Bryant Park/Grand Central
+401(k) retirement plan
+Wellhub (Gympass) fitness membership
+Unlimited PTO
+Unlimited sick days
+Company offsites
+Commuter benefits
+
+
+Equal Opportunity Employment
+
+We are an equal opportunity employer. We search for amazing people of diverse backgrounds, experiences, abilities, and perspectives. We take care of each other to create an inclusive work environment where we love to come to work every day. We'd be happy to provide reasonable accommodations to help you apply—just email us at hiring@noetica.ai. We hope you can join us.

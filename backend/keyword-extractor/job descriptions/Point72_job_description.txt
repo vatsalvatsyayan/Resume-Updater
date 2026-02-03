@@ -1,0 +1,56 @@
+About the job
+
+A Career with Point72’s Technology Team
+
+As Point72 reimagines the future of investing, our Technology group is constantly improving our company’s IT infrastructure, positioning us at the forefront of a rapidly evolving technology landscape. We’re a team of experts experimenting, discovering new ways to harness the power of open source solutions, and embracing enterprise agile methodology. We encourage professional development to ensure you bring innovative ideas to our products while satisfying your own intellectual curiosity.
+
+What you’ll do
+
+
+Improve systems and processes that support an end-to-end market data lifecycle, including acquisition, normalization, control, distribution, and archiving
+Ensure timely and accurate delivery of market data to trading and analytical systems
+Optimize data pipelines and infrastructure to handle large volumes of market data efficiently and with minimal latency
+Collaborate with internal stakeholders to onboard new market data feeds, manage existing data feeds, and resolve issues on an ongoing basis in a timely manner
+Implement and maintain data quality standards and processes, monitoring data integrity and addressing any discrepancies or issues promptly
+Oversee the integration of market data with various trading platforms, analytics tools, and reporting systems
+Stay up to date with industry trends and advancements in market data technologies, and propose and implement enhancements to improve data systems and workflows
+
+
+What’s Required
+
+
+Proficient in creating REST Web Services using C# , .Net Framework, C#, WebApi, MS SQL
+Passion for building mission-critical, elegantly engineered, scalable systems
+Thorough understanding of asynchronous mechanisms used in modern .net development
+Experience building APIs
+Experience with Git source code management
+Experience creating self-contained, reusable, and testable modules and components
+Track record of practicing clean coding practices (SOLID, continuous refactoring, testing)
+Fluency in operating with databases
+Ability to write extensive unit tests using automated TDD tasks
+Experience creating configuration, build, and test scripts for Continuous Integration environments
+Comfortable operating in a fast paced, agile environment
+Professional, precise communication skills
+Commitment to the highest ethical standards
+
+
+We take care of our people
+
+We invest in our people, their careers, their health, and their well-being. When you work here, we provide:
+
+
+Fully-paid health care benefits
+Generous parental and family leave policies
+Mental and physical wellness programs
+Volunteer opportunities
+Non-profit matching gift program
+Support for employee-led affinity groups representing women, minorities and the LGBT+ community
+Tuition assistance
+A 401(k) savings program with an employer match and more
+
+
+About Point72
+
+Point72 Asset Management is a global firm led by Steven Cohen that invests in multiple asset classes and strategies worldwide. Resting on more than a quarter-century of investing experience, we seek to be the industry’s premier asset manager through delivering superior risk-adjusted returns, adhering to the highest ethical standards, and offering the greatest opportunities to the industry’s brightest talent. We’re inventing the future of finance by revolutionizing how we develop our people and how we use data to shape our thinking. For more information, visit www.Point72.com/working-here
+
+The annual base salary range for this role is $250,000-$300,000 (USD) , which does not include discretionary bonus compensation or our comprehensive benefits package. Actual compensation offered to the successful candidate may vary from posted hiring range based upon geographic location, work experience, education, and/or skill level, among other things.

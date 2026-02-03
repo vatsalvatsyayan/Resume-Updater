@@ -1,0 +1,474 @@
+Widger Talent
+
+Full Stack Engineer / TypeScript
+
+Santa Monica, CA · 5 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$140K/yr - $180K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+About the job
+
+﻿Senior Software Engineer (TypeScript)
+
+Austere Moose | Full-Time | Los Angeles (Brentwood)
+
+Widger Talent is assisting with this search
+
+
+
+
+About Austere Moose
+
+Austere Moose is a hands-on venture studio founded by Doug Hirsch and Trevor Bezdek.
+
+
+
+
+After building GoodRx from zero to tens of millions of users, a public company, and billions in consumer savings, Doug and Trevor are back in true zero-to-one mode — building and launching new companies from scratch with a very small, senior team.
+
+
+
+
+What We’re Building
+
+Austere Moose is currently working with companies actively building products such as:
+
+A healthcare AI platform that serves as the AI layer for every healthcare visit — recording conversations, summarizing them, and turning them into structured, actionable outputs for clinicians and systems downstream.
+A consumer device focused on cosmetic skincare.
+
+
+
+
+Our core applications are mobile-first, supported by substantial server-side systems, data pipelines, and AI infrastructure.
+
+
+
+
+The Role
+
+We’re looking for a high-agency, hands-on software engineer who wants to ship real product fast and own it end-to-end — frontend, backend, and infrastructure.
+
+
+
+
+What You’ll Do
+
+Write production code daily across mobile, backend, and APIs
+Build and own systems end-to-end, including deployment and reliability
+Work heavily in TypeScript across frontend and backend
+Ship and scale AI-powered features (including LLM-driven workflows)
+Make pragmatic architectural decisions that balance speed with long-term sanity
+Partner closely with founders and early technical leaders in a small, fast-moving team
+
+
+
+
+Who You Are
+
+5–8+ years of experience shipping production software at a strong tech company or early-stage startup
+Comfortable moving across mobile apps, backend services, and cloud infrastructure
+Strong in TypeScript; experience with React / React Native, Node, and modern APIs
+Have shipped AI- or data-intensive features into real user workflows
+High-agency generalist — you take ownership and don’t wait for perfect requirements
+Entrepreneurial mindset — founder, early employee, or serious side-project builder
+Interested in healthcare and its real-world constraints (deep domain experience not required, but motivation matters)
+Low ego, high judgment, and comfortable working without layers or bureaucracy
+
+
+
+
+The Austere Moose Environment
+
+Small, senior team with direct founder access
+Quiet intensity, high trust, and zero unnecessary process
+Short meetings, fast prototypes, real decisions
+High standards, but humane — we value family time and kindness
+
+
+
+
+Compensation & Benefits
+
+Base salary: $140,000–$180,000 (depending on experience)
+Meaningful equity in the businesses you help build
+Benefits: Medical, dental, vision, 401(k)
+Schedule: In-office core days (Brentwood), flexibility outside of that
+
+
+
+
+How to Apply
+
+Send us:
+
+A brief note on something you shipped end-to-end (what you built, what broke, what you learned)
+A link to a repo, demo, or technical write-up
+Your résumé or LinkedIn profile
+
+We review every application personally.
+
+
+
+
+Austere Moose is an equal-opportunity employer.
+
+… more
+
+Requirements added by the job poster
+
+• 5+ years of work experience with TypeScript
+
+• 5+ years of work experience with Python (Programming Language)
+
+• No need for visa sponsorship
+
+• 5+ years of Software Development experience
+
+• Working in a hybrid setting
+
+Set alert for similar jobs
+
+Full Stack Engineer, Santa Monica, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+135
+
+total
+
+135
+
+in the past day
+
+Candidate seniority level
+
+82% Entry level candidates
+
+13% Senior level candidates
+
+Candidate education level
+
+86
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+14
+
+%
+
+have a Bachelor's Degree
+
+There’s not enough quality data on this company just yet
+
+Once there are 30 complete member profiles from this company, we’ll be able to show you the company’s growth and hiring trends
+
+About the company
+
+Widger Talent
+
+2,428 followers
+
+Follow
+
+Staffing and Recruiting
+
+ • 
+
+2-10 employees
+
+ • 
+
+2 on LinkedIn
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Frontend / Full Stack Engineer, Video Generation Agent
+
+Utopai Studios
+
+Sunnyvale, CA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 12, 2026, 5:42 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Member of Technical Staff
+
+Plato
+
+San Francisco Bay Area (On-site)
+
+$140K/yr - $250K/yr
+
+Posted on October 6, 2025, 10:34 AM
+3 months ago
+
+ · 
+
+ Easy Apply
+
+Frontend / Fullstack Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:55 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Data Engineer
+
+Liza Health
+
+Cambridge, MA (On-site)
+
+Posted on October 31, 2025, 1:26 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Founding UX / Fullstack Engineer
+
+Subconscious AI
+
+New York, NY (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 8:47 AM
+5 days ago
+
+ · 
+
+ Easy Apply
+
+Full-Stack Software Development Engineer
+
+LeaderFactor
+
+Lehi, UT (Hybrid)
+
+Actively reviewing applicants
+
+Posted on September 25, 2025, 1:43 PM
+4 months ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+Secure Salt
+
+San Antonio, Texas Metropolitan Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 4:54 PM
+4 days ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Engineer
+
+ID Privacy AI
+
+United States (Remote)
+
+Posted on January 2, 2026, 5:16 PM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Research Engineer
+
+Company.ai
+
+San Francisco Bay Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 19, 2026, 2:32 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer (Agentic AI) | New York
+
+Lyzr AI
+
+New York City Metropolitan Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 5:49 AM
+4 days ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Developer
+
+Valens Software LLC
+
+Kennesaw, GA (On-site)
+
+$80K/yr - $95K/yr
+
+ • 
+
+Vision, 401(k), +1 benefit
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 8:19 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Engineer
+
+Merato
+
+New York, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 9:18 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

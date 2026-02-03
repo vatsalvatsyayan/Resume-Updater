@@ -1,0 +1,66 @@
+About the job
+
+Radiant is an El Segundo, CA-based startup building the world’s first mass-produced, portable nuclear microreactors. The company’s first reactor, Kaleidos, is a 1-megawatt failsafe microreactor that can be transported anywhere power is needed and run for up to five years without the need to refuel. Portable nuclear power with rapid deploy capability can replace similar-sized diesel generators, and provide critical asset support for hospitals, data centers, remote sites, and military bases. Radiant’s unique, practical approach to nuclear development utilizes modern software engineering to rapidly achieve safe, factory-built microreactors that leverage existing, well-qualified materials. Founded in 2020, Radiant is on track to test its first reactor next year at the Idaho National Laboratory, with initial customer deliveries beginning in 2028.
+
+Software Engineer - New Graduate
+
+Radiant is seeking a driven Software Engineer – New Grad with a strong computer science background. You will collaborate with mechanical, electrical, and nuclear teams to develop software that keeps simulation and analysis for reactor design, development, and maintenance running smoothly. You will have an opportunity to work in an interdisciplinary environment with a high degree of ownership and drive milestones forward to unlock commercialization of the first mass-produced nuclear reactor.
+
+Responsibilities And Duties
+
+
+Create tooling to support simulation software – CI/CD pipelines, data and workflow automation, third-party suite integration.
+Own several internal software products that support mission-critical analysis.
+Support the development of production software for data storage and automation of manufactured parts.
+
+
+Required Qualifications And Skills
+
+
+Bachelor’s degree in computer science, computer engineering, or similar discipline.
+Familiarity with Python, C++, C#, or similar object-oriented programming languages.
+Familiarity with software development and documentation best practices, including version control in Git.
+
+
+Desired Qualifications And Skills
+
+
+Highly self-motivated with strong communication skills.
+Experience writing or contributing to simulation tools.
+Experience testing software and hardware systems.
+Experience with distributed software development and familiarity with common design patterns.
+Interests in physics, hardware, and electrical engineering.
+
+
+Additional Requirements
+
+
+Must be willing to work extended hours and weekends as necessary to achieve company goals.
+Must work 100% onsite at El Segundo HQ.
+
+
+Total Compensation And Benefits
+
+Radiant's new hire compensation package includes base salary, substantial equity grants, and comprehensive benefits. Total compensation and level are determined through a holistic evaluation of your interview performance, experience, education, and qualifications.
+
+Benefits And Perks For Eligible Employees
+
+
+Stock: Substantial incentive stock plan for all full-time employees.
+Medical: 100% up to base silver level plan for employee + 50% dependents, offers up to Platinum plans.
+One Medical: Sponsored memberships for employees and their dependents.
+Vision: 100% top tier plan coverage + 50% for dependents.
+Dental: 100% top tier plan coverage, orthodontia extra, 50% for dependents.
+Voluntary life, accident, hospital, critical illness, commuter and FSA/HSA are offered as employee contributed benefits.
+8-weeks of paid parental leave for all parents. Additional paid pregnancy leave for CA employees.
+Daily catered lunch. Free snacks and drinks.
+Flexible PTO policy. Remote workday allocation.
+Company and team-bonding events, happy hours and in-person camaraderie.
+Beautiful El Segundo headquarters close to the Pacific Ocean.
+
+
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.
+
+Unfortunately, we are unable to provide visa sponsorship at this time. 
+
+This position involves access to technology that is subject to U.S. export controls. Any job offer made will be contingent upon the applicant’s capacity to serve in compliance with U.S. export controls.

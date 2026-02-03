@@ -1,0 +1,25 @@
+About the job
+This job is sourced from a job board. Learn More
+
+Role Name: CRM - .Net/AWS (Kubernetes, Docker) - Developer
+
+Location: Fort Mill, SC
+
+Contract
+
+Job Description
+
+
+ **Must have skills: **
+Excellent knowledge of C# with Multi-threading, Async.
+Good command over OOP concepts, SOLID principles, and Design patterns.
+Experience in REST API/Microservices using ASP.NET Web API. Only ASP.NET MVC is not acceptable.
+Securing web applications using Authentication Tokens, Certificates, OAuth, etc.
+Caching, Distributed caching.
+Pub/Sub, Queues/Topics Message Broker, Anyone Queuing system.
+SQL Server knowledge, Joins, Stored Procedures, Functions, writing complex queries. SSIS/SSRS
+Experience on Lambda, CloudWatch, API Gateway, S3 Bucket, EC2, SNS, SQS, ELB, Docker/Kubernetes & Kafka MQ, IAM, Authorization, and Access control, SaaS, etc.
+Good to Have Skills**
+
+
+(Secondary Skills): Business communication, client-facing and consulting experience, coordination and navigating with stakeholders and offshore team, solutioning mindset.

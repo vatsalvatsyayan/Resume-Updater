@@ -1,0 +1,65 @@
+About the job
+
+Software Engineer
+
+The Software Engineering team delivers next-generation software application enhancements and new products for a changing world. Working at the cutting edge, we design and develop software for platforms, peripherals, applications, and diagnostics - all with the most advanced technologies, tools, software engineering methodologies, and the collaboration of internal and external partners.
+
+Join us as a Software Engineer of the Software Engineering Rotation Program within the Infrastructure Solutions Group in one of the following locations: Round Rock, Texas or Hopkinton, Massachusetts. Be prepared to do the best work of your career and make a profound social impact.
+
+The ISG Engineering Rotation Program allows candidates new to software engineering or systems engineering to join a fast-paced, dynamic organization in a supportive environment that encourages learning and growth. The program consists of 3 rotations, each 12 months long, to allow new hires the ability to learn across different projects, solutions, and technical deliverables needed to bring our products to market. Built into the program are key opportunities for networking, knowledge sharing, and career progression.
+
+What You’ll Achieve
+
+The Infrastructure Solutions Group (ISG) organization delivers the essential infrastructure for the world’s businesses to build their digital future, transform IT from core to cloud to edge and protect their most important asset: information! This includes understanding and rapidly responding to market requirements, effectively planning, and developing future innovations, and leveraging the power of the industry’s most complete portfolio.
+
+You will:
+
+As a Software Engineer of our ISG Software Engineering Rotation Program, you and your team will be driving an end-to-end project that will be making a big impact towards our ISG Strategy.
+
+
+Supported by technical subject matter experts, mentors, and peer advisors that will provide day-to-day support, grow your Dell network, and assimilate you into the Dell and ISG culture
+Complete the rotation program with a deeper understanding of the ISG Engineering portfolio, accelerated technical expertise, and the ability to align your passions to your future career at Dell
+Opportunities for networking, knowledge sharing, and support from across the organization
+
+
+Take the first step towards your dream career
+
+Every Dell Technologies team member brings something unique to the table. Here’s what we are looking for with this role:
+
+Essential Requirements:
+
+
+Currently enrolled in engineering, Technology, or Computer Science related undergraduate fields and expect to graduate between December 2025 and May 2026
+Understanding of Computer Science Foundations and the Software Development Lifecycle, as well as experience in one or more of the following languages: Python, Rust, C, C++, Java, or Golang
+Highly motivated with an agile learning mindset and an ability to ramp up new technologies quickly
+Strong interpersonal and communication skills that will make you a great collaborator in a global team environment
+Ability to proactively solve problems and deliver results while demonstrating accountability, innovation, and detail orientation
+
+
+Desirable Requirements:
+
+
+Understanding of Front-End technologies (such as Spring Framework, Angular/AngularJS, and HTML) or Database technologies (such as SQL and NoSQL)
+Knowledge of kernel/embedded systems programming, including multi-threaded, locking and memory management concepts; experience with Container Management technologies such as Docker or Kubernetes; SCRUM and SCRUM@Scale
+Demonstrate AI literacy and a proactive approach to leveraging AI tools to enhance software development workflows, improve code quality, and accelerate problem-solving.
+
+
+Compensation
+
+Dell is committed to fair and equitable compensation practices. The pay range for this position is $101,745-$131,670.
+
+Benefits And Perks Of Working At Dell Technologies
+
+Your life. Your health. Supported by your benefits. You can explore the overall benefits experience that awaits you as a Dell Technologies team member — right now at MyWellatDell.com.
+
+Who We Are
+
+We believe that each of us has the power to make an impact. That’s why we put our team members at the center of everything we do. If you’re looking for an opportunity to grow your career with some of the best minds and most advanced tech in the industry, we’re looking for you.
+
+Dell Technologies is a unique family of businesses that helps individuals and organizations transform how they work, live and play. Join us to build a future that works for everyone because Progress Takes All of Us.
+
+Application closing date: 9/12/2025
+
+Dell Technologies is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. Read the full Equal Employment Opportunity Policy here.
+
+Job ID:R277297

@@ -1,0 +1,7616 @@
+{
+  "Panasonic Avionics Corporation": {
+    "all_terms": [
+      "AD",
+      "AKS",
+      "API",
+      "AWS",
+      "Apache",
+      "Apache Kafka",
+      "Azure",
+      "Azure DevOps",
+      "Azure Functions",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "CloudFormation",
+      "Code Reviews",
+      "Containerization",
+      "Django",
+      "Docker",
+      "DynamoDB",
+      "DynamoDB Database",
+      "EC2",
+      "EKS",
+      "Express.js",
+      "FastAPI",
+      "Flask",
+      "GCP",
+      "GKE",
+      "GO",
+      "GitLab CI",
+      "JAVA",
+      "JWT",
+      "KAFKA",
+      "Kubernetes",
+      "MVC",
+      "MySQL",
+      "NoSQL",
+      "NoSQL databases",
+      "Node.js",
+      "Object-Oriented",
+      "PostgreSQL",
+      "QA",
+      "RDS",
+      "RabbitMQ",
+      "SQL",
+      "SQL Server NoSQL",
+      "Spring",
+      "Spring Framework",
+      "WiFi",
+      "code review",
+      "devOps",
+      "s3"
+    ],
+    "term_count": 50
+  },
+  "Labelbox": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "AWS DynamoDB",
+      "BackEnd",
+      "CoPilot",
+      "CyberSecurity",
+      "DynamoDB",
+      "ElasticSearch",
+      "GCP",
+      "GCS",
+      "GO",
+      "GitHub Copilot",
+      "Google Cloud",
+      "GraphQL",
+      "GraphQL Cloud",
+      "IT",
+      "JAVA",
+      "KAFKA",
+      "Kubernetes",
+      "ML",
+      "MySQL",
+      "NestJS",
+      "NestJS is a plus",
+      "NoSQL",
+      "NoSQL stores",
+      "Node",
+      "Node.js",
+      "NodeJs",
+      "PostgreSQL",
+      "PubSub",
+      "PubSub Labelbox",
+      "Python",
+      "REACT",
+      "Redux",
+      "SoftBank",
+      "TypeScript",
+      "TypeScript Backend",
+      "UI",
+      "Vertex AI",
+      "frontend UI",
+      "machine learning teams",
+      "react.js"
+    ],
+    "term_count": 43
+  },
+  "Cast & Crew": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "Azure",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CSS",
+      "Code Reviews",
+      "CyberSecurity",
+      "Express.js",
+      "GIT",
+      "GO",
+      "GraphQL",
+      "HTML",
+      "IT",
+      "JWT",
+      "JavaScript",
+      "JavaScript frameworks",
+      "Kubernetes",
+      "LLM",
+      "NextJS",
+      "NoSQL",
+      "NoSQL databases",
+      "Node",
+      "Node.js",
+      "OneCastOneCrew",
+      "PostgreSQL",
+      "REACT",
+      "Redux",
+      "SQL",
+      "SSR",
+      "TypeScript",
+      "UI",
+      "Version control systems",
+      "WebSockets",
+      "devOps",
+      "devOps tools",
+      "react.js",
+      "relational (PostgreSQL"
+    ],
+    "term_count": 41
+  },
+  "Undisclosed": {
+    "all_terms": [
+      ", Node.js",
+      "AD",
+      "AI",
+      "AWS",
+      "Angular",
+      "Azure",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Conduct code reviews",
+      "DeepQuery",
+      "Docker",
+      "GCP",
+      "GIT",
+      "GO",
+      "IT",
+      "JAVA",
+      "Kubernetes",
+      "ML",
+      "MobiusEngine",
+      "NoSQL",
+      "NoSQL databases (e",
+      "Node",
+      "Node.js",
+      "PostgreSQL",
+      "Python",
+      "QA",
+      "REACT",
+      "Ruby",
+      "SQL",
+      "SaaS",
+      "SquarePeg",
+      "Version control systems",
+      "Vue",
+      "Vue.js",
+      "devOps",
+      "relational and NoSQL databases",
+      "version control systems (e"
+    ],
+    "term_count": 38
+  },
+  "Prudential Financial": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "AWS Services",
+      "CloudWatch",
+      "CyberSecurity",
+      "DevSecOps",
+      "GO",
+      "JAVA",
+      "JDBC",
+      "JSON",
+      "JWT",
+      "JavaScript",
+      "MetLife",
+      "MySQL",
+      "MySQL Unit",
+      "NoSQL",
+      "Node",
+      "Node.js",
+      "Object-Oriented",
+      "Python",
+      "REACT",
+      "REST",
+      "SAML",
+      "SOAP",
+      "SSL",
+      "Spring",
+      "SpringBoot",
+      "TDD",
+      "Test-Driven",
+      "Test-Driven Development",
+      "XML",
+      "devOps",
+      "distributed systems",
+      "object-oriented programming"
+    ],
+    "term_count": 36
+  },
+  "Stanford University": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "AWS AgentCore",
+      "AgentCore",
+      "AutoGen",
+      "Azure",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Code Reviews",
+      "IT",
+      "JSON",
+      "LLM",
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex",
+      "LoRA",
+      "ML",
+      "NeMo",
+      "NeMo Guardrails",
+      "Next.js",
+      "Node",
+      "Node.js",
+      "PromptLayer",
+      "Python",
+      "RAG",
+      "REACT",
+      "SageMaker",
+      "SageMaker Pipelines",
+      "TedTalk",
+      "TypeScript",
+      "UI",
+      "Version Control",
+      "vLLM"
+    ],
+    "term_count": 34
+  },
+  "Resmed": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "AWS Services",
+      "Angular",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "CloudFormation",
+      "CloudWatch",
+      "Code Reviews",
+      "DevOps practices",
+      "Docker",
+      "DynamoDB",
+      "GIT",
+      "GO",
+      "IT",
+      "JWT",
+      "JavaScript",
+      "JavaScript/TypeScript",
+      "NoSQL",
+      "OAuth2",
+      "Object-Oriented",
+      "Object-Oriented design",
+      "ProSomnus",
+      "Python",
+      "REACT",
+      "Terraform",
+      "TypeScript",
+      "VirtuOx",
+      "devOps",
+      "s3"
+    ],
+    "term_count": 33
+  },
+  "Winstead PC": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "Angular",
+      "Azure",
+      "Azure Functions",
+      "CSS3",
+      "ES6",
+      "GIT",
+      "GO",
+      "GPT",
+      "GraphQL",
+      "HTML5",
+      "JAVA",
+      "JavaScript",
+      "JavaScript (ES6+)",
+      "NPM",
+      "Node",
+      "Node.js",
+      "Office.js",
+      "Python",
+      "REACT",
+      "REST",
+      "SQL",
+      "SmartMark",
+      "TS",
+      "TypeScript",
+      "UI",
+      "Version Control",
+      "Visual Studio",
+      "Vue.js",
+      "machine learning principles"
+    ],
+    "term_count": 32
+  },
+  "Cognizant": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Azure",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Cloud Computing",
+      "Docker",
+      "ElasticSearch",
+      "GCP",
+      "GIT",
+      "GO",
+      "Go (GoLang)",
+      "GoLang",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "KAFKA",
+      "Kubernetes",
+      "MySQL",
+      "NoSQL",
+      "NoSQL databases",
+      "Python",
+      "Redis",
+      "SQL",
+      "Spring",
+      "Spring Boot",
+      "distributed systems",
+      "large-scale distributed systems",
+      "microservices architecture"
+    ],
+    "term_count": 32
+  },
+  "Akamai Technologies": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "Angular",
+      "BackEnd",
+      "CD",
+      "CDN",
+      "CI",
+      "CI/CD systems",
+      "CoPilot",
+      "Data Structures",
+      "Flask",
+      "GO",
+      "GitHub Copilot",
+      "IT",
+      "JAVA",
+      "LangGraph",
+      "NoSQL",
+      "NoSQL databases",
+      "Object-Oriented",
+      "PostgreSQL",
+      "Python",
+      "RAG",
+      "RemoteHunter",
+      "SQL",
+      "Spring",
+      "TypeScript",
+      "distributed systems",
+      "object-oriented programming",
+      "you FlexBase"
+    ],
+    "term_count": 31
+  },
+  "Yahoo": {
+    "all_terms": [
+      "AI",
+      "API",
+      "AWS",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "ECS",
+      "Flask",
+      "GCP",
+      "GIT",
+      "GO",
+      "Generative AI",
+      "GraphQL",
+      "GraphQL APIs",
+      "GraphQL federation",
+      "IT",
+      "JAVA",
+      "JWT",
+      "Kotlin",
+      "Kubernetes",
+      "Machine Learning",
+      "Node.js",
+      "Python",
+      "REST",
+      "Spring",
+      "Spring Boot",
+      "TypeScript",
+      "UML",
+      "distributed systems",
+      "mTLS"
+    ],
+    "term_count": 30
+  },
+  "Uptime Crew": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CoPilot",
+      "Code Reviews",
+      "Data Structures",
+      "DevSecOps",
+      "Docker",
+      "GCP",
+      "GO",
+      "GitHub Copilot",
+      "IT",
+      "JAVA",
+      "LangChain",
+      "ML",
+      "Machine Learning",
+      "Microservices",
+      "Node",
+      "Python",
+      "REACT",
+      "REST",
+      "SQL",
+      "SemiAnalysis",
+      "Spring",
+      "Spring Boot",
+      "gRPC"
+    ],
+    "term_count": 30
+  },
+  "StackAdapt": {
+    "all_terms": [
+      "10+ billion events",
+      "AD",
+      "AI",
+      "Apache",
+      "Apache Iceberg",
+      "BackEnd",
+      "ClickHouse",
+      "Data Structures",
+      "ElasticSearch",
+      "GO",
+      "GoLang",
+      "HDFS",
+      "IT",
+      "IvyTM",
+      "KAFKA",
+      "Machine Learning",
+      "MariaDB",
+      "Redis",
+      "Redshift, TiDB",
+      "SQL",
+      "SQS",
+      "ScyllaDB",
+      "Sigma360",
+      "StackAdapter",
+      "StackAdapters",
+      "StarRocks",
+      "TiDB",
+      "WeWork",
+      "iOS",
+      "large-scale distributed systems"
+    ],
+    "term_count": 30
+  },
+  "Relativity": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Azure",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "CoFina",
+      "CoPilot",
+      "DevOps practices",
+      "GO",
+      "HighQ",
+      "IT",
+      "JAVA",
+      "KAFKA",
+      "MeeBoss",
+      "Object-Oriented",
+      "Python",
+      "QA",
+      "RelativityOne",
+      "SPARK",
+      "SaaS",
+      "VerQu",
+      "advanced AI",
+      "containerization technologies",
+      "devOps",
+      "distributed systems",
+      "object-oriented principles",
+      "thoughtful code reviews"
+    ],
+    "term_count": 29
+  },
+  "Ticketmaster": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "B2B",
+      "BackEnd",
+      "CD",
+      "CI",
+      "DB",
+      "EC2",
+      "GIT",
+      "GO",
+      "IT",
+      "JAVA",
+      "JS",
+      "Kubernetes",
+      "Linux",
+      "Mongo",
+      "OOP",
+      "OS",
+      "Python",
+      "REACT",
+      "REST",
+      "REST API development",
+      "SQL",
+      "SeatGeek",
+      "WebSockets",
+      "devOps",
+      "s3"
+    ],
+    "term_count": 29
+  },
+  "NewsBreak": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AI/ML",
+      "API",
+      "AWS",
+      "Azure",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Code Reviews",
+      "DevEx",
+      "GCP",
+      "GIT",
+      "GO",
+      "JavaScript",
+      "JetBridge AI Seattle",
+      "Kubernetes",
+      "ML",
+      "MySQL",
+      "Next.js",
+      "PostgreSQL",
+      "Python",
+      "REACT",
+      "ShipMyCards",
+      "TypeScript",
+      "advanced AI",
+      "distributed systems",
+      "iOS",
+      "iOS App Download"
+    ],
+    "term_count": 29
+  },
+  "Adobe": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Amazon AWS",
+      "Apache",
+      "Azure",
+      "BackEnd",
+      "DB",
+      "Data Structures",
+      "Docker",
+      "GCP",
+      "GO",
+      "Hadoop",
+      "IT",
+      "JAVA",
+      "KAFKA",
+      "Kubernetes",
+      "Microsoft Azure",
+      "Mongo",
+      "MySQL",
+      "NoSQL",
+      "PetaBytes",
+      "RemoteHunter",
+      "SPARK",
+      "SQL",
+      "Scala",
+      "SpecSys",
+      "code review"
+    ],
+    "term_count": 28
+  },
+  "Precisely": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Angular",
+      "CD",
+      "CI",
+      "CI/CD tools",
+      "Docker",
+      "GIT",
+      "GO",
+      "GolfForever",
+      "JAVA",
+      "JavaScript",
+      "ML",
+      "Object-Oriented",
+      "Python",
+      "REACT",
+      "REST",
+      "REST APIs",
+      "SQL",
+      "Spring",
+      "Spring Boot",
+      "VoIP",
+      "WebRTC",
+      "eTrigue",
+      "iOS",
+      "object-oriented programming",
+      "peer code reviews"
+    ],
+    "term_count": 28
+  },
+  "CAE": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Angular",
+      "Azure",
+      "BackEnd",
+      "C#",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Docker",
+      "GCP",
+      "GIT",
+      "GO",
+      "K8S",
+      "KAFKA",
+      "Kubernetes",
+      "Linux",
+      "Machine Learning",
+      "OneCAE",
+      "PostgreSQL",
+      "Python",
+      "REACT",
+      "Redis",
+      "TypeScript",
+      "Version control systems",
+      "automotiveMastermind",
+      "containerization technologies"
+    ],
+    "term_count": 28
+  },
+  "Cirrus Logic": {
+    "all_terms": [
+      "AWS",
+      "Ansible",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Containerization",
+      "Docker",
+      "FastAPI",
+      "GIT",
+      "GO",
+      "IT",
+      "Kubernetes",
+      "Linux",
+      "MacOS",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "REACT",
+      "REST",
+      "REST/gRPC APIs",
+      "Redis",
+      "SVN",
+      "Terraform",
+      "Test-Driven",
+      "TypeScript",
+      "Version Control",
+      "clean REST/gRPC APIs",
+      "gRPC"
+    ],
+    "term_count": 28
+  },
+  "Mem0": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CyberSecurity",
+      "Docker",
+      "GCP",
+      "GO",
+      "GraphQL",
+      "K8S",
+      "LLM",
+      "ML",
+      "Next.js",
+      "Postgres",
+      "Python",
+      "RAG",
+      "REST",
+      "Redis",
+      "SSR",
+      "SafeStreets",
+      "TS",
+      "UI",
+      "UX",
+      "WebSockets",
+      "vLLM"
+    ],
+    "term_count": 27
+  },
+  "Mōvi Healthcare": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "Angular",
+      "CD",
+      "CI",
+      "CustomGPT",
+      "Docker",
+      "ECS",
+      "GO",
+      "IT",
+      "KloudStax",
+      "LLM",
+      "Linux",
+      "Mongo",
+      "MyFundedFutures",
+      "NoSQL",
+      "Node",
+      "Node.js",
+      "QA",
+      "SQS",
+      "TDD",
+      "TrueCode",
+      "TypeScript",
+      "Workhelio",
+      "s3"
+    ],
+    "term_count": 26
+  },
+  "Citizen Health": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "CSS",
+      "Code Reviews",
+      "FOXG1",
+      "FastAPI",
+      "GCP",
+      "GO",
+      "HTML",
+      "JavaScript",
+      "MobX",
+      "NoSQL",
+      "PyTest",
+      "REACT",
+      "Redux",
+      "SQL",
+      "Spring",
+      "TypeScript",
+      "UX"
+    ],
+    "term_count": 25
+  },
+  "Sixtyfour": {
+    "all_terms": [
+      "AI",
+      "API",
+      "AWS",
+      "CloudFront",
+      "CloudWatch",
+      "DAG",
+      "DB",
+      "Docker",
+      "ECS",
+      "EKS",
+      "FastAPI",
+      "GraphQL",
+      "JSON",
+      "JWT",
+      "MySQL",
+      "Next.js",
+      "Postgres",
+      "Python",
+      "Redis",
+      "SQS",
+      "TypeScript",
+      "UI",
+      "UX",
+      "WebSockets",
+      "tRPC"
+    ],
+    "term_count": 25
+  },
+  "CGI": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "AWS Services",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "CloudFormation",
+      "Continuous Integration environments",
+      "DynamoDB",
+      "EC2",
+      "EMR",
+      "GO",
+      "Hadoop",
+      "Hive",
+      "IT",
+      "JAVA",
+      "Linux",
+      "PySpark",
+      "Python",
+      "SPARK",
+      "SQL",
+      "s3"
+    ],
+    "term_count": 25
+  },
+  "Cribl": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Azure",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "CircleCI",
+      "ClickHouse",
+      "Code Reviews",
+      "Data Structures",
+      "Docker",
+      "GCP",
+      "GIT",
+      "GO",
+      "GitHub Actions",
+      "IT",
+      "InfluxDB",
+      "JAVA",
+      "JavaScript",
+      "Linux",
+      "Node",
+      "Node.js",
+      "TypeScript",
+      "distributed systems"
+    ],
+    "term_count": 25
+  },
+  "Delta Air Lines": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "AWS CodePipeline",
+      "AWS Services",
+      "Agentic AI",
+      "AngularJS",
+      "AngularJSCloud",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "CodePipeline",
+      "GO",
+      "GolfForever",
+      "IT",
+      "OneTen",
+      "PostgreSQL",
+      "PowerBI",
+      "Python",
+      "REACT",
+      "TeradataBI",
+      "Utopai",
+      "VantageScore"
+    ],
+    "term_count": 25
+  },
+  "IBM": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Amazon AWS",
+      "BackEnd",
+      "Cloud Computing",
+      "Continuous Delivery",
+      "GO",
+      "GoLang",
+      "IT",
+      "IaaS",
+      "JAVA",
+      "JSON",
+      "Linux",
+      "PaaS",
+      "Perl",
+      "Python",
+      "REST",
+      "REST APIs",
+      "Ruby",
+      "SQL",
+      "SaaS",
+      "Web Services",
+      "devOps",
+      "devOps tools"
+    ],
+    "term_count": 25
+  },
+  "Axos Bank": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Azure",
+      "Azure DevOps",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CI/CD tools",
+      "Docker",
+      "GO",
+      "GitLab CI",
+      "Google Cloud Platform",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "Kubernetes",
+      "MetLife",
+      "NoSQL",
+      "REST",
+      "REST APIs",
+      "SemiAnalysis",
+      "containerization tools",
+      "devOps",
+      "microservices architecture"
+    ],
+    "term_count": 25
+  },
+  "Chan Zuckerberg Initiative": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "AWS infrastructure",
+      "CD",
+      "CI",
+      "CI/CD",
+      "CI/CD Pipelines",
+      "CryoET",
+      "Data Structures",
+      "Docker",
+      "EC2",
+      "EKS",
+      "ETL",
+      "IAM",
+      "IT",
+      "JAVA",
+      "Kubernetes",
+      "ML",
+      "Python",
+      "SQL",
+      "SQS",
+      "Terraform",
+      "TileDB",
+      "s3"
+    ],
+    "term_count": 24
+  },
+  "Perpay Inc.": {
+    "all_terms": [
+      "- Perpay+",
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "Angular",
+      "Code Reviews",
+      "Django",
+      "Docker",
+      "Flask",
+      "GO",
+      "IT",
+      "JavaScript",
+      "Kubernetes",
+      "Python",
+      "REACT",
+      "React Native",
+      "Redux",
+      "SaaS",
+      "SaaS Ventures",
+      "Terraform",
+      "Vue",
+      "Vue.js",
+      "iOS"
+    ],
+    "term_count": 24
+  },
+  "Alibaba Cloud": {
+    "all_terms": [
+      "'AI + Cloud",
+      "AD",
+      "AI",
+      "Amazon Web Services",
+      "Azure",
+      "BackEnd",
+      "BrickRed",
+      "C/C++ programming",
+      "Data Structures",
+      "GO",
+      "Google Cloud",
+      "Hadoop",
+      "IT",
+      "IaaS",
+      "Kubernetes",
+      "LLM",
+      "Linux",
+      "ML",
+      "MaaS",
+      "Microsoft Azure",
+      "PaaS",
+      "PyTorch",
+      "Python",
+      "a-Service (PaaS"
+    ],
+    "term_count": 24
+  },
+  "Gap Inc.": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "ArgoCD",
+      "AutoSys",
+      "Azure",
+      "Azure Cloud",
+      "BDD",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Continuous Delivery",
+      "Continuous Integration",
+      "Event-driven",
+      "GO",
+      "JAVA",
+      "KAFKA",
+      "PostgreSQL",
+      "PostgreSQL databases",
+      "Python",
+      "SQL",
+      "Spring",
+      "Spring Boot",
+      "devOps",
+      "distributed systems"
+    ],
+    "term_count": 24
+  },
+  "Zuora": {
+    "all_terms": [
+      "AI",
+      "API",
+      "AWS",
+      "Apache",
+      "Apache Iceberg",
+      "Azure",
+      "CoPilot",
+      "ELT",
+      "ETL",
+      "GCP",
+      "GitHub Copilot",
+      "IT",
+      "JAVA",
+      "KAFKA",
+      "Kubernetes",
+      "Microservices",
+      "Python",
+      "REST",
+      "REST API",
+      "SPARK",
+      "SQL",
+      "Spring",
+      "Terraform"
+    ],
+    "term_count": 23
+  },
+  "Emerson": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Bash",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "CI/CD tools",
+      "Continuous Delivery",
+      "Continuous Integration",
+      "DevOps operations",
+      "EMR",
+      "GO",
+      "GitHub Actions",
+      "IT",
+      "Kubernetes",
+      "REACT",
+      "Terraform",
+      "Version control systems",
+      "VoIP",
+      "WebRTC",
+      "WordPress",
+      "devOps"
+    ],
+    "term_count": 23
+  },
+  "State Farm": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "AWS Cloud services",
+      "Angular",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Docker",
+      "GO",
+      "GitLab CI/CD",
+      "HighQ",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "Kubernetes",
+      "MeeBoss",
+      "Python",
+      "SQL",
+      "Spring",
+      "Spring Framework",
+      "Terraform",
+      "UI"
+    ],
+    "term_count": 23
+  },
+  "Coinbase": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CI/CD processes",
+      "DevX",
+      "GO",
+      "GPU",
+      "IT",
+      "KuCoin",
+      "Kubernetes",
+      "LLM",
+      "LangChain",
+      "ML",
+      "MailMend",
+      "Python",
+      "SemiAnalysis",
+      "Terraform",
+      "TypeScript",
+      "eToro",
+      "machine learning technologies"
+    ],
+    "term_count": 23
+  },
+  "NetJets": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "ArcGIS",
+      "ArcGIS Enterprise",
+      "DynamoDB",
+      "EKS",
+      "FlightPulse",
+      "GO",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "KAFKA",
+      "NetJets Card",
+      "NoSQL",
+      "REACT",
+      "SQL",
+      "TypeScript",
+      "UI",
+      "devOps",
+      "iOS",
+      "schools NetJets",
+      "the NetJets Share"
+    ],
+    "term_count": 23
+  },
+  "McKinsey & Company": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Angular",
+      "Angular.js",
+      "Azure",
+      "CI",
+      "CoPilot",
+      "Docker",
+      "GCP",
+      "GPT",
+      "JAVA",
+      "JavaScript",
+      "McKinsey Digital",
+      "Next.js",
+      "Node",
+      "Node.js",
+      "REACT",
+      "SQL",
+      "TypeScript",
+      "UI",
+      "Vue",
+      "Vue.js",
+      "react.js"
+    ],
+    "term_count": 23
+  },
+  "Lowe's Companies, Inc.": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "ActiveMQ",
+      "CD",
+      "CI",
+      "Code Reviews",
+      "CyberSecurity",
+      "GO",
+      "JAVA",
+      "KAFKA",
+      "ML",
+      "NoSQL",
+      "NoSQL databases",
+      "REACT",
+      "RabbitMQ",
+      "Redux",
+      "SQL",
+      "SQL/NoSQL databases",
+      "Spring",
+      "Spring Boot",
+      "Test-Driven",
+      "UI",
+      "devOps"
+    ],
+    "term_count": 23
+  },
+  "Expedient": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Amazon Web Services",
+      "Azure",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CI/CD",
+      "GCP",
+      "GO",
+      "IT",
+      "IaaS",
+      "JAVA",
+      "JavaScript",
+      "Kubernetes",
+      "ML",
+      "No Use AI",
+      "NoSQL",
+      "Python",
+      "SQL",
+      "devOps",
+      "iOS"
+    ],
+    "term_count": 23
+  },
+  "Clearstory": {
+    "all_terms": [
+      "100% SaaS company",
+      "AD",
+      "AI",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CI/CD tools",
+      "Code Reviews",
+      "DeepQuery",
+      "Django",
+      "ETL",
+      "GIT",
+      "GO",
+      "GoLang",
+      "IT",
+      "MyFundedFutures",
+      "Node",
+      "Node.js",
+      "REACT",
+      "SQL",
+      "SaaS",
+      "TypeScript",
+      "UI"
+    ],
+    "term_count": 23
+  },
+  "Emonics LLC": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Azure",
+      "BackEnd",
+      "CD",
+      "CI",
+      "Code Reviews",
+      "Data Structures",
+      "Docker",
+      "GCP",
+      "GIT",
+      "GO",
+      "IT",
+      "JavaScript",
+      "OOP",
+      "Python",
+      "QA",
+      "REACT",
+      "REST",
+      "SQL",
+      "Tullio",
+      "UI"
+    ],
+    "term_count": 23
+  },
+  "PsiQuantum": {
+    "all_terms": [
+      "AWS",
+      "Ansible",
+      "Bash",
+      "CD",
+      "CI",
+      "CI/CD tools",
+      "CloudWatch",
+      "Code Reviews",
+      "GCP",
+      "GIT",
+      "GlobalFoundries",
+      "IT",
+      "Kubernetes",
+      "Linux",
+      "Mongo",
+      "PostgreSQL",
+      "PowerBI",
+      "PsiQuantum’s mission",
+      "PsiQuantum’s values",
+      "Python",
+      "Terraform",
+      "Version Control",
+      "s3"
+    ],
+    "term_count": 23
+  },
+  "Medtronic": {
+    "all_terms": [
+      "API",
+      "AWS",
+      "AWS Cloud services",
+      "AWS CloudWatch",
+      "AWS Services",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "CloudWatch",
+      "Code Reviews",
+      "DevOps practices",
+      "DynamoDB",
+      "Event-driven",
+      "GIT",
+      "IT",
+      "JAVA",
+      "KAFKA",
+      "Python",
+      "Spring",
+      "devOps",
+      "event-driven systems",
+      "microservices architecture",
+      "s3"
+    ],
+    "term_count": 23
+  },
+  "Thomson Reuters": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Azure",
+      "Code Reviews",
+      "Docker",
+      "GCP",
+      "GO",
+      "Kubernetes",
+      "LexisNexis",
+      "ML",
+      "MLOps",
+      "PyTorch",
+      "Python",
+      "REACT",
+      "TSX",
+      "VoIP",
+      "WebRTC",
+      "WordPress",
+      "containerization tools",
+      "machine learning principles",
+      "machine learning technologies"
+    ],
+    "term_count": 22
+  },
+  "MITRE": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Angular",
+      "Azure",
+      "CSS",
+      "Continuous Delivery",
+      "Continuous Integration",
+      "DevSecOps",
+      "DevSecOps principles",
+      "GIT",
+      "GO",
+      "HTML",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "NoSQL",
+      "Python",
+      "REACT",
+      "RUST",
+      "TypeScript",
+      "Vue"
+    ],
+    "term_count": 22
+  },
+  "The College Board": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Amazon Web Services",
+      "BackEnd",
+      "BigFuture",
+      "CD",
+      "CI",
+      "Continuous Delivery",
+      "Continuous Integration",
+      "GO",
+      "JavaScript",
+      "JavaScript/TypeScript",
+      "Mirai",
+      "Next.js",
+      "Node",
+      "Node.js",
+      "REACT",
+      "ReactJS",
+      "TypeScript",
+      "devOps",
+      "eTrigue"
+    ],
+    "term_count": 22
+  },
+  "Scopely": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Cloud Computing",
+      "Code Reviews",
+      "GO",
+      "GoLang",
+      "Google Cloud",
+      "GraphQL",
+      "JAVA",
+      "JavaScript",
+      "Node",
+      "PlaygamiTM",
+      "REACT",
+      "TIME100",
+      "TrekTM",
+      "Vertex AI",
+      "WebAssembly",
+      "WebGL",
+      "consumerTM",
+      "e.g. WebGL",
+      "gRPC",
+      "iOS"
+    ],
+    "term_count": 22
+  },
+  "Texas Instruments": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Airflow",
+      "CD",
+      "CI",
+      "CoPilot",
+      "Docker",
+      "FastAPI",
+      "GO",
+      "GitHub Copilot",
+      "JavaScript",
+      "Kubernetes",
+      "LLM",
+      "Linux",
+      "MSSQL",
+      "OS",
+      "PostgresSQL",
+      "Python",
+      "REACT",
+      "SQL",
+      "TypeScript",
+      "devOps"
+    ],
+    "term_count": 22
+  },
+  "Prepaire Labs": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Angular",
+      "BSL3",
+      "BackEnd",
+      "GO",
+      "GenetiQ",
+      "GenetiQ-HAiLO",
+      "JAVA",
+      "Kubernetes",
+      "LeapXpert",
+      "ML",
+      "Node",
+      "Node.js",
+      "Python",
+      "REACT",
+      "SQL",
+      "SaaS",
+      "deep learning",
+      "devOps",
+      "healthcare SaaS",
+      "iPSCs"
+    ],
+    "term_count": 22
+  },
+  "ByteDance": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "Build ByteDance",
+      "ByteDancers",
+      "CD",
+      "CI",
+      "CI/CD systems",
+      "CapCut",
+      "DB",
+      "GO",
+      "HDFS",
+      "Hive",
+      "IDE",
+      "K8S",
+      "KAFKA",
+      "LLM",
+      "Lemon8",
+      "Objective-C",
+      "RPC",
+      "ShipMyCards",
+      "Yarn"
+    ],
+    "term_count": 22
+  },
+  "Sony Interactive Entertainment": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Code Reviews",
+      "GO",
+      "GraphQL",
+      "JavaScript",
+      "JavaScript/TypeScript",
+      "PlayStation",
+      "PlayStation Studios",
+      "REACT",
+      "React-based",
+      "RemoteHunter",
+      "SonyInteractive",
+      "TechTree",
+      "TypeScript",
+      "VR",
+      "VieCure",
+      "web3"
+    ],
+    "term_count": 22
+  },
+  "Tin Can": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "Applied AI",
+      "BackEnd",
+      "EC2",
+      "FreeSWITCH",
+      "GO",
+      "IOT",
+      "IT",
+      "IoT devices",
+      "JS",
+      "Node",
+      "PostgreSQL",
+      "Python",
+      "RDS",
+      "VoIP",
+      "VoIP systems",
+      "WordPress",
+      "custom VoIP handsets",
+      "devOps"
+    ],
+    "term_count": 22
+  },
+  "Emerald AI": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Angular",
+      "Azure",
+      "Data Structures",
+      "Docker",
+      "GCP",
+      "GO",
+      "JAVA",
+      "Kubernetes",
+      "ML",
+      "NoSQL",
+      "Node",
+      "Node.js",
+      "PyTorch",
+      "Python",
+      "REACT",
+      "SQL",
+      "UI",
+      "Version Control",
+      "Vue.js",
+      "machine learning models"
+    ],
+    "term_count": 22
+  },
+  "Core4ce": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Angular",
+      "BigBear",
+      "CD",
+      "CI",
+      "CSS",
+      "Computer Science DoD",
+      "GIT",
+      "GO",
+      "GolfForever",
+      "HTML",
+      "IT",
+      "InfoBase Publishers",
+      "JAVA",
+      "JavaScript",
+      "Node",
+      "Node.js",
+      "Python",
+      "REACT",
+      "VoIP",
+      "WebRTC"
+    ],
+    "term_count": 22
+  },
+  "Divergent": {
+    "all_terms": [
+      "AI",
+      "C++ Understanding",
+      "Data Structures",
+      "Django",
+      "FastAPI",
+      "FastAPI Exposure",
+      "GIT",
+      "JavaScript",
+      "ML",
+      "NoSQL",
+      "Node",
+      "Node.js",
+      "Object-Oriented",
+      "Python",
+      "REACT",
+      "REST",
+      "REST APIs",
+      "SQL",
+      "TypeScript",
+      "e.g., SolidWorks/NX",
+      "object-oriented design Familiarity",
+      "version control tools"
+    ],
+    "term_count": 22
+  },
+  "Tinder": {
+    "all_terms": [
+      "AWS",
+      "Azure",
+      "BackEnd",
+      "CD",
+      "CI",
+      "Data Structures",
+      "Docker",
+      "DynamoDB",
+      "ECS",
+      "ElasticSearch",
+      "GO",
+      "IT",
+      "JAVA",
+      "KAFKA",
+      "Kubernetes",
+      "NoSQL",
+      "Node",
+      "Node.js",
+      "Redis",
+      "SPARK",
+      "SparkExperience",
+      "TypeScript"
+    ],
+    "term_count": 22
+  },
+  "ENFOS": {
+    "all_terms": [
+      "API",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "CSS3",
+      "Code Reviews",
+      "Docker",
+      "ES6",
+      "GIT",
+      "HTML5",
+      "JAVA",
+      "JavaScript",
+      "NoSQL",
+      "ORM",
+      "REACT",
+      "Redux",
+      "SQL",
+      "SQL/NoSQL databases",
+      "SaaS",
+      "Spring Boot",
+      "UI",
+      "frontend UI"
+    ],
+    "term_count": 22
+  },
+  "SoFi": {
+    "all_terms": [
+      "AWS",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Code Reviews",
+      "Docker",
+      "DynamoDB",
+      "Employee Rights SoFi",
+      "JAVA",
+      "Kotlin",
+      "Kubernetes",
+      "Microservices",
+      "NoSQL",
+      "OOP",
+      "Object-Oriented",
+      "PostgreSQL",
+      "REST",
+      "REST APIs",
+      "SoFi SoFi",
+      "Spring",
+      "Spring Boot"
+    ],
+    "term_count": 22
+  },
+  "Jerry": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "AllCarTM",
+      "BackEnd",
+      "CD",
+      "CI",
+      "ClickHouse",
+      "Docker",
+      "DynamoDB",
+      "GO",
+      "LLM",
+      "ML",
+      "Machine Learning",
+      "Node",
+      "NodeJs",
+      "Postgres",
+      "Python",
+      "REACT",
+      "Redis",
+      "TypeScript",
+      "TypeScript Infra"
+    ],
+    "term_count": 21
+  },
+  "Pylon": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "Airflow",
+      "ChatGPT",
+      "DBT",
+      "Enterprise AI",
+      "GO",
+      "GraphQL",
+      "GraphQL PostgreSQL",
+      "Haskell",
+      "IT",
+      "IaxaI",
+      "LeapXpert",
+      "ML",
+      "NestJS",
+      "PostgreSQL",
+      "RUST",
+      "TypeScript",
+      "devOps"
+    ],
+    "term_count": 21
+  },
+  "Paycom": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Airflow",
+      "CSS",
+      "DBT",
+      "Docker",
+      "Enterprise AI",
+      "GO",
+      "IaxaI",
+      "JavaScript",
+      "ML",
+      "MySQL",
+      "PHP",
+      "PowerBI",
+      "REACT",
+      "SQL",
+      "Swift",
+      "TS",
+      "TypeScript",
+      "XML",
+      "devOps"
+    ],
+    "term_count": 21
+  },
+  "Amdocs": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "AutoGen",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Django",
+      "FastAPIs",
+      "GO",
+      "IT",
+      "Kubernetes",
+      "LLM",
+      "LangChain",
+      "LangGraph",
+      "Microservices",
+      "PySpark",
+      "Python",
+      "SPARK",
+      "SQL",
+      "Version control systems"
+    ],
+    "term_count": 21
+  },
+  "ConsumerDirect, Inc.": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "AWS Services",
+      "Agentic AI",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Code Reviews",
+      "ConsumerDirect",
+      "EC2",
+      "GIT",
+      "GO",
+      "JAVA",
+      "ML",
+      "ORM",
+      "RDS",
+      "RemoteHunter",
+      "SQS",
+      "Spring"
+    ],
+    "term_count": 21
+  },
+  "MongoDB": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Azure",
+      "Code Reviews",
+      "Data Structures",
+      "Google Cloud",
+      "JAVA",
+      "KAFKA",
+      "Kubernetes",
+      "Machine Learning",
+      "Microsoft Azure",
+      "MongoDB Atlas",
+      "MongoDB, Inc.",
+      "NoSQL",
+      "NoSQL Contributions",
+      "NoSQL databases",
+      "Python",
+      "RUST",
+      "SQL",
+      "distributed systems",
+      "trust MongoDB"
+    ],
+    "term_count": 21
+  },
+  "Visa": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Angular",
+      "CoPilot",
+      "CyberSecurity",
+      "GPT",
+      "GoLang",
+      "Groovy",
+      "HTML",
+      "JAVA",
+      "JavaScript",
+      "LESS",
+      "LLM",
+      "ML",
+      "MySQL",
+      "PowerBI",
+      "Python",
+      "REACT",
+      "REST",
+      "Ruby",
+      "VueJS"
+    ],
+    "term_count": 21
+  },
+  "Cboe Global Markets": {
+    "all_terms": [
+      "AWS",
+      "C#/",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Data Structures",
+      "GCP",
+      "JAVA",
+      "JavaScript",
+      "Linux",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "REACT",
+      "REST",
+      "REST APIs",
+      "React-based",
+      "SQL",
+      "TS",
+      "TypeScript",
+      "microservices architecture"
+    ],
+    "term_count": 21
+  },
+  "FactSet": {
+    "all_terms": [
+      "AWS",
+      "Azure",
+      "CSS3",
+      "Cloud Computing",
+      "FactSet Support",
+      "FactSetter",
+      "GCP",
+      "HTML5",
+      "JAVA",
+      "JavaScript",
+      "KAFKA",
+      "Linux",
+      "Machine Learning",
+      "OOP",
+      "Object-Oriented",
+      "Postgres",
+      "Python",
+      "Ruby",
+      "SQL",
+      "TypeScript",
+      "Vue"
+    ],
+    "term_count": 21
+  },
+  "Tesla": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Docker",
+      "Enterprise AI",
+      "GIT",
+      "GO",
+      "GraphQL",
+      "IaxaI",
+      "Kubernetes",
+      "LeapXpert",
+      "ML",
+      "Next.js",
+      "REACT",
+      "Spring",
+      "TS",
+      "TypeScript",
+      "UI",
+      "UX",
+      "devOps"
+    ],
+    "term_count": 20
+  },
+  "SoGal Ventures": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CSS",
+      "Django",
+      "ECS",
+      "EngineeringPlatform",
+      "GO",
+      "GraphQL",
+      "JavaScript",
+      "ML",
+      "Postgres",
+      "RDS",
+      "REACT",
+      "REST",
+      "Redis"
+    ],
+    "term_count": 20
+  },
+  "General Motors": {
+    "all_terms": [
+      "AI",
+      "API",
+      "BackEnd",
+      "CSS",
+      "Data Structures",
+      "GoLang",
+      "HTML5",
+      "IT",
+      "JAVA",
+      "Java, C/C++",
+      "JavaScript",
+      "Linux",
+      "NodeJS Expertise",
+      "NodeJs",
+      "Object-Oriented",
+      "Python",
+      "ReactJS",
+      "SQL",
+      "distributed systems",
+      "robust distributed systems"
+    ],
+    "term_count": 20
+  },
+  "Pallet": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "CoPallet",
+      "Enterprise AI",
+      "Event-driven",
+      "GCP",
+      "GO",
+      "IaxaI",
+      "Next.js",
+      "Node",
+      "PostgreSQL",
+      "PostgreSQL LLMs",
+      "SaaS",
+      "Spring",
+      "TS",
+      "TypeScript",
+      "VieCure",
+      "event-driven systems",
+      "high-growth SaaS"
+    ],
+    "term_count": 20
+  },
+  "Zip": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "BackEnd",
+      "CoPilot",
+      "EdTech",
+      "GO",
+      "GraphQL",
+      "IT",
+      "No Use AI",
+      "Python",
+      "REACT",
+      "SaaS",
+      "TechCrunch",
+      "TruNeighbor",
+      "TypeScript",
+      "UI",
+      "VentureBeat",
+      "Workhelio",
+      "enterprise SaaS"
+    ],
+    "term_count": 20
+  },
+  "Armada": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Azure",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Code Reviews",
+      "Docker",
+      "GCP",
+      "GO",
+      "Go (GoLang)",
+      "Kubernetes",
+      "MySQL",
+      "NoSQL",
+      "PostgreSQL",
+      "Redis",
+      "SQL",
+      "SQL/NoSQL databases",
+      "Version control systems",
+      "devOps"
+    ],
+    "term_count": 20
+  },
+  "Poshmark": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Amazon AWS",
+      "CSS",
+      "Data Structures",
+      "ElasticSearch",
+      "GO",
+      "HTML5",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "Linux",
+      "NoSQL",
+      "NoSQL data solutions",
+      "RabbitMQ",
+      "Ruby",
+      "ThredUp",
+      "UX",
+      "iPhone"
+    ],
+    "term_count": 20
+  },
+  "Origence": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Azure",
+      "Azure Cloud",
+      "DevOps Experience",
+      "GO",
+      "IT",
+      "JAVA",
+      "LLM",
+      "NoSQL",
+      "REACT",
+      "SQL",
+      "SaaS",
+      "Spring",
+      "Test Driven Development",
+      "TypeScript",
+      "Vue",
+      "Web Services",
+      "devOps"
+    ],
+    "term_count": 20
+  },
+  "Tatari": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AdapTV",
+      "Airflow",
+      "BackEnd",
+      "GraphQL",
+      "KAFKA",
+      "LiveRail",
+      "ML",
+      "Object-Oriented",
+      "Python",
+      "RDS",
+      "REST",
+      "SPARK",
+      "SQL",
+      "TrueCar",
+      "distributed systems",
+      "gRPC",
+      "peer code reviews"
+    ],
+    "term_count": 20
+  },
+  "Pariveda": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Angular",
+      "Azure",
+      "GO",
+      "Google Cloud",
+      "IOT",
+      "JAVA",
+      "JavaScript",
+      "LLM",
+      "Machine Learning",
+      "NestJS",
+      "Python",
+      "REACT",
+      "Redux",
+      "SQL",
+      "Vue",
+      "devOps",
+      "iOS"
+    ],
+    "term_count": 20
+  },
+  "Knauf North America": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Azure",
+      "CSS",
+      "ChartJS",
+      "Docker",
+      "GIT",
+      "HTML",
+      "IT",
+      "JavaScript",
+      "Kubernetes",
+      "Linux",
+      "MacOS",
+      "MacOS UI/UX Ability",
+      "OS",
+      "Python",
+      "SASS",
+      "UI",
+      "UX",
+      "jQuery"
+    ],
+    "term_count": 20
+  },
+  "Picnic": {
+    "all_terms": [
+      "AWS",
+      "Azure",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Code Reviews",
+      "Docker",
+      "Event-driven",
+      "GO",
+      "Google Cloud",
+      "JAVA",
+      "Kubernetes",
+      "NoSQL",
+      "NoSQL databases (e",
+      "PostgreSQL",
+      "Redis",
+      "containerization technologies",
+      "devOps",
+      "relational and/or NoSQL databases"
+    ],
+    "term_count": 20
+  },
+  "Herbalife": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "CSS",
+      "Code Reviews",
+      "GIT",
+      "GO",
+      "HTML",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "Node",
+      "Node.js",
+      "Python",
+      "REACT",
+      "TypeScript",
+      "Version control systems",
+      "iOS",
+      "version control systems (e"
+    ],
+    "term_count": 19
+  },
+  "iTradeNetwork, Inc.": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Angular",
+      "Azure",
+      "Code Reviews",
+      "Data Structures",
+      "GCP",
+      "JAVA",
+      "ML",
+      "NoSQL",
+      "Node",
+      "Node.js",
+      "Object-Oriented",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "iTradeNetwork",
+      "microservices architecture",
+      "object-oriented programming"
+    ],
+    "term_count": 19
+  },
+  "Together AI": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Code Reviews",
+      "FlashAttention",
+      "FlexGen",
+      "GIT",
+      "GO",
+      "GPU",
+      "HighQ",
+      "IT",
+      "LLM",
+      "ML",
+      "No Use AI",
+      "RedPajama",
+      "SaaS",
+      "SaaS companies",
+      "Version control systems",
+      "distributed systems",
+      "version control systems (e"
+    ],
+    "term_count": 19
+  },
+  "TikTok": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Agentic AI",
+      "DeepSeek",
+      "GO",
+      "Inclusion​ TikTok",
+      "JAVA",
+      "KAFKA",
+      "LLM",
+      "ML",
+      "Python",
+      "SPARK",
+      "Software Engineer Heliux",
+      "TikTok TikTok",
+      "TikTok’s efforts",
+      "distributed systems",
+      "machine learning teams",
+      "machine learning workflows",
+      "schools TikTok"
+    ],
+    "term_count": 19
+  },
+  "Docusign": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Azure",
+      "C#",
+      "DocuGPT",
+      "GCP",
+      "GO",
+      "IAM",
+      "IT",
+      "JAVA",
+      "Object-Oriented",
+      "ReBAC",
+      "RemoteHunter",
+      "Test-Driven",
+      "Version Control",
+      "gRPC",
+      "microservice architecture",
+      "robust distributed systems"
+    ],
+    "term_count": 19
+  },
+  "Western Digital": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Docker",
+      "GIT",
+      "GO",
+      "Generative AI",
+      "Google Cloud",
+      "HDD",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "LiveRamp",
+      "NLP",
+      "NetApp Inc.",
+      "Node.js",
+      "Python",
+      "RemoteHunter",
+      "WD_BLACKTM"
+    ],
+    "term_count": 19
+  },
+  "StubHub": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "ChatGPT",
+      "Code Reviews",
+      "Data Structures",
+      "Enterprise AI",
+      "Event-driven",
+      "GO",
+      "GoLang",
+      "IT",
+      "IaxaI",
+      "JAVA",
+      "LLM",
+      "LeapXpert",
+      "Python",
+      "SeatGeek",
+      "Spring",
+      "TS",
+      "event-driven architectures"
+    ],
+    "term_count": 19
+  },
+  "GovDash": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CapCenter",
+      "FrostLocker",
+      "GO",
+      "GovDash Today Work",
+      "LLM",
+      "Next.js",
+      "Node",
+      "Node.js",
+      "REACT",
+      "RUST",
+      "React (TypeScript)",
+      "TopoDOT",
+      "TypeScript",
+      "TypeScript / Node",
+      "TypeScript / Node.js",
+      "UI",
+      "UX"
+    ],
+    "term_count": 19
+  },
+  "Nuro": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "BigQuery",
+      "BigTable",
+      "C++",
+      "Cloud PubSub",
+      "Docker",
+      "DriverTM",
+      "GCP",
+      "GO",
+      "MySQL",
+      "PostgreSQL",
+      "PubSub",
+      "Python",
+      "RPC",
+      "Redis",
+      "cutting-edge AI",
+      "gRPC",
+      "relational (PostgreSQL"
+    ],
+    "term_count": 19
+  },
+  "Herald": {
+    "all_terms": [
+      "AI",
+      "API",
+      "Amazon Web Services",
+      "Azure",
+      "CD",
+      "CI",
+      "Docker",
+      "GO",
+      "Google Cloud Platform",
+      "IT",
+      "Microsoft Azure",
+      "MySQL",
+      "NoSQL",
+      "NoSQL databases (e",
+      "Postgres",
+      "RUST",
+      "Redis",
+      "SaaS",
+      "TypeScript"
+    ],
+    "term_count": 19
+  },
+  "Melissa": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "Apache",
+      "Apache Kafka",
+      "BackEnd",
+      "CouchDB",
+      "Django",
+      "ETL",
+      "GO",
+      "KAFKA",
+      "Linux",
+      "MSSQL",
+      "MyFundedFutures",
+      "NoSQL",
+      "NoSQL databases",
+      "PDF",
+      "SQL",
+      "Web Services"
+    ],
+    "term_count": 19
+  },
+  "Radar": {
+    "all_terms": [
+      "API",
+      "AWS",
+      "Airflow",
+      "BackEnd",
+      "CitiBike",
+      "EKS",
+      "GO",
+      "Kubernetes",
+      "MapLibre",
+      "Node",
+      "Node.js",
+      "Python",
+      "RUST",
+      "Redis",
+      "SaaS",
+      "Scala",
+      "Terraform",
+      "TypeScript",
+      "s3"
+    ],
+    "term_count": 19
+  },
+  "PitchBook": {
+    "all_terms": [
+      "AD",
+      "AWS",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "DevEx",
+      "Docker",
+      "GCP",
+      "IT",
+      "IaaS",
+      "Kubernetes",
+      "Linux",
+      "PaaS",
+      "PostgreSQL",
+      "SQL",
+      "SaaS",
+      "Terraform",
+      "Web Services",
+      "devOps"
+    ],
+    "term_count": 19
+  },
+  "Heliux": {
+    "all_terms": [
+      "AWS",
+      "Docker",
+      "DynamoDB",
+      "ECS",
+      "FastAPI",
+      "Flask",
+      "JAVA",
+      "NextJS",
+      "PostgreSQL",
+      "Python",
+      "RDS",
+      "REACT",
+      "RUST",
+      "SQS",
+      "ThreeJS",
+      "ThreeJS Backend",
+      "TypeScript",
+      "s3",
+      "w/ FastAPI"
+    ],
+    "term_count": 19
+  },
+  "Aquent": {
+    "all_terms": [
+      "Angular",
+      "Aquent RoboHead",
+      "CSS",
+      "GIT",
+      "HTML5",
+      "JSON",
+      "JavaScript",
+      "LESS",
+      "MVC",
+      "QA",
+      "REST",
+      "REST APIs",
+      "RoboHead",
+      "SASS",
+      "Version control systems",
+      "XML",
+      "continuous integration pipelines",
+      "jQuery",
+      "peer code reviews"
+    ],
+    "term_count": 19
+  },
+  "Air Apps": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Azure",
+      "BackEnd",
+      "Code Reviews",
+      "Django",
+      "Express.js",
+      "GCP",
+      "GO",
+      "GraphQL",
+      "JAVA",
+      "NoSQL",
+      "Python",
+      "Ruby",
+      "Spring",
+      "distributed systems",
+      "relational and/or NoSQL databases"
+    ],
+    "term_count": 18
+  },
+  "ServiceNow": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Angular",
+      "Code Reviews",
+      "Data Structures",
+      "GO",
+      "IDE",
+      "IP",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "Object-Oriented",
+      "Object-Oriented design",
+      "REACT",
+      "RiseUp",
+      "UI",
+      "Vue",
+      "iOS"
+    ],
+    "term_count": 18
+  },
+  "Stripe": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Azure",
+      "B2B",
+      "BackEnd",
+      "Code Reviews",
+      "GO",
+      "Google Cloud Platform",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "Python",
+      "Ruby",
+      "SQL",
+      "Scala",
+      "TransSIGHT",
+      "cloud computing platforms"
+    ],
+    "term_count": 18
+  },
+  "nCino": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "AWS infrastructure",
+      "CD",
+      "CI",
+      "Code Reviews",
+      "Docker",
+      "GIT",
+      "GO",
+      "JAVA",
+      "JS",
+      "JavaScript",
+      "ML",
+      "REACT",
+      "SQL",
+      "TypeScript",
+      "devOps",
+      "devOps tools"
+    ],
+    "term_count": 18
+  },
+  "Uare.ai": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "Azure",
+      "B2B",
+      "B2C",
+      "GCP",
+      "GO",
+      "IT",
+      "LivePerson",
+      "LoCascio",
+      "ML",
+      "Machine Learning",
+      "NLP",
+      "RAG",
+      "Robert LoCascio",
+      "machine learning workflows"
+    ],
+    "term_count": 18
+  },
+  "_job_description": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Angular",
+      "BackEnd",
+      "C#",
+      "DuckDuckGo",
+      "GO",
+      "IT",
+      "JAVA",
+      "Object-Oriented",
+      "REST",
+      "REST APIs",
+      "RideController",
+      "SQL",
+      "Spring",
+      "devOps",
+      "object-oriented principles"
+    ],
+    "term_count": 18
+  },
+  "Aroris Health": {
+    "all_terms": [
+      "AI",
+      "Aroris360",
+      "AutoGen",
+      "B2B",
+      "GCP",
+      "LLM",
+      "LangChain",
+      "LangChain agents",
+      "LlamaIndex",
+      "ML",
+      "NLP",
+      "Node.js",
+      "NumPy",
+      "RAG",
+      "SQL",
+      "SaaS",
+      "SaaS solutions",
+      "UX"
+    ],
+    "term_count": 18
+  },
+  "D3": {
+    "all_terms": [
+      "AWS",
+      "BackEnd",
+      "Code Reviews",
+      "D3 D3",
+      "DeFi",
+      "DeFi primitives",
+      "Google Cloud",
+      "GraphQL",
+      "JavaScript",
+      "MySQL",
+      "NestJS",
+      "Node.js",
+      "PostgreSQL",
+      "Python",
+      "Version Control",
+      "distributed systems",
+      "web2",
+      "web3"
+    ],
+    "term_count": 18
+  },
+  "Lincoln Financial": {
+    "all_terms": [
+      "AWS",
+      "Angular",
+      "CD",
+      "CI",
+      "CSS",
+      "DevOps Experience",
+      "DevOps principles",
+      "HTML",
+      "JAVA",
+      "JavaScript",
+      "Kotlin",
+      "SonarQube",
+      "Spring",
+      "Spring Boot",
+      "TDD",
+      "TypeScript",
+      "YouTube",
+      "devOps"
+    ],
+    "term_count": 18
+  },
+  "Patterson Companies, Inc.": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "CoPilot",
+      "GO",
+      "IT",
+      "JavaScript",
+      "ML",
+      "McKesson",
+      "McKesson Corporation",
+      "Object-Oriented",
+      "PiMS",
+      "Python",
+      "SQL",
+      "UI",
+      "UX",
+      "Win32"
+    ],
+    "term_count": 17
+  },
+  "Itential": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Data Structures",
+      "GO",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "Node",
+      "Node.js",
+      "REACT",
+      "SolarWinds",
+      "TypeScript"
+    ],
+    "term_count": 17
+  },
+  "Westfield Insurance": {
+    "all_terms": [
+      "AI",
+      "Azure",
+      "CD",
+      "CI",
+      "Docker",
+      "FastAPI",
+      "IT",
+      "Kubernetes",
+      "LangChain",
+      "LangGraph",
+      "Python",
+      "RAG",
+      "SDK",
+      "SonarQube",
+      "YAML",
+      "devOps",
+      "e.g., SonarQube"
+    ],
+    "term_count": 17
+  },
+  "Cambridge Mobile Telematics": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "EC2",
+      "GO",
+      "IOT",
+      "IoT devices",
+      "MiX Telematics",
+      "NoSQL",
+      "NoSQL Understanding",
+      "Python",
+      "RDS",
+      "RemoteHunter",
+      "SNS",
+      "SQS",
+      "Web Services",
+      "s3"
+    ],
+    "term_count": 17
+  },
+  "Runpod": {
+    "all_terms": [
+      "AI",
+      "CSS",
+      "Code Reviews",
+      "Continuous Integration",
+      "Docker",
+      "FastAPI",
+      "GIT",
+      "GO",
+      "HTML",
+      "JavaScript",
+      "JavaScript frameworks",
+      "Machine Learning",
+      "Python",
+      "REACT",
+      "SDK",
+      "TypeScript",
+      "containerization technologies"
+    ],
+    "term_count": 17
+  },
+  "Develop Health": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "DevOps tooling",
+      "GCP",
+      "GO",
+      "LLM",
+      "Python",
+      "REACT",
+      "React + TypeScript",
+      "RideController",
+      "TypeScript",
+      "devOps"
+    ],
+    "term_count": 17
+  },
+  "Bio-Techne": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "ExosomeDx",
+      "GO",
+      "HTML",
+      "IT",
+      "JavaScript",
+      "Linux",
+      "MySQL",
+      "PHP",
+      "Perl",
+      "Python",
+      "QA",
+      "Ruby",
+      "SQL",
+      "cGMP",
+      "cGxP"
+    ],
+    "term_count": 17
+  },
+  "Northwestern University": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "CSS",
+      "CouchDB",
+      "Data Structures",
+      "GO",
+      "HTML",
+      "JavaScript",
+      "MySQL",
+      "NoSQL",
+      "Node",
+      "Node.js",
+      "Python",
+      "REACT",
+      "SQL"
+    ],
+    "term_count": 17
+  },
+  "CSI": {
+    "all_terms": [
+      "AD",
+      "API",
+      "Azure",
+      "C#",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "GIT",
+      "Git, CI/CD pipelines",
+      "IAM",
+      "IdentityServer",
+      "IdentityServer4",
+      "REST",
+      "REST APIs",
+      "SAML",
+      "SaaS",
+      "devOps"
+    ],
+    "term_count": 17
+  },
+  "Ryan Leckey Media": {
+    "all_terms": [
+      "API",
+      "CSS",
+      "Django",
+      "Docker",
+      "GIT",
+      "HTML",
+      "JavaScript",
+      "Linux",
+      "Object-Oriented",
+      "PHP",
+      "PostgreSQL",
+      "Python",
+      "REST",
+      "REST APIs",
+      "Version control systems",
+      "WordPress",
+      "object-oriented programming"
+    ],
+    "term_count": 17
+  },
+  "Coverdash": {
+    "all_terms": [
+      "30+ top insurers",
+      "API",
+      "AngelList",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Code Reviews",
+      "Docker",
+      "JAVA",
+      "JazzHR",
+      "Linux",
+      "Object-Oriented",
+      "PostgreSQL",
+      "Python",
+      "SaaS",
+      "SaaS providers",
+      "Spring"
+    ],
+    "term_count": 17
+  },
+  "Rillet": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "BackEnd",
+      "BitWarden",
+      "GO",
+      "JAVA",
+      "Kotlin",
+      "NetSuite",
+      "Object-Oriented",
+      "SaaS",
+      "Test-Driven",
+      "Test-Driven Development",
+      "TypeScript",
+      "iOS",
+      "web3"
+    ],
+    "term_count": 16
+  },
+  "Intuit": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "CSS",
+      "GIT",
+      "GO",
+      "Generative AI",
+      "HTML",
+      "JAVA",
+      "JavaScript",
+      "Object-Oriented",
+      "Object-Oriented design",
+      "Python",
+      "QuickBooks",
+      "SaaS",
+      "TurboTax"
+    ],
+    "term_count": 16
+  },
+  "Zapata Quantum": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "GO",
+      "GolfForever",
+      "JavaScript",
+      "LaTeX",
+      "PHP",
+      "REACT",
+      "REST",
+      "Sigma360",
+      "TypeScript",
+      "UI",
+      "UX",
+      "VoIP",
+      "WebRTC"
+    ],
+    "term_count": 16
+  },
+  "Lumen Technologies": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "Cloud Computing",
+      "GO",
+      "IT",
+      "JAVA",
+      "Linux",
+      "Mirai",
+      "Next.js",
+      "Node",
+      "Node.js",
+      "NodeJs",
+      "Python",
+      "SQL",
+      "eTrigue"
+    ],
+    "term_count": 16
+  },
+  "xAI": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "CV",
+      "GO",
+      "IT",
+      "Kubernetes",
+      "ML",
+      "Python",
+      "RUST",
+      "Software Engineer Heliux",
+      "TypeScript",
+      "microservices architecture",
+      "xAI’s mission"
+    ],
+    "term_count": 16
+  },
+  "Navan": {
+    "all_terms": [
+      "AI",
+      "API",
+      "AWS",
+      "BackEnd",
+      "Code Reviews",
+      "CodeGPT",
+      "Data Structures",
+      "Event-driven",
+      "JAVA",
+      "MySQL",
+      "NoSQL",
+      "PostgreSQL",
+      "Spring",
+      "distributed systems",
+      "event-driven systems",
+      "relational and NoSQL databases"
+    ],
+    "term_count": 16
+  },
+  "Neighborly Software": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "AppFolio",
+      "Azure",
+      "Azure DevOps",
+      "C#/",
+      "Code Reviews",
+      "GO",
+      "IT",
+      "ManageCasa",
+      "QA",
+      "REACT",
+      "SaaS",
+      "devOps"
+    ],
+    "term_count": 16
+  },
+  "Anduril Industries": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CD",
+      "CI",
+      "CircleCI",
+      "Data Structures",
+      "GO",
+      "JavaScript",
+      "Linux",
+      "OS",
+      "REACT",
+      "RxJS",
+      "TypeScript",
+      "Version control systems",
+      "gRPC",
+      "gRPC/protobuf"
+    ],
+    "term_count": 16
+  },
+  "One Inc": {
+    "all_terms": [
+      "AI",
+      "AI/ML",
+      "BackEnd",
+      "CSS",
+      "Code Reviews",
+      "GIT",
+      "HTML",
+      "JavaScript",
+      "JavaScript/TypeScript",
+      "LLM",
+      "ML",
+      "Object-Oriented",
+      "Python",
+      "TypeScript",
+      "Version Control",
+      "object-oriented design Familiarity"
+    ],
+    "term_count": 16
+  },
+  "Ramp": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Airflow",
+      "Azure",
+      "BigQuery",
+      "GCP",
+      "GO",
+      "IT",
+      "ML",
+      "Machine Learning",
+      "Python",
+      "RemoteHunter",
+      "SQL",
+      "Terraform",
+      "machine learning models"
+    ],
+    "term_count": 16
+  },
+  "TEGNA": {
+    "all_terms": [
+      "AI",
+      "C#/",
+      "CD",
+      "CI",
+      "Code Reviews",
+      "Event-driven",
+      "GIT",
+      "Git, CI/CD pipelines",
+      "Kubernetes",
+      "Microservices",
+      "REST",
+      "Spring",
+      "Terraform",
+      "devOps",
+      "distributed systems",
+      "microservices architecture"
+    ],
+    "term_count": 16
+  },
+  "American Express": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Ansible",
+      "Bash",
+      "COBOL",
+      "Continuous Integration",
+      "GIT",
+      "GO",
+      "JAVA",
+      "Linux",
+      "NoSQL",
+      "Postgres",
+      "Redis",
+      "containerization technologies",
+      "distributed systems",
+      "relational and NoSQL databases"
+    ],
+    "term_count": 16
+  },
+  "Dell Technologies": {
+    "all_terms": [
+      "AI",
+      "Angular",
+      "AngularJS",
+      "Docker",
+      "GoLang",
+      "HTML",
+      "IT",
+      "JAVA",
+      "Kubernetes",
+      "MyWellatDell",
+      "NoSQL",
+      "Python",
+      "RUST",
+      "SQL",
+      "Spring",
+      "Spring Framework"
+    ],
+    "term_count": 16
+  },
+  "Nipun Capital, L.P.": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Airflow",
+      "BackEnd",
+      "BigQuery",
+      "DataFrames",
+      "GO",
+      "Google Cloud",
+      "Google Cloud Platform",
+      "JavaScript",
+      "Linux",
+      "MySQL",
+      "Python",
+      "SQL",
+      "SQL Server/MySQL",
+      "Vertex AI"
+    ],
+    "term_count": 16
+  },
+  "Lapis": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CD",
+      "CI",
+      "FrostLocker",
+      "GO",
+      "GPU",
+      "PostHog",
+      "REACT",
+      "RUST",
+      "RemoteHunter",
+      "TopoDOT",
+      "TypeScript",
+      "UI",
+      "UX",
+      "distributed systems"
+    ],
+    "term_count": 16
+  },
+  "Profound": {
+    "all_terms": [
+      "AI",
+      "API",
+      "AWS",
+      "Azure",
+      "BackEnd",
+      "GCP",
+      "GO",
+      "Kubernetes",
+      "MySQL",
+      "NoSQL",
+      "NoSQL alternatives",
+      "Node",
+      "Node.js",
+      "PostgreSQL",
+      "Python",
+      "distributed systems"
+    ],
+    "term_count": 16
+  },
+  "Figure": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CD",
+      "CI",
+      "Continuous Integration",
+      "GO",
+      "Google Cloud",
+      "IAM",
+      "IaxaI",
+      "JAVA",
+      "Kotlin",
+      "LeapXpert",
+      "LendingClub",
+      "LinkSquares",
+      "Ruby",
+      "Vertex AI"
+    ],
+    "term_count": 16
+  },
+  "Veeam Software": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AirVet",
+      "Azure",
+      "CSS",
+      "Data Structures",
+      "GO",
+      "HTML",
+      "IT",
+      "JavaScript",
+      "Python",
+      "REACT",
+      "SaaS",
+      "TypeScript",
+      "eTrigue",
+      "iOS"
+    ],
+    "term_count": 16
+  },
+  "DZYNE Technologies": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Docker",
+      "GO",
+      "IOT",
+      "JavaScript",
+      "Node",
+      "PostgreSQL",
+      "Postgres",
+      "REACT",
+      "RemoteHunter",
+      "Use AI",
+      "devOps"
+    ],
+    "term_count": 16
+  },
+  "H-E-B": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "Data Structures",
+      "Docker",
+      "GCP",
+      "GIT",
+      "GO",
+      "JAVA",
+      "Kubernetes",
+      "Node",
+      "Node.js",
+      "Postgres",
+      "QA",
+      "SQL",
+      "SpringBoot"
+    ],
+    "term_count": 16
+  },
+  "Fanatics": {
+    "all_terms": [
+      "AWS",
+      "CD",
+      "CI",
+      "Code Reviews",
+      "Docker",
+      "GO",
+      "JavaScript",
+      "Kubernetes",
+      "MFA",
+      "OAuth2",
+      "REACT",
+      "REST",
+      "REST APIs",
+      "SSO",
+      "TypeScript",
+      "iGaming"
+    ],
+    "term_count": 16
+  },
+  "Molex": {
+    "all_terms": [
+      "API",
+      "AWS",
+      "CSS",
+      "GIT",
+      "HTML",
+      "JavaScript",
+      "MariaDB",
+      "MySQL",
+      "NoSQL",
+      "PostgreSQL",
+      "Python",
+      "REACT",
+      "UI",
+      "UX",
+      "cloud computing platforms",
+      "e.g. MySQL"
+    ],
+    "term_count": 16
+  },
+  "Foxconn Industrial Internet - FII": {
+    "all_terms": [
+      "API",
+      "CSS",
+      "CentOS",
+      "Code Reviews",
+      "Docker",
+      "GIT",
+      "IT",
+      "K8S",
+      "Linux",
+      "Linux (CentOS",
+      "PostgreSQL",
+      "PowerShell",
+      "Python",
+      "RedHat",
+      "SQL",
+      "VueJS"
+    ],
+    "term_count": 16
+  },
+  "Avride": {
+    "all_terms": [
+      "C++ exposure",
+      "CI",
+      "ClickHouse",
+      "Data Structures",
+      "Docker",
+      "FastAPI",
+      "KAFKA",
+      "Kubernetes",
+      "ML",
+      "NumPy",
+      "OLAP",
+      "OLTP",
+      "PostgreSQL",
+      "Python",
+      "QA",
+      "SQL"
+    ],
+    "term_count": 16
+  },
+  "American Airlines": {
+    "all_terms": [
+      "AKS",
+      "Azure",
+      "Azure Cloud",
+      "Azure DevOps",
+      "CD",
+      "CI",
+      "DevOps fundamentals",
+      "GIT",
+      "IT",
+      "JAVA",
+      "Object-Oriented",
+      "Python",
+      "Test-Driven",
+      "Test-Driven Development",
+      "VM",
+      "devOps"
+    ],
+    "term_count": 16
+  },
+  "INRIX": {
+    "all_terms": [
+      "AWS",
+      "AWS Services",
+      "CloudWatch",
+      "CoPilot",
+      "CoPilot Databases",
+      "EC2",
+      "EKS",
+      "EMR",
+      "GitHub Actions",
+      "JAVA",
+      "Python",
+      "RabbitMQ",
+      "Redis",
+      "SPARK",
+      "SQL",
+      "s3"
+    ],
+    "term_count": 16
+  },
+  "Gridmatic": {
+    "all_terms": [
+      "AWS",
+      "BigQuery",
+      "CD",
+      "CI",
+      "GCP",
+      "Google Cloud",
+      "IT",
+      "Kubernetes",
+      "ML",
+      "Machine Learning",
+      "NextJS",
+      "Postgres",
+      "Python",
+      "REACT",
+      "SQL",
+      "Terraform"
+    ],
+    "term_count": 16
+  },
+  "Expedia Group": {
+    "all_terms": [
+      "CSS",
+      "CarRentals",
+      "CheapTickets",
+      "CruisesTM",
+      "Data Structures",
+      "Expedia CruisesTM",
+      "GroupTM",
+      "HTML",
+      "JAVA",
+      "JavaScript",
+      "Kotlin",
+      "Machine Learning",
+      "Object-Oriented",
+      "Version control systems",
+      "comTM",
+      "object-oriented programming"
+    ],
+    "term_count": 16
+  },
+  "Agave": {
+    "all_terms": [
+      "AI",
+      "API",
+      "AWS",
+      "B2B",
+      "B2B SaaS/API company",
+      "EC2",
+      "IT",
+      "Postgres",
+      "REACT",
+      "Redis",
+      "SQL",
+      "SaaS",
+      "TypeScript",
+      "UX",
+      "account-linking UX"
+    ],
+    "term_count": 15
+  },
+  "Cotiviti": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Bash",
+      "GO",
+      "Google Cloud",
+      "IT",
+      "JAVA",
+      "MySQL",
+      "PostgreSQL",
+      "PowerShell",
+      "Python",
+      "SQL",
+      "TypeScript",
+      "Vertex AI"
+    ],
+    "term_count": 15
+  },
+  "Samsara": {
+    "all_terms": [
+      "AI",
+      "BackEnd",
+      "Data Structures",
+      "GoLang",
+      "GraphQL",
+      "IOT",
+      "Node",
+      "Node.js",
+      "OperationsTM",
+      "Python",
+      "REACT",
+      "React Native",
+      "Spring",
+      "TypeScript",
+      "industrial IoT"
+    ],
+    "term_count": 15
+  },
+  "Noetica": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Airflow",
+      "BackEnd",
+      "ECS",
+      "Kubernetes",
+      "ML",
+      "NLP",
+      "Object-Oriented",
+      "Object-Oriented design",
+      "Python",
+      "REST",
+      "SAML",
+      "gRPC",
+      "gRPC APIs"
+    ],
+    "term_count": 15
+  },
+  "Cisco": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Azure",
+      "CyberSecurity",
+      "GO",
+      "Google Cloud",
+      "IT",
+      "JAVA",
+      "Linux",
+      "ML",
+      "Microsoft Azure",
+      "OS",
+      "Python",
+      "QA"
+    ],
+    "term_count": 15
+  },
+  "EvenUp": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "ElasticSearch",
+      "FormAlloy",
+      "GO",
+      "IT",
+      "Kubernetes",
+      "ML",
+      "Machine Learning",
+      "Postgres",
+      "Python",
+      "REACT",
+      "SaaS",
+      "TypeScript",
+      "devOps"
+    ],
+    "term_count": 15
+  },
+  "HockeyStack": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "B2B",
+      "BackEnd",
+      "ClickHouse",
+      "GO",
+      "IT",
+      "JavaScript",
+      "Node",
+      "Node.js",
+      "REACT",
+      "SQL",
+      "SaaS",
+      "TypeScript",
+      "iOS"
+    ],
+    "term_count": 15
+  },
+  "Waystar": {
+    "all_terms": [
+      "1M+ providers",
+      "AD",
+      "AI",
+      "Azure",
+      "Black BookTM surveys",
+      "BookTM",
+      "GO",
+      "IT",
+      "QA",
+      "REACT",
+      "SQL",
+      "VoIP",
+      "WebRTC",
+      "WorldPay",
+      "multiple #1 rankings"
+    ],
+    "term_count": 15
+  },
+  "Aditi Consulting": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AditiConsulting",
+      "CapCenter",
+      "FrostLocker",
+      "GO",
+      "IT",
+      "ML",
+      "REACT",
+      "RUST",
+      "SQL",
+      "UI",
+      "UX",
+      "VisualBasic",
+      "machine learning models"
+    ],
+    "term_count": 15
+  },
+  "Workerbee": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "Data Structures",
+      "FloVision",
+      "GIT",
+      "GO",
+      "JAVA",
+      "NoSQL",
+      "Node",
+      "Node.js",
+      "Python",
+      "devOps",
+      "eTrigue",
+      "iOS"
+    ],
+    "term_count": 15
+  },
+  "Pattern": {
+    "all_terms": [
+      "25+ brilliant minds",
+      "AD",
+      "AI",
+      "CSS",
+      "Code Reviews",
+      "ES6",
+      "GO",
+      "GraphQL",
+      "HTML",
+      "IT",
+      "JavaScript",
+      "REACT",
+      "REST",
+      "TypeScript",
+      "UI"
+    ],
+    "term_count": 15
+  },
+  "Daxwell": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CD",
+      "CI",
+      "EC2",
+      "EKS",
+      "GIT",
+      "GO",
+      "JAVA",
+      "JavaScript",
+      "MVC",
+      "Next.js",
+      "SQL",
+      "Spring",
+      "react.js"
+    ],
+    "term_count": 15
+  },
+  "OKX": {
+    "all_terms": [
+      "AI",
+      "API",
+      "BackEnd",
+      "Code Reviews",
+      "Continuous Integration",
+      "Data Structures",
+      "JavaScript",
+      "KAFKA",
+      "Linux",
+      "MySQL",
+      "Python",
+      "Redis",
+      "SpringBoot",
+      "SpringCloud",
+      "dApps"
+    ],
+    "term_count": 15
+  },
+  "Anthropic": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Agentic AI",
+      "BigQuery",
+      "BigQuery warehouse",
+      "ChatGPT",
+      "EdTech",
+      "FP",
+      "GO",
+      "GPT",
+      "HedgeOS",
+      "HydroJug",
+      "NetSuite",
+      "SQL",
+      "SaaS"
+    ],
+    "term_count": 15
+  },
+  "Tomo": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "AWS",
+      "CMMI L3",
+      "GO",
+      "Kubernetes",
+      "LLM",
+      "Next.js",
+      "OmniVista",
+      "PageSpeed",
+      "Python",
+      "code review",
+      "continuous deployment",
+      "devOps"
+    ],
+    "term_count": 15
+  },
+  "T-Mobile": {
+    "all_terms": [
+      "AD",
+      "Angular",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "CI/CD tools",
+      "Docker",
+      "GO",
+      "JAVA",
+      "Kubernetes",
+      "Python",
+      "SQL",
+      "Spring",
+      "Spring Boot",
+      "devOps"
+    ],
+    "term_count": 15
+  },
+  "CXC": {
+    "all_terms": [
+      "API",
+      "Azure",
+      "C#",
+      "Containerization",
+      "Docker",
+      "Event-driven",
+      "GraphQL",
+      "GraphQL APIs",
+      "KAFKA",
+      "Kubernetes",
+      "Microsoft Azure",
+      "NoSQL",
+      "SQL",
+      "distributed systems",
+      "event-driven architectures"
+    ],
+    "term_count": 15
+  },
+  "Caliber Smart": {
+    "all_terms": [
+      "API",
+      "AWS",
+      "CloudWatch",
+      "Docker",
+      "EC2",
+      "IAM",
+      "MVC",
+      "OOP",
+      "REST",
+      "REST API",
+      "SNS",
+      "SQL",
+      "SQS",
+      "SaaS",
+      "s3"
+    ],
+    "term_count": 15
+  },
+  "Nordstrom": {
+    "all_terms": [
+      "AWS",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "Code Reviews",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "KAFKA",
+      "Kubernetes",
+      "POS+ applications",
+      "REACT",
+      "Redux",
+      "Spring",
+      "Spring Boot"
+    ],
+    "term_count": 15
+  },
+  "Elekta": {
+    "all_terms": [
+      "API",
+      "CD",
+      "CI",
+      "Conduct code reviews",
+      "GIT",
+      "Object-Oriented",
+      "PostgreSQL",
+      "REST",
+      "REST API development",
+      "SOAP",
+      "SQL",
+      "SVN",
+      "Version control systems",
+      "Web Services",
+      "object-oriented programming concepts"
+    ],
+    "term_count": 15
+  },
+  "Brellium": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "BackEnd",
+      "GO",
+      "LangChain",
+      "LlamaIndex",
+      "LlamaIndex Love",
+      "ML",
+      "Next.js",
+      "Python",
+      "REACT",
+      "SQL",
+      "TypeScript"
+    ],
+    "term_count": 14
+  },
+  "Newfront": {
+    "all_terms": [
+      "AI",
+      "Code Reviews",
+      "Continuous Integration",
+      "GO",
+      "JavaScript",
+      "LLM",
+      "ML",
+      "MySQL",
+      "MySQL/PostgreSQL",
+      "Nest.js",
+      "Node.js",
+      "PostgreSQL",
+      "TypeScript",
+      "continuous deployment"
+    ],
+    "term_count": 14
+  },
+  "Valon": {
+    "all_terms": [
+      "60%+ margins",
+      "AD",
+      "AI",
+      "Docker",
+      "GO",
+      "Google Cloud Platform",
+      "IT",
+      "Kubernetes",
+      "Python",
+      "REACT",
+      "VoIP",
+      "WebRTC",
+      "WordPress",
+      "large-scale distributed systems"
+    ],
+    "term_count": 14
+  },
+  "Qualtrics": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Airflow",
+      "Code Reviews",
+      "Continuous Delivery",
+      "Docker",
+      "GO",
+      "IT",
+      "JavaScript",
+      "Kubernetes",
+      "Python",
+      "SoGoSurvey",
+      "TypeScript"
+    ],
+    "term_count": 14
+  },
+  "BlackRock": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Code Reviews",
+      "DashApps",
+      "DashApps Interest",
+      "EC2",
+      "GO",
+      "IT",
+      "MySQL",
+      "NumPy",
+      "Python",
+      "RDS",
+      "SQL"
+    ],
+    "term_count": 14
+  },
+  "Amplify": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "AppSync",
+      "Docker",
+      "DynamoDB",
+      "GO",
+      "GraphQL",
+      "JavaScript",
+      "PostgreSQL",
+      "Python",
+      "Terraform",
+      "WebdriverIO",
+      "devOps"
+    ],
+    "term_count": 14
+  },
+  "Wanderlog": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "BookWithMatrix",
+      "ElasticSearch",
+      "GO",
+      "JavaScript",
+      "Node",
+      "Node.js",
+      "Python",
+      "REACT",
+      "React Native",
+      "Redis",
+      "iOS"
+    ],
+    "term_count": 14
+  },
+  "Front": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Amazon Web Services",
+      "AreaTM",
+      "HootSuite",
+      "JS",
+      "Kubernetes",
+      "MySQL",
+      "Node",
+      "Node.js",
+      "PagerDuty",
+      "Python",
+      "RUST",
+      "VPC"
+    ],
+    "term_count": 14
+  },
+  "eBay": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CD",
+      "CI",
+      "Containerization",
+      "GO",
+      "JAVA",
+      "Kubernetes",
+      "Kubernetes clusters",
+      "Python",
+      "REACT",
+      "TopoDOT",
+      "eBay Inc.",
+      "eBay Message"
+    ],
+    "term_count": 14
+  },
+  "CoFi": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "BackEnd",
+      "C#",
+      "CoFi CoFi",
+      "CodeCraftMD",
+      "CyberSecurity",
+      "GO",
+      "Kubernetes",
+      "PostgreSQL",
+      "REACT",
+      "SQL",
+      "iOS"
+    ],
+    "term_count": 14
+  },
+  "Pulsar Publishing LLC": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Code Reviews",
+      "GIT",
+      "GO",
+      "Next.js",
+      "PHP",
+      "Python",
+      "REACT",
+      "RemoteHunter",
+      "SQL",
+      "TypeScript",
+      "UX",
+      "Version Control"
+    ],
+    "term_count": 14
+  },
+  "AMD": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Bash",
+      "CPU",
+      "GIT",
+      "GO",
+      "JavaScript",
+      "LLM",
+      "Linux",
+      "MacOS",
+      "Machine Learning",
+      "Object-Oriented",
+      "Object-Oriented design",
+      "Python"
+    ],
+    "term_count": 14
+  },
+  "Brain Co.": {
+    "all_terms": [
+      "40+ AI experts",
+      "AD",
+      "AI",
+      "BackEnd",
+      "Code Reviews",
+      "Data Structures",
+      "DeepMind",
+      "GO",
+      "Google DeepMind",
+      "LLM",
+      "ML",
+      "Machine Learning",
+      "PyTorch",
+      "RAG"
+    ],
+    "term_count": 14
+  },
+  "Redfin": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CapCenter",
+      "CoPilot",
+      "FrostLocker",
+      "GO",
+      "GitHub Copilot",
+      "JAVA",
+      "Postgres",
+      "REACT",
+      "RUST",
+      "Spring",
+      "UI",
+      "UX"
+    ],
+    "term_count": 14
+  },
+  "Observe, Inc.": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Apache",
+      "Apache Iceberg",
+      "BackEnd",
+      "Enterprise AI",
+      "GCP",
+      "GO",
+      "IT",
+      "IaxaI",
+      "Kubernetes",
+      "LeapXpert",
+      "distributed systems"
+    ],
+    "term_count": 14
+  },
+  "OmniAI": {
+    "all_terms": [
+      "AI",
+      "API",
+      "Containerization",
+      "Docker",
+      "Next.js",
+      "PDF",
+      "Postgres",
+      "REACT",
+      "SFTP",
+      "SOAP",
+      "TypeScript",
+      "UI",
+      "VPC",
+      "devOps"
+    ],
+    "term_count": 14
+  },
+  "Garner Health": {
+    "all_terms": [
+      "AWS",
+      "AWS Experience",
+      "ElasticSearch",
+      "Flask",
+      "JavaScript",
+      "Kubernetes",
+      "LESS",
+      "NodeJs",
+      "PostgreSQL",
+      "Postgres",
+      "Python",
+      "REACT",
+      "Terraform",
+      "TypeScript"
+    ],
+    "term_count": 14
+  },
+  "Lyft": {
+    "all_terms": [
+      "AWS",
+      "Azure",
+      "CI",
+      "CircleCI",
+      "Code Reviews",
+      "GCP",
+      "GoLang",
+      "Microsoft Azure",
+      "NoSQL",
+      "Object-Oriented",
+      "Python",
+      "TeamCity",
+      "distributed systems",
+      "relational and NoSQL databases"
+    ],
+    "term_count": 14
+  },
+  "IXL Learning": {
+    "all_terms": [
+      "Apache",
+      "ES6",
+      "EdTech",
+      "JAVA",
+      "JavaScript",
+      "Linux",
+      "Python",
+      "REACT",
+      "SQL",
+      "Scala",
+      "Swift",
+      "UI",
+      "iOS",
+      "iOS and Android apps"
+    ],
+    "term_count": 14
+  },
+  "Blossom": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CapCenter",
+      "CoPilot",
+      "FrostLocker",
+      "GO",
+      "GitHub Copilot",
+      "JAVA",
+      "LLM",
+      "Python",
+      "REACT",
+      "TypeScript",
+      "thoughtful code reviews"
+    ],
+    "term_count": 13
+  },
+  "Physical Intelligence": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "CareYaya",
+      "FastAPI",
+      "GO",
+      "IOT",
+      "NoSQL",
+      "SQL",
+      "TS",
+      "TypeScript",
+      "UI",
+      "UX"
+    ],
+    "term_count": 13
+  },
+  "Roblox": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "Code Reviews",
+      "CustomGPT",
+      "Data Structures",
+      "GO",
+      "GetWhys",
+      "JAVA",
+      "Python",
+      "REACT",
+      "TrueCode",
+      "TypeScript"
+    ],
+    "term_count": 13
+  },
+  "Chewy": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "AWS Services",
+      "Ansible",
+      "BackEnd",
+      "Code Reviews",
+      "GO",
+      "JAVA",
+      "NextJS",
+      "PetSmart",
+      "RideController",
+      "Terraform"
+    ],
+    "term_count": 13
+  },
+  "DataAnnotation": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "GO",
+      "JAVA",
+      "JavaScript",
+      "Kotlin",
+      "Machine Learning",
+      "Python",
+      "REACT",
+      "RemoteHunter",
+      "Swift",
+      "TypeScript"
+    ],
+    "term_count": 13
+  },
+  "bioMérieux": {
+    "all_terms": [
+      "5.8 years bioMérieux",
+      "AD",
+      "AI",
+      "BackEnd",
+      "BioMérieux Inc.",
+      "GO",
+      "IT",
+      "OS",
+      "RideController",
+      "bioMerieux",
+      "devOps",
+      "non-bioMerieux",
+      "schools bioMérieux"
+    ],
+    "term_count": 13
+  },
+  "Flamingo": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "BackEnd",
+      "ChatGPT",
+      "Code Reviews",
+      "GO",
+      "JavaScript",
+      "REACT",
+      "RideController",
+      "Strong JavaScript/TypeScript fundamentals",
+      "TypeScript",
+      "modern (JavaScript/TypeScript"
+    ],
+    "term_count": 13
+  },
+  "LPL Financial": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Azure",
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "GCP",
+      "IT",
+      "JAVA",
+      "Kubernetes",
+      "Terraform",
+      "distributed systems",
+      "i.e C++"
+    ],
+    "term_count": 13
+  },
+  "Harry's": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "BackEnd",
+      "ChatGPT",
+      "Code Reviews",
+      "GO",
+      "IT",
+      "JavaScript",
+      "REACT",
+      "Strong JavaScript/TypeScript fundamentals",
+      "TypeScript",
+      "modern (JavaScript/TypeScript"
+    ],
+    "term_count": 13
+  },
+  "Nominal": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Azure",
+      "BackEnd",
+      "CD",
+      "CI",
+      "CI/CD",
+      "Docker",
+      "GCP",
+      "GO",
+      "Kubernetes",
+      "SpaceX"
+    ],
+    "term_count": 13
+  },
+  "Apple": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BashnmacOS",
+      "CD",
+      "CI",
+      "CyberSecurity",
+      "GO",
+      "IT",
+      "Python",
+      "devOps",
+      "iOS",
+      "iPad",
+      "iPhone"
+    ],
+    "term_count": 13
+  },
+  "Clipboard": {
+    "all_terms": [
+      "AWS",
+      "Dart",
+      "DevX",
+      "ECS",
+      "Leverage MongoDB",
+      "NestJS",
+      "Node",
+      "Node/NestJS",
+      "Postgres",
+      "REACT",
+      "Redis",
+      "Terraform",
+      "TypeScript"
+    ],
+    "term_count": 13
+  },
+  "Widger Talent": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Agentic AI",
+      "GO",
+      "LLM",
+      "LeaderFactor",
+      "Node",
+      "Python",
+      "REACT",
+      "TypeScript",
+      "UX",
+      "Utopai"
+    ],
+    "term_count": 12
+  },
+  "Spotify": {
+    "all_terms": [
+      "AI",
+      "BackEnd",
+      "Continuous Delivery",
+      "Data Structures",
+      "GCP",
+      "GIT",
+      "IT",
+      "JAVA",
+      "Kubernetes",
+      "PagerDuty",
+      "Spring",
+      "Spring Boot"
+    ],
+    "term_count": 12
+  },
+  "Cohesity": {
+    "all_terms": [
+      "AI",
+      "Code Reviews",
+      "Data Structures",
+      "GIT",
+      "GO",
+      "JAVA",
+      "Linux",
+      "Object-Oriented",
+      "Python",
+      "QA",
+      "distributed systems",
+      "object-oriented programming concepts"
+    ],
+    "term_count": 12
+  },
+  "Trilon Group": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Azure",
+      "JavaScript",
+      "LangChain",
+      "ML",
+      "MLOps",
+      "Microsoft Azure",
+      "Python",
+      "RAG",
+      "Version Control",
+      "machine learning models"
+    ],
+    "term_count": 12
+  },
+  "GM Financial": {
+    "all_terms": [
+      "AI",
+      "API",
+      "Azure",
+      "Azure DevOps",
+      "GIT",
+      "LLM",
+      "ML",
+      "Python",
+      "RAG",
+      "SQL",
+      "devOps",
+      "microservices architecture"
+    ],
+    "term_count": 12
+  },
+  "Plumb Bill Pay": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Agentic AI",
+      "BackEnd",
+      "ChatGPT",
+      "GO",
+      "LLM",
+      "ML",
+      "PhD-level",
+      "PhD-level candidates",
+      "PlumbBillPay",
+      "UX"
+    ],
+    "term_count": 12
+  },
+  "Sierra Business Solution": {
+    "all_terms": [
+      "AI",
+      "GO",
+      "Google Labs",
+      "Google Lens",
+      "Google Maps",
+      "Google Workspace",
+      "Google’s AR/VR effort",
+      "LLM",
+      "RAG",
+      "REACT",
+      "TypeScript",
+      "VR"
+    ],
+    "term_count": 12
+  },
+  "HackerRank": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "CodeSignal",
+      "GO",
+      "HackerRank’s decade",
+      "IT",
+      "LeetCode",
+      "ML",
+      "RL",
+      "TechTree",
+      "distributed systems"
+    ],
+    "term_count": 12
+  },
+  "Eventual": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Azure",
+      "CloudKitchens",
+      "CoPilot",
+      "GCP",
+      "GPU",
+      "GitHub Copilot",
+      "ML",
+      "Python",
+      "RUST",
+      "distributed systems"
+    ],
+    "term_count": 12
+  },
+  "Nutanix": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Agentic AI",
+      "Azure",
+      "GCP",
+      "GO",
+      "ML",
+      "NuShades",
+      "Python",
+      "distributed systems",
+      "iOS"
+    ],
+    "term_count": 12
+  },
+  "Ascent Administration Services": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "BackEnd",
+      "GO",
+      "IT",
+      "JavaScript",
+      "Python",
+      "Use AI",
+      "Version Control",
+      "Vue",
+      "Vue.js"
+    ],
+    "term_count": 12
+  },
+  "Optimum": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "GIT",
+      "GO",
+      "Google Cloud",
+      "IT",
+      "InnovAsian",
+      "JavaScript",
+      "NodeJs",
+      "Python",
+      "REACT"
+    ],
+    "term_count": 12
+  },
+  "Moveworks": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Agentic AI",
+      "GO",
+      "GoLang",
+      "HighQ",
+      "IT",
+      "JAVA",
+      "LLM",
+      "Machine Learning",
+      "Python",
+      "ZeroDrift"
+    ],
+    "term_count": 12
+  },
+  "Circle": {
+    "all_terms": [
+      "API",
+      "AWS",
+      "Azure",
+      "Code Reviews",
+      "GO",
+      "Google Cloud",
+      "JAVA",
+      "Microsoft Azure",
+      "Object-Oriented",
+      "SQL",
+      "distributed systems",
+      "microservice architecture"
+    ],
+    "term_count": 12
+  },
+  "Mayo Clinic": {
+    "all_terms": [
+      "Ansible",
+      "Azure",
+      "Cloud Computing",
+      "CloudFormation",
+      "Code Reviews",
+      "GO",
+      "GoLang",
+      "JAVA",
+      "Machine Learning",
+      "Python",
+      "Terraform",
+      "devOps"
+    ],
+    "term_count": 12
+  },
+  "WeRide": {
+    "all_terms": [
+      "C++",
+      "CPU",
+      "DinnerPaid",
+      "GO",
+      "GPU",
+      "JAVA",
+      "OS",
+      "Python",
+      "Test-Driven",
+      "Test-Driven Development",
+      "distributed systems",
+      "machine learning models"
+    ],
+    "term_count": 12
+  },
+  "DoorDash": {
+    "all_terms": [
+      "CockroachDB",
+      "DoorDash Engineering",
+      "DynamoDB",
+      "GoLang",
+      "JAVA",
+      "KAFKA",
+      "NoSQL",
+      "NoSQL databases",
+      "RPC",
+      "Redis",
+      "distributed systems",
+      "gRPC"
+    ],
+    "term_count": 12
+  },
+  "Rivian": {
+    "all_terms": [
+      "AWS",
+      "CI",
+      "Containerization",
+      "Docker",
+      "DynamoDB",
+      "GraphQL",
+      "JAVA",
+      "Kubernetes",
+      "RDS",
+      "REST",
+      "Test-Driven",
+      "UX"
+    ],
+    "term_count": 12
+  },
+  "HaulPay": {
+    "all_terms": [
+      "API",
+      "AWS",
+      "Django",
+      "Docker",
+      "Kubernetes",
+      "PostgreSQL",
+      "Python",
+      "REACT",
+      "SaaS",
+      "SaaS solutions",
+      "TypeScript",
+      "devOps"
+    ],
+    "term_count": 12
+  },
+  "Freddie Mac": {
+    "all_terms": [
+      "BountyJobs",
+      "CD",
+      "CI",
+      "GIT",
+      "JS",
+      "Kubernetes",
+      "Linux",
+      "Postgres",
+      "Python",
+      "SQL",
+      "Version Control",
+      "devOps"
+    ],
+    "term_count": 12
+  },
+  "Supermicro": {
+    "all_terms": [
+      "API",
+      "Cloud Computing",
+      "Hadoop",
+      "IOT",
+      "IT",
+      "JAVA",
+      "MSSQL",
+      "MySQL",
+      "PHP",
+      "Python",
+      "Shell",
+      "UI"
+    ],
+    "term_count": 12
+  },
+  "Rohde & Schwarz": {
+    "all_terms": [
+      "DevOps processes",
+      "Linux",
+      "OS",
+      "PHP",
+      "Python",
+      "RUST",
+      "SQL",
+      "TeamCity",
+      "VoIP",
+      "VoIP protocols SIP",
+      "devOps",
+      "tools (TeamCity"
+    ],
+    "term_count": 12
+  },
+  "Philips": {
+    "all_terms": [
+      "Angular",
+      "C++",
+      "CSS",
+      "HTML",
+      "HTML5",
+      "JavaScript",
+      "Linux",
+      "PIIC iX",
+      "SQL",
+      "Visual Studio",
+      "Web technologies (C#",
+      "devOps"
+    ],
+    "term_count": 12
+  },
+  "McDonald's": {
+    "all_terms": [
+      "65M+ customers",
+      "AI",
+      "AWS",
+      "Data Structures",
+      "GCP",
+      "GIT",
+      "IntelliJ",
+      "McDelivery",
+      "McDonald",
+      "Object-Oriented",
+      "Object-Oriented design"
+    ],
+    "term_count": 11
+  },
+  "Pattern Data": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "BackEnd",
+      "ElasticSearch",
+      "GO",
+      "GraphQL",
+      "PostgreSQL",
+      "REACT",
+      "Scala",
+      "TypeScript"
+    ],
+    "term_count": 11
+  },
+  "Rubrik": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "BackEnd",
+      "Docker",
+      "GO",
+      "Kubernetes",
+      "Python",
+      "Scala",
+      "YouTube",
+      "rubrikInc"
+    ],
+    "term_count": 11
+  },
+  "NetApp": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Data Structures",
+      "GO",
+      "IT",
+      "NetApp NetApp",
+      "NetApp’s cloud",
+      "OS",
+      "QA",
+      "RemoteHunter",
+      "schools NetApp"
+    ],
+    "term_count": 11
+  },
+  "Commerce": {
+    "all_terms": [
+      "AI",
+      "Angular",
+      "BigCommerce",
+      "GoLang",
+      "Node",
+      "PHP",
+      "REACT",
+      "Ruby",
+      "Scala",
+      "TypeScript",
+      "eCommerce"
+    ],
+    "term_count": 11
+  },
+  "Lenovo": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Azure",
+      "C++ experience",
+      "GCP",
+      "Kotlin",
+      "ML",
+      "Python",
+      "iOS",
+      "integratingAI",
+      "orJira"
+    ],
+    "term_count": 11
+  },
+  "Whop": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Azure",
+      "Azure Cloud",
+      "BackEnd",
+      "GO",
+      "IT",
+      "IvoryCloud",
+      "SDK",
+      "UI",
+      "almost B+"
+    ],
+    "term_count": 11
+  },
+  "Salient": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Agentic AI",
+      "GO",
+      "JavaScript",
+      "PoCs",
+      "Python",
+      "QA",
+      "Software Engineer Heliux",
+      "TypeScript",
+      "not just PoCs"
+    ],
+    "term_count": 11
+  },
+  "Databricks": {
+    "all_terms": [
+      "AI",
+      "Apache",
+      "Apache SparkTM",
+      "BackEnd",
+      "Data Structures",
+      "JAVA",
+      "OOP",
+      "Python",
+      "SparkTM",
+      "UI",
+      "UX"
+    ],
+    "term_count": 11
+  },
+  "MSCI Inc.": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "ChatGPT",
+      "GO",
+      "IT",
+      "JavaScript",
+      "Python",
+      "REACT",
+      "SQL",
+      "SemiAnalysis"
+    ],
+    "term_count": 11
+  },
+  "Sierra": {
+    "all_terms": [
+      "AI",
+      "GO",
+      "Google Labs",
+      "Google Lens",
+      "Google Maps",
+      "Google Workspace",
+      "Google’s AR/VR effort",
+      "Python",
+      "REACT",
+      "TypeScript",
+      "VR"
+    ],
+    "term_count": 11
+  },
+  "Rockstar Games": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "DevOps Engineer",
+      "GO",
+      "IP",
+      "IT",
+      "PowerShell",
+      "Python",
+      "SQL",
+      "TCP",
+      "devOps"
+    ],
+    "term_count": 11
+  },
+  "Lovable": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "CustomGPT",
+      "DevRel",
+      "DevRel Experience",
+      "GCP",
+      "GO",
+      "GetWhys",
+      "TrueCode",
+      "TypeScript"
+    ],
+    "term_count": 11
+  },
+  "Artisan": {
+    "all_terms": [
+      "AI",
+      "BackEnd",
+      "CD",
+      "CI",
+      "Kubernetes",
+      "M+ ARR",
+      "NoSQL",
+      "SQL",
+      "SumUp",
+      "TypeScript",
+      "distributed systems"
+    ],
+    "term_count": 11
+  },
+  "Mercor": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Code Reviews",
+      "Data Structures",
+      "GCP",
+      "GO",
+      "NoSQL",
+      "RUST",
+      "SQL",
+      "SQL/NoSQL databases",
+      "distributed systems"
+    ],
+    "term_count": 11
+  },
+  "Twilio": {
+    "all_terms": [
+      "API",
+      "AWS",
+      "Containerization",
+      "Docker",
+      "DynamoDB",
+      "DynamoDB Experience",
+      "GO",
+      "JAVA",
+      "Kubernetes",
+      "NoSQL",
+      "NoSQL databases"
+    ],
+    "term_count": 11
+  },
+  "Comcast": {
+    "all_terms": [
+      "API",
+      "IT",
+      "JAVA",
+      "Linux",
+      "NoSQL",
+      "NoSQL databases",
+      "NoSQL databases (e",
+      "Object-Oriented",
+      "Object-Oriented design",
+      "REST",
+      "SQL"
+    ],
+    "term_count": 11
+  },
+  "Numerator": {
+    "all_terms": [
+      "API",
+      "AWS",
+      "AWS Experience",
+      "BackEnd",
+      "MySQL",
+      "Object-Oriented",
+      "Postgres",
+      "Python",
+      "RabbitMQ",
+      "Ruby",
+      "e.g. MySQL"
+    ],
+    "term_count": 11
+  },
+  "Realtor.com": {
+    "all_terms": [
+      "AWS",
+      "Code Reviews",
+      "GCP",
+      "JAVA",
+      "JavaScript",
+      "Kotlin",
+      "Object-Oriented",
+      "Python",
+      "SQL",
+      "Test-Driven",
+      "TypeScript"
+    ],
+    "term_count": 11
+  },
+  "Moab": {
+    "all_terms": [
+      "B2B",
+      "CD",
+      "CI",
+      "IT",
+      "Postgres",
+      "Python",
+      "REACT",
+      "SaaS",
+      "TypeScript",
+      "react.js",
+      "selling B2B SaaS"
+    ],
+    "term_count": 11
+  },
+  "Everlaw": {
+    "all_terms": [
+      "EverlawWe",
+      "GIT",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "Linux",
+      "Python",
+      "YoursAt",
+      "YoursAt Everlaw",
+      "devOps",
+      "eDiscovery"
+    ],
+    "term_count": 11
+  },
+  "Lucid Software": {
+    "all_terms": [
+      "AWS",
+      "Angular",
+      "CSS",
+      "DOM",
+      "HTML",
+      "HTML5",
+      "JavaScript",
+      "JavaScript Experience",
+      "MySQL",
+      "Scala",
+      "TypeScript"
+    ],
+    "term_count": 11
+  },
+  "Zebra Technologies": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "DB",
+      "GoLang",
+      "Google Cloud Platform",
+      "JAVA",
+      "Spring",
+      "TDD",
+      "Vertex AI",
+      "iOS"
+    ],
+    "term_count": 10
+  },
+  "Character.AI": {
+    "all_terms": [
+      "AI",
+      "CSS",
+      "GoLang",
+      "HTML",
+      "Python",
+      "REACT",
+      "React Native",
+      "TypeScript",
+      "UI",
+      "UX"
+    ],
+    "term_count": 10
+  },
+  "Stord": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "B2B",
+      "BackEnd",
+      "BrickRed",
+      "GO",
+      "Python",
+      "ShipBob",
+      "Tullio",
+      "fox59"
+    ],
+    "term_count": 10
+  },
+  "Cox Automotive Inc.": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Azure",
+      "CoPilot",
+      "Code Reviews",
+      "GCP",
+      "HTML",
+      "JavaScript",
+      "ReactJS",
+      "e.g., GitHub Copilot"
+    ],
+    "term_count": 10
+  },
+  "Scale AI": {
+    "all_terms": [
+      "AI",
+      "Generative AI",
+      "ML",
+      "Python",
+      "RAG",
+      "REACT",
+      "Spring",
+      "TypeScript",
+      "UI",
+      "UX"
+    ],
+    "term_count": 10
+  },
+  "Oakmont Consulting": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "GCP",
+      "GO",
+      "Node",
+      "Node.js",
+      "Python",
+      "REACT",
+      "SaaS",
+      "TypeScript"
+    ],
+    "term_count": 10
+  },
+  "Eudia": {
+    "all_terms": [
+      "AI",
+      "Code Reviews",
+      "GO",
+      "IT",
+      "JAVA",
+      "Machine Learning",
+      "Python",
+      "cloud computing platforms",
+      "cloud computing platforms (e",
+      "cutting-edge AI"
+    ],
+    "term_count": 10
+  },
+  "Snowflake": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BigQuery",
+      "GO",
+      "Google BigQuery",
+      "IT",
+      "JAVA",
+      "Python",
+      "SQL",
+      "large-scale distributed systems"
+    ],
+    "term_count": 10
+  },
+  "Teradyne": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "ClearCase",
+      "Data Structures",
+      "GO",
+      "JavaScript",
+      "Machine Learning",
+      "MetLife",
+      "Visual Studio"
+    ],
+    "term_count": 10
+  },
+  "Robinhood": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "Enterprise AI",
+      "GO",
+      "IT",
+      "IaxaI",
+      "LeapXpert",
+      "Python",
+      "Spring"
+    ],
+    "term_count": 10
+  },
+  "Ladders": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "GO",
+      "JAVA",
+      "Node",
+      "Node.js",
+      "Python",
+      "REACT",
+      "Scala"
+    ],
+    "term_count": 10
+  },
+  "Comulate": {
+    "all_terms": [
+      "AI",
+      "GraphQL",
+      "LiveRamp",
+      "Next.js",
+      "Node",
+      "Postgres",
+      "REACT",
+      "SPARK",
+      "Spark Capital",
+      "TypeScript"
+    ],
+    "term_count": 10
+  },
+  "Novaflow (YC S25)": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "GO",
+      "Google Cloud",
+      "PostgreSQL",
+      "Python",
+      "REACT",
+      "TypeScript",
+      "Vertex AI"
+    ],
+    "term_count": 10
+  },
+  "A1": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "Docker",
+      "GO",
+      "NoSQL",
+      "NodeJs",
+      "PyTorch",
+      "Python",
+      "noSQL Kubernetes"
+    ],
+    "term_count": 10
+  },
+  "Stanford University School of Medicine": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Docker",
+      "GCP",
+      "GO",
+      "Python",
+      "cloud computing platforms",
+      "cloud computing platforms (e",
+      "distributed systems"
+    ],
+    "term_count": 10
+  },
+  "Pear VC": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "BackEnd",
+      "CD",
+      "CI",
+      "GCP",
+      "LLM",
+      "LangChain",
+      "Python",
+      "TypeScript"
+    ],
+    "term_count": 10
+  },
+  "Verkada": {
+    "all_terms": [
+      "DynamoDB",
+      "GO",
+      "KAFKA",
+      "Kubernetes",
+      "Postgres",
+      "Python",
+      "REST",
+      "REST APIs",
+      "SQS",
+      "Terraform"
+    ],
+    "term_count": 10
+  },
+  "Nike": {
+    "all_terms": [
+      "AWS",
+      "Docker",
+      "JavaScript",
+      "PostgreSQL",
+      "Python",
+      "REACT",
+      "TypeScript",
+      "UI",
+      "devOps",
+      "machine learning workflows"
+    ],
+    "term_count": 10
+  },
+  "Honeywell": {
+    "all_terms": [
+      "Azure",
+      "CD",
+      "CI",
+      "Code Reviews",
+      "Docker",
+      "GIT",
+      "GitHub Actions",
+      "KAFKA",
+      "Kubernetes",
+      "Python"
+    ],
+    "term_count": 10
+  },
+  "Ciena": {
+    "all_terms": [
+      "CI",
+      "Docker",
+      "GIT",
+      "Kubernetes",
+      "Linux",
+      "OS",
+      "Python",
+      "REST",
+      "UX",
+      "gRPC"
+    ],
+    "term_count": 10
+  },
+  "BeaconFire Inc.": {
+    "all_terms": [
+      "AWS",
+      "Azure",
+      "Code Reviews",
+      "Data Structures",
+      "GIT",
+      "Google Cloud",
+      "JAVA",
+      "Object-Oriented",
+      "Version control systems",
+      "object-oriented programming"
+    ],
+    "term_count": 10
+  },
+  "Audible": {
+    "all_terms": [
+      "AWS",
+      "Code Reviews",
+      "Conduct code reviews",
+      "Continuous Integration",
+      "Data Structures",
+      "IT",
+      "JAVA",
+      "Object-Oriented",
+      "Object-Oriented design",
+      "REACT"
+    ],
+    "term_count": 10
+  },
+  "Brady Corporation": {
+    "all_terms": [
+      "Azure",
+      "C#",
+      "GIT",
+      "JAVA",
+      "Leverage C#",
+      "Object-Oriented",
+      "UI",
+      "UML",
+      "XAML",
+      "devOps"
+    ],
+    "term_count": 10
+  },
+  "Meter": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "GO",
+      "GraphQL",
+      "IT",
+      "LAN",
+      "REACT",
+      "TypeScript",
+      "WAN"
+    ],
+    "term_count": 9
+  },
+  "Pie": {
+    "all_terms": [
+      "AI",
+      "API",
+      "IT",
+      "JavaScript",
+      "Kotlin",
+      "Next.js",
+      "REACT",
+      "React Native",
+      "TypeScript"
+    ],
+    "term_count": 9
+  },
+  "DV Commodities": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "GO",
+      "JAVA",
+      "JavaScript",
+      "Linux",
+      "MetLife",
+      "Python"
+    ],
+    "term_count": 9
+  },
+  "MindFort AI (YC X25)": {
+    "all_terms": [
+      "AI",
+      "API",
+      "Docker",
+      "Kubernetes",
+      "LLM",
+      "LangChain",
+      "LangGraph",
+      "Postgres",
+      "Python"
+    ],
+    "term_count": 9
+  },
+  "Epic": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "C++ Systems",
+      "GO",
+      "IT",
+      "JS",
+      "NerdWallet",
+      "SmartAsset",
+      "TS"
+    ],
+    "term_count": 9
+  },
+  "Applied Intuition": {
+    "all_terms": [
+      "AI",
+      "API",
+      "Docker",
+      "EpiSci",
+      "GraphQL",
+      "Kubernetes",
+      "ORM",
+      "OS",
+      "REACT"
+    ],
+    "term_count": 9
+  },
+  "Atlassian": {
+    "all_terms": [
+      "AI",
+      "Data Structures",
+      "IT",
+      "JAVA",
+      "ML",
+      "PyTorch",
+      "Python",
+      "TensorFlow, PyTorch",
+      "distributed systems"
+    ],
+    "term_count": 9
+  },
+  "Epsilon": {
+    "all_terms": [
+      "AI",
+      "HTML",
+      "Linux",
+      "Object-Oriented",
+      "Object-Oriented design",
+      "Python",
+      "SQL",
+      "XML",
+      "advanced AI"
+    ],
+    "term_count": 9
+  },
+  "Replit": {
+    "all_terms": [
+      "AI",
+      "GO",
+      "JavaScript",
+      "Node",
+      "Node.js",
+      "Python",
+      "REACT",
+      "RUST",
+      "TypeScript"
+    ],
+    "term_count": 9
+  },
+  "Ant-Tech": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Angular",
+      "BackEnd",
+      "GO",
+      "NodeJs",
+      "REACT",
+      "TypeScript",
+      "iOS"
+    ],
+    "term_count": 9
+  },
+  "Morgan Stanley": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "GO",
+      "IT",
+      "JAVA",
+      "Linux",
+      "Object-Oriented",
+      "Python"
+    ],
+    "term_count": 9
+  },
+  "Addepar": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Applied AI",
+      "GoLang",
+      "Kubernetes",
+      "LLM",
+      "LangChain",
+      "Python",
+      "gRPC"
+    ],
+    "term_count": 9
+  },
+  "Roe": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "BackEnd",
+      "GCP",
+      "GO",
+      "LLM",
+      "ML",
+      "SQL"
+    ],
+    "term_count": 9
+  },
+  "Hewlett Packard Enterprise": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "GO",
+      "IT",
+      "Microservices",
+      "SaaS",
+      "SaaS Ventures",
+      "UX",
+      "devOps"
+    ],
+    "term_count": 9
+  },
+  "Assort Health": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Agentic AI",
+      "GO",
+      "No Use AI",
+      "OrthoIndy",
+      "Python",
+      "SharedPractices",
+      "iOS"
+    ],
+    "term_count": 9
+  },
+  "Kaizen Labs": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "GO",
+      "Next.js",
+      "Node",
+      "Node.js",
+      "Postgres",
+      "TypeScript",
+      "Use AI"
+    ],
+    "term_count": 9
+  },
+  "United Airlines": {
+    "all_terms": [
+      "AI",
+      "Angular",
+      "C# Experience",
+      "Code Reviews",
+      "GO",
+      "IT",
+      "ML",
+      "REACT",
+      "SQL"
+    ],
+    "term_count": 9
+  },
+  "ComfyUI": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "API",
+      "GO",
+      "IT",
+      "LLM",
+      "Python",
+      "SDK",
+      "source ComfyUI"
+    ],
+    "term_count": 9
+  },
+  "Gem": {
+    "all_terms": [
+      "AI",
+      "Code Reviews",
+      "GraphQL",
+      "Node",
+      "PostgreSQL",
+      "Python",
+      "REACT",
+      "TypeScript",
+      "Use AI"
+    ],
+    "term_count": 9
+  },
+  "Crusoe": {
+    "all_terms": [
+      "AI",
+      "Data Structures",
+      "GO",
+      "JAVA",
+      "JavaScript",
+      "MetLife",
+      "Python",
+      "REST",
+      "RUST"
+    ],
+    "term_count": 9
+  },
+  "ExtraHop": {
+    "all_terms": [
+      "100GB+ sensors",
+      "GO",
+      "IT",
+      "JAVA",
+      "Linux",
+      "NPM",
+      "Python",
+      "ResponseTM",
+      "continuous integration pipelines"
+    ],
+    "term_count": 9
+  },
+  "Oracle": {
+    "all_terms": [
+      "AD",
+      "API",
+      "Docker",
+      "GIT",
+      "IntelliJ",
+      "JAVA",
+      "Linux",
+      "QA",
+      "Visual Studio"
+    ],
+    "term_count": 9
+  },
+  "Filtrex Service Group": {
+    "all_terms": [
+      "Angular",
+      "NoSQL",
+      "Node",
+      "Node.js",
+      "Python",
+      "REACT",
+      "SQL",
+      "Vue",
+      "e.g., Node.js"
+    ],
+    "term_count": 9
+  },
+  "Goldman Sachs": {
+    "all_terms": [
+      "Angular",
+      "JAVA",
+      "JavaScript",
+      "NoSQL",
+      "NoSQL data stores",
+      "Object-Oriented",
+      "Python",
+      "SPARK",
+      "SecDB"
+    ],
+    "term_count": 9
+  },
+  "MLabs": {
+    "all_terms": [
+      "API",
+      "AWS",
+      "AWS infrastructure",
+      "BackEnd",
+      "EC2",
+      "Postgres",
+      "Redis",
+      "SQL",
+      "WebSockets"
+    ],
+    "term_count": 9
+  },
+  "Motorola Solutions": {
+    "all_terms": [
+      "Continuous Integration",
+      "GIT",
+      "IP",
+      "PowerShell",
+      "Python",
+      "TCP",
+      "TDD",
+      "TLS",
+      "UDP"
+    ],
+    "term_count": 9
+  },
+  "Yaskawa Motoman": {
+    "all_terms": [
+      "C#",
+      "Code Reviews",
+      "FluentAssertions",
+      "Microsoft C#",
+      "Python",
+      "QA",
+      "SQL",
+      "XAML",
+      "xUnit"
+    ],
+    "term_count": 9
+  },
+  "Experian": {
+    "all_terms": [
+      "AWS",
+      "Airflow",
+      "Apache",
+      "Code Reviews",
+      "EC2",
+      "Gradle",
+      "Python",
+      "SQS",
+      "Spring"
+    ],
+    "term_count": 9
+  },
+  "Semgrep": {
+    "all_terms": [
+      "AWS",
+      "AWS infrastructure",
+      "CD",
+      "CI",
+      "CI/CD systems",
+      "IT",
+      "Kubernetes",
+      "Kubernetes clusters",
+      "distributed systems"
+    ],
+    "term_count": 9
+  },
+  "ZappHire": {
+    "all_terms": [
+      "API",
+      "AWS",
+      "Azure",
+      "GCP",
+      "IT",
+      "SQL",
+      "SaaS",
+      "UX",
+      "account-linking UX"
+    ],
+    "term_count": 9
+  },
+  "Cardone Ventures": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CV",
+      "CardoMax",
+      "GO",
+      "IT",
+      "McKenzie",
+      "RideController"
+    ],
+    "term_count": 8
+  },
+  "JustAI": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Agentic AI",
+      "BackEnd",
+      "GO",
+      "QA",
+      "TheTradeDesk",
+      "UI"
+    ],
+    "term_count": 8
+  },
+  "Toshiba Global Commerce Solutions": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "CD",
+      "CI",
+      "GO",
+      "IT",
+      "ML"
+    ],
+    "term_count": 8
+  },
+  "Persona": {
+    "all_terms": [
+      "AI",
+      "Code Reviews",
+      "GO",
+      "JAVA",
+      "Kubernetes",
+      "Python",
+      "Ruby",
+      "Web Services"
+    ],
+    "term_count": 8
+  },
+  "Abnormal AI": {
+    "all_terms": [
+      "AI",
+      "CyberSecurity",
+      "GO",
+      "IAM",
+      "ML",
+      "Python",
+      "SSO",
+      "SaaS"
+    ],
+    "term_count": 8
+  },
+  "micro1": {
+    "all_terms": [
+      "AI",
+      "API",
+      "JAVA",
+      "ML",
+      "NoSQL",
+      "Node.js",
+      "Python",
+      "Ruby"
+    ],
+    "term_count": 8
+  },
+  "CPS, Inc.": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "GO",
+      "Google Cloud",
+      "Python",
+      "REACT",
+      "Vertex AI",
+      "iOS"
+    ],
+    "term_count": 8
+  },
+  "OCLC": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "Code Reviews",
+      "GO",
+      "IT",
+      "JavaScript",
+      "Machine Learning"
+    ],
+    "term_count": 8
+  },
+  "The Voleon Group": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "GO",
+      "JAVA",
+      "Kubernetes",
+      "Linux",
+      "ML",
+      "Python"
+    ],
+    "term_count": 8
+  },
+  "Initialized Capital": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "GO",
+      "LLM",
+      "Ruby",
+      "TypeScript",
+      "UI",
+      "x3"
+    ],
+    "term_count": 8
+  },
+  "Benchling": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "GO",
+      "IT",
+      "ReSync",
+      "ReSync Bio",
+      "RideController"
+    ],
+    "term_count": 8
+  },
+  "Alchemy": {
+    "all_terms": [
+      "AI",
+      "B2B",
+      "B2B SaaS",
+      "SaaS",
+      "TypeScript",
+      "WorldCoin",
+      "web2",
+      "web3"
+    ],
+    "term_count": 8
+  },
+  "Notion": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "NodeJs",
+      "ORM",
+      "Postgres",
+      "REACT",
+      "TypeScript",
+      "e.g. TypeScript"
+    ],
+    "term_count": 8
+  },
+  "FurtherAI": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "B2B",
+      "B2B SaaS",
+      "GO",
+      "Python",
+      "RemoteHunter",
+      "SaaS"
+    ],
+    "term_count": 8
+  },
+  "Datadog": {
+    "all_terms": [
+      "AI",
+      "DatadogLife",
+      "GoLang",
+      "IAM",
+      "Kubernetes",
+      "Linux",
+      "SaaS",
+      "gRPC"
+    ],
+    "term_count": 8
+  },
+  "Homekey": {
+    "all_terms": [
+      "AI",
+      "AWS",
+      "Flask",
+      "LangChain",
+      "REACT",
+      "React Native",
+      "Redis",
+      "TypeScript"
+    ],
+    "term_count": 8
+  },
+  "Broccoli AI": {
+    "all_terms": [
+      "AI",
+      "Data Structures",
+      "Node",
+      "Node.js",
+      "Python",
+      "ServiceTitan",
+      "TypeScript",
+      "Version Control"
+    ],
+    "term_count": 8
+  },
+  "UiPath": {
+    "all_terms": [
+      "CD",
+      "CI",
+      "CI/CD processes",
+      "GO",
+      "GoLang",
+      "Kubernetes",
+      "Object-Oriented",
+      "UiPath Work"
+    ],
+    "term_count": 8
+  },
+  "MotherDuck": {
+    "all_terms": [
+      "API",
+      "BackEnd",
+      "C++ Build",
+      "DuckDB",
+      "GO",
+      "SaaS",
+      "SaaS companies",
+      "distributed systems"
+    ],
+    "term_count": 8
+  },
+  "LanceSoft, Inc.": {
+    "all_terms": [
+      "Data Structures",
+      "JAVA",
+      "Object-Oriented",
+      "Perl",
+      "Python",
+      "Ruby",
+      "SQL",
+      "object-oriented programming"
+    ],
+    "term_count": 8
+  },
+  "NextEra Energy, Inc.": {
+    "all_terms": [
+      "AWS",
+      "NextEra Analytics",
+      "NextEra Energy",
+      "Python",
+      "RUST",
+      "TimescaleDB",
+      "Vue",
+      "Vue.js"
+    ],
+    "term_count": 8
+  },
+  "NBCUniversal": {
+    "all_terms": [
+      "AWS",
+      "Amazon QuickSight",
+      "GCP",
+      "GitHub Actions",
+      "GolfNow",
+      "SonarQube",
+      "SportsEngine",
+      "Terraform"
+    ],
+    "term_count": 8
+  },
+  "Figma": {
+    "all_terms": [
+      "AI",
+      "Data Structures",
+      "JAVA",
+      "JavaScript",
+      "Python",
+      "UI",
+      "e.g. C++"
+    ],
+    "term_count": 7
+  },
+  "Real": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "GO",
+      "IT",
+      "No Use AI",
+      "iOS"
+    ],
+    "term_count": 7
+  },
+  "Promise": {
+    "all_terms": [
+      "AI",
+      "Applied AI",
+      "Generative AI",
+      "IT",
+      "LLM",
+      "ML",
+      "RAG"
+    ],
+    "term_count": 7
+  },
+  "Sigma": {
+    "all_terms": [
+      "AI",
+      "Data Structures",
+      "JAVA",
+      "JavaScript",
+      "Python",
+      "SPARK",
+      "Spark Capital"
+    ],
+    "term_count": 7
+  },
+  "Nooks": {
+    "all_terms": [
+      "AI",
+      "CD",
+      "CI",
+      "Kubernetes",
+      "Postgres",
+      "Redis",
+      "TypeScript"
+    ],
+    "term_count": 7
+  },
+  "Athelas": {
+    "all_terms": [
+      "AI",
+      "BackEnd",
+      "Django",
+      "FastAPIs",
+      "Flask",
+      "Kubernetes",
+      "Python"
+    ],
+    "term_count": 7
+  },
+  "Silna": {
+    "all_terms": [
+      "AI",
+      "API",
+      "BackEnd",
+      "ECS",
+      "Flask",
+      "Postgres",
+      "s3"
+    ],
+    "term_count": 7
+  },
+  "Walker Partners": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "GO",
+      "OOP",
+      "Object-Oriented",
+      "object-oriented programming"
+    ],
+    "term_count": 7
+  },
+  "Randstad Digital Americas": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CyberSecurity",
+      "GO",
+      "IT",
+      "LLM",
+      "NextJS"
+    ],
+    "term_count": 7
+  },
+  "Reejig": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CoPilot",
+      "GO",
+      "HighQ",
+      "LLM",
+      "ML"
+    ],
+    "term_count": 7
+  },
+  "Samsung Electronics America": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CyberSecurity",
+      "GO",
+      "JAVA",
+      "LLM",
+      "Python"
+    ],
+    "term_count": 7
+  },
+  "IMC Trading": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "Applied AI",
+      "GO",
+      "IT",
+      "devOps"
+    ],
+    "term_count": 7
+  },
+  "HTD Talent": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "GO",
+      "IT",
+      "Mirai",
+      "Next.js"
+    ],
+    "term_count": 7
+  },
+  "OffDeal": {
+    "all_terms": [
+      "AI",
+      "Node",
+      "Node.js",
+      "NodeJs",
+      "REACT",
+      "ReactJS",
+      "TypeScript"
+    ],
+    "term_count": 7
+  },
+  "Awardco": {
+    "all_terms": [
+      "BusinessQ",
+      "Data Structures",
+      "GO",
+      "JAVA",
+      "JavaScript",
+      "Python",
+      "peer code reviews"
+    ],
+    "term_count": 7
+  },
+  "Qumulo": {
+    "all_terms": [
+      "Code Reviews",
+      "GO",
+      "IT",
+      "JAVA",
+      "Python",
+      "RUST",
+      "distributed systems"
+    ],
+    "term_count": 7
+  },
+  "Collective": {
+    "all_terms": [
+      "Code Reviews",
+      "Django",
+      "Python",
+      "REACT",
+      "TechCrunch",
+      "TypeScript",
+      "YouTube"
+    ],
+    "term_count": 7
+  },
+  "Radiant": {
+    "all_terms": [
+      "CD",
+      "CI",
+      "CI/CD Pipelines",
+      "GIT",
+      "Object-Oriented",
+      "Python",
+      "Version Control"
+    ],
+    "term_count": 7
+  },
+  "Korn Ferry": {
+    "all_terms": [
+      "AWS",
+      "Continuous Delivery",
+      "Continuous Integration",
+      "Postgres",
+      "Python",
+      "SQL",
+      "Test Driven Development"
+    ],
+    "term_count": 7
+  },
+  "Neuralink": {
+    "all_terms": [
+      "GoLang",
+      "MacOS",
+      "Objective-C",
+      "RUST",
+      "Swift",
+      "code review",
+      "iOS"
+    ],
+    "term_count": 7
+  },
+  "Fuze Health": {
+    "all_terms": [
+      "GIT",
+      "JavaScript",
+      "JavaScript code",
+      "LetsGetChecked",
+      "QA",
+      "Version control systems",
+      "version control systems (e"
+    ],
+    "term_count": 7
+  },
+  "Innovative Systems, Inc.": {
+    "all_terms": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "SQL",
+      "SaaS",
+      "Spring",
+      "XML"
+    ],
+    "term_count": 7
+  },
+  "Point72": {
+    "all_terms": [
+      "Continuous Integration environments",
+      "GIT",
+      "IT",
+      "REST",
+      "SQL",
+      "TDD",
+      "WebApi"
+    ],
+    "term_count": 7
+  },
+  "Best Job Tool": {
+    "all_terms": [
+      "GIT",
+      "Microservices",
+      "REACT",
+      "ReactJS",
+      "TypeScript",
+      "Version Control",
+      "version control tools"
+    ],
+    "term_count": 7
+  },
+  "The Walt Disney Company": {
+    "all_terms": [
+      "Code Reviews",
+      "GIT",
+      "Gradle",
+      "JAVA",
+      "Kotlin",
+      "MVVM",
+      "SDK"
+    ],
+    "term_count": 7
+  },
+  "Boeing": {
+    "all_terms": [
+      "CD",
+      "CI",
+      "Containerization",
+      "GIT",
+      "Linux",
+      "UI",
+      "VR"
+    ],
+    "term_count": 7
+  },
+  "RevenueCat": {
+    "all_terms": [
+      "ChatGPT",
+      "IT",
+      "Objective-C",
+      "PhotoRoom",
+      "SDK",
+      "either iOS",
+      "iOS"
+    ],
+    "term_count": 7
+  },
+  "Two Dots": {
+    "all_terms": [
+      "BigQuery",
+      "GCP",
+      "ML",
+      "Node",
+      "Node.js",
+      "Postgres",
+      "Redis"
+    ],
+    "term_count": 7
+  },
+  "Baselayer": {
+    "all_terms": [
+      "AI",
+      "API",
+      "BackEnd",
+      "LoRA",
+      "ML",
+      "Python"
+    ],
+    "term_count": 6
+  },
+  "Ascend": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "CyberSecurity",
+      "GO",
+      "IT",
+      "REACT"
+    ],
+    "term_count": 6
+  },
+  "Microsoft Innovation Center": {
+    "all_terms": [
+      "AI",
+      "CoPilot",
+      "GoLang",
+      "IT",
+      "Microsoft’s mission",
+      "Python"
+    ],
+    "term_count": 6
+  },
+  "Salesforce": {
+    "all_terms": [
+      "AI",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "LLM",
+      "Python"
+    ],
+    "term_count": 6
+  },
+  "Miter": {
+    "all_terms": [
+      "AI",
+      "Code Reviews",
+      "Node",
+      "OS",
+      "REACT",
+      "TypeScript"
+    ],
+    "term_count": 6
+  },
+  "The Judge Group": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "GO",
+      "IT",
+      "JAVA",
+      "RideController"
+    ],
+    "term_count": 6
+  },
+  "Neuroscale AI": {
+    "all_terms": [
+      "AI",
+      "B2B",
+      "OS",
+      "SaaS",
+      "UnifyGTM",
+      "YouTube"
+    ],
+    "term_count": 6
+  },
+  "Shinkei": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "BackEnd",
+      "GO",
+      "Python",
+      "SQL"
+    ],
+    "term_count": 6
+  },
+  "OpenAI": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "AWS",
+      "BackEnd",
+      "GO",
+      "JavaScript"
+    ],
+    "term_count": 6
+  },
+  "Thales": {
+    "all_terms": [
+      "AD",
+      "JAVA",
+      "Object-Oriented",
+      "REACT",
+      "SPA",
+      "object-oriented programming concepts"
+    ],
+    "term_count": 6
+  },
+  "SpotOn": {
+    "all_terms": [
+      "Code Reviews",
+      "NerdWallet",
+      "NerdWallet Rated",
+      "NoSQL",
+      "Python",
+      "SQL"
+    ],
+    "term_count": 6
+  },
+  "Alma": {
+    "all_terms": [
+      "BackEnd",
+      "BoxGroup",
+      "Django",
+      "GIT",
+      "MetLife",
+      "MySQL"
+    ],
+    "term_count": 6
+  },
+  "University of Southern California": {
+    "all_terms": [
+      "C++",
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "Python",
+      "Ruby"
+    ],
+    "term_count": 6
+  },
+  "Begin Software": {
+    "all_terms": [
+      "API",
+      "ClickUp",
+      "Data Structures",
+      "JSON",
+      "JavaScript",
+      "SaaS"
+    ],
+    "term_count": 6
+  },
+  "CVS Health": {
+    "all_terms": [
+      "CD",
+      "CI",
+      "Code Reviews",
+      "GIT",
+      "code review",
+      "devOps"
+    ],
+    "term_count": 6
+  },
+  "Discord": {
+    "all_terms": [
+      "AWS",
+      "Elixir",
+      "GCP",
+      "IT",
+      "K8S",
+      "devOps tools"
+    ],
+    "term_count": 6
+  },
+  "Lensa": {
+    "all_terms": [
+      "DirectEmployers",
+      "ETL",
+      "IT",
+      "JAVA",
+      "SQL",
+      "peer code reviews"
+    ],
+    "term_count": 6
+  },
+  "Raytheon": {
+    "all_terms": [
+      "CD",
+      "CI",
+      "CI/CD tools",
+      "Data Structures",
+      "JAVA",
+      "McKinney"
+    ],
+    "term_count": 6
+  },
+  "Bevel": {
+    "all_terms": [
+      "AI",
+      "BackEnd",
+      "ML",
+      "Python",
+      "TypeScript"
+    ],
+    "term_count": 5
+  },
+  "Kforce Inc": {
+    "all_terms": [
+      "AI",
+      "ChatGPT",
+      "CoPilot",
+      "IT",
+      "Python"
+    ],
+    "term_count": 5
+  },
+  "8VC": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "Bolt6",
+      "GO",
+      "Mirai"
+    ],
+    "term_count": 5
+  },
+  "Year Up United": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "GO",
+      "GetWhys",
+      "IT"
+    ],
+    "term_count": 5
+  },
+  "Crew": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "GO",
+      "IT",
+      "Python"
+    ],
+    "term_count": 5
+  },
+  "Loop": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "GO",
+      "LLM",
+      "iOS"
+    ],
+    "term_count": 5
+  },
+  "Gaia AI": {
+    "all_terms": [
+      "AI",
+      "API",
+      "AWS",
+      "REACT",
+      "TypeScript"
+    ],
+    "term_count": 5
+  },
+  "Dex": {
+    "all_terms": [
+      "AI",
+      "LLM",
+      "ML",
+      "Python",
+      "TypeScript"
+    ],
+    "term_count": 5
+  },
+  "Hadrian": {
+    "all_terms": [
+      "FactoryOS",
+      "GO",
+      "IT",
+      "Python",
+      "REACT"
+    ],
+    "term_count": 5
+  },
+  "Checkr, Inc.": {
+    "all_terms": [
+      "ElasticSearch",
+      "JavaScript",
+      "NoSQL",
+      "Ruby",
+      "SQL"
+    ],
+    "term_count": 5
+  },
+  "Qualcomm": {
+    "all_terms": [
+      "API",
+      "Code Reviews",
+      "GIT",
+      "JAVA",
+      "Python"
+    ],
+    "term_count": 5
+  },
+  "Microsoft": {
+    "all_terms": [
+      "Code Reviews",
+      "JAVA",
+      "JavaScript",
+      "Microsoft’s mission",
+      "Python"
+    ],
+    "term_count": 5
+  },
+  "WEX": {
+    "all_terms": [
+      "IT",
+      "JAVA",
+      "JavaScript",
+      "Microservices",
+      "TypeScript"
+    ],
+    "term_count": 5
+  },
+  "Infinite Campus": {
+    "all_terms": [
+      "Angular",
+      "Groovy",
+      "JAVA",
+      "JavaScript",
+      "SQL"
+    ],
+    "term_count": 5
+  },
+  "Medpace": {
+    "all_terms": [
+      "AWS",
+      "Machine Learning",
+      "TensorFlow, Keras",
+      "deep learning",
+      "devOps"
+    ],
+    "term_count": 5
+  },
+  "Abbott": {
+    "all_terms": [
+      "Azure",
+      "Cloud Computing",
+      "FreeU",
+      "SaaS",
+      "SaaS cloud platform"
+    ],
+    "term_count": 5
+  },
+  "Praeses": {
+    "all_terms": [
+      "Azure",
+      "CD",
+      "CI",
+      "Code Reviews",
+      "GitHub/Lab, Jira"
+    ],
+    "term_count": 5
+  },
+  "Rover.com": {
+    "all_terms": [
+      "AI",
+      "Python",
+      "REACT",
+      "React Native"
+    ],
+    "term_count": 4
+  },
+  "DonorAtlas": {
+    "all_terms": [
+      "AI",
+      "IDE",
+      "LLM",
+      "Python"
+    ],
+    "term_count": 4
+  },
+  "AVEVA": {
+    "all_terms": [
+      "AI",
+      "CV",
+      "IT",
+      "JavaScript"
+    ],
+    "term_count": 4
+  },
+  "Sesame": {
+    "all_terms": [
+      "AI",
+      "GIT",
+      "Python",
+      "Ubiquity6"
+    ],
+    "term_count": 4
+  },
+  "Hyra": {
+    "all_terms": [
+      "AD",
+      "AI",
+      "GO",
+      "Python"
+    ],
+    "term_count": 4
+  },
+  "Pinterest": {
+    "all_terms": [
+      "Data Structures",
+      "IT",
+      "Object-Oriented",
+      "Python"
+    ],
+    "term_count": 4
+  },
+  "Tessera Data": {
+    "all_terms": [
+      "JavaScript",
+      "JavaScript Experience",
+      "Python",
+      "QA"
+    ],
+    "term_count": 4
+  },
+  "Körber": {
+    "all_terms": [
+      "AutoCAD",
+      "C#",
+      "IT",
+      "Python"
+    ],
+    "term_count": 4
+  },
+  "Insulet Corporation": {
+    "all_terms": [
+      "JAVA",
+      "Python",
+      "QA",
+      "UX"
+    ],
+    "term_count": 4
+  },
+  "Veeco": {
+    "all_terms": [
+      "IT",
+      "OS",
+      "Object-Oriented",
+      "VB"
+    ],
+    "term_count": 4
+  },
+  "Check Point Software": {
+    "all_terms": [
+      "AWS",
+      "Azure",
+      "CyberSecurity",
+      "Linux"
+    ],
+    "term_count": 4
+  },
+  "Standout": {
+    "all_terms": [
+      "AI",
+      "JS",
+      "Python"
+    ],
+    "term_count": 3
+  },
+  "Nextdoor": {
+    "all_terms": [
+      "AI",
+      "Data Structures",
+      "TeamNextdoor"
+    ],
+    "term_count": 3
+  },
+  "Anything": {
+    "all_terms": [
+      "AI",
+      "IT",
+      "TypeScript"
+    ],
+    "term_count": 3
+  },
+  "Decagon": {
+    "all_terms": [
+      "AI",
+      "Python",
+      "TypeScript"
+    ],
+    "term_count": 3
+  },
+  "Rokt": {
+    "all_terms": [
+      "AI",
+      "ML",
+      "eCommerce"
+    ],
+    "term_count": 3
+  },
+  "Uber": {
+    "all_terms": [
+      "GO",
+      "JAVA",
+      "UI"
+    ],
+    "term_count": 3
+  },
+  "Charlie Health": {
+    "all_terms": [
+      "PostgreSQL",
+      "Python",
+      "REACT"
+    ],
+    "term_count": 3
+  },
+  "Wiraa": {
+    "all_terms": [
+      "Code Reviews",
+      "IT",
+      "REST"
+    ],
+    "term_count": 3
+  },
+  "August Schools": {
+    "all_terms": [
+      "GraphQL",
+      "GraphQL React",
+      "Kubernetes"
+    ],
+    "term_count": 3
+  },
+  "Mitchell Martin Inc.": {
+    "all_terms": [
+      "C#",
+      "Core Technologies C#",
+      "SQL"
+    ],
+    "term_count": 3
+  },
+  "Verily": {
+    "all_terms": [
+      "BDD",
+      "REACT",
+      "TypeScript"
+    ],
+    "term_count": 3
+  },
+  "Corgea": {
+    "all_terms": [
+      "AI",
+      "AppSec"
+    ],
+    "term_count": 2
+  },
+  "Mandolin": {
+    "all_terms": [
+      "AI",
+      "IT"
+    ],
+    "term_count": 2
+  },
+  "Kabilah": {
+    "all_terms": [
+      "AI",
+      "iOS"
+    ],
+    "term_count": 2
+  },
+  "NVIDIA": {
+    "all_terms": [
+      "AI",
+      "GPU"
+    ],
+    "term_count": 2
+  },
+  "Grammarly": {
+    "all_terms": [
+      "AI",
+      "Data Structures"
+    ],
+    "term_count": 2
+  },
+  "vLex": {
+    "all_terms": [
+      "AI",
+      "NLP"
+    ],
+    "term_count": 2
+  },
+  "Anyscale": {
+    "all_terms": [
+      "AI",
+      "ML"
+    ],
+    "term_count": 2
+  },
+  "Maven Securities": {
+    "all_terms": [
+      "Modern C++",
+      "Python"
+    ],
+    "term_count": 2
+  },
+  "Optiver": {
+    "all_terms": [
+      "JAVA",
+      "Python"
+    ],
+    "term_count": 2
+  },
+  "Northslope Technologies": {
+    "all_terms": [
+      "LLM",
+      "ML"
+    ],
+    "term_count": 2
+  },
+  "Brooksource": {
+    "all_terms": [
+      "IT",
+      "Object-Oriented"
+    ],
+    "term_count": 2
+  },
+  "Spectrum": {
+    "all_terms": [
+      "Object-Oriented",
+      "code review"
+    ],
+    "term_count": 2
+  },
+  "Giga": {
+    "all_terms": [
+      "AI"
+    ],
+    "term_count": 1
+  },
+  "Bild": {
+    "all_terms": [
+      "AI"
+    ],
+    "term_count": 1
+  },
+  "Numeric": {
+    "all_terms": [
+      "AI"
+    ],
+    "term_count": 1
+  },
+  "TalentAlly": {
+    "all_terms": [
+      "Azure"
+    ],
+    "term_count": 1
+  },
+  "Terrakotta (YC W24)": {
+    "all_terms": [
+      "UX"
+    ],
+    "term_count": 1
+  },
+  "Garmin": {
+    "all_terms": [
+      "JAVA"
+    ],
+    "term_count": 1
+  },
+  "PayPal": {
+    "all_terms": [
+      "Inclusion PayPal"
+    ],
+    "term_count": 1
+  },
+  "Whatnot": {
+    "all_terms": [
+      "1M+ users"
+    ],
+    "term_count": 1
+  }
+}

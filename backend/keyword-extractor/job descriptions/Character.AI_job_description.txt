@@ -1,0 +1,46 @@
+About the job
+
+About The Role And Team
+
+We are scaling personalized AI to billions of users by reimagining how people discover, engage with, and return to intelligent characters. This requires blending product craftsmanship with growth experimentation and an instinct for user behavior. We’re looking for a skilled engineer who is excited to build elegant, high-impact user experiences that drive growth. If you thrive at the intersection of design, data, and iteration—and care deeply about quality and performance—we’d love to work with you.
+
+What you’ll do
+
+
+Build fast, intuitive, and visually polished user-facing features that drive user acquisition, activation, and retention. 
+Design and run growth experiments that span product surfaces—from onboarding to virality to re-engagement loops. 
+Partner closely with design and product to translate high-level ideas into delightful and performant interfaces. 
+Collaborate with data science to define success metrics, analyze experiment outcomes, and identify opportunities. 
+Maintain a high bar for code quality, UI/UX polish, and performance across mobile and web platforms. 
+Help shape and evolve the team’s experimentation platform and tooling to improve iteration velocity. 
+
+
+Who you are
+
+
+Experience as a Front-End or Full-Stack Software Engineer, ideally in consumer product environments. 
+Deep understanding of Typescript, CSS, React, React Native, HTML, and modern front end design patterns and best practices. 
+Comfortable working across the stack and contributing to backend services as needed—especially in Python or Golang. 
+Demonstrated experience shipping user-facing features that drove measurable growth or engagement. 
+Analytical mindset with experience working alongside data teams using metrics and experimentation to inform decisions. 
+Proven ability to work in a fast-paced development environment and deliver timely results. 
+Excellent communication and collaboration skills across disciplines. 
+
+
+Nice to Have
+
+
+Background in mobile-first or AI-powered consumer products. 
+Prior exposure to zero-to-one product development or startup environments. 
+Interest in user psychology, onboarding, and viral loops. 
+
+
+About Character.AI
+
+Character.AI empowers people to connect, learn and tell stories through interactive entertainment. Over 20 million people visit Character.AI every month, using our technology to supercharge their creativity and imagination. Our platform lets users engage with tens of millions of characters, enjoy unlimited conversations, and embark on infinite adventures.
+
+In just two years, we achieved unicorn status and were honored as Google Play's AI App of the Year—a testament to our innovative technology and visionary approach.
+
+Join us and be a part of establishing this new entertainment paradigm while shaping the future of Consumer AI!
+
+At Character, we value diversity and welcome applicants from all backgrounds. As an equal opportunity employer, we firmly uphold a non-discrimination policy based on race, religion, national origin, gender, sexual orientation, age, veteran status, or disability. Your unique perspectives are vital to our success.

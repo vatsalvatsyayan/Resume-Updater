@@ -1,0 +1,74 @@
+About the job
+
+Overview
+
+Working at Atlassian
+
+Atlassians can choose where they work – whether in an office, from home, or a combination of the two. That way, Atlassians have more control over supporting their family, personal goals, and other priorities. We can hire people in any country where we have a legal entity. Interviews and onboarding are conducted virtually, a part of being a distributed-first company.
+
+Your Future Org
+
+Atlassian’s Grad++ program combines hands-on technical training, professional growth opportunities, dedicated mentorship, and strong social connections. This holistic approach empowers students to hit the ground running and sets them up for a successful and impactful career at Atlassian!
+
+This role is located in Seattle, WA. To qualify, you must be willing and able to work out of this location.
+
+This position is not eligible for F1 and J1 students. It is not available for any work sponsorship.
+
+Responsibilities
+
+Responsibilities
+
+
+Build Production-Ready Features: Develop scalable code for Atlassian's products (Jira, Confluence, Trello) used by millions of teams worldwide, contributing to reliable systems that power global collaboration
+Own End-to-End Projects: Take ownership of features from design through deployment, including implementation, testing, and monitoring in production environments
+Collaborate in Agile Teams: Work closely with senior engineers, product managers, and designers using Agile methodologies and lean practices to deliver impactful solutions
+Innovate with AI/ML Technologies: Contribute to AI-powered features and integrations, working with modern frameworks, agentic systems, and intelligent automation capabilities
+Solve Complex Technical Problems: Tackle challenging issues related to distributed systems, data processing, and user experience optimization while using data-driven insights to validate assumptions and improve products.
+
+
+
+Qualifications
+
+Minimum Qualifications
+
+
+Programming & AI/ML Proficiency: Experience with Python, Java, or other modern object oriented languages, with exposure to AI/ML frameworks (TensorFlow, PyTorch, scikit-learn) and understanding of machine learning fundamentals
+Software Engineering Experience: Proven development skills through internships, work experience, projects, or publications, including experience with APIs, cloud platforms, or AI-powered applications
+Data & System Design: Strong understanding of data structures, statistical concepts, and familiarity with design patterns for modern systems including AI/ML architectural patterns (data pipelines, model serving, microservices)
+
+
+
+Preferred Qualifications
+
+
+Emerging AI Technologies: Exposure to agentic AI systems, autonomous agents, modern AI protocols (MCP, function calling), and AI-assisted development approaches
+
+
+
+Compensation
+
+At Atlassian, we strive to design equitable, explainable, and competitive compensation programs. To support this goal, the baseline of our range is higher than that of the typical market range, but in turn we expect to hire most candidates near this baseline. Base pay within the range is ultimately determined by a candidate's skills, expertise, or experience. In the United States, we have three geographic pay zones. For this role, our current base pay ranges for new hires in each zone are:
+
+Zone A: $119,700 - $156,275
+
+Zone B: $108,000 - $141,000
+
+Zone C: $99,900 - $130,425
+
+This role may also be eligible for benefits, bonuses, commissions, and equity.
+
+Please visit go.atlassian.com/payzones for more information on which locations are included in each of our geographic pay zones. However, please confirm the zone for your specific location with your recruiter.
+
+Benefits & Perks
+
+Atlassian offers a wide range of perks and benefits designed to support you, your family and to help you engage with your local community. Our offerings include health and wellbeing resources, paid volunteer days, and so much more. To learn more, visit go.atlassian.com/perksandbenefits .
+
+About Atlassian
+
+At Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet and our solutions are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together.
+
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+
+To provide you the best experience, we can support with accommodations or adjustments at any stage of the recruitment process. Simply inform our Recruitment team during your conversation with them.
+
+To learn more about our culture and hiring process, visit go.atlassian.com/crh .

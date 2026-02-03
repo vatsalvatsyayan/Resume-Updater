@@ -1,0 +1,64 @@
+About the job
+
+Summary
+
+Under minimal supervision the Software Engineer will focus on PC software development for robotic automation in the clinical laboratories and related markets. This role will involve the creating of new applications, databases, system interfaces, tools and components, as well as the modification and improvement of existing designs.
+
+Essential Duties And Responsibilities
+
+
+ Identify, analyze, and document defects and errors in internally developed software applications.
+ Responsible for troubleshooting issues and ensuring that software solutions meet the highest standards of quality and functionality.
+ Develop, maintain, and execute unit and integration tests for software applications using Python or C#.
+ Collaborate with the development team to ensure software quality throughout the development lifecycle.
+ Develop and maintain test plans, test cases, and test scripts to validate software functionality, performance, and reliability.
+ Provide technical guidance in the implementation of testing best practices and methodologies.
+ Assist in the maintenance and continuous improvement of testing processes, tools and frameworks to enhance software quality and user experience.
+ Participate in code reviews to ensure adherence to coding standards and best practices.
+ Communicate effectively with cross-functional teams to ensure timely resolution of defects and enhancements.
+ Contribute to the development of QA strategy, guidelines and procedures.
+ Maintain updated knowledge of industry trends and advancements, including the research of similar competitor products.
+
+
+EDUCATION And/or EXPERIENCE
+
+Bachelor of Science degree in Engineering from a four-year college or university; and a minimum of one (1) year related experience with Microsoft C# .NET development environment. MS SQL Database programing experience a plus and/or equivalent combination of education and experience.
+
+Qualifications
+
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+Other Skills And Abilities
+
+
+ Hands-on C/C++, C# .NET software programming of hardware and/or automation devices.
+ Hands on experience with WPF/XAML User Interface development language.
+ Hands on experience with testing frameworks such as xUnit, NSubstitute, FluentAssertions, and other automated testing tools.
+ Solid understanding of unit testing, integration testing and test automation best practices.
+ Flexible and adaptable in regard to learning and understanding new technologies.
+ Strong written and oral communication skills.
+ Strong interpersonal skills.
+ Ability to conduct research into software-related issues and products.
+ Highly logical and technically proficient.
+ Highly self-motivated and directed with a keen attention to detail.
+ Proven analytical and problem-solving abilities.
+ Experience working both independently and, in a team-oriented, collaborative environment.
+
+
+PHYSICAL DEMANDS
+
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+While performing the duties of this job, the employee is regularly required to talk and hear. The employee frequently is required to stand; sit; and use hands to finger, handle, or feel objects, tools, or controls. The employee is occasionally required to walk; reach with hands and arms; climb or balance; and stoop, kneel, crouch, or crawl. Would anticipate about four hours a day/minimum at PC. The employee may occasionally lift and/or move up to 25 pounds.
+
+WORK ENVIRONMENT
+
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+While performing the duties of this job, the employee is occasionally exposed to moving mechanical parts, risk of electrical shock, UV exposure, fumes, spark and heat.
+
+The noise level in the work environment is usually moderate.
+
+Duties may require the occasional use of/contact with/exposure to various hazardous materials (such as, but not limited to grease, oils, lubricants, paint, thinner, parts cleaner, etc.). Employees should have basic awareness of hazardous materials cautions. Those directly using the materials must have specific knowledge of material in use.
+
+Motoman is an EEO employer of minorities/females/disabled/veterans.

@@ -1,0 +1,515 @@
+Adobe
+
+Software Development Engineer 
+
+San Jose, CA · 15 minutes ago · 44 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+$76.7K/yr - $152.2K/yr
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Shreyas and others in your network
+
+Show all
+About the job
+
+Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+
+The Opportunity 
+
+Our mission is to provide highly personalized digital experiences to customers across various channels like email, ads, push notifications etc. We strive to delight consumers with every digital interaction. To achieve this, we ingest data at scale, run sophisticated processing on data in real-time, and deliver captivating insights on data at real-time. Are you passionate about large-scale data systems and real-time processing? The Unified Profile team at Adobe is the best place for you!
+
+We build large-scale systems that identify users across all their devices. We build profiles that capture user interactions across various channels. Our pioneering segmentation engine can create highly targeted audience groups. As a developer on this team, you'll make sophisticated digital experience use-cases a reality.
+
+The Role
+
+This is an onsite position in the San Jose office.
+
+
+As a BackEnd Software Engineer, you will play a critical role in the delivery of highly reliable, scalable, and maintainable enterprise applications. 
+You will work with modern technologies, collaborate on product definitions with Product Managers, implementing technical solutions with hardworking teams. 
+You will gain expertise in the world of big data and building and operating high-scale and highly reliable services that receive Billions of events per day or process PetaBytes of data. 
+Contribute to engineering guidelines by providing guidance towards code review, test coverage, and promoting high standard methodologies in software development. 
+Steer technical design and architecture discussions, making critical decisions that drive technical product design. Lead engineering efforts and projects to deliver critical components, new features and enhance performance of existing features. Optimize performance and scalability of backend systems to ensure high availability and fast response times. 
+You will learn to master technologies like Java, Scala, Spark, Akka and will operate in popular public cloud infrastructures like Amazon AWS or Microsoft Azure. 
+
+
+Requirements: 
+
+Employer will accept a Bachelor's/advanced degree in Information Systems Management, Computer Science, Computer Engineering, Information Technology, Software Engineering or related field and 0-1+ years of experience in the job offered or in a Software Development Engineer-related occupation.
+
+Position requires:
+
+
+BS in computer science, MS in computer science preferred. 
+Passion for developing high-quality software applications Analytical thinking and problem-solving skills 
+Good understanding of data structure and algorithms 
+Strong communication to articulate ideas and strategies 
+Proven record of delivering highly optimized code in Java/Scala. 
+Proficiency in data structures, algorithms, caching strategies, async patterns. 
+Ability to adapt and learn cloud technologies, e.g. AWS, Azure, GCP, Docker, Kubernetes. 
+Able to understand distributed processing systems like Apache Spark, Hadoop Stack, or Kafka; 
+Understanding of key computer science concepts for SQL or NoSQL databases like MYSQL, HBase, Cassandra, Mongo, or Azure Cosmos DB; 
+Able to work in an Agile based software development methodologies 
+
+
+Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $76,700 -- $152,200 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.
+
+In California, the pay range for this position is $105,100 - $152,200
+
+At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).
+
+In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.
+
+State-Specific Notices:
+
+California:
+
+Fair Chance Ordinances
+
+Adobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
+
+Colorado:
+
+Application Window Notice
+
+If this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.
+
+Massachusetts:
+
+Massachusetts Legal Notice
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.
+
+Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.
+… more
+
+Set alert for similar jobs
+
+Software Engineer, San Jose, California, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+44
+
+total
+
+44
+
+in the past day
+
+Candidate seniority level
+
+66% Entry level candidates
+
+16% Senior level candidates
+
+Candidate education level
+
+88
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+12
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about Adobe
+Powered by Bing
+
+Company focus areas
+
+• Product Innovation and AI Integration: Adobe focuses on delivering product innovation and driving adoption and usage of its AI-powered solutions. This includes integrating AI features like Adobe Firefly and Sensei into its Creative Cloud and Document Cloud offerings.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Focus on engineering: The 'Engineering' department has maintained a stable headcount with no significant percentage change, indicating a continued investment in this area, which could suggest ongoing or new product development initiatives. Growth in education: The 'Education' department has seen an 11% increase in employee count, highlighting a potential new initiative or expansion in educational services or products. Decline in arts and design: The 'Arts and Design' department experienced a 7% decrease in headcount, which may indicate a shift away from design-focused projects or a restructuring within this function. Stable sales department: The 'Sales' department has a slight decrease of 1% in headcount, suggesting a relatively stable focus on sales efforts, which could imply a steady market presence and potential for growth in sales-related services.
+… more
+
+The latest hiring trend
+
+41,646
+
+Total employees
+
+1%
+
+Company-wide
+
+2 year growth
+
+16%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+25000
+50000
+
+Median employee tenure: 4.3 years
+
+Adobe hires candidates from some of these companies and schools
+
+Adobe hired 66 people from University of Southern California. See all
+
+Adobe hired 286 people from University of Southern California. See all
+
+Competitors
+
+Adobe operates in a highly competitive landscape, particularly in the creative software and digital marketing sectors. The company is leveraging AI-powered solutions to enhance its product offerings and maintain its market leadership. Strategic partnerships, such as the one with Amazon, and acquisitions like Semrush, are pivotal in strengthening Adobe's position against competitors like Autodesk, Google, and Salesforce. The competitive environment is marked by rapid technological advancements and the need for continuous innovation to meet evolving customer demands.
+… more
+
+Sources: bstrategyhub.com +3 more
+
+Show Premium Insights
+About the company
+
+Adobe
+
+5,250,956 followers
+
+Follow
+
+Software Development
+
+ • 
+
+10001+ employees
+
+ • 
+
+41,100 on LinkedIn
+
+Adobe is the global leader in digital media and digital marketing solutions. Our creative, marketing and document solutions empower everyone – from emerging artists to global brands – to bring digital creations to life and deliver immersive, compelling experiences to the right person at the right moment for the best results. In short, Adobe is everywhere, and we’re changing the world through digital experiences.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+AI Project Systems Integrator
+
+ADCO Electrical Corp.
+
+New York, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on January 8, 2026, 7:35 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Middleware Software Engineer
+
+BridgeFlair LLC
+
+Pittsburgh, PA (Remote)
+
+Posted on January 9, 2026, 7:28 PM
+50 minutes ago
+
+ · 
+
+ Easy Apply
+
+System Engineer
+
+SpecSys Inc.
+
+Plymouth, MN (On-site)
+
+$76K/yr - $98K/yr
+
+ • 
+
+Vision, 401(k), +1 benefit
+
+Posted on January 9, 2026, 8:10 AM
+12 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Full Stack (Verified job)
+Software Engineer, Full Stack 
+
+Yahoo!
+
+United States (Remote)
+
+$111K/yr - $231.2K/yr
+
+23 company alumni work here
+
+Posted on January 9, 2026, 8:03 PM
+15 minutes ago
+
+Full Stack Engineer
+
+Lumicity
+
+San Francisco, CA (On-site)
+
+$175K/yr - $220K/yr
+
+ • 
+
+4 benefits
+
+You’d be a top applicant
+
+Posted on January 9, 2026, 3:30 PM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer
+
+AOS, Inc. dba Trading Block
+
+Chicago, IL (On-site)
+
+You’d be a top applicant
+
+Posted on January 8, 2026, 2:26 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer - Full Stack (Verified job)
+Software Engineer - Full Stack 
+
+Zoox
+
+Foster City, CA (Hybrid)
+
+$140K/yr - $173K/yr
+
+ • 
+
+Medical, +1 benefit
+
+18 company alumni work here
+
+Posted on January 8, 2026, 5:49 PM
+1 day ago
+
+Software Engineer 2 - Sync (Verified job)
+Software Engineer 2 - Sync 
+
+Bill.com, Inc.
+
+Draper, UT
+
+$107.5K/yr - $129K/yr
+
+ • 
+
+401(k), +1 benefit
+
+1 connection works here
+
+Posted on January 9, 2026, 6:28 PM
+1 hour ago
+
+Software Engineer, Driver Earnings (Verified job)
+Software Engineer, Driver Earnings 
+
+Lyft
+
+Seattle, WA (Hybrid)
+
+$99.4K/yr - $124.2K/yr
+
+ • 
+
+Vision, 401(k), +1 benefit
+
+8 company alumni work here
+
+Posted on January 9, 2026, 9:58 AM
+10 hours ago
+
+Software Engineer II (Verified job)
+Software Engineer II 
+
+Iterable
+
+Boston, MA
+
+$114.5K/yr - $188K/yr
+
+ • 
+
+401(k), +1 benefit
+
+4 school alumni work here
+
+Posted on January 9, 2026, 8:20 AM
+11 hours ago
+
+Software Engineer
+
+RemoteHunter
+
+United States (Remote)
+
+Posted on January 9, 2026, 12:41 PM
+7 hours ago
+
+Software Engineer
+
+Helic & Co.
+
+United States (Remote)
+
+Posted on January 9, 2026, 10:14 AM
+10 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

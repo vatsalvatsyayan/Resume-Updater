@@ -1,0 +1,511 @@
+Paycom
+
+Software Developer - 401k 
+
+Irving, TX · 2 hours ago · 70 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+Provide high-paced software development for both internal and external projects where strong verbal and written communications skills are necessary. External projects will integrate our products and services with outside entities (vendors, clients, and other third parties). Most projects will utilize strong organizational skills along with payroll, accounting, or benefit industry knowledge.
+
+
+This position is not eligible for sponsorship. Paycom is interested in every qualified candidate who is eligible to work in the United States
+Not a remote work position
+
+
+Responsibilities
+
+
+Perform software development of variety of projects ranging from industry-wide services to client-specific reports and other interfacing technologies.
+Creates development code for product modules such as Payroll, Talent Acquisition, Time Management, Human Resources, Talent Management, and Reports
+Creates development code that are standard for the Human Capital Management (HCM) industry 
+Creates development code and reports that are customized to clients as needed, such as EDI
+Creates development code and reports that are customized to Paycom departments as needed 
+Make any adjustments to code after testing is performed to ensure that code will address testing concerns
+Partner with technology professional such as developers, quality assurance, and application support on software projects of all sizes.
+Partner with team of colleagues to enhance product by collaborating ideas 
+Partner with colleagues in quality assurance to ensure that codes and data are accurate
+Partner with Application Support to aid deployment and support of projects as needed
+Work in close communication with outside entities (vendors and third parties) Utilize project management software, issue tracking and source control solutions to track communication about development specs, development, testing, and fixes
+Participate in team and project meetings to collaborate concepts and designs to further colleagues skills and modules specs
+Collaborate with non-technical professionals such as customer support, clients, and vendors on software projects of all sizes.
+Collaborate with product managers on the clarification of specifications as needed 
+Collaborate with customer support to gather feedback on client needs and suggestions as needed 
+Collaborate with clients on the clarification and testing of report and EDI data
+Adhere to the organizational processes and the tracking of project metrics and project statuses.
+Utilize Jira to track time usage on projects and meetings 
+Collaborate with application support and quality assurance to evaluate stages in projects
+Participate in daily standup meetings
+Track communications with client/vendor, being primary project contact for some projects as needed.
+Participate in communication with clients vendors to ensure satisfaction and eliminate ambiguity in client needs as needed
+Be the point of contact for clients to participate in project related discussion regarding needs on development with 3rd parties as needed
+
+Technologies Used
+
+
+Heavy usage:
+PHP, MySQL, SQL Server, C#, JavaScript, React, Swift (Mobile only)
+Other usage:
+SQL Server Reporting Services (SSRS), SQL Server Integration Services (SSIS), ADO, XML, PowerBI, Fox Pro, CSS, TypeScript, Couchbase, Container technologies such as Docker
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Irving, Texas, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+70
+
+total
+
+70
+
+in the past day
+
+Candidate seniority level
+
+79% Entry level candidates
+
+4% Senior level candidates
+
+Candidate education level
+
+78
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+17
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have an Associate's Degree
+
+
+3
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Paycom
+Powered by Bing
+
+Company focus areas
+
+• Expansion of Market Presence: Paycom plans to open additional sales offices to further expand its market presence, targeting both existing and new markets. This strategy aims to leverage sales force productivity and penetrate larger client organizations.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Focus on customer success and support: The 'Customer Success and Support' department has seen a 13% increase in headcount over the past year, indicating a strategic initiative to enhance customer satisfaction and retention. Engineering growth: The 'Engineering' department has experienced a 4% increase in headcount, suggesting ongoing investment in product development and technological innovation. Sales expansion: Despite a slight 1% decrease in headcount over the past year, the 'Sales' department remains a significant focus with 164 job openings, reflecting efforts to drive revenue growth. Downsizing in quality assurance and product management: The 'Quality Assurance' and 'Product Management' departments have seen significant reductions in headcount by 59% and 38% respectively, indicating potential shifts in operational priorities or efficiency improvements.
+… more
+
+The latest hiring trend
+
+6,708
+
+Total employees
+
+7%
+
+Company-wide
+
+2 year growth
+
+85%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+5000
+10000
+
+Median employee tenure: 3.2 years
+
+Paycom hires candidates from some of these companies and schools
+
+Paycom hired 3 people from University of Southern California. See all
+
+Paycom hired 31 people from University of Southern California. See all
+
+Competitors
+
+Paycom Software operates in a highly competitive HR tech landscape, offering a comprehensive cloud-based HCM platform. The company is recognized for its robust growth, high client retention, and strong financial metrics. However, it faces significant competition from other major players like ADP, Paylocity, and Workday, which offer similar HR and payroll solutions. Paycom's focus on AI-driven innovation and full-solution automation helps it maintain a competitive edge, but the crowded market and reliance on a single-platform strategy pose ongoing challenges.
+… more
+
+Sources: hrlineup.com +2 more
+
+Show Premium Insights
+About the company
+
+Paycom
+
+225,183 followers
+
+Follow
+
+Software Development
+
+ • 
+
+5001-10000 employees
+
+ • 
+
+6,708 on LinkedIn
+
+Paycom (NYSE:PAYC) automates the entire employee life cycle in a truly single HR and payroll software. The best HCM software allows employees to enter and manage their own HR and payroll data — anytime, anywhere — via desktop or our easy-to-use mobile app. With employee data flowing seamlessly through a single database, you’re able to experience full-solution automation, eliminate data reentry and maximize your ROI.
+
+Looking to accelerate your career in tech by working on the best payroll software in the industry? Unlock your potential at the best HCM company. Join a fast-paced workplace and enjoy $1-per-pay-period health insurance, paid family leave, on-site fitness centers and wellness advisors, and more. 
+
+Apply today and join our award-winning team!
+
+•	Forbes’ America’s Best Large Employers (2025)
+•	TIME World’s Best Companies (2025)
+•	Newsweek’s World’s Most Trustworthy Companies (2025)
+
+Come grow with us!
+… more
+
+Commitments
+
+Diversity, equity, and inclusion
+
+At Paycom, we support inclusion, diversity, equity and belonging. We have zero tolerance for racism, harassment or discrimination and have demonstrated that as an organization. Still, we understand there is much more work to do. We encourage every one of our team members to form deeper relationships with those around them based on mutual respect, dignity and understanding.
+… more
+
+Environmental sustainability
+
+We recognize our responsibility to contribute to a more sustainable environment in the future. Paycom’s technology helps our clients “go green” by managing all payroll, HR processes and documents in our single software. We strive to minimize our environmental impact by implementing green initiatives throughout our workforce and workflow.
+… more
+
+Social impact
+
+We are deeply committed to giving back to our community and receive a vast number of requests each year from organizations across the country. To maximize our impact and ensure our charitable footprint reaches as many people in need as possible, giving is supported at both the corporate level through quarterly grant programs and individually during monthly employee giving opportunities.
+… more
+
+Learn more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Founding Solutions Engineer (Enterprise AI)
+
+Neon Blue
+
+San Francisco Bay Area (Hybrid)
+
+$130K/yr + Stock options
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 1:27 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+ZealTech
+
+Concord, CA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 8, 2026, 6:21 PM
+48 minutes ago
+
+ · 
+
+ Easy Apply
+
+Web Developer – Maintenance & Support (Verified job)
+Web Developer – Maintenance & Support 
+
+Opus Design
+
+Newton, MA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 10:54 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+AI Project Systems Integrator (Verified job)
+AI Project Systems Integrator 
+
+ADCO Electrical Corp.
+
+New York, NY (On-site)
+
+Posted on January 8, 2026, 7:35 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+Data Engineer
+
+Prepaire Labs
+
+Boston, MA (On-site)
+
+$120K/yr - $145K/yr
+
+Posted on January 7, 2026, 10:08 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+AI / ML Engineer
+
+Prepaire Labs
+
+Boston, MA (On-site)
+
+$130K/yr - $160K/yr
+
+Posted on January 7, 2026, 10:14 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Systems Engineer
+
+Thunderbolt Talent Partners
+
+Binghamton, NY (On-site)
+
+8 benefits
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 5:56 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Developer (Founding Team / Future CTO)
+
+IaxaI, Inc.
+
+United States (Remote)
+
+Posted on January 8, 2026, 4:52 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+DevOps / Data Engineer (Snowflake, DBT, Airflow) - Contract - Hybrid
+
+VS2 Technology
+
+Cincinnati, OH (On-site)
+
+Posted on January 8, 2026, 6:58 PM
+11 minutes ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer
+
+Shinkei
+
+El Segundo, CA (On-site)
+
+$145K/yr - $195K/yr
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 12:25 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Staff Flight Software Engineer (Verified job)
+Staff Flight Software Engineer 
+
+Lunar Outpost
+
+Golden, CO (On-site)
+
+1 school alumni works here
+
+Posted on January 8, 2026, 12:52 PM
+6 hours ago
+
+TS/SCI w/poly Software Engineer
+
+Black Cat Technologies
+
+Herndon, VA (On-site)
+
+$236.0K/yr - $271.4K/yr
+
+ • 
+
+401(k) benefit
+
+Posted on January 7, 2026, 4:20 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

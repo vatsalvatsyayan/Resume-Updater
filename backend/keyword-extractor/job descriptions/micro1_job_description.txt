@@ -1,0 +1,69 @@
+About the job
+
+Job Title: Software Developer - AI Trainer
+
+
+
+
+Job Type: Full-time
+
+
+
+
+Location: Remote (US only)
+
+
+
+
+Job Summary:
+
+Join our customer's team as a Software Developer - AI Trainer and play a pivotal role at the intersection of backend engineering and artificial intelligence. In this role, you will leverage your expertise in robust API development, server-side programming, and database design to help train, refine, and optimize AI-driven systems. If you are passionate about backend technologies, possess strong communication skills, and are eager to make an impact in AI integration, this opportunity is tailored for you.
+
+
+
+
+Key Responsibilities:
+
+• Design, develop, and integrate scalable APIs for AI-powered applications
+
+• Architect and implement robust server-side solutions supporting AI training workflows
+
+• Collaborate with cross-functional teams to refine AI system requirements and outputs
+
+• Develop and optimize database schemas and write efficient queries for large data sets
+
+• Evaluate AI model performance and provide technical feedback for improvement
+
+• Create clear technical documentation and contribute to knowledge sharing
+
+• Communicate complex technical concepts to both technical and non-technical stakeholders
+
+
+
+
+Required Skills and Qualifications:
+
+• Proficiency in at least one backend programming language (Node.js, Java, Python, or Ruby on Rails)
+
+• Strong experience in API development and third-party integration
+
+• Solid understanding of relational and NoSQL database design, querying, and optimization
+
+• Demonstrated expertise in server-side architecture and clean code principles
+
+• Excellent written and verbal communication skills, with an emphasis on clarity and collaboration
+
+• Experience working in remote, distributed teams and agile environments
+
+• Must be based in the United States
+
+
+
+
+Preferred Qualifications:
+
+• Previous experience collaborating on AI/ML-driven products or systems
+
+• Familiarity with AI APIs (OpenAI, Google AI, etc.) or exposure to AI model training
+
+• Contributions to open-source or technical communities in backend or AI domains

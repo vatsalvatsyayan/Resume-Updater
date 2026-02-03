@@ -1,0 +1,501 @@
+Relativity
+
+Software Engineer 
+
+California, United States · 1 hour ago · 52 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$79K/yr - $119K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+Posting Type
+
+Hybrid
+
+Job Overview
+
+At Relativity, we build technology that helps people uncover the truth in complex data. Our software (SaaS) empowers legal professionals, governments, and organizations around the world to navigate high stakes matters with confidence, clarity, and integrity. By combining advanced AI, powerful analytics, and cloud-based technology, we help teams make sense of massive volumes of information and move critical work forward faster and more accurately. Every role at Relativity contributes to creating scalable, secure, and intelligent solutions with real-world impact—while fostering a culture where curiosity, collaboration, and inclusion thrive and where employees help shape the future of legal technology.
+
+As a Software Engineer on the Discovery team, you will design, build, and operate the next generation of AI-driven, scalable, high-performance systems that process large volumes of data. This role combines deep technical expertise with a collaborative mindset to solve complex challenges, while delivering and operating secure, scalable, and high-performance cloud-native solutions.
+
+Responsibilities
+
+Job Description and Requirements 
+
+
+Design, develop, and operate secure, maintainable, and scalable web applications using object-oriented principles, modern architecture, and cloud-native patterns.  
+Drive team success through pair programming, thoughtful code reviews, shared design sessions, and high-quality documentation.  
+Champion automated testing, static analysis, observability, and DevOps workflows to ensure performance and reliability. 
+Adopt AI-assisted coding tools (e.g., Copilot, Cursor) to accelerate development, reduce boilerplate, and focus on solving business-critical problems.  
+Build tools and automation to streamline workflows across engineering disciplines. 
+Participate in on-call rotations to troubleshoot and resolve production issues promptly. 
+Collaborate with product managers and other engineers to deliver high-quality features. 
+
+
+Minimum Qualifications
+
+
+Bachelor’s degree in Computer Science, Engineering, or related field OR equivalent experience. 
+0-2 years of experience in software engineering with a focus on distributed systems. 
+Proficiency in programming languages such as C#, Java, or Python. 
+Experience with cloud platforms (e.g., Azure, AWS) and containerization technologies. 
+Strong understanding of software design principles and performance optimization. 
+Ability to work collaboratively in a team environment and communicate effectively. 
+
+
+Preferred Qualifications
+
+
+Experience with big data technologies (e.g., Kafka, Spark). 
+Familiarity with CI/CD pipelines and DevOps practices. 
+Knowledge of observability tools and best practices for system reliability. 
+
+
+Relativity is committed to competitive, fair, and equitable compensation practices.
+
+This position is eligible for total compensation which includes a competitive base salary, an annual performance bonus, and long-term incentives.
+
+The expected salary range for this role is between following values:
+
+$79,000 and $119,000
+
+The final offered salary will be based on several factors, including but not limited to the candidate's depth of experience, skill set, qualifications, and internal pay equity. Hiring at the top end of the range would not be typical, to allow for future meaningful salary growth in this position.
+
+Suggested Skills
+
+Automation, Documentations, Engineering Design, Problem Solving, Process Improvements, Project Management, Quality Assurance (QA), Research and Development, System Integration, Troubleshooting
+… more
+
+Set alert for similar jobs
+
+Software Engineer, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+52
+
+total
+
+52
+
+in the past day
+
+Candidate seniority level
+
+90% Entry level candidates
+
+8% Senior level candidates
+
+Candidate education level
+
+69
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+29
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have a High School Diploma
+Exclusive Job Seeker Insights about Relativity
+Powered by Bing
+
+Company focus areas
+
+• Data Management and E-Discovery: Enhance capabilities in managing large volumes of data and quickly identifying key issues during litigation and internal investigations through their SaaS product, RelativityOne.
+
+...more
+
+Sources: cimplifi.com +1 more
+
+Hiring & headcount
+
+Engineering focus: The 'Engineering' department has seen a 5% increase in headcount, indicating a strong focus on engineering initiatives and potential growth in product development and innovation. Sales expansion: The 'Sales' department has experienced a 15% increase in headcount, suggesting a significant push towards expanding market reach and sales efforts. Customer Success and Support growth: With a 20% increase in headcount, the 'Customer Success and Support' department is growing, highlighting an emphasis on improving customer satisfaction and retention. Finance and Accounting growth: The 'Finance' and 'Accounting' departments have seen increases of 31% and 15% respectively, indicating a strengthening of financial operations and possibly preparing for future financial strategies or expansions.
+… more
+
+The latest hiring trend
+
+1,814
+
+Total employees
+
+12%
+
+Company-wide
+
+2 year growth
+
+39%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+1000
+2000
+
+Median employee tenure: 4.1 years
+
+Relativity hires candidates from some of these companies and schools
+
+Relativity hired 1 person from University of Southern California. See all
+
+Relativity hired 9 people from University of Southern California. See all
+
+Competitors
+
+Relativity is a leading player in the legal tech industry, particularly known for its e-discovery and legal technology solutions. The company faces competition from other legal tech firms offering document management and AI-powered legal task automation. Strategic acquisitions and collaborations, such as the acquisition of VerQu and the development of the Legal Data Intelligence platform, are key to maintaining its competitive edge.
+… more
+
+Sources: centralcybersecurity.com +1 more
+
+Show Premium Insights
+About the company
+
+Relativity
+
+69,970 followers
+
+Follow
+
+Software Development
+
+ • 
+
+1001-5000 employees
+
+ • 
+
+1,806 on LinkedIn
+
+Relativity is a leading legal data intelligence company that builds technology to help users organize data, discover the truth, and act on it. 
+
+Its extensible, AI-powered cloud platform, RelativityOne, transforms complex data into actionable insights at massive scale for litigation, investigations, regulatory inquiries, data breach responses, and other legal use cases.
+
+The world’s largest law firms and corporations, government agencies, and a robust network of channel partners rely on Relativity’s legal AI software to securely surface and manage the most relevant and impactful information in their matters. 
+
+The company also expands access to technology by providing its platform at no cost to academic institutions through its Relativity Academic program and to organizations supporting pro bono legal work through its Justice for Change initiative. 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Founding Engineer
+
+CoFina.ai
+
+San Francisco Bay Area (Hybrid)
+
+$160K/yr - $200K/yr + Stock options
+
+Posted on January 21, 2026, 6:02 PM
+12 minutes ago
+
+ · 
+
+ Easy Apply
+
+Lead GTM Engineer (Verified job)
+Lead GTM Engineer 
+
+Rutter
+
+New York, NY (Hybrid)
+
+You’d be a top applicant
+
+Posted on January 20, 2026, 6:29 AM
+1 day ago
+
+Full Stack Engineer MERN
+
+Cogitate
+
+Atlanta, GA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 11:38 AM
+6 hours ago
+
+ · 
+
+ Easy Apply
+
+IT Systems Engineer
+
+Ventura Tech, Inc.
+
+San Francisco Bay Area (Hybrid)
+
+Vision, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 20, 2026, 4:03 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Avionics Software Engineer
+
+HighQ Aero
+
+Centennial, CO (Hybrid)
+
+Posted on January 21, 2026, 7:47 AM
+10 hours ago
+
+ · 
+
+ Easy Apply
+
+Senior Developer Advocate (Developer Evangelist)
+
+Typesense
+
+United States (Remote)
+
+$150K/yr - $170K/yr
+
+ • 
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 2:33 PM
+3 hours ago
+
+ · 
+
+ Easy Apply
+
+Web Project Manager / Frontend Web Developer
+
+Blackberg Group LLC
+
+Alexandria, VA (Hybrid)
+
+$100K/yr - $140K/yr + Bonus, Profit sharing
+
+Posted on January 21, 2026, 12:00 PM
+6 hours ago
+
+ · 
+
+ Easy Apply
+
+Deployment Engineer
+
+Cumulus
+
+Cypress, TX (Hybrid)
+
+Dental, +1 benefit
+
+Actively reviewing applicants
+
+Posted on January 20, 2026, 11:27 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Infrastructure Engineer - St. Louis Only (Verified job)
+Infrastructure Engineer - St. Louis Only 
+
+Lemonaid Health
+
+St Louis, MO (On-site)
+
+401(k) benefit
+
+You’d be a top applicant
+
+Posted on January 21, 2026, 7:21 AM
+10 hours ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer (Verified job)
+Senior Software Engineer 
+
+Copic Companies
+
+Denver, CO (Hybrid)
+
+$132.3K/yr - $165.4K/yr + Bonus
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 12:12 PM
+6 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+MeeBoss
+
+San Francisco Bay Area (Hybrid)
+
+$160K/yr - $180K/yr + Stock options
+
+2 school alumni work here
+
+Posted on January 21, 2026, 3:48 PM
+2 hours ago
+
+Staff Vision Sensor Digital Design Engineer
+
+Oculi
+
+United States (Remote)
+
+$125K/yr - $186K/yr
+
+Posted on January 21, 2026, 12:41 PM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

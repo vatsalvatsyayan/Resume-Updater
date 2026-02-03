@@ -1,0 +1,519 @@
+StubHub
+
+Software Engineer I - Direct Issuance (New Grad) 
+
+Los Angeles, CA · 7 hours ago · Over 100 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+$120K/yr - $150K/yr
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Olivia and others in your network
+
+Show all
+About the job
+
+StubHub is on a mission to redefine the live event experience on a global scale. Whether someone is looking to attend their first event or their hundredth, we’re here to delight them all the way from the moment they start looking for a ticket until they step through the gate. The same goes for our sellers. From fans selling a single ticket to the promoters of a worldwide stadium tour, we want StubHub to be the safest, most convenient way to offer a ticket to the millions of fans who browse our platform around the world.
+
+Direct Issuance is a brand-new area within StubHub’s product and tech organization, where we are building the future of partner inventory synchronization. As an SDE- I on the Direct Issuance team, you will contribute to the development and evolution of 0-to-1 systems that power millions of ticket transactions. You’ll leverage AI-driven tooling, agents, and automation to accelerate and simplify integrations, enabling our platform to scale rapidly using LLMs and tools such as OpenAI and Claude models
+
+This role is designed for early-career engineers and new graduates who want hands-on production experience, strong mentorship, and exposure to modern engineering practices, including AI-assisted development and GenAI tools such as Claude, in a collaborative team environment. You’ll work closely with Staff Engineers, Senior Engineers, and SDE II peers contributing meaningful code while growing your technical skills.
+
+Location: Hybrid (3 days in office/2 days remote) – Santa Monica, CA
+
+What You'll Do
+
+AI Tooling and Infrastructure:
+
+
+Use AI-assisted development tools (including Claude and other GenAI technologies) to support debugging, learning, documentation, and developer productivity
+
+
+New Feature Development
+
+
+Implement features, enhancements, and bug fixes in backend services that support partner inventory ingestion, synchronization, and marketplace publishing
+Learn and apply distributed systems concepts, including event-driven architectures, APIs, and data processing pipelines
+Participate in code reviews, design discussions, pairing sessions, and team collaboration
+Contribute to improving partner-facing APIs, error handling, and internal tooling
+Learn how to diagnose production issues using logging, monitoring, and observability tools
+
+
+Why You’ll Love This Team
+
+
+Gain hands-on experience using GenAI tools like Claude as part of real-world engineering workflows
+Contribute to high-impact systems used by millions of customers and partners
+Take ownership of production code early in your career, with guidance and support
+Grow on a team that values collaboration, curiosity, feedback, and continuous learning
+
+
+What You've Done
+
+
+Recent graduate or software engineer with up to ~2 years of experience (including internships, co-ops, or substantial academic projects)
+Strong understanding of computer science fundamentals, including data structures and algorithms
+Familiarity with at least one backend programming language like Java, Python, or Golang
+Basic experience building or consuming APIs and experience working with LLM frameworks and AI Platforms such as Anthropic or ChatGPT either in school or on side projects
+Bachelor’s degree in Computer Science, Data Science, Engineering, or a related technical field, or equivalent hands-on experience
+
+
+What We Offer
+
+
+Accelerated Growth Environment: An environment designed for swift skill and knowledge enhancement, where you have the autonomy to lead experiments and tests on a massive scale.
+Top Tier Compensation Package: Competitive base, equity, and upside that tracks with your impact.
+Flexible Time Off: Enjoy unlimited Flex Time Off, giving you the flexibility to manage your schedule and take time to recharge as needed.
+Comprehensive Benefits Package: Prioritize your well-being with a comprehensive benefits package, featuring 401k, and premium Health, Vision, and Dental Insurance options.
+
+
+The anticipated gross base pay range is below for this role. Actual compensation will vary depending on factors such as a candidate’s qualifications, skills, experience, and competencies. Base annual salary is one component of StubHub’s total compensation and competitive benefits package, which includes equity, 401(k), paid time off, paid parental leave, and comprehensive health benefits.
+
+Salary Range
+
+$120,000—$150,000 USD
+
+About Us
+
+StubHub is the world’s leading marketplace to buy and sell tickets to any live event, anywhere. Through StubHub in North America and viagogo, our international platform, we service customers in 195 countries in 33 languages and 49 available currencies. With more than 300 million tickets available annually on our platform to events around the world -- from sports to music, comedy to dance, festivals to theater -- StubHub offers the safest, most convenient way to buy or sell tickets to the most memorable live experiences. Come join our team for a front-row seat to the action.
+
+For California Residents: California Job Applicant Privacy Notice found here
+
+We are an equal opportunity employer and value diversity on our team. We do not discriminate on the basis of race, color, religion, sex, national origin, gender, sexual orientation, age, disability, veteran status, or any other legally protected status.
+… more
+
+Benefits found in job post
+
+401(k), Dental insurance
+
+Set alert for similar jobs
+
+Software Engineer, Los Angeles, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+888
+
+total
+
+888
+
+in the past day
+
+Candidate seniority level
+
+79% Entry level candidates
+
+6% Senior level candidates
+
+1% Director level candidates
+
+Candidate education level
+
+72
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+25
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+2
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about StubHub
+Powered by Bing
+
+Company focus areas
+
+• Fandomnomics and Live Experiences: StubHub is focusing on 'Fandomnomics,' where fans are reshaping the live events economy by influencing touring strategies, genre breakouts, and global travel.
+
+...more
+
+Sources: financialcontent.com +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 242% increase in job openings over the past year, indicating a major focus on expanding technical capabilities and product development. Increased focus on IT: The 'Information Technology' department has experienced a 433% increase in job openings over the past year, suggesting a strong push towards enhancing IT infrastructure and digital transformation. Expansion in education: The 'Education' department has grown by 31% in employee count over the past year, highlighting a strategic initiative to bolster educational programs or services. Overall headcount growth: The company's total employee count has increased by 10% over the past year, reflecting a general trend of expansion and potential new business initiatives.
+… more
+
+The latest hiring trend
+
+1,714
+
+Total employees
+
+24%
+
+Company-wide
+
+2 year growth
+
+189%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+1000
+2000
+
+Median employee tenure: 2.7 years
+
+StubHub hires candidates from some of these companies and schools
+
+StubHub hired 15 people from University of Southern California. See all
+
+Competitors
+
+StubHub operates in a highly competitive ticket resale market, facing significant competition from Ticketmaster, SeatGeek, and Vivid Seats. The company has been focusing on leveraging its scale and trust to maintain its market position. Despite challenges from newer entrants and the impact of the COVID-19 pandemic, StubHub is making a comeback with strategic initiatives such as its recent IPO and enhanced user experience.
+… more
+
+Sources: alpha-sense.com +3 more
+
+Show Premium Insights
+About the company
+
+StubHub
+
+61,621 followers
+
+Follow
+
+Software Development
+
+ • 
+
+1001-5000 employees
+
+ • 
+
+1,714 on LinkedIn
+
+At StubHub, our mission is to give everyone the freedom to access and connect through live experiences. As the world's leading live event marketplace, we connect fans, sellers, and partners globally, providing access to an expansive catalog of events across more than 90 countries and territories.
+
+In 2024 alone, fans purchased over 40 million tickets from more than 1 million unique sellers on our marketplace. Operating in 33 languages and offering transactions in 48 currencies, StubHub ensures that fans everywhere can discover and attend events seamlessly, no matter their location.
+
+From sports and music to comedy, dance, festivals, and theater, we enable fans to access unforgettable experiences worldwide. Our trusted and secure platform guarantees a zero-breakage ticket-buying experience, supported by advanced pricing intelligence for fair and transparent ticketing.
+
+StubHub is redefining live entertainment through consumer-focused products, omnichannel marketing excellence, and unparalleled global selection. Ready to shape the future of live entertainment?
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Solutions Engineer (Verified job)
+Solutions Engineer 
+
+LeapXpert
+
+United States (Remote)
+
+Medical, Vision, Dental, 401(k)
+
+Posted on January 7, 2026, 2:20 PM
+1 day ago
+
+Senior Software Developer (Founding Team / Future CTO)
+
+IaxaI, Inc.
+
+United States (Remote)
+
+Posted on January 8, 2026, 4:52 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Founding Solutions Engineer (Enterprise AI)
+
+Neon Blue
+
+San Francisco Bay Area (Hybrid)
+
+$130K/yr + Stock options
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 1:27 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+ZealTech
+
+Concord, CA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 8, 2026, 6:21 PM
+21 minutes ago
+
+ · 
+
+ Easy Apply
+
+In-House Software Developer – Commerce & Repricing Systems
+
+ERE Sneakers
+
+Cranston, RI (On-site)
+
+$135K/yr - $160K/yr
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 5:15 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Developer (Angular + Java Spring Boot)
+
+Innovative Object Solutions, Inc.
+
+Washington DC-Baltimore Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 9:18 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Web Developer – Maintenance & Support (Verified job)
+Web Developer – Maintenance & Support 
+
+Opus Design
+
+Newton, MA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 10:54 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+AI Project Systems Integrator (Verified job)
+AI Project Systems Integrator 
+
+ADCO Electrical Corp.
+
+New York, NY (On-site)
+
+Posted on January 8, 2026, 7:35 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+Data Engineer
+
+Prepaire Labs
+
+Boston, MA (On-site)
+
+$120K/yr - $145K/yr
+
+Posted on January 7, 2026, 10:08 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer
+
+Shinkei
+
+El Segundo, CA (On-site)
+
+$145K/yr - $195K/yr
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 12:25 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer I, Front End
+
+True Anomaly
+
+Long Beach, CA (On-site)
+
+$90K/yr - $110K/yr
+
+ • 
+
+401(k) benefit
+
+5 school alumni work here
+
+Posted on January 8, 2026, 3:53 AM
+14 hours ago
+
+TS/SCI w/poly Software Engineer
+
+Black Cat Technologies
+
+Herndon, VA (On-site)
+
+$236.0K/yr - $271.4K/yr
+
+ • 
+
+401(k) benefit
+
+Posted on January 7, 2026, 4:20 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

@@ -1,0 +1,92 @@
+About the job
+
+At SpotOn, we’re helping restaurants and small businesses compete and win with flexible payment and software technology—backed by real people who really care. From seamless point-of-sale systems to integrated restaurant management solutions, every SpotOn tool is designed to help local businesses increase profits and create better experiences for their customers and employees. 
+
+Recently, SpotOn was:
+
+Named one of Fast Company’s Most Innovative Companies of 2024
+Awarded Great Places to Work and Built In’s Best Workplaces for the third year in a row
+Selected as the Best Overall Restaurant POS by NerdWallet 
+Rated the top-rated point-of-sale (POS) for restaurants, bars, retail, and small businesses by Capterra users
+
+We’re committed to caring hard and moving fast so that we can continue to grow and make a positive impact together. 
+
+That’s where you come in. 
+
+ 
+
+As a Software Engineer I, you will contribute to the full software development lifecycle, from designing and implementing robust code to deploying and maintaining scalable solutions. This role involves active participation in building and optimizing both front-end and back-end systems, collaborating on software delivery processes, managing infrastructure components, and contributing to on-call support for critical systems.
+
+ESSENTIAL FUNCTIONS 
+
+Develop, test, and deploy high-quality, scalable software solutions across the full stack.
+Collaborate with team members on technical designs, code reviews, and problem-solving.
+Contribute to the design and evolution of system architectures.
+Communicate effectively with Product Managers and Stakeholders regarding technical aspects of projects.
+Contribute to the development and maintenance of key system components.
+Participate in initiatives to improve software development processes and practices.
+Foster a positive and collaborative team environment.
+
+ 
+
+MINIMUM QUALIFICATIONS 
+
+Proven ability to build robust software solutions that solve complex business problems
+Proficiency in web technologies and asynchronous process handling
+Excellent comprehension of software development methodologies and how they affect the production of high quality software
+Ability to communicate effectively with people in both verbal and written form
+
+ 
+
+EXPERIENCE REQUIREMENTS 
+
+2+ years of professional experience as a software engineer
+1+ years working with Python or a similar interpreted language
+2+ years with SQL and NOSQL database systems
+2+ years working as part of a software development team practicing agile methodologies
+
+ 
+
+EDUCATION REQUIREMENTS
+
+Bachelor's or Master's degree in Computer Science or a related field; or equivalent work experience that is directly applicable to the position
+
+Why Join Us?
+
+At SpotOn, you’ll be part of a team that values diversity, creativity, and a shared mission to help small businesses succeed. Join us to build technology that makes a difference, work with talented peers, and contribute to a culture where your ideas and impact matter.
+
+Compensation:
+
+Our base pay range is $110,000 -$135,000 for this role
+Please note the salary range listed is just one component of a competitive compensation package which includes a company stock plan
+Offers will be reflective of the candidate’s location and experience.
+
+Benefits: 
+
+At SpotOn, we put people above everything else. We’re known for our innovative software and technology solutions, but we stand out because of the hard-working humans behind the tech. We can’t take care of our clients without taking care of our employees first, and that’s why we invest in you with a competitive benefits package which includes:
+
+Medical, Dental and Vision Insurance
+401k with company match
+RSUs
+Paid vacation, 10 company holidays, sick time, and volunteer time off
+Employee Resource Groups to build community and inclusion at work
+Monthly cell phone and internet stipend
+Tuition reimbursement for up to $2,000 per calendar year to assist with your professional development
+
+ 
+
+
+
+
+
+ 
+
+The base salary range listed will vary depending on location and experience.
+
+Base salary range: $110,000 USD - $135,000 USD
+
+ 
+
+SpotOn is an equal employment opportunity employer. Qualified candidates are considered for employment without regard to race, religion, gender, gender identity, sexual orientation, national origin, age, military or veteran status, disability, or any other characteristic protected by applicable law.
+
+SpotOn is an e-verify company.

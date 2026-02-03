@@ -1,0 +1,502 @@
+Cast & Crew
+
+Associate Full Stack Software Engineer (Node.js & React) 
+
+Burbank, CA · 23 hours ago · Over 100 people clicked apply
+
+Responses managed off LinkedIn
+
+$90K/yr - $115K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+About Us
+
+At Cast & Crew, we’ve empowered creativity and supported the global entertainment industry for decades. Together with our family of brands - Backstage, CAPS, Checks & Balances, Final Draft, Media Services, Sargent-Disc, and The TEAM Companies – we operate as a combined entertainment technology and services provider offering industry standard screenwriting accounting software, digital payroll products, data & reporting, and a host of creative tools. The industry continues to move faster than ever, and the need for our expertise, our technology, and our people has never been greater. We are a production’s best ally every step of the way. #OneCastOneCrew
+
+Position Overview
+
+We are seeking a Full Stack Developer to join our team and grow their expertise in Node.js and React. This is an excellent opportunity for someone looking to
+
+As a Full Stack Developer, you will collaborate with designers, backend engineers, and product managers to develop modern, user-friendly, and high-performance applications. You will work closely with designers, backend developers, and product managers to develop engaging web and mobile experiences while learning industry best practices.
+
+This is an opportunity to build scalable web applications while working on both frontend and backend development.
+
+Essential Functions
+
+
+Develop and maintain full-stack applications using React.js (frontend) and Node.js with Express.js (backend).
+Design and implement responsive UI components with HTML, CSS, and JavaScript frameworks.
+Build and maintain RESTful APIs and integrate them with frontend applications.
+Work with databases such as PostgreSQL, SQL Server to store and retrieve data.
+Implement user authentication and authorization using JWT, OAuth, or similar methods.
+Write clean, modular, and reusable code following industry best practices.
+Debug, test, and troubleshoot frontend and backend issues.
+Work with Git version control and participate in code reviews.
+Optimize application performance for speed, scalability, and security.
+Stay up to date with modern full-stack development trends and technologies.
+Other duties as assigned.
+
+
+Qualifications
+
+
+Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent experience).
+Some experience with React.js and frontend development (HTML, CSS, JavaScript, TypeScript preferred).
+Basic understanding of Node.js, Express.js, and RESTful API development.
+Knowledge of relational (PostgreSQL, SQL Server) or NoSQL databases (MongoDB).
+Familiarity with state management (React Context, Redux, or similar).
+Understanding of basic authentication methods (JWT, OAuth, Sessions).
+Experience using version control systems (Git, GitHub).
+Basic knowledge of server-side rendering (SSR) and API integration.
+Good problem-solving and debugging skills.
+Strong collaboration and communication skills.
+
+
+Nice To Have (Bonus Skills)
+
+
+Experience with GraphQL, CI/CD pipelines, and DevOps tools.
+Exposure to cloud platforms (AWS, Azure).
+Familiarity with containerization (Docker, Kubernetes).
+Experience with WebSockets for real-time applications.
+Knowledge of unit and integration testing frameworks.
+
+
+Special Work Conditions 
+
+
+Sedentary – Involves sitting most of the time but may involve walking or standing for brief periods of time. Some positions may entail exerting up to 15 lbs. of force occasionally and/or a negligible amount of force to lift, carry, push, or pull.
+
+
+Why Join Us?
+
+You’ll work on real-world projects in a collaborative, Agile environment, gaining exposure to cutting-edge technologies and industry best practices. We offer career development opportunities and mentorship to help you grow professionally.
+
+Benefits
+
+Cast & Crew provides a comprehensive package of employee benefits including: Medical, Dental, Vision, PTO, health and wellness programs, employee discounts, and more! Note: Cast & Crew benefits are subject to eligibility requirements.
+
+Cast & Crew is an equal opportunity employer committed to hiring a diverse workforce and sustaining an inclusive culture. It is our policy to provide equal employment opportunities to all individuals based on job-related qualifications and ability to perform a job, without regard to age, gender, gender identity, sexual orientation, race, color, religion, creed, national origin, disability, genetic information, veteran status, citizenship or marital status, and to maintain a non-discriminatory environment free from intimidation, harassment or bias based upon these grounds.
+
+CA residents
+
+Your personal information may be collected in connection with certain services provided by Cast & Crew or its affiliated companies. A summary of your California privacy rights can be found at: https://www.castandcrew.com/privacy-policy/
+
+Compensation is commensurate with various factors including, but not limited to, relevant experience, qualifications, skills, training, licensure, certifications, geographic cost of labor, and other business and organizational needs. Compensation range for candidates in other locations may differ based on the cost of labor in that location. The compensation range for this position is: $90,000.00 - $115,000.00 per year.
+… more
+
+Set alert for similar jobs
+
+Full Stack Engineer, Burbank, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+448
+
+total
+
+448
+
+in the past day
+
+Candidate seniority level
+
+84% Entry level candidates
+
+8% Senior level candidates
+
+Candidate education level
+
+76
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+24
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about Cast & Crew
+Powered by Bing
+
+Company focus areas
+
+• Empowering Creativity and Supporting the Entertainment Industry: Cast & Crew focuses on empowering creativity and supporting the global entertainment industry through its family of brands, offering industry-standard screenwriting and accounting software.
+
+...more
+
+Sources: careers.ta.com +1 more
+
+Hiring & headcount
+
+Focus on engineering: The 'Engineering' department has seen a 7% increase in headcount over the past year, indicating a significant investment in technical capabilities and product development. Growth in sales: The 'Sales' department has experienced an 8% increase in headcount, suggesting a strategic push to boost revenue and market presence. Expansion in media and communication: The 'Media and Communication' department has grown by 6%, reflecting an emphasis on enhancing communication strategies and media outreach. Increase in operations: The 'Operations' department has seen a 5% rise in headcount, highlighting efforts to improve operational efficiency and support overall company growth.
+… more
+
+The latest hiring trend
+
+3,422
+
+Total employees
+
+6%
+
+Company-wide
+
+2 year growth
+
+17%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+2000
+4000
+
+Median employee tenure: 4.5 years
+
+Cast & Crew hires candidates from some of these companies and schools
+
+Cast & Crew hired 3 people from University of Southern California. See all
+
+Cast & Crew hired 8 people from University of Southern California. See all
+
+Competitors
+
+Cast & Crew operates in a highly competitive landscape within the entertainment payroll, technology, and production solutions industry. The demand for professional film production services remains robust due to the global appetite for high-quality visual storytelling. The company faces competition from numerous players, including well-funded startups and established firms, which are leveraging technology and AI to enhance production efficiency and storytelling capabilities.
+… more
+
+Sources: datainsightsmarket.com +1 more
+
+Show Premium Insights
+About the company
+
+Cast & Crew
+
+37,501 followers
+
+Follow
+
+Entertainment Providers
+
+ • 
+
+501-1000 employees
+
+ • 
+
+1,662 on LinkedIn
+
+Your goal is to create magical moments. Ours is to help you make it happen. 
+
+For decades, we've helped productions in film, television, digital media, and live events, unleash their potential. We provide digital solutions, expert financial services, and cloud workflows that help streamline your processes so you can more easily accomplish your goals. 
+
+Along with our portfolio of companies—Backstage, CAPS, Checks & Balances, Final Draft, Media Services, Sargent-Disc, and The TEAM Companies—we'll be by your side at every step of the way. 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Distributed Systems Software Engineer
+
+Stealth AI CyberSecurity Startup
+
+Brooklyn, NY (On-site)
+
+$180K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on December 19, 2025, 11:00 AM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Solutions Engineer
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$80K/yr - $100K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 2:05 PM
+6 days ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer — AI & LLM Systems
+
+Rent Solutions
+
+Tampa, FL (Hybrid)
+
+Actively reviewing applicants
+
+Posted on December 9, 2025, 11:15 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Full-Stack Developer — AI Agent Platform for Financial Services (Google Cloud / Vertex AI)
+
+Insomniac Hedge Fund Guy
+
+United States (Remote)
+
+$60/hr - $70/hr
+
+Posted on January 4, 2026, 11:43 AM
+4 days ago
+
+Frontend / Fullstack Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:55 AM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Deployed Engineer
+
+Reval Recruiting
+
+San Francisco Bay Area (On-site)
+
+$150K/yr - $270K/yr
+
+You’d be a top applicant
+
+Posted on January 5, 2026, 11:41 AM
+3 days ago
+
+Full Stack Engineer - NextJS & .NET
+
+Vazkor Technologies
+
+Boynton Beach, FL (On-site)
+
+$85K/yr - $120K/yr
+
+ • 
+
+2 benefits
+
+You’d be a top applicant
+
+Posted on August 22, 2025, 11:00 AM
+4 months ago
+
+Back End Developer
+
+Datasent
+
+Austin, Texas Metropolitan Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on December 12, 2025, 9:03 AM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+General Software Engineer
+
+Medra
+
+San Francisco, CA (On-site)
+
+Medical, Dental, 401(k)
+
+Posted on December 12, 2025, 11:33 AM
+3 weeks ago
+
+Backend Engineer
+
+Preffect
+
+San Francisco, CA (Hybrid)
+
+$170K/yr
+
+ • 
+
+Medical, 401(k)
+
+Actively reviewing applicants
+
+Posted on November 26, 2025, 12:02 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Senior Fullstack Engineer (On-Site, West Hollywood, CA)
+
+COVU
+
+Los Angeles, CA (On-site)
+
+$120K/yr - $180K/yr
+
+1 school alumni works here
+
+Posted on December 29, 2025, 1:13 PM
+1 week ago
+
+Software Engineer, AI Agent
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$140K/yr - $180K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 3:05 PM
+6 days ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

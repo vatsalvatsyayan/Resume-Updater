@@ -1,0 +1,55 @@
+About the job
+
+tl;dr: we're looking for a world-class full-stack/backend engineer who loves simplifying complex systems, unifying fragmented data, and building high-scale systems. Learn more about us here (link). Must be a new grad, graduating in winter 2025 or spring 2026.
+
+Why join us?
+
+
+Early-stage, yet de-risked: we are a rare combo of being early stage (high upside) but lower risk (2XX+ paying customers, $Xm+ recurring revenue, cash-flow positive for over a year, hockey-stick growth). You get the benefits of an early stage startup without the risk you’ll have at almost any other startup. You’ll have a ton of impact, work directly with our customers, and get to work on interesting technical challenges you won’t see at bigger companies. Although we’re early stage, we’ve eliminated key strategic risks you’ll face at other startups. Like an unproven product, lack of market validation, lack of revenue, over-reliance on VC funding, co-founder disputes. We’re all young and hungry. Our team is fully in-person, tenacious, and committed - most of us moved to SF from far away (Canada, SoCal, Texas, Virginia) specifically to build Agave from the ground up.
+Team is technical, diverse, young: you'll work with a formidable founding team that's experienced, intense, and ambitious. We've worked together for 10 years, first at a startup that Amazon acquired, then at Amazon, and now at Agave. You'll learn a ton while having outsized ownership. You’ll have a front-row seat to the good and bad of building a company from the ground up. We’re also technical - almost 90% of our team have either majored in CS, worked as full-time devs, and/or worked in technical roles at startups and larger tech companies for 5+ years before moving into business roles at Agave.
+Huge opportunity without direct competition: startups are incredibly hard, so you want to join one that has a unique advantage. You don’t want to spend years of your life on a company in a saturated market with tons of competition. We’re seizing an opportunity that’s massive (Construction is the world’s third-largest industry) but also overlooked by most people in startup land. Most who can solve this problem aren’t aware it exists or are too distracted by tech trends (blockchain, metaverse, LLMs, etc.) to notice. These talented folks get coaxed into building products that seem cool early on, but don’t solve durable problems or aren’t differentiated enough against their many competitors to be sustainable (e.g. lots of AI products), so they end-up not going anywhere or stagnating without a clear plan to grow profitably. As a result, we have a multi-year head start against potential competitors, increasing our odds of success significantly. We’re also backed by world-class investors (Accel, YC) and Construction insiders (Procore and Autodesk executives, founders of the largest construction tech companies like PlanGrid).
+
+
+Requirements
+
+
+Exceptional college grads with strong intern/co-op experience, ideally from a top undergraduate university
+Bachelor’s Degree in Computer Science
+Self-motivated, high ownership, low ego; desire to work on a fast-paced, intense, fun team. Passion for building a world-class engineering culture.
+Pumped to work in-person with us in SF 5 days/week.
+No need to have: prior experience with our tech stack or at B2B SaaS/API company
+
+
+Interesting technical challenges?
+
+
+Unification: we’re unifying dozens-to-hundreds of fragmented systems under a single standard that we define. Our unification covers data objects, data models, authentication, account-linking UX, and features like filters and pagination. When designing any new feature, we have to do it in a scalable way. For example, when adding filters, we have to research each system we support (and plan to support) and create a generic, system-agnostic solution.
+On-prem: we’re connecting with many types of on-prem systems (SQL-based, DLL-based, API-based), many built 20-40 years ago. We provide tremendous value to customers allowing them to interface with these systems in a secure, fast, reliable way, as if they’re modern, cloud-based products. We need to support real-time communication and webhooks when they don’t exist (e.g., using web-sockets).
+Scale & speed: we’re handling millions of API requests per day, and growing daily. For our products that we power with our own API (e.g. Analytics), we need to store and retrieve large amounts of data in an efficient way, building elegant caching layers to reduce latency. We ship code daily and iterate quickly based on actual feedback from paying customers (they share tons!).
+Operational excellence: we’re creating a reliable API layer on top of many old systems that don’t have APIs. It’s like building a skyscraper on quicksand, enforced by SLAs. We need to innovate in expanding the depth and breadth of our integrations while simultaneously increasing our development velocity. We need to be very creative in how to continually test our code and integrations, creating scalable testing frameworks that can catch edge cases and bugs across 1k+ endpoints.
+Mix of back-end and front-end: we’re building front-end apps that dog-food our own APIs (e.g. Sync, Analytics). This helps us build world-class APIs because we suffer any pain present in our API. We’re building both the lego blocks and the higher-level lego models: we see what kinds of APIs our SaaS customers want, then also look at the kinds of API niceties we want for our own applications (like a caching layer, advanced filtering) and implement a combination of the two.
+Variety: without knowing, you might assume adding a new integration is low-ambiguity and routine. But each integration we launch is special, completely different and posing unique challenges. This requires researching that system and its nuances in great depth before building on top of it. It’s part engineering, part archeology.
+
+
+Tech stack?
+
+
+TypeScript, React, Redis, Postgres, AWS - CDK, EC2
+
+
+Benefits
+
+
+Healthcare: we cover 90% of your healthcare costs with several plan options.
+401k: we match 100% of your contributions, up to 4% of annual salary.
+Relocation: sizable relocation bonus for folks currently located outside of the Bay Area, and a bonus for anyone (even within the Bay Area) who moves within a 15-minute walk of our office.
+Gym: on-site gym with Peloton, squat rack, Tempo, Yoga setup, and more.
+Visa: we sponsor Visas (H1B, TN, etc.) for candidates who are a good fit!
+Commuter Benefits: employees can make pre-tax contributions toward commuting costs, and we’ll cover the full cost of a Muni pass for those using public transit.
+
+
+In-Person
+
+
+We've built Agave in-person since day 1, and will maintain an in-person culture in San Francisco going forward. We form tighter bonds, build a stronger culture, and move faster since we're all working from one location.
+Our office is at 101 New Montgomery Street, San Francisco, right near Salesforce Park, coffee shops & restaurants, and a bustling downtown. We believe building in-person is a huge strategic advantage, and we hope you’ll join us.

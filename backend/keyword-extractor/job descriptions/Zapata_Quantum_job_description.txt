@@ -1,0 +1,451 @@
+Zapata Quantum
+
+Full Stack Engineer
+
+United States · 5 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+Remote
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Alireza Shabani 
+
+• 2nd
+
+Quantum & AI |  Cisco, Google, Qulab
+
+School alum from University of Southern California
+
+Connect
+About the job
+
+** Open to applicants worldwide, with the potential for U.S. legal residents to convert to employee status. 
+
+
+
+
+Company Description
+
+Zapata Quantum is shaping the future of quantum computing: setting the standards for what’s viable, valuable, and worth building. The Company powers quantum applications across cryptography, pharmaceuticals, finance, materials discovery, defense, and beyond, translating cutting-edge research into real-world impact.
+
+
+
+
+Zapata is the only organization to have contributed across every technical area of DARPA’s Quantum Benchmarking program, giving it a uniquely comprehensive view of what it takes to make quantum computing work in practice. Now restructured and sharply focused, Zapata Quantum stands alone as the only publicly traded, pure-play quantum software company fully dedicated to unlocking quantum’s commercial potential.
+
+
+
+
+We’re rebuilding at a pivotal moment for the industry—bringing together a team that will help define how quantum delivers value in the real world, with the opportunity for meaningful ownership as we shape the commercial path forward.
+
+
+
+
+Role Description
+
+We are seeking a skilled Full-Stack Engineer to design and develop a user-interactive web application supporting a knowledge graph related to quantum computing. The role focuses on building intuitive user interfaces, translating complex data structures into accessible experiences, and integrating AI-enabled application features. Prior experience in quantum computing is not required.
+
+This position offers a high level of individual ownership and is well suited to engineers who are comfortable working independently within a small, focused team. Collaboration will be lightweight, with structured check-ins occurring approximately once per week.
+
+
+
+
+Qualifications
+
+Strong full-stack engineering fundamentals
+Demonstrated experience building user-facing web applications
+Solid understanding of UI/UX principles and product usability
+Familiarity with AI-enabled application workflows or integrations
+Ability to work independently and manage deliverables with minimal oversight
+Willingness to learn new technical domains as needed
+
+
+
+
+Key Responsibilities
+
+Design, implement, and maintain a modern, user-interactive web application
+Develop clean, intuitive UI/UX for navigating complex technical content
+Integrate AI-driven features such as intelligent search, recommendations, or contextual assistance
+Make architectural and product decisions in collaboration with a small leadership team
+Deliver high-quality software with minimal supervision
+
+
+
+
+Desired Programming Skills
+
+React — building responsive, high-quality user interfaces
+TypeScript / JavaScript
+API Design (REST)
+Cypher (Neo4j)
+Vector databases (e.g. Pinecone, Weaviate, Milvus, FAISS)  
+Python
+LaTeX
+
+
+
+
+Preferred Experience
+
+Experience with data-intensive, graph-based, or visualization-heavy applications
+Evidence of shipped products, professional work, or substantial personal projects
+Strong communication skills and comfort articulating technical and design decisions
+… more
+
+Set alert for similar jobs
+
+Full Stack Engineer, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+272
+
+total
+
+272
+
+in the past day
+
+Candidate seniority level
+
+74% Entry level candidates
+
+17% Senior level candidates
+
+Candidate education level
+
+67
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+31
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Zapata Quantum
+Powered by Bing
+
+Zapata Quantum hires candidates from some of these companies and schools
+
+Zapata Quantum hired 1 person from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+Zapata Quantum
+
+17,992 followers
+
+Follow
+
+Software Development
+
+ • 
+
+11-50 employees
+
+ • 
+
+7 on LinkedIn
+
+Zapata is focused on accelerating the development of practical quantum applications—so enterprises and governments can unlock the power of quantum computing sooner. 
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Full stack PHP developer
+
+APKMirror.com
+
+Oakland, CA (Remote)
+
+Posted on January 18, 2026, 9:40 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Developer with BI & Reporting Expertise
+
+On Location
+
+Lawrence, NJ (Remote)
+
+Vision, 401(k)
+
+1 school alumni works here
+
+Posted on December 29, 2025, 12:46 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Forward Deployed Engineer
+
+Evolver
+
+Palo Alto, CA (Remote)
+
+Posted on December 1, 2025, 4:24 PM
+2 months ago
+
+Founding Engineer - Full-Stack or AI (Equity Only)
+
+Doc Labs
+
+San Francisco Bay Area (Remote)
+
+You’d be a top applicant
+
+Posted on January 13, 2026, 9:43 PM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Mobile Engineer
+
+Plurawl
+
+United States (Remote)
+
+Posted on January 20, 2026, 2:17 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+GolfForever
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on November 11, 2025, 12:41 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+React Developer
+
+Bitcoined
+
+Georgia, United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 8:20 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Endeavor Flow
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on November 12, 2025, 6:31 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+React Native Developer - WebRTC/VoIP (Contract)
+
+BluePro AI
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 28, 2026, 12:48 PM
+3 hours ago
+
+Back End Developer
+
+SafeHill
+
+United States (Remote)
+
+Posted on November 1, 2025, 1:10 AM
+3 months ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer - Full Stack (Verified job)
+Software Engineer - Full Stack 
+
+TCI (Teachers'​ Curriculum Institute)
+
+United States (Remote)
+
+$96K/yr - $145K/yr
+
+ • 
+
+401(k) benefit
+
+1 school alumni works here
+
+Posted on November 24, 2025, 3:52 PM
+2 months ago
+
+Forward Deployed Engineer (Verified job)
+Forward Deployed Engineer 
+
+Sigma360
+
+United States (Remote)
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 14, 2026, 6:31 AM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

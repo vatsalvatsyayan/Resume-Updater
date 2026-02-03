@@ -1,0 +1,45 @@
+About the job
+
+We’re reinventing the market research industry. Let’s reinvent it together.
+
+At Numerator, we believe tomorrow’s success starts with today’s market intelligence. We empower the world’s leading brands and retailers with unmatched insights into consumer behavior and the influencers that drive it.
+
+Numerator is looking for a talented and passionate Backend Python Engineer to join our team in our Chicago office. As part of our Insights backend team, you will be building new and improving existing services powering the Insights platform. This is a fast-paced role with high growth, visibility, impact, and where many of the decisions for new projects will be driven by you and your team from inception through production. If you are seeking an environment where you get to do meaningful work with other great engineers, then we want to hear from you!
+
+What You'll Be Doing:
+
+
+Design, build, and maintain robust, scalable RESTful APIs and microservices using Python and modern frameworks to power the Numerator Insights platform. 
+Manage and maintain the underlying cloud infrastructure (e.g., AWS) for our platform, ensuring high performance, reliability, and security of all backend systems. 
+Evaluate and implement new backend technologies, Python libraries, and architectural patterns to accelerate development and improve system efficiency and performance. 
+
+
+What You'll Bring to Numerator
+
+
+At least 2 years of experience with Python, or some other object-oriented programming language like Ruby 
+Well versed in building the backend logic of web applications 
+Strong database skills (e.g. MySQL or Postgres) 
+Solid foundation in designing and developing scalable API’s 
+Understanding of general web architecture 
+A Bachelors, Masters, or PhD in Computer Science, Information Technology, Computer Engineering or some related discipline, or equivalent experience 
+
+
+Nice to Haves:
+
+
+Experience with AWS 
+Experience with multithreaded programming 
+Comfortable with version control systems 
+Familiarity with message oriented architectures (Celery, RabbitMQ) 
+Familiarity with container-orchestration (Kubernetes) 
+
+
+What We Offer:
+
+
+Competitive salary and benefits package. 
+Flexible working hours and the option for remote work. 
+Opportunity to work on impactful projects with a modern tech stack. 
+Collaborative and inclusive team culture. 
+Professional development opportunities to grow your skills and career.

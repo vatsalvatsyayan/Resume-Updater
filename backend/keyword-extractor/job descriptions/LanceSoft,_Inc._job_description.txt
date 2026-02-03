@@ -1,0 +1,48 @@
+About the job
+
+Pay Rate: $71.00/hr to $85.00/hr on W2
+
+Location: Santa Clara - CA - Onsite - 3 Days a week
+
+
+
+
+Responsibilities:
+
+• Design, build, test, monitor, manage and maintain tool chains for critical functions.
+
+• Automate technologies to improve the velocity and quality of engineering efforts.
+
+
+
+
+Requirements:
+
+• BS/MS Computer Science/Engineering Degree
+
+• Deep knowledge of one or more languages including shell, Perl, Python, Java and/or Ruby
+
+• Background in object-oriented programming
+
+• Understanding of data structures, data modeling and software architecture
+
+• Deep knowledge of math, probability, statistics, and algorithms is a plus
+
+• Excellent organizational, time management, and communication skills
+
+• Ability to think critically and to formulate solutions to problems in a clear, concise, and timely manner.
+
+• Expertise in Database administration and SQL
+
+• Ability to visualize a proposed system and be able to build it
+
+• Experience with ASIC standard verification tools, languages, and flows is a plus.
+
+
+
+
+Looking for: Automation Experience for Hardware Design
+
+Demonstrate enough problem solving skills or proficiency in coding.
+
+H/W or automation experience in Perl/Python.

@@ -1,0 +1,556 @@
+Ascend
+
+Solutions Engineer
+
+San Francisco, CA · 3 hours ago · 66 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$35/hr - $45/hr
+Contract
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Edward Siu 
+
+• 3rd
+
+Staff Software Engineer at Ascend
+
+School alum from University of Southern California
+
+Message
+About the job
+
+What We Do
+
+Ascend is transforming the $10T global insurance industry by combining AI automation with embedded fintech.
+
+While insurance represents 7.2% of global GDP, outdated financial infrastructure like PDFs, emails, and manual reconciliation continues to slow the industry down. Ascend is the first and market-leading finance automation platform built specifically for insurance, driving the industry's rapid digital transformation.
+
+In just five years:
+
+
+Trusted by thousands of insurance businesses nationwide 
+Processes billions in transactions annually, growing 200%+ YoY 
+Built a world-class team of 70+ across San Francisco and Columbus 
+
+
+How We Do It
+
+Ascend automates the insurance financial lifecycle, from collections to disbursements. We streamline operations and drive real profitability.
+
+AI is rapidly driving the cost of software down, opening the door to faster innovation and broader access. At the same time, it is shifting where value is created. The strongest companies embed directly into financial workflows, capturing value at the point where money moves.
+
+Ascend brings AI and fintech together to automate financial operations inside the transaction itself. Customers do not just adopt software. They unlock powerful financial efficiency with a proven 5-7x return on investment.
+
+Why We Do It
+
+Insurance is a $10T+ industry running on legacy systems. AI alone won't fix it, but AI-powered automation embedded into payments and transactions will.
+
+Ascend's mission is to become the leading financial automation platform for insurance by 2030—powering the entire industry's financial operations while transforming the way trillions of dollars move.
+
+Your Role
+
+Ascend is hiring a Solutions Engineer (Contract) to take full ownership of a critical AI-driven data extraction workflow. You'll shape how automation powers the insurance industry—improving accuracy, scalability, and customer experience at every step.
+
+You'll dive deep into complex data problems, fine-tune prompts, and refine systems that power the automation layer behind Ascend's financial infrastructure. This role is a mix of hands-on problem-solving, experimentation, and collaboration with Product, Operations, and Engineering teams to make our automation more reliable and intelligent.
+
+This is a contract role based on-site at our San Francisco office, 40 hours per week for six months.
+
+Responsibilities
+
+Own and optimize prompt logic
+
+
+Identify and resolve data extraction issues using prompt engineering and analytical problem-solving.
+Design systems that enable scalable, high-accuracy iteration on prompt workflows.
+
+
+Technical implementation & tooling
+
+
+Partner with internal teams to improve testing, monitoring, and refinement processes.
+Support new customer and organization onboarding through internal tooling improvements.
+Provide feedback and insights to shape the broader product roadmap.
+
+
+Customer & stakeholder collaboration
+
+
+Work closely with internal and external users to gather context, troubleshoot challenges, and deliver consistent, high-quality results.
+
+
+Quality assurance & reporting
+
+
+Track and analyze extraction accuracy metrics, uncovering trends and root causes.
+Recommend process improvements to reduce manual work over time.
+Build reusable playbooks and prompt strategies to support future automation efforts.
+
+
+Why This Role Matters
+
+This is a chance to own a critical piece of Ascend's AI-powered automation systems and see your work directly impact product performance, customer satisfaction, and company growth.
+
+You'll thrive here if you love solving tough technical problems, moving quickly, and building systems that scale intelligently. This role is perfect for someone who operates at the intersection of data, engineering, and product thinking—and takes pride in turning complexity into clarity.
+
+What We're Looking For
+
+
+Exceptional analytical and critical thinking skills, with a track record of breaking down complex problems into actionable solutions.
+Experience with AI-powered document processing, prompt engineering, or data extraction workflows.
+Proven ability to work with large, unstructured datasets to identify patterns and improve accuracy.
+Strong communication skills, with the ability to translate technical concepts for both technical and non-technical audiences.
+Bonus: Familiarity with large language models (LLMs) and their applications in automation or data systems.
+
+
+Contract Details
+
+
+Location: On-site in San Francisco (SoMa)
+Schedule: Full-time, 40 hours per week
+Type: Contract (6 months) with full time conversion
+Compensation: $35-45 per hour
+Benefits Note: Healthcare Coverage, 401k, and leave are not included until converted to full time
+
+
+Benefits
+
+
+Competitive base salary and meaningful equity 
+100% health premiums covered for you and your dependents 
+401k with employer matching options 
+A fast growing team with an emphasis on promoting from within 80% of all hires in the last 12 months have already been promoted! 
+Unlimited PTO 
+Monthly company-paid commuter benefit options 
+Parental and family leave 
+Lunch provided when in office 
+Dog-friendly office! 
+
+
+Join Ascend and be part of our mission to revolutionize the insurance industry and contribute to global financial modernization. Your leadership can make a significant impact on improving the $10T+ insurance industry.
+
+Equal Opportunity
+
+We are committed to equal opportunity employment and embrace diversity within our organization. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+We encourage candidates to apply even if their experience doesn't precisely match this opportunity. We value diversity and are dedicated to equal opportunity employment.
+… more
+
+Benefits found in job post
+
+401(k), Commuter benefits
+
+Set alert for similar jobs
+
+Solutions Engineer, San Francisco, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+66
+
+total
+
+66
+
+in the past day
+
+Candidate seniority level
+
+65% Entry level candidates
+
+8% Senior level candidates
+
+Candidate education level
+
+72
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+25
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have an Apprenticeship Degree
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Ascend
+Powered by Bing
+
+Company focus areas
+
+• Partnerships and Collaborations: Ascend is focusing on strategic partnerships to enhance its offerings and streamline operations. Recent collaborations include partnerships with QuoteWell and Anzen to modernize accounting workflows and streamline retail insurance processes.
+
+...more
+
+Sources: prnewswire.com +1 more
+
+Hiring & headcount
+
+Significant growth in Customer Success and Support: The department has seen a 120% increase in employee count over the past year, indicating a major initiative to enhance customer satisfaction and support services. Expansion in Sales: The Sales department has experienced a 71% increase in headcount over the past year, suggesting a strong focus on boosting sales efforts and market reach. Increase in Engineering: With a 64% rise in the Engineering department's headcount over the past year, the company appears to be investing heavily in product development and technological advancements. Growth in Business Development: The Business Development department has grown by 75% over the past year, highlighting efforts to explore new business opportunities and strategic partnerships.
+… more
+
+The latest hiring trend
+
+90
+
+Total employees
+
+143%
+
+Company-wide
+
+2 year growth
+
+250%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+50
+100
+
+Median employee tenure: 1.1 years
+
+Ascend hires candidates from some of these companies and schools
+
+Ascend hired 1 person from University of Southern California. See all
+
+Competitors
+
+Ascend operates in the online insurance payment and premium financing platform industry, focusing on automating back-office tasks and enhancing customer experiences. The company faces competition from other insurance premium financing platforms and must continue to innovate and streamline operations to maintain a competitive edge.
+… more
+
+Sources: lifeinsuranceinternational.com +1 more
+
+Show Premium Insights
+About the company
+
+Ascend
+
+9,786 followers
+
+Follow
+
+Insurance
+
+ • 
+
+51-200 employees
+
+ • 
+
+90 on LinkedIn
+
+Ascend is a comprehensive accounting automation platform powered by AI and  purpose-built for insurance brokers, MGAs, and carriers.
+
+Ascend makes insurance businesses more profitable by increasing revenue and decreasing operational expenses through administrative process automation, financial insights, and treasury management. We work with 3,000+ insurance businesses from startups to publicly traded companies.
+
+We’re hiring across GTM, engineering and business functions - email us at hello@useascend.com if you're interested in learning more.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Full Stack Engineer
+
+Arclane Technologies
+
+San Francisco Bay Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 11:39 AM
+5 days ago
+
+ · 
+
+ Easy Apply
+
+Founding Fullstack Engineer
+
+Jampack Labs
+
+New York, NY (Hybrid)
+
+$160K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 3:41 PM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+General Software Engineer
+
+Medra
+
+San Francisco, CA (On-site)
+
+Medical, Dental, 401(k)
+
+Posted on December 12, 2025, 11:33 AM
+1 month ago
+
+Distributed Systems Software Engineer
+
+Stealth AI CyberSecurity Startup
+
+Brooklyn, NY (On-site)
+
+$180K/yr - $250K/yr
+
+You’d be a top applicant
+
+Posted on December 19, 2025, 11:00 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Solutions Engineer
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$80K/yr - $100K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 2:05 PM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Associate Software Engineer (New College Grad 2026) (Verified job)
+Associate Software Engineer (New College Grad 2026) 
+
+Solace
+
+Redwood City, CA (On-site)
+
+1 company alumni works here
+
+Posted on January 14, 2026, 8:28 PM
+1 week ago
+
+Application Developer ($60,000 - $100,000 Annually DOE)
+
+ELM Utility Services
+
+Missoula, MT (On-site)
+
+401(k) benefit
+
+Posted on January 12, 2026, 11:41 AM
+2 weeks ago
+
+Software Engineer
+
+Halo Nova
+
+San Francisco, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on November 5, 2025, 12:19 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Back End Developer
+
+Datasent
+
+Austin, Texas Metropolitan Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on December 12, 2025, 9:03 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+React / Front-end / Forward Deployed Engineer
+
+Entabeni Systems
+
+Granby, CO (On-site)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 6:43 AM
+5 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, AI Agent
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$140K/yr - $180K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 3:05 PM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Software Integration Engineer
+
+Tenkara
+
+San Francisco, CA (On-site)
+
+$140K/yr - $160K/yr
+
+Posted on December 28, 2025, 2:35 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

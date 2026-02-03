@@ -1,0 +1,462 @@
+'AI + Cloud
+- Perpay+
+10+ billion events
+100% SaaS company
+100GB+ sensors
+1M+ providers
+1M+ users
+25+ brilliant minds
+30+ top insurers
+40+ AI experts
+5.8 years bioMérieux
+60%+ margins
+65M+ customers
+a-Service (PaaS
+account-linking UX
+AdapTV
+AditiConsulting
+advanced AI
+AgentCore
+Agentic AI
+AI/ML
+AirVet
+AllCarTM
+almost B+
+Amazon QuickSight
+AngelList
+AngularJSCloud
+Apache Iceberg
+Apache Kafka
+Apache SparkTM
+AppFolio
+Applied AI
+Aquent RoboHead
+ArcGIS
+ArcGIS Enterprise
+AreaTM
+Aroris360
+automotiveMastermind
+AWS AgentCore
+AWS Cloud services
+AWS CloudWatch
+AWS CodePipeline
+AWS DynamoDB
+AWS Experience
+AWS infrastructure
+AWS Services
+B2B SaaS
+B2B SaaS/API company
+BashnmacOS
+BigBear
+BigCommerce
+BigFuture
+BigQuery warehouse
+BioMérieux Inc.
+Black BookTM surveys
+Bolt6
+BookTM
+BountyJobs
+BoxGroup
+BrickRed
+BSL3
+Build ByteDance
+BusinessQ
+ByteDancers
+C# Experience
+C#/,
+C++ Build
+C++ experience
+C++ exposure
+C++ Systems
+C++ Understanding
+C/C++ programming
+CapCut
+CardoMax
+CareYaya
+CarRentals
+CD
+cGMP
+cGxP
+CheapTickets
+CI
+CI/CD processes
+CI/CD systems
+CI/CD tools
+CitiBike
+clean REST/gRPC APIs
+ClickUp
+cloud computing platforms
+cloud computing platforms (e
+CloudKitchens
+CMMI L3
+code review
+CodeCraftMD
+CodeSignal
+CoFi CoFi
+CoFina
+Computer Science DoD
+comTM
+ConsumerDirect
+consumerTM
+containerization technologies
+containerization tools
+Continuous Delivery
+continuous deployment
+Continuous Integration
+Continuous Integration environments
+continuous integration pipelines
+CoPallet
+CoPilot
+CoPilot Databases
+Core Technologies C#
+CruisesTM
+CryoET
+cutting-edge AI
+CV
+D3 D3
+DAG
+DashApps
+DashApps Interest
+DatadogLife
+DB
+DeepMind
+DeepQuery
+DeepSeek
+DeFi primitives
+DevEx
+DevOps Engineer
+DevOps Experience
+DevOps fundamentals
+DevOps operations
+DevOps practices
+devOps tools
+DevRel
+DevRel Experience
+DevX
+DinnerPaid
+DirectEmployers
+DoorDash Engineering
+DriverTM
+DynamoDB Database
+DynamoDB Experience
+e.g. C++
+e.g. MySQL
+e.g. TypeScript
+e.g. WebGL
+e.g., GitHub Copilot
+e.g., Node.js
+e.g., SolidWorks/NX
+e.g., SonarQube
+eBay Message
+eDiscovery
+either iOS
+Employee Rights SoFi
+EngineeringPlatform
+Enterprise AI
+enterprise SaaS
+EpiSci
+eToro
+eTrigue
+event-driven architectures
+event-driven systems
+EverlawWe
+ExosomeDx
+Expedia CruisesTM
+FactoryOS
+FactSet Support
+FactSetter
+FastAPI Exposure
+FastAPIs
+FlashAttention
+FlexGen
+FlightPulse
+FloVision
+FluentAssertions
+FormAlloy
+fox59
+FP
+FreeSWITCH
+FreeU
+frontend UI
+GenetiQ
+GenetiQ-HAiLO
+GetWhys
+Git, CI/CD pipelines
+GitHub Copilot
+GitHub/Lab, Jira
+GitLab CI/CD
+GlobalFoundries
+GolfNow
+Google BigQuery
+Google DeepMind
+Google Labs
+Google Lens
+Google Maps
+Google Workspace
+Google’s AR/VR effort
+GovDash Today Work
+GraphQL APIs
+GraphQL Cloud
+GraphQL federation
+GraphQL PostgreSQL
+GraphQL React
+GroupTM
+gRPC APIs
+gRPC/protobuf
+HackerRank’s decade
+HDD
+healthcare SaaS
+HedgeOS
+high-growth SaaS
+HighQ
+HootSuite
+HydroJug
+i.e C++
+IaxaI
+IdentityServer
+IdentityServer4
+iGaming
+Inclusion PayPal
+Inclusion​ TikTok
+InfoBase Publishers
+InnovAsian
+integratingAI
+iPSCs
+IvyTM
+Java, C/C++
+JavaScript (ES6+)
+JavaScript code
+JavaScript Experience
+JavaScript frameworks
+JavaScript/TypeScript
+JazzHR
+JetBridge AI Seattle
+KAFKA
+KloudStax
+Kubernetes clusters
+KuCoin
+LangChain agents
+LangGraph
+large-scale distributed systems
+LeetCode
+Lemon8
+LendingClub
+LetsGetChecked
+Leverage C#
+Leverage MongoDB
+LexisNexis
+LinkSquares
+Linux
+Linux (CentOS
+LiveRail
+LlamaIndex Love
+LoCascio
+M+ ARR
+MaaS
+machine learning models
+machine learning principles
+machine learning teams
+machine learning technologies
+machine learning workflows
+MacOS
+MacOS UI/UX Ability
+MailMend
+ManageCasa
+MapLibre
+McDelivery
+McDonald
+McKenzie
+McKesson
+McKesson Corporation
+McKinney
+McKinsey Digital
+MFA
+microservice architecture
+microservices architecture
+Microsoft C#
+Microsoft’s mission
+Mirai
+MiX Telematics
+MobiusEngine
+modern (JavaScript/TypeScript
+Modern C++
+Mongo
+MongoDB Atlas
+MongoDB, Inc.
+multiple #1 rankings
+MySQL Unit
+MySQL/PostgreSQL
+NeMo
+NeMo Guardrails
+NerdWallet Rated
+Nest.js
+NestJS is a plus
+NetApp Inc.
+NetApp NetApp
+NetApp’s cloud
+NetJets Card
+Node/NestJS
+NodeJs
+NodeJS Expertise
+non-bioMerieux
+NoSQL alternatives
+NoSQL Contributions
+NoSQL data solutions
+NoSQL data stores
+NoSQL databases
+NoSQL databases (e
+noSQL Kubernetes
+NoSQL stores
+NoSQL Understanding
+not just PoCs
+NuShades
+Object-Oriented design
+object-oriented design Familiarity
+object-oriented principles
+object-oriented programming
+object-oriented programming concepts
+OmniVista
+OneCAE
+OneCastOneCrew
+OneTen
+OperationsTM
+orJira
+OrthoIndy
+PetaBytes
+PetSmart
+PhD-level candidates
+PhotoRoom
+PIIC iX
+PiMS
+PlaygamiTM
+PlayStation
+PlayStation Studios
+PlumbBillPay
+PoCs
+POS+ applications
+PostgreSQL databases
+PostgreSQL LLMs
+PostgresSQL
+PromptLayer
+ProSomnus
+PsiQuantum’s mission
+PsiQuantum’s values
+PubSub Labelbox
+React (TypeScript)
+React + TypeScript
+React-based
+react.js
+ReactJS
+ReBAC
+RedPajama
+Redshift, TiDB
+relational (PostgreSQL
+relational and NoSQL databases
+relational and/or NoSQL databases
+RelativityOne
+ResponseTM
+REST API development
+REST APIs
+REST/gRPC APIs
+ReSync
+ReSync Bio
+RiseUp
+RL
+Robert LoCascio
+RoboHead
+robust distributed systems
+rubrikInc
+SaaS cloud platform
+SaaS companies
+SaaS providers
+SaaS solutions
+SaaS Ventures
+SafeStreets
+SageMaker
+SageMaker Pipelines
+schools bioMérieux
+schools NetApp
+schools NetJets
+schools TikTok
+SecDB
+selling B2B SaaS
+ServiceTitan
+SharedPractices
+ShipMyCards
+SmartAsset
+SoFi SoFi
+SoftBank
+Software Engineer Heliux
+SoGoSurvey
+SolarWinds
+SonyInteractive
+source ComfyUI
+SPA
+SpaceX
+SparkExperience
+SparkTM
+SpecSys
+SportsEngine
+Spring Framework
+SpringCloud
+SQL Server NoSQL
+SQL Server/MySQL
+SQL/NoSQL databases
+SquarePeg
+StackAdapters
+StarRocks
+Strong JavaScript/TypeScript fundamentals
+SumUp
+TeamNextdoor
+TechTree
+TedTalk
+TeradataBI
+Test Driven Development
+Test-Driven
+Test-Driven Development
+the NetJets Share
+TheTradeDesk
+ThredUp
+ThreeJS Backend
+TikTok TikTok
+TikTok’s efforts
+tools (TeamCity
+TopoDOT
+TransSIGHT
+TrekTM
+trust MongoDB
+TSX
+Tullio
+TurboTax
+TypeScript / Node
+TypeScript / Node.js
+TypeScript Backend
+TypeScript Infra
+Ubiquity6
+UiPath Work
+UnifyGTM
+Utopai
+VantageScore
+VerQu
+Version control systems
+version control systems (e
+version control tools
+VieCure
+VirtuOx
+VueJS
+w/ FastAPI
+WD_BLACKTM
+Web Services
+Web technologies (C#
+web2
+WebApi
+WeWork
+Win32
+WorldPay
+x3
+xAI’s mission
+you FlexBase
+YoursAt
+YoursAt Everlaw
+YouTube
+ZeroDrift

@@ -1,0 +1,46 @@
+About the job
+
+Who You'll Work With
+
+Driving lasting impact and building long-term capabilities with our clients is not easy work. You are the kind of person who thrives in a high performance/high reward culture - doing hard things, picking yourself up when you stumble, and having the resilience to try another way forward.
+
+In return for your drive, determination, and curiosity, we'll provide the resources, mentorship, and opportunities you need to become a stronger leader faster than you ever thought possible. Your colleagues—at all levels—will invest deeply in your development, just as much as they invest in delivering exceptional results for clients. Every day, you'll receive apprenticeship, coaching, and exposure that will accelerate your growth in ways you won’t find anywhere else.
+
+When you join us, you will have:
+
+
+Continuous learning: Our learning and apprenticeship culture, backed by structured programs, is all about helping you grow while creating an environment where feedback is clear, actionable, and focused on your development. The real magic happens when you take the input from others to heart and embrace the fast-paced learning experience, owning your journey.
+A voice that matters: From day one, we value your ideas and contributions. You’ll make a tangible impact by offering innovative ideas and practical solutions. We not only encourage diverse perspectives, but they are critical in driving us toward the best possible outcomes.
+Global community: With colleagues across 65+ countries and over 100 different nationalities, our firm’s diversity fuels creativity and helps us come up with the best solutions for our clients. Plus, you’ll have the opportunity to learn from exceptional colleagues with diverse backgrounds and experiences.
+World-class benefits: On top of a competitive salary (based on your location, experience, and skills), we provide a comprehensive benefits package to enable holistic well-being for you and your family.
+
+
+Your Impact
+
+As a Software Engineer, you will collaborate with a global network of technologists, designers, and strategists to help clients transform their businesses through innovative digital solutions.
+
+In this hands-on role, you’ll develop cutting-edge products, mentor client teams, and shape engineering cultures while growing your expertise across diverse industries and technologies.
+
+In this role, you will work hands-on with clients across industries to bring their digital ambitions to life. You will develop software products and services from the ground up while coaching and mentoring client teams on engineering best practices, user-centric design, and Agile values. By co-creating with clients and their leadership, you’ll help build not only cutting-edge products but also the technical capabilities and cultures needed to sustain them.
+
+Your work will drive meaningful change for clients and their industries. You will participate in cross-functional problem-solving sessions with client leaders, shaping their digital strategies and delivering solutions that go beyond the product itself. Your efforts will help clients build scalable teams and engineering cultures that enable long-term success.
+
+You will collaborate with clients across industries to turn their digital ambitions into reality through hands-on technical expertise. Based in one of our US locations, you will be part of McKinsey Digital, a multidisciplinary group of software engineers, Agile coaches, designers, and technologists passionate about creating industry-shaping products and tools. 
+
+At McKinsey, you’ll grow as a technologist and leader. You’ll work across diverse industries and technologies, learning something new with every project. With opportunities to contribute to digital strategies, build impactful products, and mentor others, you’ll have the freedom to chart your own path and grow in the areas that excite you most.
+
+There is flexibility to hire at the Engineer I/II or Senior Software Engineer level, depending on your experience.
+
+Your Qualifications and Skills
+
+
+Undergraduate or master’s degree; or equivalent experience 
+2-5+ years of experience developing full-stack applications by writing code that is readable, testable, maintainable, and scalable 
+Demonstrated experience working collaboratively with other developers, as well as technical and non-technical people within software teams 
+Demonstrated knowledge and hands-on experience across the full application stack with some of the following languages/frameworks: UI: JavaScript, TypeScript, React.js, Angular.js, Next.js, Vue.js, Java, Sprint, C#, Node.js, SQL, MongoDB, cloud-native databases, AWS, Azure, GCP, Jenkins, Docker, Circle CI, Travis 
+Demonstrated knowledge and hands-on experience with common AI models and LLMs like GPT, Sonnet, etc. 
+Experience with AI-assisted IDEs such as Cursor, Claude Code, Copilot, etc. 
+Experience working in Agile teams, including active participation in sprint ceremonies
+Experience pair programming collaboratively with other developers 
+Exceptional time management to meet your responsibilities in a complex and largely autonomous work environment
+Strong communication skills, both verbal and written, in English and local office language(s), with the ability to adjust your style to suit different perspectives and seniority levels

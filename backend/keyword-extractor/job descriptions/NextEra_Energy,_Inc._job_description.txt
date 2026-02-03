@@ -1,0 +1,67 @@
+About the job
+
+NextEra Analytics offers energy consulting services using industry-leading scientific analysis for planning, siting, forecasting and optimizing all forms of energy projects. Our optimization and analytics platforms integrate open-source technologies to leverage massive, diverse sets of utility operating data. This enables rapid development of operational solutions. Applying expertise in advanced mathematics, data and physical sciences, we solve some of the hardest problems facing the energy industry.
+
+Position Specific Description
+
+We are seeking an entry-level software engineer to join our New Product Engineering team in St. Paul. Our SDEs work in a fast-paced environment alongside data and research scientists to deliver innovative forecasting and optimization solutions for the energy industry. Engineers contribute to all phases of the software development life cycle and are encouraged to use the technical stack that best aligns with the problems they're solving. Providing software development support for existing products is also required, including periodic after hours support for urgent issues. Recent projects have included AWS serverless, Grafana, TimescaleDB, Vue 3, and Python or Rust. We follow an onsite work schedule with teams collaborating in-person.
+
+Key Responsibilities
+
+
+ Develop and deliver industry-leading technology solutions to complex energy challenges 
+ Code in multiple languages, Python, Rust and Vue.js preferred 
+ Conduct system testing and create unit tests for new and existing features 
+ Write technical documentation for requirements and system architecture 
+ Participate in agile ceremonies including requirements refinement, estimation, standups, and retrospectives 
+ Collaborate with others software design and system architecture 
+
+
+Job Overview
+
+This position writes and tests software to aid in development and support of products. Individuals in this role assist in software design, typically working within a design framework laid out by technical leads. This position participates in required product development process ceremonies. Employees in this role are responsible for writing and refining technical requirements and technical design documentation.
+
+Job Duties & Responsibilities
+
+
+Codes in multiple languages in support of software products and the development of software products
+Conducts system testing and codes unit tests and support features
+Documents technical requirement and other technical documentation
+Works with product team to refine product requirements
+Performs other job-related duties as assigned
+
+
+Required Qualifications
+
+
+Bachelor’s Degree or equivalent work experience
+Experience: 0+ years
+
+
+Preferred Qualifications
+
+
+None
+
+
+The estimated base pay for this position is $82,400.00 to $123,600.00 per year. Starting pay will be based on several factors including, but not limited to, experience, qualifications, job-related and industry knowledge and skills and education/training.
+
+NextEra Energy offers a wide range of benefits to support our employees and their eligible family members. Click  here  to learn more.
+
+Employee Group: Exempt
+
+Employee Type: Full Time
+
+Job Category: Science, Research, and Technology
+
+Organization: NextEra Analytics, Inc
+
+Relocation Provided: Yes, if applicable
+
+NextEra Energy is an Equal Opportunity Employer. Qualified applicants are considered for employment without regard to race, color, age, national origin, religion, marital status, sex, sexual orientation, gender identity, gender expression, genetics, disability, protected veteran status or any other basis prohibited by law.
+
+NextEra Energy provides reasonable accommodation in its application and selection process for qualified individuals, including accommodations related to compliance with conditional job offer requirements, consistent with federal, state, and local laws. Supporting medical or religious documentation will be required where applicable and permitted by applicable law. To request a reasonable accommodation, please send an e-mail to recruiting-coordinator.sharedmailbox@nexteraenergy.com , providing your name, telephone number and the best time for us to reach you. Alternatively, you may call 1-844-694-4748. Please do not use this line to inquire about your application status.
+
+NextEra Energy will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information.
+
+NextEra Energy does not accept any unsolicited resumes or referrals from any third-party recruiting firms or agencies. Please see our policy for more information.

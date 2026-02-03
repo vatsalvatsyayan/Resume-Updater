@@ -1,0 +1,44 @@
+About the job
+
+Responsibilities
+
+Kforce has a client in Miami, FL that is seeking a hands-on Developer with a focus on automation and AI tools to help streamline workflows and improve productivity across the organization. This role involves designing Python-based scripts, leveraging platforms like Microsoft Copilot and ChatGPT, and collaborating with teams to deliver efficient, scalable automation solutions. Key Responsibilities:
+
+
+ Develop and maintain Python scripts to automate workflows, data processes, and routine tasks
+ Integrate and apply AI tools (Microsoft Copilot, ChatGPT, etc.) to support development, documentation, and internal productivity
+ Partner with business and technical teams to identify automation opportunities and translate requirements into practical solutions
+ Troubleshoot, debug, and optimize scripts and automation pipelines
+ Document code, processes, and provide knowledge transfer to team members
+
+
+Requirements
+
+
+ Strong proficiency in Python with proven experience in scripting and automation
+ Familiarity with AI/automation tools (e.g., Microsoft Copilot, ChatGPT, or similar)
+ Experience writing clean, maintainable code and debugging effectively
+ Ability to communicate technical solutions clearly to both technical and non-technical stakeholders
+ Strong organizational skills and attention to detail
+
+
+Preferred Qualifications
+
+
+ Experience working with APIs, automation platforms (e.g., Zapier, Power Automate), or cloud environments
+ Background in IT, operations, or data analysis
+ Knowledge of prompt engineering or conversational AI workflows
+ Demonstrated curiosity and enthusiasm for emerging technologies
+
+
+The pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. We may ultimately pay more or less than this range. Employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. This range may be modified in the future.
+
+We offer comprehensive benefits including medical/dental/vision insurance, HSA, FSA, 401(k), and life, disability & ADD insurance to eligible employees. Salaried personnel receive paid time off. Hourly employees are not eligible for paid time off unless required by law. Hourly employees on a Service Contract Act project are eligible for paid sick leave.
+
+Note: Pay is not considered compensation until it is earned, vested and determinable. The amount and availability of any compensation remains in Kforce's sole discretion unless and until paid and may be modified in its discretion consistent with the law.
+
+This job is not eligible for bonuses, incentives or commissions.
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+
+By clicking “Apply Today” you agree to receive calls, AI-generated calls, text messages or emails from Kforce and its affiliates, and service providers. Note that if you choose to communicate with Kforce via text messaging the frequency may vary, and message and data rates may apply. Carriers are not liable for delayed or undelivered messages. You will always have the right to cease communicating via text by using key words such as STOP.

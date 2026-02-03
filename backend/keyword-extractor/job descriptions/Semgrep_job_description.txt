@@ -1,0 +1,71 @@
+About the job
+
+About Semgrep
+
+Our mission is to make world-class software security available to everyone. This means building program analysis tools that are open source, easy to use, powerful, and fast. It also means building a team with security expertise and a passion for great developer experiences. Most of all, it means working with honesty and respect in a diverse community of dreamers and builders. We’ve redefined static analysis tooling by committing to all of these, and turned our project, Semgrep, into an essential safeguard for code at Snowflake, Dropbox, and more.
+
+About The Role
+
+Semgrep’s Infrastructure team is responsible for the cloud infrastructure that underpins many of Semgrep’s internal and external applications, including our flagship products Semgrep Code and Semgrep Supply Chain. Our mission is to enable Semgrep’ers to effectively and confidently build, run, and manage their systems. We do this by providing a tightly integrated platform for going “from code to cloud” including CI/CD systems, Kubernetes on AWS cloud environments, and tools for operating software in production.
+
+You’ll learn about the application-security space, collaborate with other engineers on the Infrastructure team to create a robust platform, and build distributed systems that are secure, reliable, and performant. Through Semgrep’s culture of transparency, you’ll see and influence the decisions that make a startup successful. Your decisions and work will be key to making Semgrep a world-leading static-analysis project, giving you lasting influence not only at Semgrep, but in the world’s developer community.
+
+You will:
+
+
+Work with senior and staff engineers on the team to design, implement, and deploy Infrastructure initiatives
+Learn and execute infrastructure best practices alongside other members of the team
+Own projects, platforms, and specific tools within the team on the order of multiple weeks in scope, from design through maintenance
+Become a Subject Mater Expert (SME) in Kubernetes and AWS administration
+Collaborate with the team to determine the future of the internal platform, what features to build, and how to build them
+Ensure continual, high-availability operation of services using modern site-reliability practices, including participation in an on-call rotation
+
+
+You are ideal for this role if you have:
+
+
+You have 2+ years of software engineering experience
+You have an aptitude for learning infrastructure tools, patterns, and best practices
+You have worked with or used Kubernetes clusters and AWS infrastructure
+You are familiar with infrastructure tools, patterns, and methodologies
+You are passionate about building reliable and secure infrastructure
+You have excellent and proactive communication, both verbal and written
+
+
+Some examples projects you might work on include:
+
+
+Working with the team to own critical infrastructure component upgrades
+Working with the team on strategic infrastructure initiatives, such as migration and expansion of cloud services
+Participating in our oncall rotation, to include leading debugging, implementing mitigations, and running postmortems to resolve issues thoroughly
+
+
+Location:
+
+Hybrid (3 days/week) out of our Boston, NYC, Denver or SF offices
+
+Compensation 
+
+
+Salary Range:
+$145,500-$171,000 USD for SF Bay Area, NYC, Boston
+Our compensation package includes generous equity and benefits in addition to salary.
+
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other basis covered by appropriate law.
+
+US work authorization and working proficiency and communication skills in verbal and written English are required.
+
+What We Offer
+
+Our goal is to competitively and fairly compensate every Semgrep employee with a system that equally rewards those who are vocal and those who are less comfortable making demands during the final steps of the hiring process. To that end, we generate internal compensation bands that are used when discussing and negotiating salaries. We update these based on market data to make sure they’re above the average for comparable roles.
+
+We also invest in our employees’ well-being and long term success with comprehensive health plans, generous vacation time, 401k, learning stipends, and more. Our benefits are for everyone, so that you’re taken care of, and we work with individuals to make sure they have what they need, whether that’s quiet work space, adjusted hours, or something else.
+
+Who We Are
+
+We have people from France and the Philippines, physics and philosophy, formal methods research and full fledged corporations. We’re new parents and new grads, aspiring authors and aspiring Americans, dog lovers and dogfooders. We get together often to bike, bake, and meet up in parks. In our interactions, we believe respect and honesty go hand in hand, and prioritize both.
+
+Semgrep is an equal-opportunity employer seeking a diverse range of backgrounds. We value who you are — including your cultural heritage, your socioeconomic status, your age, your race, your gender, your sexual orientation, your disabilities. We value what’s vitally important to you — your family, your religion, your politics. We value what you love in this world — your music, your weekend pursuits. We believe in welcoming varied professional backgrounds, educations, and interests. If you’re exceptional in your role, believe in Semgrep’s mission, and treat Semgrep’s values as your own, you belong here.
+
+Please Note: For US-based roles open to remote work, we are currently able to hire employees in the following states only: Arizona, California, Colorado, Connecticut, District of Columbia, Florida, Georgia, Illinois, Maryland, Massachusetts, Michigan, Missouri, Nebraska, New Hampshire, New Jersey, New York, North Carolina, Oregon, Tennessee, Texas, Virginia, and Washington.

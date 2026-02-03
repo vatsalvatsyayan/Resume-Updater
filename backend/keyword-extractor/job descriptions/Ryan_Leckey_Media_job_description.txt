@@ -1,0 +1,113 @@
+About the job
+
+Ryan Leckey Media is a fast-growing company in Jessup, PA. We blend marketing, media, and technology into one powerhouse team.
+
+
+
+
+You must be located within 50 miles of Jessup, PA or willing to relocate to be considered for this role.
+
+
+
+
+We are building innovative tools and systems that help clients grow their business while also creating technology that powers our own operations. We have an exciting new software product launching in early 2026 that will change how businesses create and manage websites at scale. If you want to grow your skills and play a key role in building real-world products, this is the team to join.
+
+
+
+
+What You’ll Be Doing
+
+
+
+
+Build and maintain backend systems using Python, Django, and PostgreSQL
+Collaborate with designers and content teams to develop web applications and internal tools
+Develop and optimize API endpoints, data models, and backend logic
+Assist with debugging, performance tuning, and testing new features
+Document code and follow consistent development practices
+
+
+
+
+What You Bring
+
+
+
+
+1 to 3 years of hands-on experience in software development or a related technical role
+Bachelor’s degree in Computer Science, Software Engineering, or a related field (preferred)
+Strong proficiency in Python with experience in object-oriented programming and REST APIs
+Working knowledge of PostgreSQL, including schema design, sharding, queries, and optimization
+Excellent problem-solving skills and attention to detail
+Ability to collaborate with a small, agile team
+A drive to learn, adapt, and contribute to meaningful projects
+Ability to juggle multiple projects at once
+
+
+
+
+Preferred Knowledge
+
+
+
+
+Front-end development with HTML, CSS, JavaScript, and Bootstrap
+Basic understanding of PHP and WordPress backend architecture
+Confidence using the Linux shell, running bash commands, and writing shell scripts to automate tasks
+Familiarity with version control systems such as Git
+Understanding of network configurations, firewall rules, and CIDR notation
+
+
+
+
+Bonus if You Have
+
+
+
+
+Experience running or analyzing Google Ads campaigns
+Experience with social media and website SEO optimization
+Hands-on social media management or content integration experience
+Familiarity with Wix, Squarespace, or WordPress website builders
+Experience with Docker, API integrations, or web automation
+A passion for both software development and creative marketing
+Excellent communication skills, as you will talk directly with clients
+
+
+
+
+What You Get
+
+
+
+
+Full-time salary position (based on experience)
+Paid time off
+IRA with company match
+Highly competitive health insurance plan, employer pays half
+Full dental and vision insurance covered by employer
+The opportunity to build an innovative new product launching publicly in 2026
+An environment where your ideas and code directly shape the company’s growth
+Strong professional growth opportunities within the organization
+
+
+
+
+This is an immediate opening! Apply Now!
+
+
+
+
+How to Apply
+
+
+
+
+Send your resume, GitHub profile, and a short note about why you’d be a great fit to:
+
+Michael@RyanLeckeyMedia.com and please CC both Mollie@RyanLeckeyMedia.com and Ryan@RyanLeckeyMedia.com
+
+
+
+
+Bonus points if you send a quick video introducing yourself and why'd you be a good fit on our team!

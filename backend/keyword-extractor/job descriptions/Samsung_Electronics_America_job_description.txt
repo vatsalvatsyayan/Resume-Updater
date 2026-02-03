@@ -1,0 +1,519 @@
+Samsung Electronics America
+
+Software Verification Engineer 
+
+Berkeley Heights, NJ · 6 hours ago · Over 100 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+$97K/yr - $104.5K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+Position Summary
+
+Headquartered in Englewood Cliffs, N.J., Samsung Electronics America, Inc. (SEA), the U.S. Sales and Marketing subsidiary, is a leader in mobile technologies, consumer electronics, home appliances, enterprise solutions and networks systems. For more than four decades, Samsung has driven innovation, economic growth and workforce opportunity across the United States—investing over $100 billion and employing more than 20,000 people nationwide. By integrating our large portfolio of products, services and AI technology, we’re creating smarter, sustainable and more connected experiences that empower people to live better. SEA is a wholly owned subsidiary of Samsung Electronics Co., Ltd.
+
+To learn more, visit Samsung.com. For the latest news, visit news.samsung.com/us.
+
+Role And Responsibilities
+
+The Mobile Testing role with a focus on AI and automation is responsible for ensuring the quality, functionality, and performance of mobile applications across various Samsung devices. This position involves leveraging AI-driven testing tools and automation frameworks to streamline testing processes, improve efficiency, and deliver a seamless user experience.
+
+Role And Responsibilities
+
+
+Responsible for overall Testing for Samsung's unreleased products.
+Develop comprehensive test plans and test cases based on functional and non-functional requirements.
+Develop and maintain automated test scripts using tools like Python, or other relevant frameworks.
+Utilize AI-Powered testing tools to analyze application behavior, predict potential issues and optimize test coverage
+Implement machine learning models to enhance test case generation and defect prediction.
+Execute manual and automated tests to validate mobile applications on different devices and operating systems.
+Document and report defects using bug-tracking tools. Collaborate with R&D to analyze and get the issues resolved
+Strategic planning and execution, identify and mitigate potential risks.
+Ensure successful execution of multiple projects simultaneously.
+Communicate high-priority risk defects/events to middle and upper management.
+Prioritize and manage multiple projects in fast pace environment, communicating quickly with key project stakeholders.
+Gather and analyze data from multiple sources, preparing spreadsheets, charts, graphs, and tables to help plan and prioritize multiple work assignments.
+Communicate with internal/external teams and end-users in professional manner to build and maintain excellent rapport.
+Participate in evaluating and improving processes.
+
+
+
+Skills And Qualifications
+
+
+Bachelor’s Degree in Engineering (Computer Science or Information Technology)
+2 years of experience in Telecommunication domain
+Knowledge of programming languages (e.g., Java, Python) for test automation.
+Familiarity with AI-driven testing tools and frameworks. Prior experience is plus.
+Strong analytical and problem-solving skills.
+Advanced understanding of software testing methodologies (Blackbox / Whitebox / Agile / Waterfall).
+Strong communication and leadership skills to guide and instruct team members.
+Self-starter with an objective view able to lead a team towards business objectives.
+Attention to detail and a passion for delivering high-quality products.
+Excellent understanding quality assurance and control testing tools and techniques in a black-box testing environment.
+Understand all relevant technologies in current market and evolving market place. 
+Passion for learning and upkeep of evolving technologies.
+
+
+
+Life @ Samsung - https://www.samsung.com/us/careers/life-at-samsung/
+
+Benefits @ Samsung - https://www.samsung.com/us/careers/benefits/
+
+The salary range for this role is expected to be between $97,000 and $104,500. Actual pay will be determined considering factors such as relevant skills and experience, and comparison to other employees in the role.
+
+Regular full-time employees (salaried or hourly) have access to benefits including: Medical, Dental, Vision, Life Insurance, 401(k), Employee Purchase Program, Tuition Assistance (after 6 months), Paid Time Off, Student Loan Program (after 6 months), Wellness Incentives, and many more. In addition, regular full-time employees (salaried or hourly) are eligible for MBO bonus compensation, based on company, division, and individual performance.
+
+
+ Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page. If you are European Economic Resident, please click here.
+
+
+
+At Samsung, we believe that innovation and growth are driven by an inclusive culture and a diverse workforce. We aim to create a global team where everyone belongs and has equal opportunities, inspiring our talent to be their true selves. Together, we are building a better tomorrow for our customers, partners, and communities.
+
+
+ Samsung Electronics America, Inc. and its subsidiaries are committed to employing a diverse workforce, and provide Equal Employment Opportunity for all individuals regardless of race, color, religion, gender, age, national origin, marital status, sexual orientation, gender identity, status as a protected veteran, genetic information, status as a qualified individual with a disability, or any other characteristic protected by law.
+
+
+
+Reasonable Accommodations for Qualified Individuals with Disabilities During the Application Process
+
+Samsung Electronics America is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application process. If you have a disability and require a reasonable accommodation in order to participate in the application process, please contact our Reasonable Accommodation Team (855-557-3247) or SEA_Accommodations_Ext@sea.samsung.com for assistance. This number is for accommodation requests only and is not intended for general employment inquiries.
+
+
+… more
+
+Benefits found in job post
+
+401(k), Tuition assistance
+
+Set alert for similar jobs
+
+Software Verification Engineer, Berkeley Heights, New Jersey, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+120
+
+total
+
+120
+
+in the past day
+
+Candidate seniority level
+
+84% Entry level candidates
+
+4% Senior level candidates
+
+1% Manager level candidates
+
+Candidate education level
+
+76
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+22
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Samsung Electronics America
+Powered by Bing
+
+Company focus areas
+
+• Innovation and Market Dominance: Samsung Electronics America focuses on innovation and maintaining market dominance, as evidenced by the launch of the Galaxy S25 series featuring advanced Galaxy AI.
+
+...more
+
+Sources: portersfiveforce.com +1 more
+
+Hiring & headcount
+
+Focus on engineering and technology: The 'Engineering' and 'Information Technology' departments have shown a 1% and 3% increase in employee count respectively, indicating a continued investment in technological advancements and innovation. Growth in sales and marketing: The 'Sales' and 'Marketing' departments have experienced a 3% increase in employee count, suggesting a strategic push towards expanding market reach and enhancing sales efforts. Expansion in business development and operations: The 'Business Development' and 'Operations' departments have seen a 5% increase in employee count, highlighting a focus on operational efficiency and new business opportunities. Increase in administrative and support roles: The 'Administrative' and 'Customer Success and Support' departments have shown an 8% and 5% increase in employee count respectively, indicating a bolstering of internal support functions to sustain overall growth.
+… more
+
+The latest hiring trend
+
+141,048
+
+Total employees
+
+22%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Quality Assurance
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+100000
+200000
+
+Median employee tenure: 5.8 years
+
+Samsung Electronics America hires candidates from some of these companies and schools
+
+Samsung Electronics America hired 5 people from University of Southern California. See all
+
+Samsung Electronics America hired 48 people from University of Southern California. See all
+
+Competitors
+
+Samsung Electronics America operates in a highly competitive landscape, facing significant competition from major players like Apple, Xiaomi, and Haier. The company maintains its competitive edge through continuous investment in innovative technologies and robust supply chain management. Samsung's strategic focus on diverse product categories, including semiconductors, smartphones, and consumer electronics, positions it as a leader in the global market. The company's ability to adapt to market changes and its strong brand presence are crucial for sustaining its market position.
+… more
+
+Sources: tracxn.com
+
+Show Premium Insights
+About the company
+
+Samsung Electronics America
+
+479,595 followers
+
+Follow
+
+Computers and Electronics Manufacturing
+
+ • 
+
+5001-10000 employees
+
+ • 
+
+9,988 on LinkedIn
+
+Headquartered in Englewood Cliffs, N.J., Samsung Electronics America, Inc. (SEA), the U.S. Sales and Marketing subsidiary, is a leader in mobile technologies, consumer electronics, home appliances, enterprise solutions and networks systems. 
+
+For more than four decades, Samsung has driven innovation, economic growth and workforce opportunity across the United States—investing over $100 billion and employing more than 20,000 people nationwide. By integrating our large portfolio of products, services and AI technology, we’re creating smarter, sustainable and more connected experiences that empower people to live better. 
+
+SEA is a wholly owned subsidiary of Samsung Electronics Co., Ltd. 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Distributed Systems Software Engineer
+
+Stealth AI CyberSecurity Startup
+
+Brooklyn, NY (On-site)
+
+$180K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on December 19, 2025, 11:00 AM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Quantum Software Engineer
+
+QubitSolve
+
+Morgantown, WV (Hybrid)
+
+You’d be a top applicant
+
+Posted on December 24, 2025, 7:12 AM
+2 weeks ago
+
+Solutions Engineer
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$80K/yr - $100K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 2:05 PM
+6 days ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer — AI & LLM Systems
+
+Rent Solutions
+
+Tampa, FL (Hybrid)
+
+Actively reviewing applicants
+
+Posted on December 9, 2025, 11:15 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+General Software Engineer
+
+Medra
+
+San Francisco, CA (On-site)
+
+Medical, Dental, 401(k)
+
+Posted on December 12, 2025, 11:33 AM
+3 weeks ago
+
+Frontend / Fullstack Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:55 AM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Back End Developer
+
+Datasent
+
+Austin, Texas Metropolitan Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on December 12, 2025, 9:03 AM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Aerospace Embedded Software Engineer
+
+Baxter Aerospace
+
+St George, UT (On-site)
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on November 12, 2025, 10:48 AM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, AI Agent
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$140K/yr - $180K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 3:05 PM
+6 days ago
+
+ · 
+
+ Easy Apply
+
+Systems Software Engineer
+
+Sunbelt Controls
+
+Denver, CO (On-site)
+
+$108K/yr - $135K/yr
+
+Actively reviewing applicants
+
+Posted on December 4, 2025, 8:43 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Founding Software Engineer (AI Products)
+
+V0
+
+San Francisco, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 30, 2025, 9:51 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Software Integration Engineer
+
+Tenkara
+
+San Francisco, CA (On-site)
+
+$140K/yr - $160K/yr
+
+Actively reviewing applicants
+
+Posted on December 28, 2025, 2:35 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

@@ -1,0 +1,49 @@
+About the job
+
+Job Summary
+
+This role designs, develops, documents, tests, implements, and debugs new and existing software solutions for large-scale proprietary software for internal use. Serves as a technical expert on development projects. Participates in the full development life cycle, including requirements analysis and design. Writes technical specifications based on conceptual design and stated business requirements. Supports, maintains, and documents software functionality. Identifies and evaluates new technologies for implementation. Analyzes components to find causes of errors and revise programs as needed. Analyzes user needs, system requirements and business processes to determine technical requirements. Consults with end user to prototype, refine, test, and debug components to meet needs.
+
+Responsibilities
+
+
+10%, Analyzes user needs, system requirements, and business processes
+25%, Maintain the source code for existing software products, participate in code reviews, software design and development process
+25%, Develop customized applications for company internal use
+15%, Identify and debug source cause of issues
+15%, Provide issue resolution through configuration or code changes
+10%, Perform or support product installations, upgrades and updates
+
+
+Skills/Qualifications
+
+
+Python (3.6 and higher) programmer candidates, 1 - 3 years of development experience
+VueJS 2+ Framework programmer candidates, 1-2 year of development experience
+ Intermediate knowledge and experience using Front-End Layout such as JQuery, Ajax, CSS
+Django Framework 4.1 programmer candidates at least 1 year of development experience
+RESTful API’s programmer candidates, at least 1 year of development experience
+Database development using Oracle, SQL Server 2019 and higher, PostgreSQL 11+
+Advanced knowledge and experience with Linux (CentOS, RedHat, Ubuntu) and Windows Server (2019 and higher). Including: IIS, PowerShell, Command Prompt and batch file scripting (desired not required)
+Excellent communication, organization, and interpersonal skills
+Excellent problem-solving skills with extreme attention to detail
+Outstanding work ethic and commitment to individual and organizational success
+Excellent analytical and advanced troubleshooting skills with end-users/clients
+Ability to manage multiple tasks and projects, both independently and as part of a team
+Demonstrated ability to learn new things and continuously drive process improvement.
+
+
+Plus/Desired
+
+
+Experience with Git Repositories (GITLAB) or JIRA
+Containerization using Docker.
+K8S
+SQL Reporting Services
+
+
+Educational Requirements
+
+
+Bachelor degree in a business or IT-related area, IT Security-related classes a plus, BS in Computer Science a plus.
+Any software programming certifications are a plus.

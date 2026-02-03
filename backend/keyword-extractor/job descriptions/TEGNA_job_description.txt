@@ -1,0 +1,62 @@
+About the job
+
+About TEGNA
+
+TEGNA Inc. (NYSE: TGNA) helps people thrive in their local communities by providing the trusted local news and services that matter most. With 64 television stations in 51 U.S. markets, TEGNA reaches more than 100 million people monthly across the web, mobile apps, streaming, and linear television. Together, we are building a sustainable future for local news.
+
+TEGNA is looking for a skilled and collaborative Microservices Developer to join our growing engineering team. In this role, you will help build and maintain scalable, secure, and resilient backend services that power our content platform, APIs, digital products, and data-driven workflows. You'll work within a modular architecture that supports everything from media asset management to content curation and personalized user experiences.
+
+Responsibilities
+
+
+Design, develop, and deploy microservices in C# that adhere to our event-driven, cloud-native architecture.
+Actively participate in agile sprints, sprint planning, and retrospectives, working closely with onshore and offshore team members.
+Use AI tools to accelerate development, generate documentation, and improve test coverage.
+Collaborate with cross-functional teams including DevOps, architecture, and frontend developers to deliver well-integrated solutions.
+Write clean, efficient, and well-tested code that supports scalability, observability, and maintainability.
+Help identify and eliminate technical debt through proactive refactoring and code improvements.
+Contribute to the continuous integration and continuous deployment (CI/CD) pipelines and automation strategies
+Participate in code reviews, planning sessions, and documentation as part of our agile workflow.
+Troubleshoot issues, monitor performance, and proactively address any potential bottlenecks or challenges
+
+
+Requirements
+
+
+3–6 years of backend development experience with C#/.NET and REST APIs
+Solid understanding of microservices architecture, messaging patterns, and cloud-native principles
+Experience with containerized applications and Kubernetes-based deployments
+Familiarity with distributed systems and asynchronous processing
+Strong communication and collaboration skills, with a bias toward action and continuous improvement
+Experience with Git, CI/CD pipelines, and modern dev workflows
+Familiarity with event-driven architecture and CQRS patterns desired but not required
+Terraform or other infrastructure-as-code tools desired but not required
+
+
+Benefits
+
+TEGNA offers comprehensive benefits designed to safeguard the physical, mental and financial health of our employees and their families. TEGNA offers two medical plan options for full and part-time employees through Blue Cross Blue Shield of Texas, as well as access to dental and eye care coverage; fertility, surrogacy and adoption assistance; disability and life insurance.
+
+Our 401(k) program offers full, part-time and temporary employees the opportunity to contribute 1% - 80% of their pay on a pre-tax basis to TEGNA’s 401(k). Contributions made up to the first 4% of pay are eligible for a 100% match from the company and are 100% vested from day one.
+
+Regardless of participation in TEGNA medical plans, ALL employees and their eligible family members receive nine free virtual doctor’s appointments with a physician through Teladoc, and 12 free annual therapy sessions with a licensed clinician through Spring Health.
+
+TEGNA offers a generous Paid Time Off (PTO) benefit as well as nine paid holidays per year.
+
+
+ Some jobs are covered by a collective bargaining agreement and thus some or all of the benefits described herein may not apply. For example, some newsroom bargaining unit employees receive health and retirement benefits under plans administered by the union.
+
+
+EEO Statement
+
+TEGNA Inc. is a proud equal opportunity employer. We are proud to be an equal opportunity employer, hiring and developing individuals from diverse backgrounds and experiences to add to our collaborative culture. We value and consider applications from all qualified candidates without regard to actual or perceived race, color, religion, national origin, sex, gender, age, marital status, personal appearance, sexual orientation, gender identity or expression, family responsibilities, disability, medical condition, enrollment in college or vocational school, political affiliation, military or veteran status, citizenship status, genetic information, or any other basis protected by federal, state or local law. TEGNA will reasonably accommodate qualified individuals with disabilities in accordance with applicable law. If you are in need of an accommodation in order to submit your application, please email askhr@tegna.com 
+
+Recruiting Fraud Alert
+
+To all candidates: your personal information and online safety are important to us. Only TEGNA Recruiters or Hiring Managers will reach out to you regarding consideration of your application or background. Communications with TEGNA employees will either come from a TEGNA email address with a domain of tegna.com or one of our affiliate station domains.
+
+Recruiters or Hiring Managers will never request payments, ask for financial account information or sensitive information such as social security numbers.
+
+Privacy Notice for California Residents
+
+SMS Messaging Privacy Policy

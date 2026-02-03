@@ -1,0 +1,62 @@
+About the job
+
+The Company
+
+Gridmatic Inc. is a high-growth startup with offices in the Bay Area and Houston that is accelerating the clean energy transition by applying our expertise in data, machine learning, and energy to power markets. We are the rare startup that has multiple years of profitability without raising venture capital. Gridmatic is a great place to work with a culture that values teamwork, continuous learning, diversity, and inclusion. We move quickly and fix things. We are environmentally and data-driven, with a growth-oriented, academic mindset. We value integrity as much as excellence.
+
+We’re looking for backend and product engineers to work on a wide range of engineering problems which relate to energy, automation, and ML forecasting. The areas we work on include:
+
+
+ Product engineering (building products and automation to make it easier to trade and sell energy, optimize batteries, and more)
+ Data pipelines (reliable data ingestion for ML models)
+ ML infrastructure (orchestration of ML jobs, data loading, GPUs)
+ Backend infrastructure (setting new Kubernetes services, observability)
+ Developer velocity through tooling and automation (CI/CD, Buildkite, dependency management)
+
+
+Our stack includes: Python, GCP (Google Cloud), Kubernetes, Terraform, Flyte, React/NextJS, Postgres, and BigQuery.
+
+We think it’s important to be able to work in the office in order to do design/whiteboarding, and have more opportunities for face-to-face time and mentorship. 3 days in-office in Cupertino is mandatory, but 4-5 days is preferred.
+
+What we are looking for:
+
+
+At the core, we’re looking for ambitious builders, and we’d really like to chat with you if you’ve shipped something substantial by yourself. It could be (but not limited to) a mobile app with active users, an open source library which people use, or an app that’s powered by a large public dataset. The deeper, the better. 
+You’re interested in working at a startup and taking a lot of responsibility. At Gridmatic, engineers are also PMs, designers, and devops; you help build the infrastructure and dig into the data. You’ll also sometimes need to figure out what to build and prioritize. 
+You like to move fast. You should be able to pick up new skills efficiently, and be able to build things quickly. 
+You’re a team player. You work well with others, help your teammates, and are willing to work on whatever is most important, even when it’s not the most glamorous project. 
+You should have strong coding skills. This includes writing code that’s readable and well-organized, but also proficiency with testing, debugging, profiling, and working with data. We expect Python and SQL, and ideally React. Bonus if you’ve worked with AWS/GCP, Terraform, data warehouses, or Kubernetes. 
+
+
+You definitely don’t have to match everything listed here, but you should be able to learn quickly and fill in any gaps. We ask a lot of engineers, but they also grow quickly, and they make a lot of impact regardless of years of experience.
+
+$160,000 - $187,000 a year
+
+You will also receive Stock Options (ISOs)
+
+Taking care of you today:
+
+
+ Continuing Education Opportunities
+ Flexible PTO
+ Medical, Dental and Vision plans with competitive employer contributions
+ Pre-Tax commuter benefits
+ $1500/year non profit donation matching program through Millie
+ Home Office Stipend
+
+
+Protecting your future for you and your family:
+
+
+ 401K contribution match up to 4%
+ Company-paid parental leave
+ Company Paid Life Insurance
+
+
+FAQ
+
+What’s your policy on remote work?
+
+We value the ability to work and collaborate in-person in our early stage as a startup, so Gridmatic has a hybrid policy of "50% in-office”. Most of the company works in our Cupertino office 2 or 3 days a week.
+
+Join our team and make a difference! Click below or email us at careers@gridmatic.com.

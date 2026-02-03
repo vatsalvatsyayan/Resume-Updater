@@ -1,0 +1,564 @@
+CAE
+
+Software Engineer-EN 
+
+Arlington, TX · 7 hours ago · 83 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+About This Role
+
+Who We Are:
+
+
+CAE Vision: Our vision is to be the worldwide partner of choice in defense and security, and civil aviation by revolutionizing our customers’ training and critical operations with digitally immersive solutions to elevate safety, efficiency and readiness.  
+CAE Defense & Security Mission: CAE's Defense and Security business unit focuses on helping prepare military customers to develop and maintain the highest levels of mission readiness.  
+CAE Values: Empowerment, Innovation, Excellence, Integrity and OneCAE make us who we are and we strive to make a difference in the world while helping each other succeed.  
+
+
+What We Have to Offer:
+
+
+Comprehensive and competitive benefits package and flexibility that promotes work-life balance  
+A work environment where all employees are valued, respected and safe  
+Freedom to succeed by enabling team members to deliver, take initiatives and make decisions  
+Recognition, professional development, advancement and having fun!  
+
+
+Summary 
+
+The Technology and Product Development (TPD) group oversees multiple projects that focus on creating synthetic environments, training, or mission planning and awareness. The TPD Software Engineer will focus on full stack web-application development, working with a team of software engineers to build high performance, containerized training applications. At CAE we use a combination of C# .NET, Python, and TypeScript.
+
+Essential Duties And Responsibilities  
+
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+
+Help develop and implement new products, redesign existing products, and perform research and testing on product concepts. 
+Must be able to perform effectively as part of a project team. 
+Collaborate with Technical Leads and Product Managers to design, develop, test, and deploy new features and enhancements. 
+Responsible for coding, integrating, testing, and documenting software/systems in support of products and R&D projects. 
+Participate in all phases of the software development lifecycle (SDLC) in an Agile environment. 
+Troubleshoot, debug, and upgrade existing systems. 
+
+
+Qualifications And Education Requirements  
+
+
+Bachelor’s degree in engineering, software, or computer science. 
+Must have had formal software programming training classes. 
+A major front-end framework, specifically Angular or React for building responsive and dynamic user interfaces. 
+Backend development using C# and the .NET 
+Building and consuming RESTful APIs. 
+Foundational knowledge of relational databases, with hands-on experience using PostgreSQL. 
+Exposure to messaging systems like Kafka and caching systems like Redis. 
+Familiarity with containerization technologies, primarily Docker and container orchestration platforms like Kubernetes (K8s) 
+A basic working knowledge of Python & Bash for scripting, tooling, or minor service development. 
+Good understanding of CI/CD pipelines and version control systems like Git. 
+Familiar with Linux terminal commands and scripting. 
+Experience with MS Visual Studio and VS Code. 
+Experience with Machine Learning and Data Analytics; Virtual Reality; Cloud technologies (AWS, Azure, GCP); and 3D Modeling a plus. 
+Related skill areas should include technical writing and presentation skills.  
+Must be eligible for DoD Personal Security Clearance 
+Good communication and organizational skills 
+May include travel 
+Ability to read, analyze, and interpret English language professional journals, technical procedures, or government specifications.  
+Ability to write reports, business correspondence, and procedure manuals.  
+Ability to effectively present information and respond to questions from groups of managers, clients, and customers. 
+Due to U.S. Government contract requirements, only U.S. citizens are eligible for this role.   
+
+
+Security Responsibilities 
+
+Must comply with all company security and data protection / usage policies and procedures.  Personally responsible for proper marking and handling of all information and materials, in any form. Shall not divulge any information, or afford access, to other employees not having a need-to-know. Shall not divulge information outside company without management approval.  All government and proprietary information will be accessed and stored electronically on company provided resources.
+
+
+ Incumbent must be eligible for DoD Personal Security Clearance.   
+
+
+
+
+Due to U.S. Government contract requirements, only U.S. citizens are eligible for this role. 
+
+Work Environment 
+
+
+Duties performed in an office environment and manufacturing facility. 
+Must be able to work overtime on and off-shifts as required. 
+The employee is on call 24x7 for the resolution of problems and issues. 
+
+
+Other Duties 
+
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for their job. Duties, responsibilities, and activities may change at any time with or without notice.
+
+
+
+CAE USA Inc. is an equal opportunity employer, and all qualified applicants will be considered for employment without regard to any protected characteristic, including disability and protected veteran status, as defined under federal, state, or local laws.
+
+ 
+
+Applicants needing reasonable accommodations should contact their recruiter at any point in the recruitment process.  If you need assistance to submit your application because of incompatible assistive technology or a disability, please contact us at hrops@caemilusa.com
+
+Position Type
+
+Regular
+
+CAE thanks all applicants for their interest. However, only those whose background and experience match the requirements of the role will be contacted.
+
+Equal Opportunity Employer 
+
+CAE is an equal opportunity employer committed to providing equal employment opportunities to all applicants and employees without regard to race, color, national origin, age, religion, sex, disability status, protected veteran status, or any other characteristic protected by federal, state or local laws. At CAE, everyone is welcome to contribute to our success. Applicants needing reasonable accommodations should contact their recruiter at any point in the recruitment process. If you need assistance to submit your application because of incompatible assistive technology or a disability, please contact us at  CAECarrieres-Careers@cae.com.
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Arlington, Texas, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+83
+
+total
+
+83
+
+in the past day
+
+Candidate seniority level
+
+84% Entry level candidates
+
+7% Senior level candidates
+
+Candidate education level
+
+78
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+20
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have an Associate's Degree
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about CAE
+Powered by Bing
+
+Company focus areas
+
+• Operational Improvements: CAE is focusing on operational improvements to navigate the complex landscape of the simulation sector. This includes streamlining its operating model and optimizing its cost structure.
+
+...more
+
+Sources: ph.investing.com +1 more
+
+Hiring & headcount
+
+Focus on Engineering and Operations: The company has increased its headcount in the 'Engineering' and 'Operations' departments by 2%, indicating a strategic focus on these areas, which could suggest new projects or expansions in these functions. Growth in Finance and Business Development: The 'Finance' and 'Business Development' departments have seen a 1% and 2% increase in headcount respectively, highlighting potential new financial initiatives and business growth strategies. Significant reduction in job openings: There has been a 64% decrease in total job openings over the past year, suggesting a potential hiring freeze or a shift towards optimizing current workforce efficiency. Stable overall headcount: The overall employee count has remained relatively stable with minor fluctuations, indicating a steady state of operations with no major expansions or contractions.
+… more
+
+The latest hiring trend
+
+12,123
+
+Total employees
+
+1%
+
+Company-wide
+
+2 year growth
+
+5%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+10000
+20000
+
+Median employee tenure: 6.5 years
+
+CAE hires candidates from some of these companies and schools
+
+CAE hired 4 people from University of Southern California. See all
+
+Competitors
+
+CAE operates in a highly competitive landscape within the aviation training and simulation industry. The company is a leading provider of advanced simulation technologies and training solutions for both civil and military aviation sectors. The market is driven by the increasing demand for pilot training solutions, technological advancements in simulation capabilities, and the expansion of global aviation networks. CAE faces competition from companies like Avenger Flight Group, CPaT, and Flyco Global, which also offer innovative training and simulation services. The industry is expected to grow significantly, with a focus on enhancing simulation fidelity, immersion, and interoperability.
+… more
+
+Sources: tracxn.com
+
+Show Premium Insights
+About the company
+
+CAE
+
+332,775 followers
+
+Follow
+
+Aviation and Aerospace Component Manufacturing
+
+ • 
+
+10001+ employees
+
+ • 
+
+12,123 on LinkedIn
+
+At CAE, we exist to make the world safer. We deliver cutting-edge training, simulation, and critical operations solutions to prepare aviation professionals and defence forces for the moments that matter. Every day, we empower pilots, cabin crew, maintenance technicians, airlines, business aviation operators, and defence and security personnel to perform at their best and when the stakes are the highest. Around the globe, we’re everywhere customers need us to be with approximately 13,000 employees at around 240 sites and training locations in over 40 countries. For nearly 80 years, CAE has been at the forefront of innovation, consistently seeking to set the standard by delivering excellence in high-fidelity flight simulators and training solutions, while embedding sustainability at the heart of everything we do. By harnessing technology and enhancing human performance, we strive to be the trusted partner in advancing safety and mission readiness - today and tomorrow.
+… more
+
+Commitments
+
+Diversity, equity, and inclusion
+
+At CAE, everyone is welcome to contribute to our success with no exception. Diversity, equity, and inclusion (DE&I) are essential to CAE living its values, achieving its business goals, and creating a stronger company. We are actively building an organization that is more open, progressive and people centric, and creating a workplace where all employees can feel accepted, included, and valued for who they are.
+
+In keeping with our One CAE value, we are committed to attracting and developing a diverse base of employees from different ethnicities, colour, religion, gender identity or expression, sexual orientation, national origin, disability, neurodiversity, age, or veteran status. 
+… more
+
+Environmental sustainability
+
+At CAE, we strive to continuously improve our environmental performance  and  to  minimize  any  negative  environmental impact from our operations. We prioritize responsible energy consumption and carbon footprint considerations in our business management and activities. 
+Our  business  standards,  systems  and  processes  support responsible operations and nurture contributions and innovations that make a positive and sustainable impact everywhere we do business
+We take a proactive approach in the development of our products and services to be part of the solution at the stage of conception, while supporting our customers and suppliers in their decarbonization efforts. This includes working on innovative projects that integrate sustainability matters as a core technical specification. As a sustainable supply chain is vital in the reduction of carbon emissions, we are collaborating with our suppliers to identify carbon reduction gains along the value chain.
+… more
+
+Learn more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Full Stack Engineer Intern
+
+Kairo
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 5, 2026, 9:09 PM
+22 minutes ago
+
+ · 
+
+ Easy Apply
+
+Full-Stack Developer
+
+AccuMed HealthCare Research
+
+Greenwood Village, CO (On-site)
+
+$90K/yr - $110K/yr
+
+ • 
+
+Dental benefit
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 2:37 PM
+6 hours ago
+
+ · 
+
+ Easy Apply
+
+Intelligence Engineer - Offline @ Verisoul - $200-250K+
+
+Verisoul
+
+Austin, TX (On-site)
+
+$190K/yr - $250K/yr
+
+ • 
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on January 4, 2026, 3:45 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Graduate 2026 Software Engineer I, US (Verified job)
+Graduate 2026 Software Engineer I, US 
+
+Uber Technologies Inc
+
+Seattle, WA
+
+$150K/yr - $158K/yr
+
+3 connections work here
+
+Posted on January 5, 2026, 4:06 PM
+5 hours ago
+
+Full Stack Engineer
+
+Shields Group Search
+
+New York, NY (On-site)
+
+$130K/yr - $160K/yr
+
+You’d be a top applicant
+
+Posted on January 5, 2026, 7:37 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (Verified job)
+Software Engineer 
+
+automotiveMastermind Inc
+
+New York, NY (On-site)
+
+$69.7K/yr - $122.2K/yr
+
+Posted on January 5, 2026, 9:27 PM
+4 minutes ago
+
+New Grad Program – Associate, Software Engineer (Verified job)
+New Grad Program – Associate, Software Engineer 
+
+Epsilon
+
+Chicago, IL (Hybrid)
+
+$90K/yr
+
+ • 
+
+2 benefits
+
+3 company alumni work here
+
+Posted on January 5, 2026, 1:29 PM
+8 hours ago
+
+Full Stack Engineer (Verified job)
+Full Stack Engineer 
+
+Adobe
+
+San Jose, CA
+
+$159.2K/yr - $301.6K/yr
+
+4 connections work here
+
+Posted on January 4, 2026, 2:00 AM
+1 day ago
+
+Software Engineer, Associate (NJUS) (Verified job)
+Software Engineer, Associate (NJUS) 
+
+NetJets
+
+Columbus, OH (Hybrid)
+
+401(k) benefit
+
+9 school alumni work here
+
+Posted on January 5, 2026, 4:47 PM
+4 hours ago
+
+Software Engineer I (Verified job)
+Software Engineer I 
+
+AMEX
+
+Phoenix, AZ (Hybrid)
+
+$78K/yr - $124.8K/yr
+
+4 connections work here
+
+Posted on January 5, 2026, 9:00 PM
+32 minutes ago
+
+Full Stack Engineer
+
+Atom
+
+Austin, TX (On-site)
+
+$150K/yr + Bonus
+
+ • 
+
+4 benefits
+
+You’d be a top applicant
+
+Posted on January 5, 2026, 12:41 PM
+8 hours ago
+
+ · 
+
+ Easy Apply
+
+Junior AI Engineer (Verified job)
+Junior AI Engineer 
+
+Accel Entertainment
+
+Chicago, IL (On-site)
+
+$80K/yr - $90K/yr
+
+Posted on January 5, 2026, 3:00 PM
+6 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

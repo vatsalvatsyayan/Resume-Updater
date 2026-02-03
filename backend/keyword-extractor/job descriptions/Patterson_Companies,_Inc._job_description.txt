@@ -1,0 +1,564 @@
+Patterson Companies, Inc.
+
+Software Engineer 
+
+Denton, TX · 8 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+Job Summary
+
+The Software Engineer defines, develops, tests, analyzes, and maintains software applications. This includes being involved in understanding the business impact of the necessary work and creating solutions to realize that impact by researching, designing, documenting, and modifying software specifications throughout the development life cycle.
+
+Essential Functions
+
+
+Collaborate with customers, stakeholders, developers, and other team members in the conceptualization and development of new or existing software applications
+Assist in the definition, development, and documentation of software's objectives, deliverables, and specifications in collaboration with internal users and departments
+Help research, identify, analyze, and fulfill requirements of all internal and external users and stakeholders
+Create software to enhance functionality and performance of applications
+Perform software testing on new and existing programs for the purposes of correcting errors and general debugging
+Operate and monitor software for performance, maintenance needs, and ongoing success
+Participate in defining software development plans, including scoping, scheduling, and implementation
+Deploy software through lower environments upon completion of development, testing, and documentation
+May provide product and software support for bugs, issues, and escalated incident tickets from end users to resolve application and software issues
+Partner with others in resolving problems with software products or company software systems
+Comply with Company and department policies and standards; performs other duties as assigned
+
+
+
+Essential Functions: Animal Health - Companion
+
+
+Assist in reverse engineering PiMS systems to understand basic data flows (SQL queries, API calls).
+Develop and test middleware components that support UI-to-backend synchronization.
+Use Playwright or browser extensions for basic UI automation and data scraping tasks.
+Document technical findings and contribute to internal knowledge bases.
+Support integration with Payment Gateway APIs for simple transaction flows.
+
+
+
+Additional Responsibilities
+
+
+In addition to the essential functions listed above, the incumbent may perform the following additional functions.
+Participate in regulatory and compliance activities
+
+
+
+Minimum Requirements
+
+
+Bachelor's Degree in Computer Science, Information Systems, a related field or equivalent work experience or
+Associate's Degree with work experience in a related field
+1 year experience applying training and education
+
+
+
+Preferred Requirements
+
+
+Reverse engineering experience (Win32 APIs, packet inspection, system hooks).
+Experience integrating with veterinary, dental, or medical PiMS systems.
+Experience with Playwright, Selenium, or browser automation tools
+
+
+
+Skills And Abilities
+
+
+Understanding of software development approaches and best practices
+Demonstrated knowledge and understanding of database and operating systems
+Demonstrated knowledge in contemporary development approaches, functional, object-oriented, procedural
+Demonstrated knowledge of proficiency in at least one modern programming language
+Ability to conduct research into software-related issues and products
+Knowledge of all aspects of application development and product life cycles, including agile approaches
+Companion PAYFAC ONLY: Fluent in at least one modern programming language (C#, Python, or JavaScript).
+Companion PAYFAC ONLY: Comfortable reading SQL traces, inspecting HTTP traffic, and automating Windows UI elements.
+Companion PAYFAC ONLY: Familiar with payment concepts like tokenization, chargebacks, settlement, merchant onboarding, and 3-DSecure.
+
+
+
+Physical and Cognitive Demands
+
+
+Communicate/Hearing Frequently
+Communicate/Talking Frequently
+Learn New Tasks or Concepts Frequently
+Make Timely Decisions in the Context of a Workflow Frequently
+Complete Tasks Independently Constantly
+Maintain Focus Constantly
+Remember Processes & Procedures Constantly
+Stationary Position (Seated) Constantly
+Vision Constantly
+Hand/Eye Coordination Occasionally
+Bend Rarely
+Complete Tasks in a Noisy Environment Rarely
+Feeling/Grasping/Handling Rarely
+Move/Traverse Rarely
+Repetitive Motions Rarely
+
+
+
+Working Environment
+
+
+Hazards Occasionally
+
+
+
+Environmental Conditions
+
+
+Remote: This position primarily completes work from a remote setting, most commonly, a home office. This may be referenced as flexible workplace.
+
+
+
+Travel Requirements
+
+
+5% Travel to customer, vendor and corporate sites is periodically required
+
+
+
+The potential compensation range for this role is below. The final offer amount would be based on various factors such as candidate location (geographical labor market), experience, and skills. $77,200.00 - $94,500.00
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Denton, Texas, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+443
+
+total
+
+443
+
+in the past day
+
+Candidate seniority level
+
+86% Entry level candidates
+
+7% Senior level candidates
+
+Candidate education level
+
+88
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+11
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Patterson Companies, Inc.
+Powered by Bing
+
+Company focus areas
+
+• Market Growth: Focus on growth in the various markets in which Patterson Companies operates, including dental and animal health sectors. This includes expanding market share and leveraging opportunities in both North America and the U.K.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Expanding healthcare services: The 'Healthcare Services' department has seen a 19% increase in employee count, indicating a significant focus on expanding healthcare-related initiatives. Growth in customer success and support: The 'Customer Success and Support' department has experienced a 16% increase in headcount, suggesting an emphasis on improving customer relations and support services. Increase in sales efforts: The 'Sales' department has grown by 8%, reflecting a strategic push to enhance sales capabilities and drive revenue growth. Focus on human resources: The 'Human Resources' department has seen a 13% increase in employee count, highlighting efforts to strengthen internal HR functions and support overall company growth.
+… more
+
+The latest hiring trend
+
+5,848
+
+Total employees
+
+3%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+2500
+5000
+7500
+
+Median employee tenure: 5.1 years
+
+Patterson Companies, Inc. hires candidates from some of these companies and schools
+
+Patterson Companies, Inc. hired 2 people from University of Southern California. See all
+
+Patterson Companies, Inc. hired 31 people from University of Southern California. See all
+
+Competitors
+
+Patterson Companies operates in a competitive landscape within the dental and animal health markets. The company faces significant competition from Henry Schein, Benco Dental, and McKesson Corporation. These competitors challenge Patterson Companies by offering a wide range of products and services, including dental supplies, equipment, and animal health products. Patterson Companies focuses on supply chain integration, digital services, and professional training to maintain its market position.
+… more
+
+Sources: mdm.com +2 more
+
+Show Premium Insights
+About the company
+
+Patterson Companies, Inc.
+
+37,955 followers
+
+Follow
+
+Medical Equipment Manufacturing
+
+ • 
+
+5001-10000 employees
+
+ • 
+
+1,300 on LinkedIn
+
+Patterson strengthens the oral and animal health markets in North America and the United Kingdom. From small, private practices to large group networks and production operations, we guide our customers with bold solutions and a personal touch. We are much more than a distributor – we are an indispensable partner.
+
+Patterson Dental has strengthened the dental industry since our company’s founding in 1877. Today, Patterson Dental continues to partner with dental practices of all sizes to provide expertise, products, technologies and services needed to grow productive, modern practices, and keep them running smoothly.
+
+No other company supports the animal health market like Patterson. We entered the animal health industry in 2001 with our acquisition of Webster Veterinary and expanded with our 2015 acquisition of Animal Health International, Inc. We provide all the technology, products, expertise and solutions needed to deliver exceptional animal care and drive profitability across the companion, production and equine markets.
+
+An Equal Opportunity Employer
+As a people-first company, Patterson promotes a culture that embodies and celebrates diversity and inclusivity. We believe our employees’ unique experiences and differences are what strengthen us and drive our success. We consider all qualified applicants without regard to race, religion, color, sex, national origin, age, sexual orientation, gender identity, disability or veteran status.
+We are Patterson. We welcome you.
+
+Disability Accommodation
+If you require reasonable accommodation due to a disability for any part of the hiring process, you may submit your request to HR by calling 1-866-234-2165 or by email to jobs@pattersoncompanies.com. You can also mail your request to Patterson Companies, Inc. Attn: HR EEO Coordinator, 1031 Mendota Heights Rd, St. Paul, MN, 55120. Information received will be routed to a representative who will provide assistance to ensure appropriate consideration of your request.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Founding Software Engineer
+
+Lumos
+
+San Francisco Bay Area (On-site)
+
+$180K/yr - $230K/yr
+
+Actively reviewing applicants
+
+Posted on January 28, 2026, 1:02 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Founding Engineer
+
+Action State Labs
+
+San Francisco, CA (On-site)
+
+$120K/yr - $180K/yr
+
+You’d be a top applicant
+
+Posted on January 28, 2026, 11:28 PM
+17 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Dew Software
+
+Newark, CA (On-site)
+
+1 company alumni works here
+
+Posted on January 29, 2026, 2:14 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+Senior Full Stack Python Developer - Banking - NYC
+
+Walken Consulting Inc
+
+New York City Metropolitan Area (Hybrid)
+
+Posted on January 28, 2026, 6:14 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Machine Learning Engineer
+
+Avride
+
+Austin, TX (On-site)
+
+Actively reviewing applicants
+
+Posted on January 29, 2026, 12:46 PM
+3 hours ago
+
+ · 
+
+ Easy Apply
+
+Embedded Systems Engineer at an energy startup -- Bare Metal/RTOS
+
+Mesodyne
+
+Somerville, MA (On-site)
+
+Posted on January 29, 2026, 2:04 PM
+2 hours ago
+
+GitHub Copilot SME
+
+NextAmp
+
+Greater Boston (Hybrid)
+
+Posted on January 29, 2026, 1:35 AM
+15 hours ago
+
+ · 
+
+ Easy Apply
+
+Front-End Developer (UI/UX-Focused)
+
+CopperSmith®
+
+Minneapolis, MN (Hybrid)
+
+$90K/yr - $110K/yr
+
+Posted on January 28, 2026, 12:52 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Frontend Developer (Verified job)
+Senior Frontend Developer 
+
+Peerlogic
+
+Scottsdale, AZ (On-site)
+
+$100K/yr - $140K/yr + Bonus, Stock options
+
+ • 
+
+Medical, Vision, Dental, 401(k), +2 benefits
+
+Posted on January 28, 2026, 3:01 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Staff Engineer AI Augmented
+
+Medici Land Governance Inc.
+
+United States (Remote)
+
+$170K/yr - $200K/yr
+
+Posted on January 28, 2026, 7:44 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Forward Deployed AI Engineer (Contract)
+
+Tato
+
+United States (Remote)
+
+$60/hr - $80/hr
+
+Actively reviewing applicants
+
+Posted on January 28, 2026, 9:12 PM
+19 hours ago
+
+ · 
+
+ Easy Apply
+
+AI/ML Engineer
+
+VRPRO IT
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 28, 2026, 10:30 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

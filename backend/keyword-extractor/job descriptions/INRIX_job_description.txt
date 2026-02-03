@@ -1,0 +1,55 @@
+About the job
+
+Description
+
+INRIX is looking for a Software Engineer who wants to learn about computing data at scale, building robust systems, and loves to learn and keep up with the latest cloud computing technology. Do you want to be at the heart of turning raw location-based data into insights and action? Our team is at the core of many of the products and services that INRIX delivers.
+
+We’re a small company with a broad reach and must think creatively to make things efficient, deal with the variabilities of the real world, and solve customer problems. Got ideas? We want to hear them.
+
+At INRIX, our mission is to help the world avoid global gridlock by empowering cities, drivers, and businesses around the globe. We are a company filled with people who are passionate about our customers and building products to keep the world moving smarter, safer, more efficiently and greener. We harness an unmatched collection of historic and real-time global GPS data from connected cars, fleet vehicles, and mobile devices to provide complex analysis across huge data sets with ambitious lead times. Our customers include cities, states, countries, and enterprise corporations.
+
+What You’ll Do
+
+
+Work as part of a small team building and testing scalable, reliable, and efficient data driven systems
+Work on high profile systems that substantially impact the company's bottom line 
+Work with partner teams to regularly deploy and monitor these systems to ensure optimum up time with minimal impact to customer
+
+
+
+About You
+
+
+Solid coding skills, including proficiency in a language such as C#, Java or Python
+Familiarity building services and APIs for internal and external data delivery
+2+ years of experience in production level software development 
+Team player - we highly regard collaboration
+Knowledge or willingness to learn about dealing with big data
+Bachelor or advanced degree in computer science, mathematics, or related discipline preferred
+
+
+
+Familiarity with one or more of the following would also be beneficial:
+
+
+AWS services like EKS, Redis, OpenSearch, S3, Athena, RabbitMQ, Lambda, EMR, Spark, EC2, CloudWatch or Elastic Beanstalk
+Github including Github actions and CoPilot
+Databases (relational, document and key-value), and associated query languages, such as SQL. 
+
+
+
+Why INRIX?
+
+
+Work with an amazing team with a focus on being the best and making the world a better place
+Solve complex real-world problems with big data
+Ranked as one of the top places to work in the Seattle area for multiple years
+Competitive Salary, Benefits, and 401K matching
+No policy vacation policy, it’s unlimited and always has been
+A boat on Lake Washington. You get your license, and we’ll pay for the gas 
+The people and passion - meet and work with people who are smart, helpful, and love what they’re doing and geek out on it
+Have the opportunity to make a big impact on both the company and our customers alike 
+
+
+
+Are you ready to join a different kind of company?  Exciting things are happening all the time. Come join us!  The anticipated base salary for this role is $100,000 – $130,000.  Compensation may vary based on skills, experience, and location. INRIX may modify the pay range at any time.

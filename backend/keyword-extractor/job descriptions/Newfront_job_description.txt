@@ -1,0 +1,67 @@
+About the job
+
+Insurance is a trillion dollar market that is fundamental to society, yet it has not modernized — until now.
+
+Newfront is building the modern insurance experience.
+
+We've reimagined the experience for clients, prospects, and employees, altering the way people create, understand, select, transact, and use insurance. We're changing the approach so that it starts and ends with the client, not the product, and empowering people for moments that matter.
+
+Our unique approach recognizes both the vast potential of technology and the fundamental role of insurance experts. We're a technology-driven company with DE&I in our DNA and strong values; we believe people matter most.
+
+Our mission is to define the future of the insurance industry, while instilling a high performance culture in combination with living our Work, Love, Play ethos each day. We value balanced lives and are passionate about creating a culture of wellness that results in healthier, happier, and more productive employees, and more successful clients.
+
+We’re looking for a software engineer to join Newfront’s Total Rewards business unit that helps clients design competitive benefit packages that attract, retain, and reward top talent. Our engineering team powers this business by building a platform that helps HR leaders and employees onboard, manage, understand, and use their benefits.
+
+You’ll Help Design And Scale Systems That Support Workflows Used By Benefit Consultants, Business Operations, And Clients. We Work On Several Key Areas, Including
+
+
+Employee benefits data platform
+HR leader admin portal
+Employee-facing web and mobile applications
+Internal tools for Total Rewards professionals to service and market insurance
+New AI / LLM-powered agentic workflows to automate insurance operations and improve benefits usage
+
+
+This position is a salary, exempt, and full-time position. This is a US-hybrid role with the option to work from any of Newfront's office locations or hubs in Southern California or Texas.
+
+What You'll Be Responsible For
+
+
+Be a crucial contributor within the team, working through ambiguity, concept validation and implementing a best-in-class solution.
+Collaborate with cross-functional design, product, and data science teams to design and deliver high-quality products and influence outcomes.
+Write clean, well-tested code; participate in code reviews; and help keep our codebase maintainable and easy to work with.
+Identify areas of improvement and drive opportunities on the web and mobile clients as well as the backend.
+Help cultivate innovation and growth by contributing to cross-collaboration and execution of projects across multiple teams.
+In the AI domain, implement the rapid prototyping of software applications applying AI / ML technologies. Serve as the software generalist and participate in the development process from ML model design and implementation to backend and frontend development.
+Develop your technical skills and product understanding, and take on increasing ownership of features and components as you grow.
+
+
+Qualifications
+
+
+BS or MS in computer science or related field, or equivalent work experience.
+1 year of experience or relevant internships on software engineering and web application development at scale.
+Strong programming fundamentals in one or more backend server languages (Java/Python/Ruby/Go/TypeScript/etc.).
+Experience with web development best practices such as continuous integration and continuous deployment.
+Proficiency a database management system such as MySQL/PostgreSQL.
+Experience with LLMs techniques and other related frameworks.
+Ability to effectively communicate with technical and non-technical stakeholders.
+Ability to take a thoughtful, pragmatic, and efficient approach to problem-solving.
+Passion to up-level yourself through curiosity, mentorship, and fostering a collaborative and inclusive team environment.
+
+
+Preferred Knowledge, Skills, And Abilities
+
+
+Experience using TypeScript is preferred.
+Experience with JavaScript backend frameworks such as Express/Node.js/Nest.js is preferred.
+Experience with data pipeline and data driven analytics.
+
+
+The pay range for this position in California, Washington, Colorado and New York at commencement of employment is expected to be between $101,100 and $200,500/yr; however, base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements, including a bonus, restricted stock units, and discretionary awards in addition to a full range of medical, financial, and/or other benefits (including 401(k) eligibility and various paid time off benefits, such as vacation, sick time, and parental leave), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment. If hired, the employee will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.
+
+At Newfront, we are committed to hiring diverse talent and supporting an inclusive workplace environment. If you are excited about a role at Newfront but feel you’re missing a few of the qualifications, we still encourage you to apply and tell us about yourself. You may just be the next Newfront team member that we are looking for! 
+
+Newfront is proud to be an equal opportunity workplace. Diversity is in our DNA and we believe that creating an inclusive workplace elevates the value we are able to bring to our customers and employees alike. All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, genetic information, disability, veteran status, or any other applicable status protected by state or local law.
+
+If you require reasonable accommodations throughout the application or interview process, please contact us at careers@newfront.com. For information regarding how Newfront collects and uses personal information, please review our Privacy Policy.

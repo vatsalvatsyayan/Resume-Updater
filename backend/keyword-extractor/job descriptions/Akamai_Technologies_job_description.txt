@@ -1,0 +1,546 @@
+Akamai Technologies
+
+Software Engineer II 
+
+Cambridge, MA · 23 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$95K/yr - $171K/yr
+Remote
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+Job Description
+
+Are you excited about working with cutting-edge technologies?
+
+Are you a software developer who loves solving complex problems?
+
+Join our Edge Applications Engineering Team
+
+Our team builds and maintains the software infrastructure powering Akamai's global edge network, one of the world's largest distributed systems serving billions of daily requests. We develop mission-critical platform applications that enable secure, high-performance traffic delivery and integrate seamlessly across Akamai's product ecosystem, forming the backbone for all customer-facing offerings.
+
+Partner with the best
+
+As a Software Engineer II, your code will serve high-traffic, global applications while you gain deep expertise in large-scale system design, performance engineering, and emerging technologies that define the future of Akamai's products and services.
+
+As a Software Engineer II, you will be responsible for:
+
+
+Designing, writing, and automating code supporting product development for millions of users
+Contributing to system architecture promoting performance, scalability, availability, security, and resilience.
+Reviewing code and collaborating across teams to ensure best practices and delivery
+Transforming product specifications into elegant designs with reusable, maintainable components
+Debugging complex production issues, handle escalations, and deliver solutions under pressure
+Building automation tools to improve efficiency and operational excellence across systems
+Working with cutting-edge technology stacks and expanding expertise in AI technologies
+
+
+Do What You Love
+
+To be successful in this role you will:
+
+
+Have 2 years of full stack experience and a Bachelor's in Computer Science or related field
+Be proficient in Python, Java, and TypeScript with Spring, Angular, and Flask frameworks
+Possess solid foundation in SQL and NoSQL databases including PostgreSQL and Cassandra
+Demonstrate solid understanding of distributed systems, algorithms, data structures, and object-oriented programming
+Have excellent verbal and written communication skills across technical and business stakeholders
+Have experience with CI/CD systems like Jenkins and AI code editors like GitHub Copilot
+Have hands-on experience with AI models, RAG, and LangGraph or equivalent technologies
+Be familiar with load balancers and message queues in production environments
+
+
+Work in a way that works for you
+
+FlexBase, Akamai's Global Flexible Working Program, is based on the principles that are helping us create the best workplace in the world. When our colleagues said that flexible working was important to them, we listened. We also know flexible working is important to many of the incredible people considering joining Akamai. FlexBase, gives 95% of employees the choice to work from their home, their office, or both (in the country advertised). This permanent workplace flexibility program is consistent and fair globally, to help us find incredible talent, virtually anywhere. We are happy to discuss working options for this role and encourage you to speak with your recruiter in more detail when you apply.
+
+Learn what makes Akamai a great place to work
+
+Connect with us on social and see what life at Akamai is like!
+
+We power and protect life online, by solving the toughest challenges, together.
+
+At Akamai, we're curious, innovative, collaborative and tenacious. We celebrate diversity of thought and we hold an unwavering belief that we can make a meaningful difference. Our teams use their global perspectives to put customers at the forefront of everything they do, so if you are people-centric, you'll thrive here.
+
+Working for you
+
+Benefits
+
+At Akamai, we will provide you with opportunities to grow, flourish, and achieve great things. Our benefit options are designed to meet your individual needs for today and in the future. We provide benefits surrounding all aspects of your life:
+
+
+Your health
+Your finances
+Your family
+Your time at work
+Your time pursuing other endeavors
+
+
+Our benefit plan options are designed to meet your individual needs and budget, both today and in the future.
+
+About Us
+
+Akamai powers and protects life online. Leading companies worldwide choose Akamai to build, deliver, and secure their digital experiences helping billions of people live, work, and play every day. With the world's most distributed compute platform from cloud to edge we make it easy for customers to develop and run applications, while we keep experiences closer to users and threats farther away.
+
+Join us
+
+Are you seeking an opportunity to learn and make a real impact in a global technology company? Come join us and learn with a team of people who will energize and inspire you!
+
+Compensation
+
+Akamai is committed to fair and equitable compensation practices. For US based candidates only - the base salary for this position ranges from $95,000 - $171,000/year; a candidate’s salary is determined by various factors including, but not limited to, relevant work experience, skills, certifications and location. Compensation for candidates outside the US will vary. The compensation package may also include incentive compensation opportunities in the form of annual bonus or incentives, equity awards and an Employee Stock Purchase Plan (ESPP). Akamai provides industry-leading benefits including healthcare, 401K savings plan, company holidays, vacation (in the form of PTO), sick time, family friendly benefits including parental leave and an employee assistance program including a focus on mental and financial wellness; Eligibility requirements apply.
+
+
+… more
+
+Benefits found in job post
+
+401(k)
+
+Set alert for similar jobs
+
+Software Engineer II, Cambridge, Massachusetts, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+667
+
+total
+
+667
+
+in the past day
+
+Candidate seniority level
+
+84% Entry level candidates
+
+14% Senior level candidates
+
+Candidate education level
+
+82
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+16
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Akamai Technologies
+Powered by Bing
+
+Company focus areas
+
+• Expansion of Security and Compute Solutions: Akamai Technologies aims to continue investing in and advancing its security and compute solutions portfolios. This includes enhancing product offerings and sales capabilities, particularly following acquisitions like Guardicore Ltd. and Linode Limited Liability Company.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Focus on engineering: The 'Engineering' department has maintained a stable headcount with a slight increase of 1%, indicating ongoing investment in technical capabilities and innovation. Growth in sales: The 'Sales' department has seen a 4% increase in headcount, suggesting a strategic push to boost revenue and market presence. Expansion in IT: The 'Information Technology' department has grown by 1%, reflecting a commitment to enhancing IT infrastructure and digital transformation. Increased focus on quality assurance: The 'Quality Assurance' department has experienced a 6% increase in headcount, highlighting an emphasis on maintaining high standards and product quality.
+… more
+
+The latest hiring trend
+
+10,353
+
+Total employees
+
+1%
+
+Company-wide
+
+2 year growth
+
+5%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+5000
+10000
+15000
+
+Median employee tenure: 5.3 years
+
+Akamai Technologies hires candidates from some of these companies and schools
+
+Akamai Technologies hired 3 people from University of Southern California. See all
+
+Akamai Technologies hired 28 people from University of Southern California. See all
+
+Competitors
+
+Akamai Technologies operates in a highly competitive landscape, primarily in the CDN, cloud infrastructure, and cybersecurity sectors. The company leverages its extensive global edge platform to provide API security and edge computing solutions. Akamai's strategic focus includes transforming its market perception from a reliable utility to an indispensable innovation platform, capitalizing on opportunities in API security and distributed computing. Key competitors like Cloudflare, Fastly, and AWS challenge Akamai by offering diverse and scalable solutions, targeting various market segments including media, e-commerce, and financial services.
+… more
+
+Sources: tommywennerstierna.wordpress.com +3 more
+
+Show Premium Insights
+About the company
+
+Akamai Technologies
+
+510,766 followers
+
+Follow
+
+Technology, Information and Internet
+
+ • 
+
+5001-10000 employees
+
+ • 
+
+9,967 on LinkedIn
+
+At Akamai, we make life better for billions of people, billions of times a day. 
+
+Every day, billions of people around the world connect with their favorite brands to shop online, play the latest video games, log into mobile banking apps, learn remotely, share videos with friends, and so much more. They may not know it, but Akamai is there, powering and protecting life online. 
+
+Over 20 years ago, we set out to solve the toughest challenge of the early internet: the “World Wide Wait.” And we’ve been solving the internet’s toughest challenges ever since, working toward our vision of a safer and more connected world.
+
+With the world’s most distributed compute platform — from cloud to edge — we make it easy for businesses to develop and run applications, while we keep experiences closer to users and threats farther away. That’s why innovative companies worldwide choose Akamai to build, deliver, and secure their digital experiences.
+
+Our leading security, compute, and delivery solutions are helping global companies make life better for billions of people, billions of times a day.
+
+Devoted, determined problem-solvers who share a passion for technology, we’re always pushing ground-breaking ideas and driving innovation. 
+
+Want to power and protect life online, by solving the toughest challenges?
+Be part of an amazing team. 
+
+Let’s connect:
+LinkedIn: https://www.linkedin.com/company/akamai-technologies
+Twitter: https://twitter.com/Akamai 
+Blog: https://www.akamai.com/blog
+
+
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Software Engineer - Competitive (Verified job)
+Software Engineer - Competitive 
+
+Hudl
+
+United States (Remote)
+
+$93K/yr - $155K/yr
+
+ • 
+
+Medical benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 3:23 PM
+4 minutes ago
+
+Software Engineer, Product Infrastructure (Verified job)
+Software Engineer, Product Infrastructure 
+
+Gusto
+
+Detroit Metropolitan Area (Remote)
+
+$163K/yr - $247K/yr
+
+ • 
+
+Medical benefit
+
+1 connection works here
+
+Posted on January 13, 2026, 12:26 PM
+2 days ago
+
+Software Engineer, Static Analysis
+
+SandboxAQ
+
+United States (Remote)
+
+$145.6K/yr - $221K/yr
+
+3 school alumni work here
+
+Posted on December 30, 2025, 3:42 AM
+2 weeks ago
+
+Full Stack Engineer
+
+xAI
+
+United States (Remote)
+
+$35/hr
+
+Actively reviewing applicants
+
+Posted on January 8, 2026, 11:24 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Junior Software Engineer
+
+RemoteHunter
+
+United States (Remote)
+
+Posted on January 15, 2026, 1:26 PM
+2 hours ago
+
+Software Engineer
+
+RemoteHunter
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 15, 2026, 11:52 AM
+3 hours ago
+
+Software Developer, Backend (Verified job)
+Software Developer, Backend 
+
+Gruve
+
+United States (Remote)
+
+$50/hr - $67/hr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 2:39 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+Helic & Co.
+
+United States (Remote)
+
+Posted on January 15, 2026, 6:44 AM
+8 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Engineer, AI
+
+SandboxAQ
+
+United States (Remote)
+
+$113K/yr - $186K/yr
+
+3 company alumni work here
+
+Posted on January 14, 2026, 3:43 AM
+1 day ago
+
+Software Engineer
+
+Valon
+
+United States (Remote)
+
+$140K/yr - $200K/yr
+
+ • 
+
+1 benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:37 AM
+12 hours ago
+
+Forward Deployed Software Engineer
+
+Inferred Edge
+
+New York City Metropolitan Area (Remote)
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 4:24 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Intern
+
+Sparrow
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 6:17 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

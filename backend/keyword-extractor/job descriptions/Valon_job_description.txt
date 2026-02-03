@@ -1,0 +1,488 @@
+Valon
+
+Software Engineer
+
+New York, NY · 5 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$140K/yr - $200K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+About The Company
+
+Valon is building the AI-native operating system for regulated finance, starting with mortgage servicing.
+
+We're a Series C company backed by a16z, transforming industries that others have written off as too complex to innovate.
+
+Rather than build on top of broken legacy systems, we took a different approach: we built and operate our own mortgage servicing business managing $110+ billion in loans. This wasn't the end goal, it was how we deeply understood the complexity needed to build software that actually works in regulated industries.
+
+The results speak for themselves. We've transformed mortgage servicing from a 0% margin business into 60%+ margins while dramatically improving customer experience. Major enterprise contracts are now deploying across the industry.
+
+ValonOS is our unified platform that makes every process structured and programmable and it is perfectly positioned for the AI era. When everything flows through one system with rich data, AI agents don't just automate tasks, they continuously improve entire operations. Mortgage servicing is just the beginning of our vision to transform regulated industries and beyond.
+
+Engineering at Valon
+
+Our engineering team is here to power the software ecosystem to disrupt one of the most outdated and regulated spaces in the financial sector - the mortgage industry. We’ve built out the foundation of a modern mortgage servicing platform that can accurately handle billions of dollars at scale, but we’re just getting started. At Valon, we want you to do the best work of your life. You'll be surrounded by a tight-knit community of exceptional people from places like Stripe, Jane Street, Meta, and Google who care deeply about their work and each other. Our problem space is complex, but you’ll get a lot of autonomy so that you can learn quickly, execute effectively, and deliver the highest level of business impact. Our tech stack is built on Python, React, Docker, Kubernetes, and Google Cloud Platform.
+
+Our headquarters are in New York City, and this year, we’re excited to open a new office in San Francisco. Plus, we fully support remote work!
+
+Responsibilities
+
+
+Responsible for learning new concepts and technologies quickly and apply them to challenging problems. 
+Designing and building robust and extensible infrastructure to handle evolving and complex federal, state, and agency regulations. 
+Dive deep to understand the inner workings of a highly complex industry.
+Work with Product and Design to define the best experience for our customers.
+
+
+Ideal Background
+
+
+Bachelor’s degree in Computer Science or related field. 
+Requires 1 year of software engineering experience building quality software applications at scale, including ability to work cross-functionally to balance product and technical requirements, building scalable systems from scratch with a fast turnaround.
+Experience with one of the following: web application development, mobile application development, building large-scale distributed systems, or infrastructure management.
+Must have legal authority to work in the U.S. EEOE.
+
+
+Benefits
+
+
+Base Compensation Band: $140,000-$200,000. Base salary offered is determined by a number of factors including the candidate’s experience, qualifications, and skills
+This Base Compensation pay range applies to our New York City located staff and may differ according to location.
+Compensation: Competitive salary with a meaningful stake in the company via equity, and 401k plan 
+Health & well-being: We’ll invest in your physical and mental well-being with comprehensive medical, dental, & vision benefits
+Commuter benefits: We offer pre-tax deductions for public transportation, rideshare services, and parking expenses to make your commute more affordable and convenient
+Grow together: Company wide orientation for you to successfully onboard and other learning & development opportunities including regular review cycles that feature 360 degree feedback
+Play together: Quarterly budgets for team and company outings. Use it for team swag, cooking classes, or team dinners!
+Generous time off: Flexible paid time off, sick days, and 11 company holidays 
+Baby bonding time!: 12 weeks off for both birthing and non-birthing parents - fully paid so you can focus your energy on your newest addition
+
+Throughout the interview process, please remember that emails will only be from valon.com email addresses. We will never ask for any personally identifiable information during the interview process itself. Please reach out to talent@valon.com if you have any requests to verify the authenticity of an outreach.
+
+Valon is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws. Valon makes hiring decisions based solely on qualifications, merit, and business needs at the time.
+
+
+… more
+
+Benefits found in job post
+
+Commuter benefits
+
+Set alert for similar jobs
+
+Software Engineer, New York, New York, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+291
+
+total
+
+291
+
+in the past day
+
+Candidate seniority level
+
+87% Entry level candidates
+
+6% Senior level candidates
+
+Candidate education level
+
+78
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+20
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Valon
+Powered by Bing
+
+Company focus areas
+
+• Digital-first mortgage servicing: Redefine mortgage servicing with a digital-first approach by combining user-friendly design, automated systems, and responsive service.
+
+...more
+
+Sources: startup.info +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 59% increase in headcount over the past year, indicating a major focus on technological development and innovation. Expansion in business development: The 'Business Development' department has experienced a 92% increase in headcount, suggesting a strong push towards expanding market reach and strategic partnerships. Increase in information technology: The 'Information Technology' department has grown by 78%, reflecting a substantial investment in IT infrastructure and digital transformation. Rising focus on finance: The 'Finance' department has seen a 20% increase in headcount, highlighting an emphasis on financial management and possibly preparing for future financial strategies or expansions.
+… more
+
+The latest hiring trend
+
+472
+
+Total employees
+
+72%
+
+Company-wide
+
+2 year growth
+
+127%
+
+Engineering
+
+2 year growth
+
+Loading chart...
+
+Median employee tenure: 1.3 years
+
+Valon hires candidates from some of these companies and schools
+
+Valon hired 1 person from University of Southern California. See all
+
+Valon hired 6 people from University of Southern California. See all
+
+Competitors
+
+Valon Mortgage operates in a highly competitive mortgage servicing industry, leveraging cutting-edge technology and a customer-centric platform to differentiate itself. The company faces competition from established players like loanDepot, Altisource, and MONTICELLOAM, which also focus on technology and efficiency to improve customer experience and operational performance.
+… more
+
+Sources: canvasbusinessmodel.com +1 more
+
+Show Premium Insights
+About the company
+
+Valon
+
+10,953 followers
+
+Follow
+
+Software Development
+
+ • 
+
+201-500 employees
+
+ • 
+
+472 on LinkedIn
+
+Valon is building the AI-native operating system for regulated finance.
+
+We’re re-architecting the largest and most complex layers of the global economy—starting with mortgage servicing, a $20B+ market that touches 50M borrowers and governs $13T in debt. For decades, this infrastructure has been powered by pre-internet software and manual workflows. We've rebuilt it from the ground up.
+
+Our platform, ValonOS, unifies the critical systems behind how money moves—multi-party accounting, payment flows, workflow orchestration, auditability, and workforce management—into a single, programmable layer. Built to run regulated enterprises at scale, it’s designed for an AI-enabled future where automation, accuracy, and transparency are non-negotiable.
+
+Servicing is our beachhead. The opportunity ahead: power the full financial lifecycle with a single intelligent system of record—transforming trillion-dollar industries where precision and compliance are as vital as speed.
+
+Valon is headquartered in New York City with a new office in San Francisco. We’re hiring across engineering, product, design, operations, and go-to-market. If you want to work on mission-critical problems with massive real-world impact, join us.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Founding Software Engineer
+
+Lumos
+
+San Francisco Bay Area (On-site)
+
+$180K/yr - $230K/yr
+
+You’d be a top applicant
+
+Posted on January 28, 2026, 1:02 PM
+3 hours ago
+
+ · 
+
+ Easy Apply
+
+React Native Developer - WebRTC/VoIP (Contract)
+
+BluePro AI
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 28, 2026, 12:48 PM
+4 hours ago
+
+Founding Engineer (Recent Grad)
+
+Ambral (YC S25)
+
+New York, NY (On-site)
+
+Medical benefit
+
+You’d be a top applicant
+
+Posted on January 27, 2026, 12:03 PM
+1 day ago
+
+WordPress Web Developer
+
+RR Digital
+
+Maitland, FL (Hybrid)
+
+Medical, Vision, Dental, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 28, 2026, 1:25 PM
+3 hours ago
+
+ · 
+
+ Easy Apply
+
+Machine Learning Engineer
+
+CereHive, Inc.
+
+Richmond, VA (Hybrid)
+
+Posted on January 27, 2026, 2:29 PM
+1 day ago
+
+Full Stack Engineer
+
+HekaHeart
+
+New York City Metropolitan Area (Hybrid)
+
+$130K/yr - $170K/yr
+
+Posted on January 27, 2026, 10:59 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Anagh Technologies Inc
+
+New York City Metropolitan Area (On-site)
+
+You’d be a top applicant
+
+Posted on January 28, 2026, 2:35 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Speech C++ Developer (Verified job)
+Software Speech C++ Developer 
+
+Adacel
+
+Orlando, FL (Hybrid)
+
+$74K/yr
+
+Actively reviewing applicants
+
+Posted on January 28, 2026, 6:12 AM
+10 hours ago
+
+ · 
+
+ Easy Apply
+
+Biomedical AI Prototyper / Developer (Verified job)
+Biomedical AI Prototyper / Developer 
+
+Energy4Life
+
+Salt Lake City Metropolitan Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 27, 2026, 7:48 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Full-stack Engineer (Verified job)
+Senior Full-stack Engineer 
+
+Iris AI
+
+New York, NY (On-site)
+
+401(k) benefit
+
+You’d be a top applicant
+
+Posted on January 28, 2026, 12:25 PM
+4 hours ago
+
+Full Stack Software Engineer
+
+Mainstay
+
+United States (Remote)
+
+$120K/yr - $140K/yr
+
+ • 
+
+7 benefits
+
+1 school alumni works here
+
+Posted on January 27, 2026, 7:48 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Fonzi AI
+
+San Francisco Bay Area (Hybrid)
+
+Posted on January 27, 2026, 12:43 PM
+1 day ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

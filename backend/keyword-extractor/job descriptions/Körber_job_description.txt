@@ -1,0 +1,52 @@
+About the job
+
+Pioneer your career! Körber is the home for passionate people who innovate, collaborate, and love what they do. Entrepreneurial spirit is our joint DNA. We develop future technologies and support talents to deploy their skills and reach their full potential. Together, we aim to be the first to do the right thing at the right time. Join the home for entrepreneurs!
+
+Join the home for entrepreneurs!
+
+The Software Engineer I supports the development and maintenance of engineering tools used in parcel handling and automation systems. This position focuses on improving CAD tools, simulation software, and related applications using C#, C++, and Python.
+
+
+
+You will design, develop, and maintain CAD tools, simulation software, and custom automation applications—primarily using C#, C++, and Python—to support parcel handling systems
+You will collaborate with engineering, systems, research, and cross-functional teams to gather requirements, align with project specifications, and translate them into modular software solutions
+You will build and optimize front-end and back-end workflows, ensuring data integrity and efficient post-processing for camera and microphone inputs
+You will test, troubleshoot, and update software to ensure performance, incorporating operator feedback to improve usability and add new features
+You will document software architecture, data collection procedures, and system code to support maintainability and effective knowledge transfer
+You will assist with software deployment, resolve technical issues, and support continuous improvements in automation processes and efficiency
+You have obtained a bachelor's degree in computer science, Engineering, or a related field
+You have gained 1–3 years of software engineering experience, preferably in automation or material handling projects
+You have strong programming skills in C#, C++, and Python
+You have experience with CAD tools (e.g., AutoCAD, Siemens NX) and simulation software
+You have effective problem-solving and debugging skills
+You have strong verbal and written communication skills, with the ability to work collaboratively in a team-based environment and a high level of attention to detail and organizational ability
+
+
+
+Eligible applicants must be currently authorized to work in the United States on a full-time basis. The employer will not sponsor applicants for work visas for this position.
+
+
+
+ You will enjoy a flexible work environment that supports your work-life balance; we offer paid time off for parental leave and 22+ days off for personal time and holidays 
+ You will have access to medical, dental, and vision insurance plans with FSA or HSA options, and a 401(k) plan with a company match of up to six percent 
+ You are provided with several company-paid benefits, including vision insurance, short and long-term disability, basic life insurance plans, and educational and employee assistance programs 
+
+
+
+Körber is pioneering cutting-edge sorting technology and solutions that shape the future of mail and parcel automation across Europe, North America, and Asia. Set new industry standards and champion customer-centric services and solutions with our dynamic Parcel Logistics team based in Irving, Texas, USA.
+
+This full-time, exempt role offers a hybrid work setting.
+
+Can you see yourself in this profile? Then Körber is the right place for you. We look forward to getting to know you!
+
+We are an Equal Opportunity Employer and are committed to ensuring equal employment opportunity to all applicants. All hires to our team are based on qualifications, merit, and business needs. It is our policy to give equal employment opportunities to all qualified persons without regard to legally protected characteristics, or any other consideration made unlawful by applicable federal, state/provincial, and/or local law.
+
+Disclaimer: The duties listed above are intended only as representation of the essential functions of this position. The omission of specific statements of duties does not exclude them from the position if the work is similar, related, or a logical assignment to the position. The job description does not constitute an employment agreement between the employer and employee and is subject to change at the sole discretion of the employer. Nothing in this document alters an employee’s at-will employment status. Please note that the salary information is a general guideline only. Individual compensation will be determined by various factors such as scope and responsibilities of the position, experience, education, skills, location, and market and business considerations. Applications must be submitted via our career site.
+
+Applicants must be legally authorized to work for ANY employer in the U.S., this position is not eligible for Visa Sponsorship.
+
+Apply now and join our team!
+
+Ready for your next step? Click on ‘Apply now’ to get started right away! As long as the position is advertised, you can apply at any time.
+
+We value diversity and therefore welcome all applicants - regardless of gender, nationality, ethnic or social origin, religion/belief, disability, age, sexual orientation and identity, and any other protected status.

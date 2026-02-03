@@ -1,0 +1,512 @@
+Observe, Inc.
+
+Software Engineer, Data Intake 
+
+San Mateo, CA · 2 hours ago · 80 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+$174K/yr - $208K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+About Us
+
+Observe is an AI-powered observability platform engineered for scale.
+
+Built on an open, scalable data lake, Observe ingests and stores telemetry at dramatically lower cost while allowing reuse through open data formats like Apache Iceberg. Its Knowledge Graph tracks relationships between objects in the system—and how they change over time—providing essential context for investigations. Pairing agentic workflows with context from the Knowledge Graph, Observe’s chat-based AI SRE accelerates root cause analysis and resolution.
+
+Engineering teams at Capital One, Topgolf, and Dialpad ingest hundreds of terabytes daily and troubleshoot 3x faster at 60% lower cost, depending on Observe to maintain reliability at scale.
+
+Team
+
+We’re hiring a Software Engineer for our Data Intake team, which builds the agent, ingestion infrastructure, and in-product onboarding experience that connects customer systems to Observe. We’re looking for engineers who enjoy deep systems work and care about how that work is experienced by users.
+
+This Is a Hybrid Role Combining
+
+
+Agent and data pipeline development (OpenTelemetry-based, Go).
+Infrastructure and configuration (Helm, Kubernetes, cloud templates).
+Backend APIs and data models that power user-facing onboarding and troubleshooting experiences.
+
+
+The team’s goal is to make data ingestion self-serve, transparent, and diagnosable, so customers can understand exactly where their telemetry is flowing or failing.
+
+In This Role You Will
+
+
+Work on the Observe Agent (OTel collector distribution), including custom receivers, processors, and exporters.
+Build Config- and infra-heavy systems (OTel config, Helm charts, Kubernetes, AWS templates).
+Control-plane APIs and data models that represent ingestion state, errors, and events.
+Debug complex ingestion issues across agents, pipelines, and backend systems
+Scale systems that translate low-level distributed behavior into clear user-facing signals
+
+
+Qualifications
+
+
+Strong software engineering fundamentals, with experience in backend or systems development
+Proficiency in Go or another statically typed language, with willingness to work deeply in Go
+Experience with distributed systems, data pipelines, or agent-based software
+Familiarity with Kubernetes and cloud environments (AWS, GCP, or similar), or strong interest in developing this expertise
+Comfort reading and reasoning about open-source code and external systems
+Enjoy debugging distributed systems and data pipelines, especially ones you didn’t originally write
+Are comfortable moving between configuration, infrastructure, and code to understand real-world system behavior
+Care about making complex systems observable, diagnosable, and explainable
+Like turning messy production reality into clear signals and APIs that others can rely on
+
+
+Bonus Points
+
+
+Experience with OpenTelemetry, observability agents, or telemetry pipelines
+Experience building or operating control planes for distributed systems
+Prior work on onboarding, configuration management, or user-facing diagnostics for infrastructure products
+Background in platform, infrastructure, or SRE-adjacent teams
+
+
+Equal Opportunity Employer
+
+Observe, Inc. is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based on race, color, ancestry, national origin, religion, age, sex, gender identity or expression, sexual orientation, marital status, disability, veteran status, genetic information, or any other legally protected status.
+
+We are committed to providing reasonable accommodations for candidates with disabilities throughout the hiring process. If you need an accommodation, please let your recruiter know.
+
+By applying, you consent to the processing of your personal information for recruiting purposes in accordance with applicable laws.
+
+The expected pay range is based on information at the time this post was generated. This role will also be eligible for other forms of compensation such as equity and a competitive benefits package. Actual compensation for a successful candidate will be determined based on a number of factors such as skillset, experience, and qualifications.
+
+Compensation Range $174k - 208k
+
+
+… more
+
+Set alert for similar jobs
+
+Software Engineer, San Mateo, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+80
+
+total
+
+80
+
+in the past day
+
+Candidate seniority level
+
+76% Entry level candidates
+
+16% Senior level candidates
+
+Candidate education level
+
+87
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+11
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Observe, Inc.
+Powered by Bing
+
+Company focus areas
+
+• AI-Powered Observability: Enhance and scale the AI-powered observability platform to help enterprises troubleshoot faster and at a lower cost. This includes unifying infrastructure monitoring, application performance management, log analytics, and front-end observability.
+
+...more
+
+Sources: observeinc.com +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 100% increase in employee count over the past year, indicating a major focus on product development and technological innovation. Expansion in IT: The 'Information Technology' department has experienced a 50% increase in the last three months, suggesting investments in IT infrastructure and support. Increased job openings: Overall job openings have increased by 133% over the past year, with a notable 180% increase in engineering roles, highlighting a strong hiring trend and potential for growth. Fluctuations in sales and business development: The 'Sales' and 'Business Development' departments have seen a decrease of 3% and 19% respectively over the past year, indicating possible restructuring or shifts in strategic focus.
+… more
+
+The latest hiring trend
+
+229
+
+Total employees
+
+16%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+100
+200
+300
+
+Median employee tenure: 2.3 years
+
+Observe, Inc. hires candidates from some of these companies and schools
+
+Observe, Inc. hired 2 people from University of Southern California. See all
+
+Competitors
+
+Observe operates in a highly competitive landscape within the cloud-based big data analytics and AI-powered observability market. Key competitors include Datadog, Splunk, and New Relic, which offer comprehensive observability solutions with advanced features like AI-driven incident detection and automated root-cause analysis. The market is characterized by rapid technological advancements and increasing demand for scalable, cost-effective solutions that enhance operational efficiency and performance monitoring.
+… more
+
+Sources: webpronews.com +2 more
+
+Show Premium Insights
+About the company
+
+Observe, Inc.
+
+14,672 followers
+
+Follow
+
+Software Development
+
+ • 
+
+201-500 employees
+
+ • 
+
+229 on LinkedIn
+
+Observe – the AI-powered observability company – is reinventing how businesses detect anomalies, troubleshoot applications, and resolve incidents to deliver exceptional customer experiences. Only Observe eliminates silos of logs, metrics, and traces by storing all data in a single, cost-efficient data lake, analyzing all telemetry data using a single language, and providing access through a single, consistent, user interface. Observe’s AI-Powered Observability enables companies to resolve software incidents three times faster at one-third the cost. Customers such as Capital One, Dialpad AI, Top Golf and more trust Observe to turn their data into actionable insights. Investors include Capital One Ventures, Evolution Equity Partners, Madrona Venture Group, and Sutter Hill Ventures. 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Senior System Integrator
+
+Specific Energy
+
+Georgetown, TX (On-site)
+
+$90K/yr - $130K/yr
+
+ • 
+
+6 benefits
+
+Posted on January 8, 2026, 6:18 PM
+39 minutes ago
+
+ · 
+
+ Easy Apply
+
+Solutions Engineer (Verified job)
+Solutions Engineer 
+
+LeapXpert
+
+United States (Remote)
+
+Medical, Vision, Dental, 401(k)
+
+Posted on January 7, 2026, 2:20 PM
+1 day ago
+
+Founding Solutions Engineer (Enterprise AI)
+
+Neon Blue
+
+San Francisco Bay Area (Hybrid)
+
+$130K/yr + Stock options
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 1:27 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+ZealTech
+
+Concord, CA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 8, 2026, 6:21 PM
+35 minutes ago
+
+ · 
+
+ Easy Apply
+
+Associate Cloud Engineer
+
+Align ENT + Allergy
+
+Philadelphia, PA (On-site)
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 1:57 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Developer (Founding Team / Future CTO)
+
+IaxaI, Inc.
+
+United States (Remote)
+
+Posted on January 8, 2026, 4:52 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+In-House Software Developer – Commerce & Repricing Systems
+
+ERE Sneakers
+
+Cranston, RI (On-site)
+
+$135K/yr - $160K/yr
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 5:15 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Web Developer – Maintenance & Support (Verified job)
+Web Developer – Maintenance & Support 
+
+Opus Design
+
+Newton, MA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 10:54 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+AI Project Systems Integrator (Verified job)
+AI Project Systems Integrator 
+
+ADCO Electrical Corp.
+
+New York, NY (On-site)
+
+Posted on January 8, 2026, 7:35 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+Data Engineer
+
+Prepaire Labs
+
+Boston, MA (On-site)
+
+$120K/yr - $145K/yr
+
+Posted on January 7, 2026, 10:08 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Systems Engineer
+
+Thunderbolt Talent Partners
+
+Binghamton, NY (On-site)
+
+8 benefits
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 5:56 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer
+
+Shinkei
+
+El Segundo, CA (On-site)
+
+$145K/yr - $195K/yr
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 12:25 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

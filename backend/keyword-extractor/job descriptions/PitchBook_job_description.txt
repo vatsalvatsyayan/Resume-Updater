@@ -1,0 +1,109 @@
+About the job
+
+At PitchBook, a Morningstar company, we are always looking forward. We continue to innovate, evolve, and invest in ourselves to bring out the best in everyone. We’re deeply collaborative and thrive on the excitement, energy, and fun that reverberates throughout the company.
+
+Our extensive learning programs and mentorship opportunities help us create a culture of curiosity that pushes us to always find new solutions and better ways of doing things. The combination of a rapidly evolving industry and our high ambitions means there’s going to be some ambiguity along the way, but we excel when we challenge ourselves. We’re willing to take risks, fail fast, and do it all over again in the pursuit of excellence.
+
+If you have a good attitude and are willing to roll up your sleeves to get things done, PitchBook is the place for you.
+
+About The Role
+
+As a member of the Product and Engineering team at PitchBook, you will be part of a team of big thinkers, innovators, and problem solvers who strive to deepen the positive impact we have on our customers and our company every day. We value curiosity and the drive to find better ways of doing things. We thrive on customer empathy, which remains our focus when creating excellent customer experiences through product innovation.
+
+We know that greatness is achieved through collaboration and diverse points of view, so we work closely with partners around the globe. As a team, we assume positive intent in each other’s words and actions, value constructive discussions, and foster a respectful working environment built on integrity, growth, and business value. We invest heavily in our people, who are eager to learn and constantly improve. Join our team and grow with us!
+
+The Platform Engineering team is a critical part of Engineering Operations. We build a platform of shared and managed services and tools that are used by our product teams to deliver software quickly, consistently, and with minimal friction.
+
+We're looking for a Platform Engineer to join our Platform Engineering team. This team is responsible for building and maintaining the foundational infrastructure, tools, and workflows that enable seamless software development and delivery. This role is ideal for an engineer who is passionate about developer enablement, automation, and cloud platforms.
+
+As a Platform Engineer, you will contribute to the design, build, and enhancement of our internal platforms, CI/CD pipelines, cloud infrastructure, and developer tooling. You will work closely with other engineers, SREs, and security teams to create solutions that empower product teams to deploy, manage, and scale their services efficiently.
+
+This is a key role where you will help improve the reliability, security, and cost-efficiency of our platform. If you enjoy solving engineering challenges, automating infrastructure, and improving developer workflows, we want to hear from you!
+
+Primary Job Responsibilities
+
+
+Contribute to platform engineering strategies and best practices
+Work to integrate product and engineering with operations through collaboration, enablement, and automation
+Help optimize and accelerate the software development lifecycle (SDLC) while maintaining quality and security
+Assist development teams in managing infrastructure, including cloud-managed services, containerization strategy, and infrastructure automation
+Contribute to the developer experience (DevEx) by helping to maintain and improve CI/CD pipelines and developer tools
+Learn and apply knowledge of available managed services (PaaS/SaaS/IaaS), libraries, frameworks, and platforms (commercial and open source)
+Follow the company's application of Agile and Lean principles to improve engineering efficiency and productivity
+
+
+Skills And Qualifications
+
+
+Bachelor’s degree in Computer Science, Information Systems or a similar field 
+2+ years in Software Development or Engineering roles within a medium or large enterprise 
+Experience with Docker, Kubernetes, Linux, and networking fundamentals
+Solid understanding of DevOps, Infrastructure-as-Code (IaC), and CI/CD pipelines, including tools like Terraform, Gitlab CI/GitHub Actions, or similar
+Foundational understanding of programming best practices and common software architectures
+Experience with cloud-based solutions and infrastructure management, including web services, databases (e.g., PostgreSQL, MS SQL Server), and caching solutions
+Good communication skills, both written and verbal
+Experience with cloud providers like GCP or AWS
+
+
+Benefits + Compensation at PitchBook:
+
+Physical Health
+
+
+Comprehensive health benefits
+Additional medical wellness incentives
+STD, LTD, AD&D, and life insurance
+
+
+Emotional Health
+
+
+Paid sabbatical program after four years
+Paid family and paternity leave
+Annual educational stipend
+Ability to apply for tuition reimbursement
+CFA exam stipend
+Robust training programs on industry and soft skills
+Employee assistance program
+Generous allotment of vacation days, sick days, and volunteer days
+
+
+Social Health
+
+
+Matching gifts program
+Employee resource groups
+Subsidized emergency childcare
+Dependent Care FSA
+Company-wide events
+Employee referral bonus program
+Quarterly team building events
+
+
+Financial Health
+
+
+401k match
+Shared ownership employee stock program
+Monthly transportation stipend
+Please be aware the above PitchBook benefit and perk offerings are subject to corresponding plan and policy documents and may change during the course of your employment.
+
+
+Compensation
+
+
+Annual base salary: $130,000-$165,000
+Target annual bonus percentage: 10%
+
+
+Working Conditions
+
+At the heart of our company is a belief in the power of in-person collaboration. Being together in the office fuels our creativity, strengthens our connections, and drives the innovation that sets us apart. Our culture is built on spontaneous moments—those hallway conversations, whiteboard brainstorms, and shared celebrations in each of our global offices—that simply can’t be replicated remotely. This role is expected to be in the office 5 days a week.
+
+The job conditions for this position are in a standard office setting. Employees in this position use PC and phone on an on-going basis throughout the day. Limited corporate travel may be required to remote offices or other business meetings and events.
+
+Life At PB
+
+We are consistently recognized as a Best Place to Work and our culture is at the heart of our success. It’s our fundamental belief that people do and create great things and that people are the cornerstone of prosperity. We believe that proactively seeking out different points of view, listening to others, learning, and reflecting on what we’ve heard creates a sense of belonging within PitchBook and strengthens the PitchBook community.
+
+We are excited to get to know you and your background. Concerned that you might not meet every requirement? We encourage you to still apply as you might be the right candidate for the role or other roles at PitchBook.

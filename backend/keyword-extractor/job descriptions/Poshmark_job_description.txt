@@ -1,0 +1,457 @@
+Poshmark
+
+Software Engineer, Cloud Platform
+
+Redwood City, CA · 23 hours ago · Over 100 people clicked apply
+
+Responses managed off LinkedIn
+
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+About Poshmark
+
+Poshmark is a leading fashion resale marketplace powered by a vibrant, highly engaged community of buyers and sellers and real-time social experiences. Designed to make online selling fun, more social and easier than ever, Poshmark empowers its sellers to turn their closet into a thriving business and share their style with the world. Since its founding in 2011, Poshmark has grown its community to over 130 million users and generated over $10 billion in GMV, helping sellers realize billions in earnings, delighting buyers with deals and one-of-a-kind items, and building a more sustainable future for fashion. For more information, please visit www.poshmark.com, and for company news, visit newsroom.poshmark.com.
+
+💡 About the Role
+
+Poshmark is looking for a Software Engineer to support the rapid growth of our Cloud Platform and marketplace. In this role, you’ll help build and operate a high-traffic, fast-growing platform while receiving mentorship and guidance from experienced engineers. You’ll work at scale and push the boundaries of cloud-based technologies to help power Poshmark’s continued growth.
+
+⚙️ What You’ll Do
+
+
+Build applications and services on top of a distributed cloud architecture, using a combination of NoSQL data solutions, Queueing technologies, and Search infrastructure.
+Design and implement new product features for the marketplace using a highly iterative and data-oriented approach.
+Build, analyze, tune and enhance the core components of the Poshmark product and cloud platform that powers millions of e-commerce transactions.
+Work closely with the product & customer support teams to have a direct impact on our growing business.
+
+
+💪 What You’ll Bring
+
+
+BE or MS in Computer Science or related technical discipline (or equivalent). Solid foundation in computer science with strong competencies in data structures, algorithms, and software design
+1+ years of relevant software engineering experience through projects or internships
+Experience with Amazon AWS or other Cloud Computing platforms is preferred
+Experience with any or all of: Ruby, JRuby, Java, HTML5, JavaScript, CSS, MongoDB, ElasticSearch, RabbitMQ, Linux
+User-oriented focus and obsession with quality
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Redwood City, California, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+505
+
+total
+
+505
+
+in the past day
+
+Candidate seniority level
+
+85% Entry level candidates
+
+7% Senior level candidates
+
+Candidate education level
+
+82
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+17
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Poshmark
+Powered by Bing
+
+Company focus areas
+
+• Leadership Transition: Poshmark is undergoing a leadership transition with the appointment of Namsun Kim as the new CEO, signaling a new strategic era for the company.
+
+...more
+
+Sources: jewelrypackagingsupplier.com +1 more
+
+Hiring & headcount
+
+Focus on engineering: The 'Engineering' department has seen a significant increase in job openings by 111% over the past year, indicating a strong focus on expanding their engineering capabilities. Growth in customer support: The 'Customer Success and Support' department has experienced a 50% increase in job openings over the past year, suggesting an emphasis on improving customer service and support. Expansion in information technology: The 'Information Technology' department has shown a 67% increase in job openings over the past year, highlighting a push towards enhancing IT infrastructure and capabilities. Decline in marketing and finance: The 'Marketing' and 'Finance' departments have seen a decrease in job openings by 100% and 50% respectively, indicating a potential shift in focus away from these areas.
+… more
+
+The latest hiring trend
+
+2,891
+
+Total employees
+
+0%
+
+Company-wide
+
+2 year growth
+
+67%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+2000
+4000
+
+Median employee tenure: 5.8 years
+
+Poshmark hires candidates from some of these companies and schools
+
+Poshmark hired 2 people from University of Southern California. See all
+
+Poshmark hired 9 people from University of Southern California. See all
+
+Competitors
+
+Poshmark operates in a highly competitive online resale market, driven by the growing demand for sustainable fashion and accessible selling platforms. The company faces significant competition from other social commerce platforms like Depop, ThredUp, and Mercari, which also blend social media with e-commerce to attract fashion enthusiasts. Poshmark's ability to innovate and leverage its integration with Naver for technological advancements will be crucial in maintaining its competitive edge.
+… more
+
+Sources: simicart.com +3 more
+
+Show Premium Insights
+About the company
+
+Poshmark
+
+148,330 followers
+
+Follow
+
+Retail Apparel and Fashion
+
+ • 
+
+501-1000 employees
+
+ • 
+
+2,891 on LinkedIn
+
+Poshmark is a leading fashion resale marketplace powered by a vibrant, highly engaged community of buyers and sellers and real-time social experiences. Designed to make online selling fun, more social and easier than ever, Poshmark empowers its sellers to turn their closet into a thriving business and share their style with the world. Since its founding in 2011, Poshmark has grown its community to over 150 million users and generated over $10 billion in GMV, helping sellers realize billions in earnings, delighting buyers with deals and one-of-a-kind items, and building a more sustainable future for fashion.
+
+Founded by Manish Chandra, Chetan Pungaliya, Gautam Golwala, and Tracy Sun, Poshmark began as a vision to revolutionize the shopping experience through technology. With the launch of the iPhone 4, our founders saw a future where technology could reinvent shopping by connecting and empowering everyday people to shop and sell from the palm of their hands. In turn, they created an end-to-end fashion resale marketplace inside an easy-to-use mobile app with three guiding principles: buying and selling on Poshmark should be simple, social, and sustainable.
+
+For company news, please visit: newsroom.poshmark.com 
+
+For the latest community, product, and style updates, please visit: blog.poshmark.com
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Software Engineer
+
+Haystack
+
+Greater St. Louis (Hybrid)
+
+Vision, 401(k)
+
+Posted on January 15, 2026, 1:42 PM
+45 minutes ago
+
+Software Engineer - New Grad
+
+Valon
+
+New York, NY (Hybrid)
+
+$130K/yr - $155K/yr
+
+ • 
+
+401(k), +1 benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:37 AM
+11 hours ago
+
+Software Dev Engineer I (Verified job)
+Software Dev Engineer I 
+
+Yahoo!
+
+United States (Remote)
+
+$88.5K/yr - $184.4K/yr
+
+23 company alumni work here
+
+Posted on January 13, 2026, 2:03 PM
+2 days ago
+
+Member of Technical Staff 1 (Verified job)
+Member of Technical Staff 1 
+
+Nutanix
+
+San Jose, CA (On-site)
+
+$90.4K/yr - $180K/yr
+
+11 company alumni work here
+
+Posted on January 15, 2026, 1:40 PM
+46 minutes ago
+
+Software Engineer I (Verified job)
+Software Engineer I 
+
+GumGum
+
+Santa Monica, CA
+
+$128K/yr - $149K/yr
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:30 AM
+11 hours ago
+
+AI Engineer (New Graduate) (Verified job)
+AI Engineer (New Graduate) 
+
+Distyl AI
+
+San Francisco, CA
+
+$150K/yr - $170K/yr
+
+ • 
+
+401(k), +1 benefit
+
+2 company alumni work here
+
+Posted on January 13, 2026, 4:13 PM
+1 day ago
+
+Software Engineer, UX (Verified job)
+Software Engineer, UX 
+
+Deepmind
+
+Walla Walla, WA (Hybrid)
+
+36 company alumni work here
+
+Posted on January 15, 2026, 1:56 PM
+31 minutes ago
+
+Associate, Software Engineer (Verified job)
+Associate, Software Engineer 
+
+Morgan Stanley
+
+New York, NY
+
+$150K/yr
+
+21 company alumni work here
+
+Posted on January 15, 2026, 8:35 AM
+5 hours ago
+
+Software Engineer, Data Platform (Verified job)
+Software Engineer, Data Platform 
+
+Ramp
+
+New York, NY (Hybrid)
+
+$168K/yr - $324.5K/yr
+
+ • 
+
+Vision, 401(k)
+
+4 company alumni work here
+
+Posted on January 15, 2026, 12:13 PM
+2 hours ago
+
+Software Engineer
+
+Helic & Co.
+
+United States (Remote)
+
+Posted on January 15, 2026, 6:44 AM
+7 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Forward Deployed (Verified job)
+Software Engineer, Forward Deployed 
+
+Ramp
+
+New York, United States (Hybrid)
+
+$168K/yr - $231K/yr
+
+ • 
+
+Vision, 401(k)
+
+4 company alumni work here
+
+Posted on January 15, 2026, 12:13 PM
+2 hours ago
+
+Software Engineer - New Grad (Verified job)
+Software Engineer - New Grad 
+
+Scale
+
+San Francisco Bay Area (Hybrid)
+
+2 connections work here
+
+Posted on January 15, 2026, 3:19 AM
+11 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

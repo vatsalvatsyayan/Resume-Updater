@@ -1,0 +1,47 @@
+About the job
+
+Life at UiPath
+
+The people at UiPath believe in the transformative power of automation to change how the world works. We’re committed to creating category-leading enterprise software that unleashes that power.
+
+To make that happen, we need people who are curious, self-propelled, generous, and genuine. People who love being part of a fast-moving, fast-thinking growth company. And people who care—about each other, about UiPath, and about our larger purpose.
+
+Could that be you?
+
+Your mission
+
+Are you excited about building platform components and services that empower developers across the company to move faster with confidence? Do you enjoy creating reusable solutions, sharing designs, gathering feedback, and continuously improving the developer experience at scale? If so, here’s an opportunity with the UiPath Internal Developer Platform team that should interest you.
+
+At UiPath, the internal platform isn’t just infrastructure—it’s the foundation that enables every engineering team to deliver secure, reliable, and high-quality products. Our mission is to provide self-service capabilities, standardization, and guardrails that accelerate innovation while ensuring compliance and operational excellence.
+
+We are seeking a dedicated Software Engineer I to help us design, build, and evolve this platform, enabling hundreds of developers to focus on what they do best: building the future of automation!
+
+What You'll Do At UiPath
+
+
+Work in a central team with other engineers and product managers, to envision and deliver organization wide engineering services
+Create Kubernetes infrastructure, design and built continuously reconciled systems, contribute both imperative and declarative code
+Bring the best that the community has to offer on agile software development and continuous deployment
+Enhance observance and propose enforcement mechanisms of best practices across the engineering organizations
+Collaborate with internal teams to identify business goals, technical requirements, and implement solutions to maximize automation and efficiency
+Improve CI/CD processes, bring about innovation
+
+
+What You'll Bring To The Team
+
+
+A strong fundamental understanding of Computer Science through pursuit of a Bachelor's, Master's, or PhD degree in Computer Science, math, or a related discipline
+An inclination towards best practices, following community trends while adhering to their theoretical underpinnings
+Programming knowledge in one or more object-oriented languages (such as C#/C++/Java). Experience in Golang is a bonus
+Experience from previous internships or other multi-person projects, including open-source contributions. Experience with Kubernetes is a bonus
+Ability to learn unfamiliar systems and form an understanding of those systems
+Humility and a desire to learn
+
+
+Maybe you don’t tick all the boxes above—but still think you’d be great for the job? Go ahead, apply anyway. Please. Because we know that experience comes in all shapes and sizes—and passion can’t be learned.
+
+Many of our roles allow for flexibility in when and where work gets done. Depending on the needs of the business and the role, the number of hybrid, office-based, and remote workers will vary from team to team. Applications are assessed on a rolling basis and there is no fixed deadline for this requisition. The application window may change depending on the volume of applications received or may close immediately if a qualified candidate is selected.
+
+We value a range of diverse backgrounds, experiences and ideas. We pride ourselves on our diversity and inclusive workplace that provides equal opportunities to all persons regardless of age, race, color, religion, sex, sexual orientation, gender identity, and expression, national origin, disability, neurodiversity, military and/or veteran status, or any other protected classes. Additionally, UiPath provides reasonable accommodations for candidates on request and respects applicants' privacy rights. To review these and other legal disclosures, visit our privacy policy.
+
+Compensation Range: $115K - $135K

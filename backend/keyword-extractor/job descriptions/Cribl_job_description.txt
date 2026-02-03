@@ -1,0 +1,492 @@
+Cribl
+
+Software Engineer, Core Platform 
+
+United States · 16 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$120K/yr - $150K/yr
+Remote
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+Cribl does differently.
+
+What does that mean? It means we are a serious company that doesn’t take itself too seriously; and we’re looking for people who love to get stuff done, and laugh a bit along the way. We’re growing rapidly - looking for collaborative, curious, and motivated team members who are passionate about putting customers first. As a remote-first company we believe in empowering our employees to do their best work, wherever they are.
+
+As the data engine for IT and Security many of the biggest names in the most demanding industries trust Cribl to solve their most pressing data needs. Ready to do the best work of your career? Join the herd and unlock your opportunity.
+
+Why You'll Love This Role
+
+Platform Engineering at Cribl is responsible for creating and maintaining the foundational software infrastructure that supports our entire ecosystem of products. This includes scalable systems, shared services, developer tools, and core components that other product teams rely on to build customer-facing features quickly and reliably.
+
+As a Software Engineer I on the Core Platform team, you’ll join a group of engineers building the backend systems and APIs that ingest, process, and route massive volumes of observability and security data. This is an ideal role for someone early in their career (new grad or entry-level) who’s excited to learn, ship real features, and grow with mentorship from senior engineers.
+
+
+You’ll work on real distributed backend systems that handle high-volume metrics and telemetry data, not toy problems.
+You’ll have strong mentorship from senior and staff engineers, with clear expectations for learning and growth.
+You’ll get exposure to time-series databases, cloud platforms, and CI/CD pipelines, building a foundation in modern platform engineering.
+You’ll be part of a remote-first team that values curiosity, collaboration, clear communication, and of course… goats.
+
+
+
+As An Active Member Of Our Team, You Will...
+
+
+Learn and contribute to backend systems and APIs that ingest, process, and route data, implementing well-scoped features and bug fixes with guidance from more senior engineers.
+Design, develop, test, and maintain clear, maintainable code in Node.js/TypeScript that delivers the right outcomes for our customers, starting with smaller, well-defined tasks and growing into more complex work over time.
+Collaborate with a cross-functional team of engineers, designers, and product managers to understand requirements, ask clarifying questions, and turn feature specifications into implementable stories and code.
+Write and extend automated tests (unit, integration, and functional) for the code you ship, following existing test plans and patterns and contributing to new test cases as you gain experience.
+Participate in code reviews: both as an author and a reviewer-in-training—incorporating feedback to improve code quality, testing, and readability while learning from more experienced teammates.
+Help investigate and fix bugs in collaboration with senior engineers, learning how to use logs, metrics, and other observability tools to understand and debug distributed systems.
+Support performance and correctness work around time-series data storage and query paths by pairing with teammates and tackling well-bounded tasks that improve reliability and efficiency.
+Develop good engineering habits: writing tests alongside code, keeping documentation up to date, breaking problems into smaller pieces, and asking for help early when you’re stuck.
+Take ownership at an appropriate scope: own your tickets, communicate status clearly, follow through on commitments, and escalate risks early; over time, grow into owning small features end to end.
+Participate in the team’s support/on-call rotation over time: you’ll start by shadowing more experienced engineers and gradually take on more responsibility as you become comfortable with the systems and tooling.
+Contribute to a healthy team culture by asking questions, sharing what you’re learning, and speaking up with ideas even when you’re the most junior person in the room.
+
+
+
+If You've Got It - We Want It
+
+
+Bachelor’s degree in Computer Science or a related field, or equivalent practical experience (internships, open source, significant personal projects).
+Solid CS fundamentals from coursework or experience: data structures, algorithms, basic networking and operating systems concepts, and an interest in distributed systems and scalability principles.
+Experience with at least one programming language used for backend or systems work (JavaScript/TypeScript, Go, Java, etc.); familiarity with Node.js/TypeScript from projects, internships, or labs is a plus.
+Some exposure to backend services or data-intensive applications, such as building APIs, data processing pipelines, or working with message queues and databases in school or internship work.
+Familiarity with Linux or Unix-like systems as a development environment (shell basics, processes, files, simple troubleshooting).
+Exposure to Docker or containerization and at least one cloud platform (AWS, Azure, or GCP) through labs, side projects, or internships is a plus.
+Understanding of testing and CI/CD concepts. For example, running unit tests locally, using Git-based workflows, or working with pipelines like GitHub Actions, Bitbucket, Jenkins, or CircleCI in a school or internship setting.
+
+
+
+Nice To Have
+
+
+Curiosity about or exposure to time-series databases and columnar storage systems (e.g., ClickHouse, Prometheus, InfluxDB); hands-on experience is a plus but not expected at entry level.
+Familiarity with observability tools like Grafana, Kibana/ELK, Datadog, or similar monitoring/logging stacks from classes, internships, or personal projects.
+Any open source contributions, hackathon projects, or portfolio work you’re proud of.
+Enjoy learning new technologies and tackling ambiguous problems with support. When you don’t know something, you’re proactive in seeking context, asking good questions, and experimenting.
+Comfortable working in an Agile environment, iterating quickly, taking feedback, and improving your code and designs over time.
+A strong sense of ownership at a junior scope: you care about shipping high-quality, high-performing features, even when you’re not the one designing the whole system.
+And of course, a love for goats doesn’t hurt.
+
+
+
+Salary Range ($120,000 - $150,000)
+
+The salary for this role is dependent on geographic location. The salary offered within the range described will be based on the individual candidate’s job-related knowledge, skills, and experience. In addition to a competitive salary, Cribl also offers a generous benefits package which includes health, dental, vision, short-term disability, and life insurance, paid holidays and paid time off, a fertility treatment benefit, 401(k), equity, and eligibility for a discretionary company-wide bonus.
+
+Bring Your Whole Self
+
+Diversity drives innovation, enables better decisions to support our customers, and inspires change for the better. We’re building a culture where differences are valued and welcomed, and we work together to bring out the best in each other. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.
+
+Interested in joining the Cribl herd? Learn more about the smartest, funniest, most passionate goats you’ll ever meet at cribl.io/about-us.
+
+
+… more
+
+Benefits found in job post
+
+401(k), Disability insurance
+
+Set alert for similar jobs
+
+Software Engineer, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+1130
+
+total
+
+1130
+
+in the past day
+
+Candidate seniority level
+
+80% Entry level candidates
+
+12% Senior level candidates
+
+Candidate education level
+
+71
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+27
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have an Associate's Degree
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Cribl
+Powered by Bing
+
+Company focus areas
+
+• Data Strategy Transformation: Empower organizations to transform their data strategy by providing vendor-agnostic solutions to analyze, collect, process, and route IT and security data from any source to any destination.
+
+...more
+
+Sources: secure.businesswire.com +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 20% increase in headcount over the past year, indicating a major focus on product development and innovation. Expansion in sales: The 'Sales' department has experienced a 23% increase in headcount, suggesting a strong push towards market expansion and revenue growth. Increased focus on customer success: The 'Customer Success and Support' department has grown by 50%, highlighting an initiative to improve customer satisfaction and retention. Rising investment in finance: The 'Finance' department has seen a 55% increase in headcount, which may indicate efforts to strengthen financial operations and strategic planning.
+… more
+
+The latest hiring trend
+
+1,116
+
+Total employees
+
+64%
+
+Company-wide
+
+2 year growth
+
+54%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+500
+1000
+1500
+
+Median employee tenure: 1.9 years
+
+Cribl hires candidates from some of these companies and schools
+
+Cribl hired 2 people from University of Southern California. See all
+
+Cribl hired 102 people from University of Southern California. See all
+
+Competitors
+
+Cribl operates in a highly competitive landscape dominated by established data management and observability platforms. The company differentiates itself with a vendor-neutral architecture and a focus on optimizing data movement and reducing infrastructure costs. Key competitors include Splunk, Datadog, and Sumo Logic, which offer comprehensive data analytics and monitoring solutions. Cribl's strategic focus on cost-saving and data enrichment positions it well against these incumbents, but it must continue to innovate and expand its market presence to maintain its competitive edge.
+… more
+
+Sources: canvasbusinessmodel.com +1 more
+
+Show Premium Insights
+About the company
+
+Cribl
+
+108,328 followers
+
+Follow
+
+Software Development
+
+ • 
+
+501-1000 employees
+
+ • 
+
+1,116 on LinkedIn
+
+Cribl, the Data Engine for IT and Security, empowers organizations to transform their data strategy. Powered by a data processing engine purpose-built for IT and Security, Cribl’s product suite is a vendor-agnostic data management solution capable of collecting data from any source, processing billions of events per second, automatically routing data for optimized storage, and analyzing any data, at any time, in any location. With Cribl, IT and Security teams have the choice, control, and flexibility required to adapt to their ever-changing data needs. Cribl’s offerings–Stream, Edge, and Search–are available either as discrete products or as a holistic solution.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Full Stack Engineer
+
+Data Annotation
+
+Michigan, United States (Remote)
+
+$40/hr
+
+7 company alumni work here
+
+Posted on January 21, 2026, 4:24 AM
+8 hours ago
+
+Full Stack Developer
+
+Data Annotation
+
+Michigan, United States (Remote)
+
+$40/hr
+
+27 school alumni work here
+
+Posted on January 21, 2026, 4:24 AM
+8 hours ago
+
+Full Stack Developer
+
+Data Annotation
+
+New York, United States (Remote)
+
+$40/hr
+
+27 school alumni work here
+
+Posted on January 21, 2026, 4:24 AM
+8 hours ago
+
+Full Stack Developer
+
+Data Annotation
+
+Indiana, United States (Remote)
+
+$40/hr
+
+7 company alumni work here
+
+Posted on January 21, 2026, 4:25 AM
+8 hours ago
+
+Full Stack Engineer
+
+Data Annotation
+
+Arizona, United States (Remote)
+
+$40/hr
+
+7 company alumni work here
+
+Posted on January 21, 2026, 4:25 AM
+8 hours ago
+
+Back End Developer
+
+Data Annotation
+
+Michigan, United States (Remote)
+
+$40/hr
+
+7 company alumni work here
+
+Posted on January 21, 2026, 4:35 AM
+7 hours ago
+
+Back End Developer
+
+Data Annotation
+
+Indiana, United States (Remote)
+
+$40/hr
+
+27 school alumni work here
+
+Posted on January 21, 2026, 4:36 AM
+7 hours ago
+
+Full Stack Engineer
+
+Data Annotation
+
+Indiana, United States (Remote)
+
+$40/hr
+
+27 school alumni work here
+
+Posted on January 21, 2026, 4:24 AM
+8 hours ago
+
+Back End Developer
+
+Data Annotation
+
+Maryland, United States (Remote)
+
+$40/hr
+
+7 company alumni work here
+
+Posted on January 21, 2026, 4:35 AM
+7 hours ago
+
+Software Engineer
+
+Data Annotation
+
+Rhode Island, United States (Remote)
+
+$40/hr
+
+7 company alumni work here
+
+Posted on January 21, 2026, 4:38 AM
+7 hours ago
+
+Software Engineer
+
+Data Annotation
+
+Utah, United States (Remote)
+
+$40/hr
+
+7 company alumni work here
+
+Posted on January 21, 2026, 4:38 AM
+7 hours ago
+
+Back End Developer
+
+Data Annotation
+
+Ohio, United States (Remote)
+
+$40/hr
+
+7 company alumni work here
+
+Posted on January 21, 2026, 4:35 AM
+7 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

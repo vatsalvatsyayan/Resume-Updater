@@ -1,0 +1,338 @@
+MITRE
+
+Entry Level - Associate Software Developer 
+
+Colorado Springs, CO · 1 day ago · Over 100 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+$79.2K/yr - $118.8K/yr
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges—and we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day—working for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities for career growth, and a culture of innovation that embraces adaptability, collaboration, technical excellence, and people in partnership. If this sounds like the choice you want to make, then choose MITRE - and make a difference with us.
+
+NOTE:  Thank you for your interest in MITRE’s Early Careers opportunities. Please be aware that this is not an application for a specific position. By submitting your information and providing your resume, you will be included in a pool of candidates for various roles across the Software Engineering Innovation Center. If you are selected for consideration for a particular position a member of MITRE’s Early Careers recruiting team will reach out to you.  You can monitor your application status here: Workday (myworkdayjobs.com).  
+
+Do you want to develop software systems that contribute to solving our nation’s most critical problems?   Do you want to be mentored by engineers and scientists that are experts in their fields? Are you passionate about best practices for delivering the highest quality software solutions?
+
+We're making a difference every day—working for a safer, healthier, and more secure nation and world.
+
+Come and lay the groundwork for your career at MITRE. You’ll work on diverse projects that support our Government sponsors and benefit from numerous learning and growth opportunities. You will also be part of our New Professionals Program, where you’ll receive mentorship from experienced staff, gain exposure to MITRE work across all our domains, and continue your growth and learning through various educational and training programs.
+
+Our workplace reflects our values. We want you to start and grow your career at MITRE so that you can experience the gratifying work, our competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth.
+
+Roles & Responsibilities:
+
+As a Software Developer at MITRE, you will enjoy a collaborative environment where you work closely with others in an organization that encourages and values collaboration, mentoring, and continuous learning. You will have the opportunity to leverage and grow your hands-on software engineering expertise as you contribute to real challenges across a variety of domains. As part of the Software Engineering Innovation Center, you will develop your software architecture and engineering skills while delivering computing capabilities to address the challenges of our sponsors.
+
+While responding to these challenges, you will leverage and grow your hands-on skills with software design and development, engaging in the full software engineering lifecycle using modern technologies.
+
+You will gain experience with one or more of the following:
+
+
+Cloud Engineering 
+DevSecOps 
+Full-Stack Development 
+Embedded Systems and Internet of Things 
+Practical Applications of Machine Learning and Artificial Intelligence 
+Familiarity with user-centered design principles as applied throughout the software development cycle
+Develops wireframes, mockups, and prototypes to effectively communicate design ideas
+Mission-based software engineering and deployment
+
+
+Basic Qualifications:
+
+
+Requires less than 1 year of related experience with a related Bachelor’s degree in a technical field, or equivalent combination of related education and work experience.
+Must be a US citizen able to obtain and maintain a US government security clearance.
+Hands-on skills in at least one and ideally multiple modern programming languages (e.g., Java, JavaScript/TypeScript, C/C++, C#, Python, Go, or Rust).
+Familiarity with DevSecOps principles and practices (desirable also includes exposure to Continuous Integration, Continuous Delivery, Infrastructure-as-Code, Automation for Security and Testing, etc.).
+Demonstrated ability and desire to quickly learn and apply new technologies.
+Ability to work both independently and collaboratively with colleagues.
+High level desire to help our nation solve its most critical challenges.
+Exposure to software development tools and frameworks, including source control management tools (e.g., Git).
+Proficiency in JavaScript, HTML, CSS, D3, and modern JavaScript Frameworks such as Angular, Vue, React, and/or similar libraries.
+Proficiency in utilizing wireframe design software.
+Requires a minimum of 50% hybrid onsite.
+
+
+Preferred Qualifications: 
+
+
+Preference given to candidates who have completed an advanced degree in a technical discipline (including but not limited to Software Engineering, Computer Science, Computer Engineering, Mathematics, etc.)
+Preference given to qualified candidates with active clearance.
+Familiarity with Agile software development methodologies.
+Familiarity with Cloud Services Providers (AWS, Azure, Google, etc.).
+Knowledge of software design patterns.
+Knowledge of database technologies, including relational or NoSQL.
+Knowledge of Generative Pretrained and Large Language Models and use in the Software Development Lifecycle.
+Knowledge of user-centric engineering tools and techniques and a passion for developing user-centric systems that contribute to mission success
+Strong interpersonal skills, coupled with excellent verbal and written communication abilities.
+Entrepreneurial and innovative spirit and the curiosity to explore and push the boundaries of software development and software solutions
+
+
+This requisition requires the candidate to have a minimum of the following clearance(s):
+
+This requisition requires the hired candidate to have or obtain, within one year from the date of hire, the following clearance(s):
+
+Salary compensation range and midpoint:
+
+$79,200 - $99,000 - $118,800 Annual
+
+Work Location Type:
+
+Hybrid
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+Commitment to Non-Discrimination
+
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local or international law.
+
+MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a reasonable accommodation for any part of MITRE’s employment process, please email recruitinghelp@mitre.org for general support and collegerecruiting@mitre.org for intern positions. This service is for individuals requiring reasonable accommodation requests. Please note that vendor solicitations will not receive a reply.
+
+Benefits information may be found here.
+
+Copyright © 1997-2026, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied and distributed with permission only.
+… more
+
+Set alert for similar jobs
+
+Associate Software Engineer, Colorado Springs, Colorado, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+209
+
+total
+
+209
+
+in the past day
+
+Candidate seniority level
+
+76% Entry level candidates
+
+10% Senior level candidates
+
+2% Manager level candidates
+
+Candidate education level
+
+59
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+38
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about MITRE
+Powered by Bing
+
+Company focus areas
+
+• Advancing Threat-Informed Defense: MITRE focuses on advancing the state of the art and the state of the practice in threat-informed defense globally through its Center for Threat-Informed Defense.
+
+...more
+
+Sources: ctid.mitre.org +1 more
+
+Hiring & headcount
+
+Significant growth in engineering and finance: The 'Engineering' and 'Finance' departments have seen substantial increases in job openings by 525% and 750% respectively, indicating major initiatives in these areas and potential opportunities for investment in related technologies and services. Focus on operations: The 'Operations' department has experienced a 967% increase in job openings, suggesting a strategic emphasis on operational efficiency and expansion, which could be a key area for growth and investment. Decline in healthcare services and community roles: The 'Healthcare Services' and 'Community and Social Services' departments have seen significant decreases in headcount by 41% and 22% respectively, indicating a potential shift away from these areas and a need to reallocate resources. Overall headcount reduction: The company has experienced a 10% decrease in overall headcount over the past year, reflecting a broader trend of downsizing or restructuring that may impact future growth and investment strategies.
+… more
+
+The latest hiring trend
+
+9,310
+
+Total employees
+
+8%
+
+Company-wide
+
+2 year growth
+
+7%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+5000
+10000
+15000
+
+Median employee tenure: 8.9 years
+
+MITRE hires candidates from some of these companies and schools
+
+MITRE hired 4 people from University of Southern California. See all
+
+MITRE hired 50 people from University of Southern California. See all
+
+Competitors
+
+The MITRE Corporation operates in a highly competitive landscape, primarily focusing on federally funded research and development. It acts as a bridge between government, industry, and academia to deliver public interest impact. Key competitors include other nonprofit organizations that provide research and analysis services to improve policy and decision-making. MITRE's strategic imperatives include maintaining its leadership in cybersecurity frameworks like ATT&CK, expanding its influence in AI governance, and continuing to enhance its role in national security and public safety.
+… more
+
+Sources: rand.org +3 more
+
+Show Premium Insights
+About the company
+
+MITRE
+
+234,713 followers
+
+Follow
+
+Research Services
+
+ • 
+
+5001-10000 employees
+
+ • 
+
+9,310 on LinkedIn
+
+The MITRE Corporation is working to solve some of the nation’s biggest challenges in defense, cybersecurity, healthcare, homeland security, the judiciary and transportation. MITRE is a not-for-profit corporation committed to the public interest, operating federally funded R&D centers on behalf of U.S. government sponsors. To learn more, visit www.mitre.org.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

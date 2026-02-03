@@ -1,0 +1,45 @@
+About the job
+This job is sourced from a job board. Learn More
+
+August Schools is the first comprehensive Electronic Health Record (EHR) system for schools. Our product is the hub for K12 student support, including school nurses, counselors, athletic trainers, learning specialists, administrators, and more.
+
+Now in our third year, we’ve deployed into many of the top private and independent schools in the country. We’re expanding our footprint in public, and our student count will multiply next school year.
+
+We’re looking for engineers to join our team for our next stage of growth as we scale to serve millions of students nation-wide.
+
+Technology
+
+
+Kubernetes
+MongoDB
+Ruby on Rails with GraphQL
+React with Ant Design
+
+
+Example projects
+
+
+Syncs with third-party data sources, like Student Information Systems (SISs)
+Self-service tooling for environment provisioning and management
+Data import builder for hands-off client implementations
+State reporting at the scale of hundreds of thousands of students
+
+
+Requirements
+
+
+New or recent graduate with degree in computer science or related field, or equivalent professional experience
+Strong collaboration skills and hunger for technical growth
+Ownership mindset & passion for modular, efficient, and usable code
+Internship experience preferred
+
+
+What are we offering?
+
+
+Diverse and inclusive working environment
+Hybrid in-person from our office in midtown Manhattan
+Unlimited PTO (4 week minimum), great insurance, flexible work arrangements, and commuter benefits
+
+
+IMPORTANT: please include the word "september" somewhere near the start of your application message so we know you're not a chatbot

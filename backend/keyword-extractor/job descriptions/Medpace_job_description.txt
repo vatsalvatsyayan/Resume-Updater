@@ -1,0 +1,70 @@
+About the job
+
+Our imaging services are rapidly growing and we are currently seeking a full-time Software Engineer to join our team developing applications for the analysis and quantification of medical images (CT, MRI, etc.) using advanced techniques such as artificial intelligence and deep learning.
+
+Responsibilities
+
+
+Design and develop image quantification applications using advanced techniques such as artificial intelligence and deep learning; integrate these applications into Medpace’s image management system
+Conduct unit testing, participate in software validation process through development, review and execution of test scripts
+Follow the company’s software development lifecycle processes in a highly regulated environment (drug development)
+Communicate with team members regarding projects, development, tools, and procedures
+Provide end-user support including setup, installation, and maintenance for applications released
+Write technical documentation
+
+
+Qualifications
+
+
+Bachelor's Degree in Computer Science or equivalent, or higher
+Excellent programming skills, at least 2 years of software development experience
+Knowledge of standard image processing techniques (segmentation, registration, etc.)
+Experience in machine learning or deep learning
+Other appreciated skills/knowledge:
+Programming languages: C#, python, javascript, typescript
+Cloud systems (Azure, AWS, etc.)
+Machine/deep learning frameworks ( TensorFlow, Keras, etc.)
+Code management tools: TFS/DevOps, git.
+Team spirit
+Good level of communication
+
+
+TRAVEL: None
+
+Medpace Overview
+
+Medpace is a full-service clinical contract research organization (CRO). We provide Phase I-IV clinical development services to the biotechnology, pharmaceutical and medical device industries. Our mission is to accelerate the global development of safe and effective medical therapeutics through its scientific and disciplined approach. We leverage local regulatory and therapeutic expertise across all major areas including oncology, cardiology, metabolic disease, endocrinology, central nervous system, anti-viral and anti-infective. Headquartered in Cincinnati, Ohio, employing more than 5,000 people across 40+ countries.
+
+Why Medpace?
+
+People. Purpose. Passion. Make a Difference Tomorrow. Join Us Today.
+
+The work we’ve done over the past 30+ years has positively impacted the lives of countless patients and families who face hundreds of diseases across all key therapeutic areas. The work we do today will improve the lives of people living with illness and disease in the future.
+
+Cincinnati Perks
+
+
+Cincinnati Campus Overview
+Flexible work environment
+Competitive PTO packages, starting at 20+ days
+Competitive compensation and benefits package
+Company-sponsored employee appreciation events
+Employee health and wellness initiatives
+Community involvement with local nonprofit organizations
+Discounts on local sports games, fitness gyms and attractions
+Modern, ecofriendly campus with an on-site fitness center
+Structured career paths with opportunities for professional growth
+Discounted tuition for UC online programs
+
+
+Awards
+
+
+Named a Top Workplace in 2024 by The Cincinnati Enquirer
+Recognized by Forbes as one of America's Most Successful Midsize Companies in 2021, 2022, 2023 and 2024
+Continually recognized with CRO Leadership Awards from Life Science Leader magazine based on expertise, quality, capabilities, reliability, and compatibility
+
+
+What To Expect Next
+
+A Medpace team member will review your qualifications and, if interested, you will be contacted with details for next steps.

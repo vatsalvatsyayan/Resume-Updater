@@ -1,0 +1,51 @@
+About the job
+
+About Eudia
+
+Eudia is redefining the future of legal work with AI-powered Augmented Intelligence, enabling Fortune 500 legal teams to move faster, manage risk more effectively, and unlock new business value. Backed by $105M in Series A funding led by General Catalyst, we’re building a category-defining platform that blends AI-driven automation with human expertise, transforming legal from a cost center into a strategic growth driver.
+
+At Eudia, we move fast. Unlike traditional enterprise software, our teams ship solutions in days, not months—delivering real impact for some of the world’s largest companies, including Cargill, Coherent, DHL, and Duracell. We’re solving one of the most complex, unsolved challenges in AI: bringing trust, accuracy, and security to legal automation.
+
+We’re a team of builders, operators, and problem-solvers who are passionate about reshaping an industry that has long been resistant to change. If you’re looking for a place where you’ll be challenged, take ownership from day one, and work alongside some of the brightest minds in AI and legal —we’d love to meet you.
+
+About The Role
+
+Are you excited about shaping the future of AI-driven legal solutions? We are looking for a Software Engineer to help build next-generation platforms that power agentic AI models for the legal industry. This role offers the opportunity to work at the intersection of cutting-edge AI, scalable infrastructure, and legal innovation, building intelligent systems that streamline workflows, enhance legal research, and automate complex decision-making. It's a great opportunity to build enterprise-grade resilient platforms and services that are backed by cutting edge generative ai based solutions for some of the big Fortune 500 companies.
+
+Key Responsibilities
+
+
+Technical Skills: Experience in system design, development complex software systems, ensuring scalability, reliability, and performance.
+Code Quality & Best Practices: Must exhibit high coding standards, conduct code reviews, and ensure adherence to best practices within the development team.
+System Ownership: Taking full ownership of significant modules and platforms ensuring its functional completeness and non-functional excellence. Design and deliver resilient and extensible products.
+Cross-functional Collaboration: Working closely with other engineering teams, including product managers, data scientists to align on technical roadmaps and deliver impactful solutions. 
+Performance Optimization: Identifying and resolving performance bottlenecks in existing systems, optimizing code for efficiency and low latency. 
+Innovation and Development: Contributing to the evolution of core data and agentic platforms by implementing innovative technologies, algorithms, and design patterns. 
+
+
+Qualifications
+
+
+Bachelor's in Computer Science, Machine Learning, AI, Mathematics, Statistics, or a related field (Masters preferred).
+Strong Programming Skills: Proficiency in multiple programming languages relevant to large-scale system development (e.g., Java, C++, Python, Go). 
+System Design: Deep understanding of distributed systems design principles, including scalability, fault tolerance, and consistency. 
+Infrastructure Expertise: Familiarity with cloud computing platforms (e.g., Google Cloud Platform) and experience with large-scale data management systems. 
+Problem-Solving: Excellent analytical and problem-solving skills to diagnose complex technical issues and develop effective solutions. 
+Communication and Collaboration: Ability to clearly communicate technical concepts to both technical and non-technical audiences, effectively collaborating with cross- functional teams. 
+
+
+Why You’ll Love Working Here
+
+
+Impactful Work: Be part of a team that’s at the forefront of AI innovation.
+Growth Opportunities: Work in an environment that encourages professional growth and the exploration of new ideas.
+Dynamic Culture: Join a group of passionate, driven individuals who are committed to making a difference.
+
+
+If you’re ready to take on the challenge and make an impact in a rapidly evolving industry, we want to hear from you!
+
+--
+
+Compensation Range: $180,000 - $230,000
+
+The posted salary range is based on our research for companies of our stage and size while in compliance with California law. This is a base salary compensation range and we encourage those who are interested to apply and have an initial discussion.

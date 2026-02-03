@@ -1,0 +1,355 @@
+Kaizen Labs
+
+Forward Deployed Software Engineer
+
+New York City Metropolitan Area · 50 minutes ago · 43 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$130K/yr - $160K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+About the job
+
+Who Are We?
+
+Have you struggled to reserve that coveted summer camping spot at a state park? Wondered why you’re still filling out a paper form at the DMV? Or tried (and failed) to book your favorite pickleball court from your phone?
+
+Kaizen Labs is rebuilding the government’s digital front door - bringing modern, people-first software to the public services millions of Americans rely on every day. From parks & recreation and permitting to licensing and payments, we’re replacing outdated systems with intuitive, beautiful technology designed for residents and the public servants who serve them.
+
+Our platform now powers over 50 agencies across 17 states, reaching more than 40 million residents. Recent partners include Maricopa County (AZ), San Bernardino County (CA), and the Cherokee Nation. In Maryland, our platform helped eliminate seven-mile traffic jams at state parks, saving hundreds of thousands in costs and dramatically improving the visitor experience.
+
+Founded in 2022 and based in New York City, Kaizen has raised $35 million from world-class investors, including NEA, Andreessen Horowitz, Accel, 776, and Carpenter Capital.
+
+We’re a team of builders, designers, and operators redefining what it means to serve the public in the digital age - and we’re just getting started.
+
+
+
+
+Location
+
+This is a hybrid role based out of our New York City HQ. Candidates must reside in New York or be able to commute to New York City to work out of our office at least three times a week (Tuesdays - Thursdays).
+
+
+
+
+The Role
+
+We’re looking for our first Forward Deployed Software Engineer (FDSE) to work directly with our customers, understand their requests, and build solutions that deliver immediate impact. FDSEs sit at the intersection of engineering and deployment. You will partner closely with external customers to translate real-world workflows into polished, scalable software. You’ll also help our engineering team build expertise in rapid iteration, pattern recognition, and utilizing AI tooling to accelerate development. This role is ideal for an engineer who loves building fast for real users, thrives in ambiguous contexts, and is energized by operating at the edge of customer needs.
+
+
+
+
+What You’ll Do
+
+Build end-to-end solutions: Design and implement full-stack features (React/Next.js, TypeScript, Node, Postgres) driven by customer needs
+Turn ambiguity into clarity: Scope unclear customer problems and translate them into buildable engineering work
+Prototype and iterate rapidly: Gather feedback directly from users and incorporate it into tight iteration cycles
+Use AI to accelerate workflows: Leverage AI copilots and automation to code faster, debug smarter, and synthesize user patterns
+Drive cross-functional alignment: Collaborate with product, design, engineering, and deployment to unblock issues and move work forward
+Contribute to scalable systems: Identify recurring customer needs and build reusable components, playbooks, or internal tools
+
+
+
+
+Who You Are
+
+A product-minded engineer who cares deeply about user experience, clarity, and outcomes
+You are AI-native and excited to push a new generation of development and product tools to their limit
+Comfortable working directly with customers and guiding them through technical decisions
+Energized by ambiguous, fast-moving problem spaces and capable of bringing structure to them
+Equally comfortable thinking in systems and diving into implementation details
+Collaborative, low-ego, and motivated by mission-driven work
+
+
+
+
+What You’ll Bring
+
+3+ years of professional software engineering experience
+Experience building full-stack applications with modern web technologies (React/Next.js, TypeScript, Node.js, Postgres)
+Ability to translate customer workflows and pain points into technical solutions
+Strong communication skills with both technical and non-technical stakeholders
+Comfort supporting deployments, integrations, or customer-facing technical work
+A bias toward action, learning, and continuous iteration
+Excitement about using AI tools to improve engineering speed, quality, and reliability
+
+
+
+
+Strong Candidates May Also…
+
+Have experience in civic tech, public sector deployments, consulting, or forward-deployed engineering
+Have built AI-enhanced workflows or used AI agents extensively for development
+Have led customer-facing implementations or integrations in complex environments
+Have contributed to internal documentation, tooling, or cultural practices that improve team velocity
+
+
+
+
+💚 At Kaizen, we believe that great work starts with taking great care of our people. We’re building something meaningful, and that starts with a culture where people genuinely love to work. Here’s how we support you - in and out of the workplace:
+
+🩺 Comprehensive Health Coverage
+
+We offer Gold, and Platinum PPO plans through Oxford (United), with 85% of premiums covered for employees on the Platinum plan, with a $0 premium option
+
+🏥 Dental, Vision & Financial Wellness
+
+You’re covered with Guardian PPO dental and Beam vision plans - Kaizen pays 99% of premiums for employees and 50% for dependents. We also offer:
+
+💳 Flexible Spending Accounts (FSA & Dependent Care FSA)
+🛡️ $100,000 in fully paid life insurance
+🏦 401(k) access through Guideline
+
+🤰🏼 Parental Leave That Supports Families
+
+Because time with your growing family matters.
+
+🍼 16 weeks fully paid for birthing parents and 10 weeks paid for non-birthing parents
+
+🗽 Everyday Support & Flexibility
+
+🚆 $50/month toward your commute
+🏡 One-time setup stipend (up to $750) for your home or NYC office
+💪 $100/month for wellness or productivity
+
+🎡 Perks That Make Life Better
+
+🎉 $250/year for recreation - because fun matters
+📚 $500/year for professional development - because growth does too
+🍱 Expensed lunch three days a week when you're in the office
+💻 Company-provided laptop
+
+🌴 Time Off to Recharge
+
+🌅 Unlimited PTO
+🇺🇸 All federal holidays off
+☃️ A company-wide winter break during the week of Christmas
+
+
+
+
+Base Salary is $130 - $160k
+
+
+
+
+Kaizen provides equal employment opportunities to all employees and applicants and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.
+
+We are committed to maintaining a supportive and inclusive environment for people with diverse backgrounds and experiences. We respect the varied identities, abilities, cultures, and traditions of the individuals who comprise our organization and recognize the value that different backgrounds and points of view bring to our organization.
+
+If you need assistance or an accommodation due to a disability, please email us at careers@kaizenlabs.co. This information will be treated as confidential and used only to determine an appropriate accommodation for the interview process.
+
+… more
+
+Featured benefits
+
+401(k), Dental insurance, Vision insurance, Medical insurance, Paid maternity leave, Paid paternity leave, Commuter benefits
+
+Set alert for similar jobs
+
+Software Engineer, New York City Metropolitan Area
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+43
+
+total
+
+43
+
+in the past day
+
+Candidate seniority level
+
+88% Entry level candidates
+
+2% Manager level candidates
+
+2% Senior level candidates
+
+Candidate education level
+
+83
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+14
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have a Doctor of Philosophy
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Kaizen Labs
+Powered by Bing
+
+The latest hiring trend
+
+36
+
+Total employees
+
+177%
+
+Company-wide
+
+2 year growth
+
+300%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+20
+40
+
+Median employee tenure: 1.1 years
+
+Show Premium Insights
+About the company
+
+Kaizen Labs
+
+5,022 followers
+
+Follow
+
+Software Development
+
+ • 
+
+11-50 employees
+
+ • 
+
+36 on LinkedIn
+
+Kaizen is bringing modern, people-first software to America’s public services. Its technology is already with more than 50 agencies across 17 states, serving over 30 million residents. From recreation and transit to licensing and payments, Kaizen partners with local, state, and federal agencies to replace outdated systems with a single platform built for residents and the public servants who serve them.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

@@ -1,0 +1,483 @@
+Apple
+
+Software Integration Engineer 
+
+Cupertino, CA · 4 hours ago · Over 100 people clicked apply
+
+Responses managed off LinkedIn
+
+$141.8K/yr - $213.7K/yr
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Chris and others in your network
+
+Show all
+About the job
+
+Summary
+
+Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.nnThe Siri Engineering Operations team is looking for a Software Integration Engineer to facilitate the flow of source code throughout the development lifecycle. We need someone to coordinate software submissions, develop and drive new processes collaboratively, effectively communicate across teams and organizations, and perform some build engineering tasks to help us release the highest quality Siri experiences across all of Apple’s platforms.
+
+Description
+
+A successful integration engineer will be expected to solve problems and resolve complex software integration issues across multiple teams and projects. They will contribute to developing and maintaining the tools and processes while building upon our existing CI/CD workflows in an effort to support the ability for engineering teams to iterate quickly and confidently, protecting the high quality standards for our software. We are looking for someone who can collaborate cross functionally and is willing to drive organized and well documented process and policy changes from idea to fully implemented.
+
+Minimum Qualifications
+
+Bachelor’s degree in a software engineering-related discipline, or equivalent experience.nFamiliar with software development lifecycle including CI/CD and agile developmentnExperience with git source control management
+
+Preferred Qualifications
+
+Excellent verbal and written interpersonal skillsnA willingness to take ownership of projects and drive them to completionnPassionate about the DevOps and software automationnCreative thinker and strong problem solver with meticulous attention to detailnProficient in scripting languages such as Python and BashnmacOS, iOS, or UNIX development experience
+
+Pay & Benefits
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $141,800 and $213,700, and your base pay will depend on your skills, qualifications, experience, and location.u003cbru003eu003cbru003eApple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. u003ca href='https://www.apple.com/careers/us/benefits.html' target='_blank' aria-label='Learn more about Apple Benefits (Opens in new window)'u003eLearn more about Apple Benefits.u003cspan class='icon icon-after icon-external' aria-hidden='true'u003eu003c/spanu003eu003c/au003eu003cbru003eu003cbru003eNote: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.u003cbru003e
+
+
+… more
+
+Set alert for similar jobs
+
+Software Integration Engineer, Cupertino, California, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+184
+
+total
+
+184
+
+in the past day
+
+Candidate seniority level
+
+82% Entry level candidates
+
+9% Senior level candidates
+
+1% CXO level candidates
+
+1% Manager level candidates
+
+Candidate education level
+
+69
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+28
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Apple
+Powered by Bing
+
+Company focus areas
+
+• Product Innovation: Apple continues to focus on product innovation, launching new models of iPhone, Mac, iPad, and Apple Watch, as well as updates to its operating systems. Significant announcements in 2025 included the iPhone 17 series, MacBook Pro, and Apple Watch Series 11.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Significant growth in sales: The 'Sales' department has seen a 16% increase in employee count, indicating a strong focus on expanding their sales capabilities and market reach. Expansion in administrative roles: The 'Administrative' department has experienced a 31% increase in headcount, suggesting new initiatives in operational support and internal management. Healthcare services focus: The 'Healthcare Services' department has grown by 41%, highlighting a major push into healthcare-related initiatives and services. Education and accounting growth: The 'Education' and 'Accounting' departments have increased by 28% and 24% respectively, indicating investments in educational programs and financial management.
+… more
+
+The latest hiring trend
+
+167,776
+
+Total employees
+
+12%
+
+Company-wide
+
+2 year growth
+
+8%
+
+Quality Assurance
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+100000
+200000
+
+Median employee tenure: 4.8 years
+
+Apple hires candidates from some of these companies and schools
+
+Apple hired 467 people from University of Southern California. See all
+
+Apple hired 2,593 people from University of Southern California. See all
+
+Competitors
+
+Apple operates in a highly competitive landscape, facing significant competition from technology giants such as Samsung, Google, and Microsoft. The company leverages its strong focus on innovation, particularly in services and AI, to differentiate itself. Apple's strategic adaptation, including supply chain resilience and a privacy-centric AI roadmap, positions it uniquely in the market. However, it must continuously navigate market saturation, competitive pressures, and evolving consumer expectations to maintain its leadership position.
+… more
+
+Sources: sahmcapital.com +3 more
+
+Show Premium Insights
+About the company
+
+Apple
+
+18,043,619 followers
+
+Follow
+
+Computers and Electronics Manufacturing
+
+ • 
+
+10001+ employees
+
+ • 
+
+167,823 on LinkedIn
+
+We’re a diverse collective of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways. And the same innovation that goes into our products also applies to our practices — strengthening our commitment to leave the world better than we found it. This is where your work can make a difference in people’s lives. Including your own.
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. Visit apple.com/careers to learn more.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Staff Software Engineer
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$160K/yr - $200K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 2:55 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Distributed Systems Software Engineer
+
+Stealth AI CyberSecurity Startup
+
+Brooklyn, NY (On-site)
+
+$180K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on December 19, 2025, 11:00 AM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Embedded Software Engineer (C/C# .NET)
+
+ADMET
+
+Norwood, MA (On-site)
+
+$100K/yr - $120K/yr
+
+ • 
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 2:15 PM
+44 minutes ago
+
+ · 
+
+ Easy Apply
+
+ITOps / DevOps Engineer (Contract, Convertible to Full-Time)
+
+Sage Care
+
+Palo Alto, CA (Hybrid)
+
+1 school alumni works here
+
+Posted on December 5, 2025, 9:08 PM
+1 month ago
+
+Founding iOS Engineer (Verified job)
+Founding iOS Engineer 
+
+Second Nature Computing
+
+San Francisco Bay Area (On-site)
+
+$150K/yr - $190K/yr + Stock options
+
+Posted on January 4, 2026, 3:25 PM
+1 week ago
+
+Deployed UAV Systems Engineer III (Verified job)
+Deployed UAV Systems Engineer III 
+
+Platform Aerospace
+
+Blackstone, VA (On-site)
+
+5 benefits
+
+Actively reviewing applicants
+
+Posted on January 8, 2026, 11:06 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer - New Grad
+
+Valon
+
+New York, NY (Hybrid)
+
+$130K/yr - $155K/yr
+
+ • 
+
+401(k), +1 benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:37 AM
+12 hours ago
+
+Senior Platform Engineer
+
+Infocusp Innovations
+
+Mountain View, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 28, 2025, 10:12 PM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Embedded Firmware Engineer (Verified job)
+Embedded Firmware Engineer 
+
+Wright Electric
+
+Albany, New York Metropolitan Area (On-site)
+
+1 company alumni works here
+
+Posted on January 12, 2026, 9:12 AM
+3 days ago
+
+Associate Software Engineer
+
+Cabana
+
+New York City Metropolitan Area (On-site)
+
+$140K/yr - $170K/yr
+
+ • 
+
+4 benefits
+
+Actively reviewing applicants
+
+Posted on January 14, 2026, 5:14 PM
+21 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+Valon
+
+San Francisco, CA (On-site)
+
+$140K/yr - $200K/yr
+
+ • 
+
+1 benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:37 AM
+12 hours ago
+
+Software Engineer, Infrastructure
+
+Scaled Cognition
+
+San Jose, CA (Hybrid)
+
+$130K/yr - $350K/yr
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 7:08 AM
+7 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

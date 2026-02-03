@@ -1,0 +1,507 @@
+Brain Co.
+
+Early Career AI/ML Engineer
+
+San Francisco Bay Area · 21 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Sibon Li 
+
+• 2nd
+
+AI/ML
+
+School alum from University of Southern California
+
+Connect
+About the job
+
+About Brain Co.
+
+Brain Co. is an Applied AI startup founded by Elad Gil and Jared Kushner, and backed by many of Silicon Valley’s leading builders — including Patrick Collison (CEO of Stripe), Andrej Karpathy (Cofounder of OpenAI), Mike Krieger (CPO of Anthropic), Kevin Weil (CPO of OpenAI), and Aravind Srinivas (CEO of Perplexity).We are building an AI platform and applications for the world’s most important institutions - delivering impact on real-world problems.Our progress so far
+
+
+Automated construction permitting for a sovereign government → 80% faster, unlocking $375M+ in value
+Optimized supply chains for a leading global energy company → 30% lower cost, 99% reliability, preventing $100M+ in losses
+Streamlined hospital patient care across national health systems → 40% better outcomes, 80% less admin work
+Raised a $30M Series A from top investors
+Built a team of 40+ AI experts from Tesla, Google DeepMind, NVIDIA, and Databricks
+
+
+At Brain Co., your work will be deployed in the real world, not stuck in research. We move fast, with more demand than we can serve, and are looking for exceptional people to take ownership from day one.
+
+About The Role
+
+As an AI/ML Engineer at Brain Co., you will play a crucial role in deploying state-of-the-art models to automate various real world problems in sectors such as healthcare, government and energy. Part of the role will involve turning research breakthroughs into practical solutions for various nation states. This role is your opportunity to make a significant impact by making AI technology both accessible and influential.
+
+In This Role, You Will
+
+
+Innovate and Deploy: Design and deploy advanced LLM models to tackle real-world problems, particularly in automating complex, manual processes in a range of real-world verticals.
+Optimize and Scale: Build scalable data pipelines, optimize models for performance and accuracy, and prepare them for production. Monitor and maintain deployed models to ensure they continue delivering value across various governments worldwide.
+Make a Difference: Engage in projects including but not limited to optimizing the world's most advanced energy production systems, modernizing core government workflows, or improving patient outcomes in advanced public healthcare systems. Your work will directly impact how AI benefits individuals, businesses, and society at large.
+Engage with Leaders: interact directly with government officials in various countries and apply the first of its kind AI solutions while working alongside experienced ex. Founders, AI researchers, and software engineers to understand complex business challenges and deliver AI-powered solutions. Join a dynamic team where ideas are exchanged freely and creativity flourishes. You will be able to wear many hats: software building, product management, sales, interpersonal skills.
+Learn and Lead: Keep abreast of the latest developments in machine learning and AI. Participate in code reviews, share knowledge, and set an example with high-quality engineering practices.
+
+
+You Might Thrive In This Role If You
+
+
+Have 0-2 years of industry experience in applied machine learning or related AI work.
+Hold a BSc/Master’s/PhD degree in Computer Science, Machine Learning, Data Science, or a related field.
+Have hands-on experience building GenAI-focused applications (e.g., agents, reasoning workflows, or RAG) and a solid understanding of how large language models are architected and operated.
+Have personally implemented models in common ML frameworks such as PyTorch, Jax or TensorFlow.
+Possess a strong foundation in data structures, algorithms, and software engineering principles.
+Exhibit excellent problem-solving and analytical skills, with a proactive approach to challenges.
+Can work collaboratively with cross-functional teams.
+Thrive in fast-paced environments where priorities or deadlines may compete.
+Are eager to own problems end-to-end and willing to acquire any necessary knowledge to get the job done.
+
+
+Benefits
+
+
+Competitive salary
+Medical, Dental, and Vision (100% Coverage)
+Paid Maternity and Paternity Leave
+401(k)
+Daily Lunches
+Commuter Benefits
+Unlimited PTO
+
+
+Why Join Us
+
+
+Ship quickly, iterate constantly and see your work deployed at global scale
+Collaborate with industry veterans from Tesla, DeepMind, Databricks, and more
+Accelerate your career with ownership based on impact, not tenure
+Earn competitive compensation + meaningful equity in a high-growth company
+Thrive in a culture built on speed, curiosity, and impact
+
+
+If you want to see your work deployed at scale with real impact, Brain Co. is the place to build.
+… more
+
+Benefits found in job post
+
+Paid paternity leave, 401(k), Commuter benefits
+
+Set alert for similar jobs
+
+Machine Learning Engineer, San Francisco Bay Area
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+1049
+
+total
+
+1049
+
+in the past day
+
+Candidate seniority level
+
+72% Entry level candidates
+
+12% Senior level candidates
+
+Candidate education level
+
+78
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+17
+
+%
+
+have a Bachelor's Degree
+
+
+4
+
+%
+
+have a Doctor of Philosophy
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Brain Co.
+Powered by Bing
+
+The latest hiring trend
+
+58
+
+Total employees
+
+1833%
+
+Company-wide
+
+2 year growth
+
+1000%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+25
+50
+75
+
+Median employee tenure: 0.5 years
+
+Brain Co. hires candidates from some of these companies and schools
+
+Brain Co. hired 1 person from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+Brain Co.
+
+3,762 followers
+
+Follow
+
+Software Development
+
+ • 
+
+11-50 employees
+
+ • 
+
+58 on LinkedIn
+
+We're building an AI platform and applications for the world's most important institutions.
+
+Learn more at https://brain.co/
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Software Engineer, AI Agent
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$140K/yr - $180K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 3:05 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:48 AM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer – Matching and Scheduling Optimization
+
+Sage Care
+
+Palo Alto, CA (Hybrid)
+
+1 school alumni works here
+
+Posted on December 4, 2025, 10:19 AM
+1 month ago
+
+Frontend Engineer | Series B AI Startup
+
+Day One Partners
+
+San Francisco Bay Area (On-site)
+
+$140K/yr - $290K/yr
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 2:13 PM
+18 minutes ago
+
+ · 
+
+ Easy Apply
+
+AI Engineer (New Graduate) (Verified job)
+AI Engineer (New Graduate) 
+
+Distyl AI
+
+New York, NY
+
+$150K/yr - $170K/yr
+
+ • 
+
+401(k), +1 benefit
+
+2 company alumni work here
+
+Posted on January 12, 2026, 12:06 PM
+3 days ago
+
+Software Engineer - New Grad
+
+Valon
+
+New York, NY (Hybrid)
+
+$130K/yr - $155K/yr
+
+ • 
+
+401(k), +1 benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:37 AM
+11 hours ago
+
+Software Engineer I (Verified job)
+Software Engineer I 
+
+GumGum
+
+Santa Monica, CA
+
+$128K/yr - $149K/yr
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:30 AM
+12 hours ago
+
+Senior Platform Engineer
+
+Infocusp Innovations
+
+Mountain View, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 28, 2025, 10:12 PM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+AI Engineer (New Graduate) (Verified job)
+AI Engineer (New Graduate) 
+
+Distyl AI
+
+San Francisco, CA
+
+$150K/yr - $170K/yr
+
+ • 
+
+401(k), +1 benefit
+
+3 school alumni work here
+
+Posted on January 13, 2026, 4:13 PM
+1 day ago
+
+Associate Software Engineer
+
+Cabana
+
+New York City Metropolitan Area (On-site)
+
+$140K/yr - $170K/yr
+
+ • 
+
+4 benefits
+
+Actively reviewing applicants
+
+Posted on January 14, 2026, 5:14 PM
+21 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+Valon
+
+San Francisco, CA (On-site)
+
+$140K/yr - $200K/yr
+
+ • 
+
+1 benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:37 AM
+11 hours ago
+
+Associate, Software Engineer (Verified job)
+Associate, Software Engineer 
+
+Morgan Stanley
+
+New York, NY
+
+$150K/yr
+
+21 company alumni work here
+
+Posted on January 15, 2026, 8:35 AM
+5 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

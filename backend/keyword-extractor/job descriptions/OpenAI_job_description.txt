@@ -1,0 +1,505 @@
+OpenAI
+
+Software Engineer, Full Stack (Knowledge Innovation) 
+
+San Francisco, CA · 34 minutes ago · 41 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+$255K/yr - $405K/yr
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Shyamal Hitesh and others in your network
+
+Show all
+About the job
+
+About The Team
+
+The Knowledge Innovation team is scaling OpenAI with OpenAI. We are building an AI powered knowledge system that evolves and learns as our products, systems and customers evolve. We leverage our state of the art models, technologies, and products (some external, some still in the lab) to assist or completely automate robust operations supporting both internal and external customers. We support OpenAI customers and internal partners globally, powering systems from customer support to integrity to product insights. We are a self-contained multi-disciplinary team, who enjoy a lightning fast feedback loop with customers at scale, some of whom sit just a few pods away. We iterate fast, and engineer for reliable long-term impact. We're constantly looking for the similarities and patterns in different types of work, and focus on building simple primitives, to apply world class knowledge to many domains.
+
+The work of this team exemplifies use of OpenAI technologies. We build systems so everyone can see the leverage that is possible with well designed AI-based implementations. We do this by working through internal use cases focused on Customers (specifically knowledge systems, automation systems, and automated agent systems) to prove impact, then we scale.
+
+About The Role
+
+We’re looking for Full Stack Engineers who're passionate about blending production-ready platform architecture with new tech and new paradigms. You’ll push the boundaries of OpenAI’s newest technologies to enable interactions and automations that are not only functional, but delightful. We value proactive, customer-centric engineers who can get the foundational details right (data models, architecture, security) in service of enabling great products.
+
+In This Role, You Will
+
+
+Own the end-to-end development lifecycle for new platform capabilities and integrations with other systems
+Collaborate closely with engineers, data scientists, information systems architects, and internal customers to understand their problems and implement effective solutions
+Work with product and research team to share relevant feedback and iterate on applying their latest models
+
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
+
+We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
+
+For additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement.
+
+Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
+
+To notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form. No response will be provided to inquiries unrelated to job posting compliance.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+
+OpenAI Global Applicant Privacy Policy
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+
+Compensation Range: $255K - $405K
+… more
+
+Set alert for similar jobs
+
+Software Engineer, San Francisco, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+41
+
+total
+
+41
+
+in the past day
+
+Candidate seniority level
+
+93% Entry level candidates
+
+2% Senior level candidates
+
+Candidate education level
+
+88
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+10
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about OpenAI
+Powered by Bing
+
+Company focus areas
+
+• Enterprise Adoption: OpenAI aims to become the default AI layer for business operations worldwide, moving beyond being just a consumer app.
+
+...more
+
+Sources: semasocial.com +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 65% increase in headcount over the past year, indicating a major focus on expanding technical capabilities and product development. Expansion in marketing and sales: The 'Marketing' and 'Sales' departments have experienced substantial growth with 159% and 61% increases respectively, suggesting a strong push towards market penetration and revenue generation. Increased focus on operations and business development: The 'Operations' and 'Business Development' departments have grown by 84% and 82% respectively, highlighting efforts to streamline operations and explore new business opportunities. Rising investment in media and communication: The 'Media and Communication' department has grown by 64%, reflecting an increased emphasis on brand communication and public relations.
+… more
+
+The latest hiring trend
+
+7,027
+
+Total employees
+
+226%
+
+Company-wide
+
+2 year growth
+
+222%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+5000
+10000
+
+Median employee tenure: 1.1 years
+
+OpenAI hires candidates from some of these companies and schools
+
+OpenAI hired 20 people from University of Southern California. See all
+
+OpenAI hired 666 people from University of Southern California. See all
+
+Competitors
+
+OpenAI operates in a highly competitive AI landscape, facing significant challenges from tech giants and specialized startups. Key competitors like Google, Anthropic, and AWS are advancing rapidly in AI research, infrastructure, and market positioning. OpenAI's strategic partnerships, such as those with Nvidia and AMD, and its focus on solving real business problems, are crucial for maintaining its competitive edge.
+… more
+
+Sources: ibtimes.com +2 more
+
+Show Premium Insights
+About the company
+
+OpenAI
+
+9,640,774 followers
+
+Following
+
+Research Services
+
+ • 
+
+201-500 employees
+
+ • 
+
+7,027 on LinkedIn
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. AI is an extremely powerful tool that must be created with safety and human needs at its core. OpenAI is dedicated to putting that alignment of interests first — ahead of profit.
+
+To achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. Our investment in diversity, equity, and inclusion is ongoing, executed through a wide range of initiatives, and championed and supported by leadership.
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Founding Fullstack Engineer
+
+Jampack Labs
+
+New York, NY (Hybrid)
+
+$160K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 3:41 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+We're Hiring! Backend Developer (Verified job)
+We're Hiring! Backend Developer 
+
+Hidonix Industries
+
+Santa Monica, CA (On-site)
+
+$90K/yr - $100K/yr
+
+1 company alumni works here
+
+Posted on January 6, 2026, 3:59 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer (Verified job)
+Full Stack Engineer 
+
+Circadence
+
+Boulder, CO (Hybrid)
+
+$130K/yr - $160K/yr
+
+ • 
+
+7 benefits
+
+Posted on January 5, 2026, 3:41 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full-Stack Developer
+
+AccuMed HealthCare Research
+
+Greenwood Village, CO (On-site)
+
+$90K/yr - $110K/yr
+
+ • 
+
+Dental benefit
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 2:37 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Developer – Margin Trading
+
+Solayer Labs
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 1:45 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Backend Engineer - Cloud Services (Mid Level)
+
+SOTEREON.AI
+
+Tampa, FL (On-site)
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 8:00 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Game Engineer (Verified job)
+Full Stack Game Engineer 
+
+Nerd Ninjas
+
+United States (Remote)
+
+$80K/yr - $130K/yr
+
+ • 
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 2:03 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (Verified job)
+Software Engineer 
+
+Cognizant
+
+San Jose, CA (Hybrid)
+
+2 connections work here
+
+Posted on January 6, 2026, 6:14 PM
+34 minutes ago
+
+Javascript Developer
+
+CADflow.ai
+
+El Segundo, CA (Hybrid)
+
+$110K/yr - $180K/yr + Bonus, Stock options
+
+ • 
+
+Medical, Vision, Dental, 401(k)
+
+1 company alumni works here
+
+Posted on January 6, 2026, 6:19 PM
+29 minutes ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer (Verified job)
+Senior Software Engineer 
+
+Asseta AI
+
+New York, NY (On-site)
+
+$170K/yr - $230K/yr
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 7:46 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Associate Software Engineer (Verified job)
+Associate Software Engineer 
+
+T-Mobile
+
+Overland Park, KS
+
+$66.9K/yr - $120.6K/yr
+
+ • 
+
+Vision, 401(k), +2 benefits
+
+8 company alumni work here
+
+Posted on January 6, 2026, 6:42 PM
+7 minutes ago
+
+Software Engineer, Compute (Verified job)
+Software Engineer, Compute 
+
+Hex
+
+New York City Metropolitan Area (On-site)
+
+$176K/yr - $220K/yr
+
+ • 
+
+6 benefits
+
+1 school alumni works here
+
+Posted on January 6, 2026, 10:28 AM
+8 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

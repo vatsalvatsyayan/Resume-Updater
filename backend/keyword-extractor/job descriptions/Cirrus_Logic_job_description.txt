@@ -1,0 +1,45 @@
+About the job
+
+For over four decades, Cirrus Logic has been propelled by the top engineers in mixed-signal processing. Our rockstar team thrives on solving complex challenges with innovative end-user solutions for the world's top consumer brands. Cirrus Logic is also known for its award-winning culture, which was built on a foundation of inclusion and fairness, meaningful community engagement, and delivering enjoyable employee experiences at every turn. But we couldn’t do it without our extraordinary workforce – and that’s where you come in. Join our team and help us continue to make Cirrus Logic an exceptional place to grow your career!
+
+We’re looking for a sharp, product-minded Full Stack Software Engineer (Go/Python) who loves building developer-facing applications and services—and brings solid CI/CD and automation experience. You’ll design and deliver internal web apps, APIs, and tools that streamline our software development lifecycle while integrating tightly with modern pipelines and platforms.
+
+Responsibilities:
+
+
+Build Developer Apps & Services: Design, implement, and operate internal web applications, REST/gRPC APIs, and microservices in Go and Python that improve developer velocity, release quality, and HW/SW integration. 
+Own the Full Stack: Take features from architecture and coding through testing, deployment, observability, and ongoing support; contribute across backend, APIs, and pragmatic UIs. 
+CI/CD-Integrated Delivery: Use pipeline-as-code (e.g., Jenkins or equivalent) to enable automated builds, tests, security scans, artifact management, and progressive delivery. 
+Data & Integrations: Work with relational databases (e.g., PostgreSQL/MySQL), caching (e.g., Redis), and messaging where useful; integrate with internal services and repositories (e.g., Git/Gerrit) and artifact systems (e.g., JFrog Artifactory). 
+Frontend Where It Counts: Build clear, efficient UIs (e.g., React/TypeScript or similar) that make complex workflows simple for engineering teams. 
+Automation & Platform Enablement: Author command-line tools, SDKs, and libraries in Go/Python to automate provisioning, configuration, orchestration, monitoring, and security hardening across heterogeneous environments. 
+Collaborate Globally: Partner with cross-functional teams and stakeholders worldwide to identify gaps, prioritize improvements, and drive adoption of modern engineering practices. 
+Document & Educate: Produce concise documentation and run workshops so teams can self-serve platform capabilities and best practices. 
+Monitor & Measure: Instrument services with robust logging, metrics, tracing, dashboards, and alerts to ensure performance, reliability, and security across on-prem and cloud environments. 
+
+
+Required Skills & Experience:
+
+
+Go & Python Expertise: Proven experience building and maintaining production services and automation in Go and Python, with a test-driven mindset. 
+Modern Web Fundamentals: Experience with frameworks such as FastAPI/Flask (Python) and Gin/Fiber/Echo (Go); designing clean REST/gRPC APIs. 
+CI/CD Pipelines: Hands-on experience creating and operating pipelines (e.g., Jenkins pipeline-as-code or equivalent). 
+Systems Fundamentals: BS in Computer Science, Computer Engineering, or related field and a solid background in Linux-based development or system administration. 
+Collaboration & Communication: Comfortable working across diverse, global teams and articulating technical concepts clearly. 
+Version Control: Deep knowledge of Git (and familiarity with Gerrit/SVN) and code review workflows. 
+
+
+Preferred Skills & Experience:
+
+
+Multi-Platform Environments: Experience building and supporting solutions across Linux, Windows, and macOS. 
+Containerization & Orchestration: Familiarity with Docker and Kubernetes; deploying services to cloud platforms such as AWS. 
+Infrastructure-as-Code: Experience with Ansible or Puppet (and/or Terraform) to scale repeatable environments across hybrid on-prem/cloud. 
+Build & Packaging: Working with complex build systems, package managers, artifact repositories (e.g., JFrog Artifactory), and security scanning. 
+Observability: Designing effective monitoring and logging with custom metrics and intuitive dashboards. 
+Performance & Concurrency (Go): Profiling (e.g., pprof), tuning, and idiomatic use of goroutines/channels. 
+
+
+HOTT
+
+Cirrus Logic strives to select the best qualified applicant for any opening. Different approaches, ideas and points of view are both valued and respected. Employment decisions are made on the basis of job-related criteria without regard to race, color, religion, sex, national origin, age, protected veteran or disabled status, genetic information, or any other classification protected by applicable law.

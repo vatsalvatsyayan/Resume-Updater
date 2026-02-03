@@ -1,0 +1,6360 @@
+TERMS BY COMPANY
+==================================================
+Total companies: 420
+
+COMPANIES (sorted by term count)
+--------------------------------------------------
+
+Panasonic Avionics Corporation (50 terms)
+  - AD
+  - AKS
+  - API
+  - AWS
+  - Apache
+  - Apache Kafka
+  - Azure
+  - Azure DevOps
+  - Azure Functions
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - CloudFormation
+  - Code Reviews
+  - Containerization
+  - Django
+  - Docker
+  - DynamoDB
+  - DynamoDB Database
+  - EC2
+  - EKS
+  - Express.js
+  - FastAPI
+  - Flask
+  - GCP
+  - GKE
+  - GO
+  - GitLab CI
+  - JAVA
+  - JWT
+  - KAFKA
+  - Kubernetes
+  - MVC
+  - MySQL
+  - NoSQL
+  - NoSQL databases
+  - Node.js
+  - Object-Oriented
+  - PostgreSQL
+  - QA
+  - RDS
+  - RabbitMQ
+  - SQL
+  - SQL Server NoSQL
+  - Spring
+  - Spring Framework
+  - WiFi
+  - code review
+  - devOps
+  - s3
+
+Labelbox (43 terms)
+  - AD
+  - AI
+  - AWS
+  - AWS DynamoDB
+  - BackEnd
+  - CoPilot
+  - CyberSecurity
+  - DynamoDB
+  - ElasticSearch
+  - GCP
+  - GCS
+  - GO
+  - GitHub Copilot
+  - Google Cloud
+  - GraphQL
+  - GraphQL Cloud
+  - IT
+  - JAVA
+  - KAFKA
+  - Kubernetes
+  - ML
+  - MySQL
+  - NestJS
+  - NestJS is a plus
+  - NoSQL
+  - NoSQL stores
+  - Node
+  - Node.js
+  - NodeJs
+  - PostgreSQL
+  - PubSub
+  - PubSub Labelbox
+  - Python
+  - REACT
+  - Redux
+  - SoftBank
+  - TypeScript
+  - TypeScript Backend
+  - UI
+  - Vertex AI
+  - frontend UI
+  - machine learning teams
+  - react.js
+
+Cast & Crew (41 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - Azure
+  - BackEnd
+  - CD
+  - CI
+  - CSS
+  - Code Reviews
+  - CyberSecurity
+  - Express.js
+  - GIT
+  - GO
+  - GraphQL
+  - HTML
+  - IT
+  - JWT
+  - JavaScript
+  - JavaScript frameworks
+  - Kubernetes
+  - LLM
+  - NextJS
+  - NoSQL
+  - NoSQL databases
+  - Node
+  - Node.js
+  - OneCastOneCrew
+  - PostgreSQL
+  - REACT
+  - Redux
+  - SQL
+  - SSR
+  - TypeScript
+  - UI
+  - Version control systems
+  - WebSockets
+  - devOps
+  - devOps tools
+  - react.js
+  - relational (PostgreSQL
+
+Undisclosed (38 terms)
+  - , Node.js
+  - AD
+  - AI
+  - AWS
+  - Angular
+  - Azure
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Conduct code reviews
+  - DeepQuery
+  - Docker
+  - GCP
+  - GIT
+  - GO
+  - IT
+  - JAVA
+  - Kubernetes
+  - ML
+  - MobiusEngine
+  - NoSQL
+  - NoSQL databases (e
+  - Node
+  - Node.js
+  - PostgreSQL
+  - Python
+  - QA
+  - REACT
+  - Ruby
+  - SQL
+  - SaaS
+  - SquarePeg
+  - Version control systems
+  - Vue
+  - Vue.js
+  - devOps
+  - relational and NoSQL databases
+  - version control systems (e
+
+Prudential Financial (36 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - AWS Services
+  - CloudWatch
+  - CyberSecurity
+  - DevSecOps
+  - GO
+  - JAVA
+  - JDBC
+  - JSON
+  - JWT
+  - JavaScript
+  - MetLife
+  - MySQL
+  - MySQL Unit
+  - NoSQL
+  - Node
+  - Node.js
+  - Object-Oriented
+  - Python
+  - REACT
+  - REST
+  - SAML
+  - SOAP
+  - SSL
+  - Spring
+  - SpringBoot
+  - TDD
+  - Test-Driven
+  - Test-Driven Development
+  - XML
+  - devOps
+  - distributed systems
+  - object-oriented programming
+
+Stanford University (34 terms)
+  - AI
+  - AWS
+  - AWS AgentCore
+  - AgentCore
+  - AutoGen
+  - Azure
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Code Reviews
+  - IT
+  - JSON
+  - LLM
+  - LangChain
+  - LangGraph
+  - LlamaIndex
+  - LoRA
+  - ML
+  - NeMo
+  - NeMo Guardrails
+  - Next.js
+  - Node
+  - Node.js
+  - PromptLayer
+  - Python
+  - RAG
+  - REACT
+  - SageMaker
+  - SageMaker Pipelines
+  - TedTalk
+  - TypeScript
+  - UI
+  - Version Control
+  - vLLM
+
+Resmed (33 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - AWS Services
+  - Angular
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - CloudFormation
+  - CloudWatch
+  - Code Reviews
+  - DevOps practices
+  - Docker
+  - DynamoDB
+  - GIT
+  - GO
+  - IT
+  - JWT
+  - JavaScript
+  - JavaScript/TypeScript
+  - NoSQL
+  - OAuth2
+  - Object-Oriented
+  - Object-Oriented design
+  - ProSomnus
+  - Python
+  - REACT
+  - Terraform
+  - TypeScript
+  - VirtuOx
+  - devOps
+  - s3
+
+Winstead PC (32 terms)
+  - AD
+  - AI
+  - API
+  - Angular
+  - Azure
+  - Azure Functions
+  - CSS3
+  - ES6
+  - GIT
+  - GO
+  - GPT
+  - GraphQL
+  - HTML5
+  - JAVA
+  - JavaScript
+  - JavaScript (ES6+)
+  - NPM
+  - Node
+  - Node.js
+  - Office.js
+  - Python
+  - REACT
+  - REST
+  - SQL
+  - SmartMark
+  - TS
+  - TypeScript
+  - UI
+  - Version Control
+  - Visual Studio
+  - Vue.js
+  - machine learning principles
+
+Cognizant (32 terms)
+  - AD
+  - AI
+  - AWS
+  - Azure
+  - BackEnd
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Cloud Computing
+  - Docker
+  - ElasticSearch
+  - GCP
+  - GIT
+  - GO
+  - Go (GoLang)
+  - GoLang
+  - IT
+  - JAVA
+  - JavaScript
+  - KAFKA
+  - Kubernetes
+  - MySQL
+  - NoSQL
+  - NoSQL databases
+  - Python
+  - Redis
+  - SQL
+  - Spring
+  - Spring Boot
+  - distributed systems
+  - large-scale distributed systems
+  - microservices architecture
+
+Akamai Technologies (31 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - Angular
+  - BackEnd
+  - CD
+  - CDN
+  - CI
+  - CI/CD systems
+  - CoPilot
+  - Data Structures
+  - Flask
+  - GO
+  - GitHub Copilot
+  - IT
+  - JAVA
+  - LangGraph
+  - NoSQL
+  - NoSQL databases
+  - Object-Oriented
+  - PostgreSQL
+  - Python
+  - RAG
+  - RemoteHunter
+  - SQL
+  - Spring
+  - TypeScript
+  - distributed systems
+  - object-oriented programming
+  - you FlexBase
+
+Yahoo (30 terms)
+  - AI
+  - API
+  - AWS
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - ECS
+  - Flask
+  - GCP
+  - GIT
+  - GO
+  - Generative AI
+  - GraphQL
+  - GraphQL APIs
+  - GraphQL federation
+  - IT
+  - JAVA
+  - JWT
+  - Kotlin
+  - Kubernetes
+  - Machine Learning
+  - Node.js
+  - Python
+  - REST
+  - Spring
+  - Spring Boot
+  - TypeScript
+  - UML
+  - distributed systems
+  - mTLS
+
+Uptime Crew (30 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - BackEnd
+  - CD
+  - CI
+  - CoPilot
+  - Code Reviews
+  - Data Structures
+  - DevSecOps
+  - Docker
+  - GCP
+  - GO
+  - GitHub Copilot
+  - IT
+  - JAVA
+  - LangChain
+  - ML
+  - Machine Learning
+  - Microservices
+  - Node
+  - Python
+  - REACT
+  - REST
+  - SQL
+  - SemiAnalysis
+  - Spring
+  - Spring Boot
+  - gRPC
+
+StackAdapt (30 terms)
+  - 10+ billion events
+  - AD
+  - AI
+  - Apache
+  - Apache Iceberg
+  - BackEnd
+  - ClickHouse
+  - Data Structures
+  - ElasticSearch
+  - GO
+  - GoLang
+  - HDFS
+  - IT
+  - IvyTM
+  - KAFKA
+  - Machine Learning
+  - MariaDB
+  - Redis
+  - Redshift, TiDB
+  - SQL
+  - SQS
+  - ScyllaDB
+  - Sigma360
+  - StackAdapter
+  - StackAdapters
+  - StarRocks
+  - TiDB
+  - WeWork
+  - iOS
+  - large-scale distributed systems
+
+Relativity (29 terms)
+  - AD
+  - AI
+  - AWS
+  - Azure
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - CoFina
+  - CoPilot
+  - DevOps practices
+  - GO
+  - HighQ
+  - IT
+  - JAVA
+  - KAFKA
+  - MeeBoss
+  - Object-Oriented
+  - Python
+  - QA
+  - RelativityOne
+  - SPARK
+  - SaaS
+  - VerQu
+  - advanced AI
+  - containerization technologies
+  - devOps
+  - distributed systems
+  - object-oriented principles
+  - thoughtful code reviews
+
+Ticketmaster (29 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - B2B
+  - BackEnd
+  - CD
+  - CI
+  - DB
+  - EC2
+  - GIT
+  - GO
+  - IT
+  - JAVA
+  - JS
+  - Kubernetes
+  - Linux
+  - Mongo
+  - OOP
+  - OS
+  - Python
+  - REACT
+  - REST
+  - REST API development
+  - SQL
+  - SeatGeek
+  - WebSockets
+  - devOps
+  - s3
+
+NewsBreak (29 terms)
+  - AD
+  - AI
+  - AI/ML
+  - API
+  - AWS
+  - Azure
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Code Reviews
+  - DevEx
+  - GCP
+  - GIT
+  - GO
+  - JavaScript
+  - JetBridge AI Seattle
+  - Kubernetes
+  - ML
+  - MySQL
+  - Next.js
+  - PostgreSQL
+  - Python
+  - REACT
+  - ShipMyCards
+  - TypeScript
+  - advanced AI
+  - distributed systems
+  - iOS
+  - iOS App Download
+
+Adobe (28 terms)
+  - AD
+  - AI
+  - AWS
+  - Amazon AWS
+  - Apache
+  - Azure
+  - BackEnd
+  - DB
+  - Data Structures
+  - Docker
+  - GCP
+  - GO
+  - Hadoop
+  - IT
+  - JAVA
+  - KAFKA
+  - Kubernetes
+  - Microsoft Azure
+  - Mongo
+  - MySQL
+  - NoSQL
+  - PetaBytes
+  - RemoteHunter
+  - SPARK
+  - SQL
+  - Scala
+  - SpecSys
+  - code review
+
+Precisely (28 terms)
+  - AD
+  - AI
+  - AWS
+  - Angular
+  - CD
+  - CI
+  - CI/CD tools
+  - Docker
+  - GIT
+  - GO
+  - GolfForever
+  - JAVA
+  - JavaScript
+  - ML
+  - Object-Oriented
+  - Python
+  - REACT
+  - REST
+  - REST APIs
+  - SQL
+  - Spring
+  - Spring Boot
+  - VoIP
+  - WebRTC
+  - eTrigue
+  - iOS
+  - object-oriented programming
+  - peer code reviews
+
+CAE (28 terms)
+  - AD
+  - AI
+  - AWS
+  - Angular
+  - Azure
+  - BackEnd
+  - C#
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Docker
+  - GCP
+  - GIT
+  - GO
+  - K8S
+  - KAFKA
+  - Kubernetes
+  - Linux
+  - Machine Learning
+  - OneCAE
+  - PostgreSQL
+  - Python
+  - REACT
+  - Redis
+  - TypeScript
+  - Version control systems
+  - automotiveMastermind
+  - containerization technologies
+
+Cirrus Logic (28 terms)
+  - AWS
+  - Ansible
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Containerization
+  - Docker
+  - FastAPI
+  - GIT
+  - GO
+  - IT
+  - Kubernetes
+  - Linux
+  - MacOS
+  - MySQL
+  - PostgreSQL
+  - Python
+  - REACT
+  - REST
+  - REST/gRPC APIs
+  - Redis
+  - SVN
+  - Terraform
+  - Test-Driven
+  - TypeScript
+  - Version Control
+  - clean REST/gRPC APIs
+  - gRPC
+
+Mem0 (27 terms)
+  - AD
+  - AI
+  - AWS
+  - BackEnd
+  - CD
+  - CI
+  - CyberSecurity
+  - Docker
+  - GCP
+  - GO
+  - GraphQL
+  - K8S
+  - LLM
+  - ML
+  - Next.js
+  - Postgres
+  - Python
+  - RAG
+  - REST
+  - Redis
+  - SSR
+  - SafeStreets
+  - TS
+  - UI
+  - UX
+  - WebSockets
+  - vLLM
+
+Mōvi Healthcare (26 terms)
+  - AD
+  - AI
+  - API
+  - Angular
+  - CD
+  - CI
+  - CustomGPT
+  - Docker
+  - ECS
+  - GO
+  - IT
+  - KloudStax
+  - LLM
+  - Linux
+  - Mongo
+  - MyFundedFutures
+  - NoSQL
+  - Node
+  - Node.js
+  - QA
+  - SQS
+  - TDD
+  - TrueCode
+  - TypeScript
+  - Workhelio
+  - s3
+
+Citizen Health (25 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - BackEnd
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - CSS
+  - Code Reviews
+  - FOXG1
+  - FastAPI
+  - GCP
+  - GO
+  - HTML
+  - JavaScript
+  - MobX
+  - NoSQL
+  - PyTest
+  - REACT
+  - Redux
+  - SQL
+  - Spring
+  - TypeScript
+  - UX
+
+Sixtyfour (25 terms)
+  - AI
+  - API
+  - AWS
+  - CloudFront
+  - CloudWatch
+  - DAG
+  - DB
+  - Docker
+  - ECS
+  - EKS
+  - FastAPI
+  - GraphQL
+  - JSON
+  - JWT
+  - MySQL
+  - Next.js
+  - Postgres
+  - Python
+  - Redis
+  - SQS
+  - TypeScript
+  - UI
+  - UX
+  - WebSockets
+  - tRPC
+
+CGI (25 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - AWS Services
+  - BackEnd
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - CloudFormation
+  - Continuous Integration environments
+  - DynamoDB
+  - EC2
+  - EMR
+  - GO
+  - Hadoop
+  - Hive
+  - IT
+  - JAVA
+  - Linux
+  - PySpark
+  - Python
+  - SPARK
+  - SQL
+  - s3
+
+Cribl (25 terms)
+  - AD
+  - AI
+  - AWS
+  - Azure
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - CircleCI
+  - ClickHouse
+  - Code Reviews
+  - Data Structures
+  - Docker
+  - GCP
+  - GIT
+  - GO
+  - GitHub Actions
+  - IT
+  - InfluxDB
+  - JAVA
+  - JavaScript
+  - Linux
+  - Node
+  - Node.js
+  - TypeScript
+  - distributed systems
+
+Delta Air Lines (25 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - AWS CodePipeline
+  - AWS Services
+  - Agentic AI
+  - AngularJS
+  - AngularJSCloud
+  - BackEnd
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - CodePipeline
+  - GO
+  - GolfForever
+  - IT
+  - OneTen
+  - PostgreSQL
+  - PowerBI
+  - Python
+  - REACT
+  - TeradataBI
+  - Utopai
+  - VantageScore
+
+IBM (25 terms)
+  - AD
+  - AI
+  - AWS
+  - Amazon AWS
+  - BackEnd
+  - Cloud Computing
+  - Continuous Delivery
+  - GO
+  - GoLang
+  - IT
+  - IaaS
+  - JAVA
+  - JSON
+  - Linux
+  - PaaS
+  - Perl
+  - Python
+  - REST
+  - REST APIs
+  - Ruby
+  - SQL
+  - SaaS
+  - Web Services
+  - devOps
+  - devOps tools
+
+Axos Bank (25 terms)
+  - AD
+  - AI
+  - AWS
+  - Azure
+  - Azure DevOps
+  - BackEnd
+  - CD
+  - CI
+  - CI/CD tools
+  - Docker
+  - GO
+  - GitLab CI
+  - Google Cloud Platform
+  - IT
+  - JAVA
+  - JavaScript
+  - Kubernetes
+  - MetLife
+  - NoSQL
+  - REST
+  - REST APIs
+  - SemiAnalysis
+  - containerization tools
+  - devOps
+  - microservices architecture
+
+Chan Zuckerberg Initiative (24 terms)
+  - AI
+  - AWS
+  - AWS infrastructure
+  - CD
+  - CI
+  - CI/CD
+  - CI/CD Pipelines
+  - CryoET
+  - Data Structures
+  - Docker
+  - EC2
+  - EKS
+  - ETL
+  - IAM
+  - IT
+  - JAVA
+  - Kubernetes
+  - ML
+  - Python
+  - SQL
+  - SQS
+  - Terraform
+  - TileDB
+  - s3
+
+Perpay Inc. (24 terms)
+  - - Perpay+
+  - AD
+  - AI
+  - API
+  - AWS
+  - Angular
+  - Code Reviews
+  - Django
+  - Docker
+  - Flask
+  - GO
+  - IT
+  - JavaScript
+  - Kubernetes
+  - Python
+  - REACT
+  - React Native
+  - Redux
+  - SaaS
+  - SaaS Ventures
+  - Terraform
+  - Vue
+  - Vue.js
+  - iOS
+
+Alibaba Cloud (24 terms)
+  - 'AI + Cloud
+  - AD
+  - AI
+  - Amazon Web Services
+  - Azure
+  - BackEnd
+  - BrickRed
+  - C/C++ programming
+  - Data Structures
+  - GO
+  - Google Cloud
+  - Hadoop
+  - IT
+  - IaaS
+  - Kubernetes
+  - LLM
+  - Linux
+  - ML
+  - MaaS
+  - Microsoft Azure
+  - PaaS
+  - PyTorch
+  - Python
+  - a-Service (PaaS
+
+Gap Inc. (24 terms)
+  - AD
+  - AI
+  - ArgoCD
+  - AutoSys
+  - Azure
+  - Azure Cloud
+  - BDD
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Continuous Delivery
+  - Continuous Integration
+  - Event-driven
+  - GO
+  - JAVA
+  - KAFKA
+  - PostgreSQL
+  - PostgreSQL databases
+  - Python
+  - SQL
+  - Spring
+  - Spring Boot
+  - devOps
+  - distributed systems
+
+Zuora (23 terms)
+  - AI
+  - API
+  - AWS
+  - Apache
+  - Apache Iceberg
+  - Azure
+  - CoPilot
+  - ELT
+  - ETL
+  - GCP
+  - GitHub Copilot
+  - IT
+  - JAVA
+  - KAFKA
+  - Kubernetes
+  - Microservices
+  - Python
+  - REST
+  - REST API
+  - SPARK
+  - SQL
+  - Spring
+  - Terraform
+
+Emerson (23 terms)
+  - AD
+  - AI
+  - AWS
+  - Bash
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - CI/CD tools
+  - Continuous Delivery
+  - Continuous Integration
+  - DevOps operations
+  - EMR
+  - GO
+  - GitHub Actions
+  - IT
+  - Kubernetes
+  - REACT
+  - Terraform
+  - Version control systems
+  - VoIP
+  - WebRTC
+  - WordPress
+  - devOps
+
+State Farm (23 terms)
+  - AD
+  - AI
+  - AWS
+  - AWS Cloud services
+  - Angular
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Docker
+  - GO
+  - GitLab CI/CD
+  - HighQ
+  - IT
+  - JAVA
+  - JavaScript
+  - Kubernetes
+  - MeeBoss
+  - Python
+  - SQL
+  - Spring
+  - Spring Framework
+  - Terraform
+  - UI
+
+Coinbase (23 terms)
+  - AD
+  - AI
+  - API
+  - BackEnd
+  - CD
+  - CI
+  - CI/CD processes
+  - DevX
+  - GO
+  - GPU
+  - IT
+  - KuCoin
+  - Kubernetes
+  - LLM
+  - LangChain
+  - ML
+  - MailMend
+  - Python
+  - SemiAnalysis
+  - Terraform
+  - TypeScript
+  - eToro
+  - machine learning technologies
+
+NetJets (23 terms)
+  - AD
+  - AI
+  - AWS
+  - ArcGIS
+  - ArcGIS Enterprise
+  - DynamoDB
+  - EKS
+  - FlightPulse
+  - GO
+  - IT
+  - JAVA
+  - JavaScript
+  - KAFKA
+  - NetJets Card
+  - NoSQL
+  - REACT
+  - SQL
+  - TypeScript
+  - UI
+  - devOps
+  - iOS
+  - schools NetJets
+  - the NetJets Share
+
+McKinsey & Company (23 terms)
+  - AI
+  - AWS
+  - Angular
+  - Angular.js
+  - Azure
+  - CI
+  - CoPilot
+  - Docker
+  - GCP
+  - GPT
+  - JAVA
+  - JavaScript
+  - McKinsey Digital
+  - Next.js
+  - Node
+  - Node.js
+  - REACT
+  - SQL
+  - TypeScript
+  - UI
+  - Vue
+  - Vue.js
+  - react.js
+
+Lowe's Companies, Inc. (23 terms)
+  - AD
+  - AI
+  - ActiveMQ
+  - CD
+  - CI
+  - Code Reviews
+  - CyberSecurity
+  - GO
+  - JAVA
+  - KAFKA
+  - ML
+  - NoSQL
+  - NoSQL databases
+  - REACT
+  - RabbitMQ
+  - Redux
+  - SQL
+  - SQL/NoSQL databases
+  - Spring
+  - Spring Boot
+  - Test-Driven
+  - UI
+  - devOps
+
+Expedient (23 terms)
+  - AD
+  - AI
+  - AWS
+  - Amazon Web Services
+  - Azure
+  - BackEnd
+  - CD
+  - CI
+  - CI/CD
+  - GCP
+  - GO
+  - IT
+  - IaaS
+  - JAVA
+  - JavaScript
+  - Kubernetes
+  - ML
+  - No Use AI
+  - NoSQL
+  - Python
+  - SQL
+  - devOps
+  - iOS
+
+Clearstory (23 terms)
+  - 100% SaaS company
+  - AD
+  - AI
+  - BackEnd
+  - CD
+  - CI
+  - CI/CD tools
+  - Code Reviews
+  - DeepQuery
+  - Django
+  - ETL
+  - GIT
+  - GO
+  - GoLang
+  - IT
+  - MyFundedFutures
+  - Node
+  - Node.js
+  - REACT
+  - SQL
+  - SaaS
+  - TypeScript
+  - UI
+
+Emonics LLC (23 terms)
+  - AD
+  - AI
+  - AWS
+  - Azure
+  - BackEnd
+  - CD
+  - CI
+  - Code Reviews
+  - Data Structures
+  - Docker
+  - GCP
+  - GIT
+  - GO
+  - IT
+  - JavaScript
+  - OOP
+  - Python
+  - QA
+  - REACT
+  - REST
+  - SQL
+  - Tullio
+  - UI
+
+PsiQuantum (23 terms)
+  - AWS
+  - Ansible
+  - Bash
+  - CD
+  - CI
+  - CI/CD tools
+  - CloudWatch
+  - Code Reviews
+  - GCP
+  - GIT
+  - GlobalFoundries
+  - IT
+  - Kubernetes
+  - Linux
+  - Mongo
+  - PostgreSQL
+  - PowerBI
+  - PsiQuantum’s mission
+  - PsiQuantum’s values
+  - Python
+  - Terraform
+  - Version Control
+  - s3
+
+Medtronic (23 terms)
+  - API
+  - AWS
+  - AWS Cloud services
+  - AWS CloudWatch
+  - AWS Services
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - CloudWatch
+  - Code Reviews
+  - DevOps practices
+  - DynamoDB
+  - Event-driven
+  - GIT
+  - IT
+  - JAVA
+  - KAFKA
+  - Python
+  - Spring
+  - devOps
+  - event-driven systems
+  - microservices architecture
+  - s3
+
+Thomson Reuters (22 terms)
+  - AD
+  - AI
+  - AWS
+  - Azure
+  - Code Reviews
+  - Docker
+  - GCP
+  - GO
+  - Kubernetes
+  - LexisNexis
+  - ML
+  - MLOps
+  - PyTorch
+  - Python
+  - REACT
+  - TSX
+  - VoIP
+  - WebRTC
+  - WordPress
+  - containerization tools
+  - machine learning principles
+  - machine learning technologies
+
+MITRE (22 terms)
+  - AD
+  - AI
+  - AWS
+  - Angular
+  - Azure
+  - CSS
+  - Continuous Delivery
+  - Continuous Integration
+  - DevSecOps
+  - DevSecOps principles
+  - GIT
+  - GO
+  - HTML
+  - IT
+  - JAVA
+  - JavaScript
+  - NoSQL
+  - Python
+  - REACT
+  - RUST
+  - TypeScript
+  - Vue
+
+The College Board (22 terms)
+  - AD
+  - AI
+  - AWS
+  - Amazon Web Services
+  - BackEnd
+  - BigFuture
+  - CD
+  - CI
+  - Continuous Delivery
+  - Continuous Integration
+  - GO
+  - JavaScript
+  - JavaScript/TypeScript
+  - Mirai
+  - Next.js
+  - Node
+  - Node.js
+  - REACT
+  - ReactJS
+  - TypeScript
+  - devOps
+  - eTrigue
+
+Scopely (22 terms)
+  - AD
+  - AI
+  - Cloud Computing
+  - Code Reviews
+  - GO
+  - GoLang
+  - Google Cloud
+  - GraphQL
+  - JAVA
+  - JavaScript
+  - Node
+  - PlaygamiTM
+  - REACT
+  - TIME100
+  - TrekTM
+  - Vertex AI
+  - WebAssembly
+  - WebGL
+  - consumerTM
+  - e.g. WebGL
+  - gRPC
+  - iOS
+
+Texas Instruments (22 terms)
+  - AD
+  - AI
+  - Airflow
+  - CD
+  - CI
+  - CoPilot
+  - Docker
+  - FastAPI
+  - GO
+  - GitHub Copilot
+  - JavaScript
+  - Kubernetes
+  - LLM
+  - Linux
+  - MSSQL
+  - OS
+  - PostgresSQL
+  - Python
+  - REACT
+  - SQL
+  - TypeScript
+  - devOps
+
+Prepaire Labs (22 terms)
+  - AD
+  - AI
+  - Angular
+  - BSL3
+  - BackEnd
+  - GO
+  - GenetiQ
+  - GenetiQ-HAiLO
+  - JAVA
+  - Kubernetes
+  - LeapXpert
+  - ML
+  - Node
+  - Node.js
+  - Python
+  - REACT
+  - SQL
+  - SaaS
+  - deep learning
+  - devOps
+  - healthcare SaaS
+  - iPSCs
+
+ByteDance (22 terms)
+  - AD
+  - AI
+  - BackEnd
+  - Build ByteDance
+  - ByteDancers
+  - CD
+  - CI
+  - CI/CD systems
+  - CapCut
+  - DB
+  - GO
+  - HDFS
+  - Hive
+  - IDE
+  - K8S
+  - KAFKA
+  - LLM
+  - Lemon8
+  - Objective-C
+  - RPC
+  - ShipMyCards
+  - Yarn
+
+Sony Interactive Entertainment (22 terms)
+  - AD
+  - AI
+  - API
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Code Reviews
+  - GO
+  - GraphQL
+  - JavaScript
+  - JavaScript/TypeScript
+  - PlayStation
+  - PlayStation Studios
+  - REACT
+  - React-based
+  - RemoteHunter
+  - SonyInteractive
+  - TechTree
+  - TypeScript
+  - VR
+  - VieCure
+  - web3
+
+Tin Can (22 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - Applied AI
+  - BackEnd
+  - EC2
+  - FreeSWITCH
+  - GO
+  - IOT
+  - IT
+  - IoT devices
+  - JS
+  - Node
+  - PostgreSQL
+  - Python
+  - RDS
+  - VoIP
+  - VoIP systems
+  - WordPress
+  - custom VoIP handsets
+  - devOps
+
+Emerald AI (22 terms)
+  - AI
+  - AWS
+  - Angular
+  - Azure
+  - Data Structures
+  - Docker
+  - GCP
+  - GO
+  - JAVA
+  - Kubernetes
+  - ML
+  - NoSQL
+  - Node
+  - Node.js
+  - PyTorch
+  - Python
+  - REACT
+  - SQL
+  - UI
+  - Version Control
+  - Vue.js
+  - machine learning models
+
+Core4ce (22 terms)
+  - AD
+  - AI
+  - Angular
+  - BigBear
+  - CD
+  - CI
+  - CSS
+  - Computer Science DoD
+  - GIT
+  - GO
+  - GolfForever
+  - HTML
+  - IT
+  - InfoBase Publishers
+  - JAVA
+  - JavaScript
+  - Node
+  - Node.js
+  - Python
+  - REACT
+  - VoIP
+  - WebRTC
+
+Divergent (22 terms)
+  - AI
+  - C++ Understanding
+  - Data Structures
+  - Django
+  - FastAPI
+  - FastAPI Exposure
+  - GIT
+  - JavaScript
+  - ML
+  - NoSQL
+  - Node
+  - Node.js
+  - Object-Oriented
+  - Python
+  - REACT
+  - REST
+  - REST APIs
+  - SQL
+  - TypeScript
+  - e.g., SolidWorks/NX
+  - object-oriented design Familiarity
+  - version control tools
+
+Tinder (22 terms)
+  - AWS
+  - Azure
+  - BackEnd
+  - CD
+  - CI
+  - Data Structures
+  - Docker
+  - DynamoDB
+  - ECS
+  - ElasticSearch
+  - GO
+  - IT
+  - JAVA
+  - KAFKA
+  - Kubernetes
+  - NoSQL
+  - Node
+  - Node.js
+  - Redis
+  - SPARK
+  - SparkExperience
+  - TypeScript
+
+ENFOS (22 terms)
+  - API
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - CSS3
+  - Code Reviews
+  - Docker
+  - ES6
+  - GIT
+  - HTML5
+  - JAVA
+  - JavaScript
+  - NoSQL
+  - ORM
+  - REACT
+  - Redux
+  - SQL
+  - SQL/NoSQL databases
+  - SaaS
+  - Spring Boot
+  - UI
+  - frontend UI
+
+SoFi (22 terms)
+  - AWS
+  - BackEnd
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Code Reviews
+  - Docker
+  - DynamoDB
+  - Employee Rights SoFi
+  - JAVA
+  - Kotlin
+  - Kubernetes
+  - Microservices
+  - NoSQL
+  - OOP
+  - Object-Oriented
+  - PostgreSQL
+  - REST
+  - REST APIs
+  - SoFi SoFi
+  - Spring
+  - Spring Boot
+
+Jerry (21 terms)
+  - AI
+  - AWS
+  - AllCarTM
+  - BackEnd
+  - CD
+  - CI
+  - ClickHouse
+  - Docker
+  - DynamoDB
+  - GO
+  - LLM
+  - ML
+  - Machine Learning
+  - Node
+  - NodeJs
+  - Postgres
+  - Python
+  - REACT
+  - Redis
+  - TypeScript
+  - TypeScript Infra
+
+Pylon (21 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - Airflow
+  - ChatGPT
+  - DBT
+  - Enterprise AI
+  - GO
+  - GraphQL
+  - GraphQL PostgreSQL
+  - Haskell
+  - IT
+  - IaxaI
+  - LeapXpert
+  - ML
+  - NestJS
+  - PostgreSQL
+  - RUST
+  - TypeScript
+  - devOps
+
+Paycom (21 terms)
+  - AD
+  - AI
+  - Airflow
+  - CSS
+  - DBT
+  - Docker
+  - Enterprise AI
+  - GO
+  - IaxaI
+  - JavaScript
+  - ML
+  - MySQL
+  - PHP
+  - PowerBI
+  - REACT
+  - SQL
+  - Swift
+  - TS
+  - TypeScript
+  - XML
+  - devOps
+
+Amdocs (21 terms)
+  - AD
+  - AI
+  - AWS
+  - AutoGen
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Django
+  - FastAPIs
+  - GO
+  - IT
+  - Kubernetes
+  - LLM
+  - LangChain
+  - LangGraph
+  - Microservices
+  - PySpark
+  - Python
+  - SPARK
+  - SQL
+  - Version control systems
+
+ConsumerDirect, Inc. (21 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - AWS Services
+  - Agentic AI
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Code Reviews
+  - ConsumerDirect
+  - EC2
+  - GIT
+  - GO
+  - JAVA
+  - ML
+  - ORM
+  - RDS
+  - RemoteHunter
+  - SQS
+  - Spring
+
+MongoDB (21 terms)
+  - AI
+  - AWS
+  - Azure
+  - Code Reviews
+  - Data Structures
+  - Google Cloud
+  - JAVA
+  - KAFKA
+  - Kubernetes
+  - Machine Learning
+  - Microsoft Azure
+  - MongoDB Atlas
+  - MongoDB, Inc.
+  - NoSQL
+  - NoSQL Contributions
+  - NoSQL databases
+  - Python
+  - RUST
+  - SQL
+  - distributed systems
+  - trust MongoDB
+
+Visa (21 terms)
+  - AI
+  - AWS
+  - Angular
+  - CoPilot
+  - CyberSecurity
+  - GPT
+  - GoLang
+  - Groovy
+  - HTML
+  - JAVA
+  - JavaScript
+  - LESS
+  - LLM
+  - ML
+  - MySQL
+  - PowerBI
+  - Python
+  - REACT
+  - REST
+  - Ruby
+  - VueJS
+
+Cboe Global Markets (21 terms)
+  - AWS
+  - C#/
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Data Structures
+  - GCP
+  - JAVA
+  - JavaScript
+  - Linux
+  - MySQL
+  - PostgreSQL
+  - Python
+  - REACT
+  - REST
+  - REST APIs
+  - React-based
+  - SQL
+  - TS
+  - TypeScript
+  - microservices architecture
+
+FactSet (21 terms)
+  - AWS
+  - Azure
+  - CSS3
+  - Cloud Computing
+  - FactSet Support
+  - FactSetter
+  - GCP
+  - HTML5
+  - JAVA
+  - JavaScript
+  - KAFKA
+  - Linux
+  - Machine Learning
+  - OOP
+  - Object-Oriented
+  - Postgres
+  - Python
+  - Ruby
+  - SQL
+  - TypeScript
+  - Vue
+
+Tesla (20 terms)
+  - AD
+  - AI
+  - AWS
+  - Docker
+  - Enterprise AI
+  - GIT
+  - GO
+  - GraphQL
+  - IaxaI
+  - Kubernetes
+  - LeapXpert
+  - ML
+  - Next.js
+  - REACT
+  - Spring
+  - TS
+  - TypeScript
+  - UI
+  - UX
+  - devOps
+
+SoGal Ventures (20 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - BackEnd
+  - CD
+  - CI
+  - CSS
+  - Django
+  - ECS
+  - EngineeringPlatform
+  - GO
+  - GraphQL
+  - JavaScript
+  - ML
+  - Postgres
+  - RDS
+  - REACT
+  - REST
+  - Redis
+
+General Motors (20 terms)
+  - AI
+  - API
+  - BackEnd
+  - CSS
+  - Data Structures
+  - GoLang
+  - HTML5
+  - IT
+  - JAVA
+  - Java, C/C++
+  - JavaScript
+  - Linux
+  - NodeJS Expertise
+  - NodeJs
+  - Object-Oriented
+  - Python
+  - ReactJS
+  - SQL
+  - distributed systems
+  - robust distributed systems
+
+Pallet (20 terms)
+  - AD
+  - AI
+  - BackEnd
+  - CoPallet
+  - Enterprise AI
+  - Event-driven
+  - GCP
+  - GO
+  - IaxaI
+  - Next.js
+  - Node
+  - PostgreSQL
+  - PostgreSQL LLMs
+  - SaaS
+  - Spring
+  - TS
+  - TypeScript
+  - VieCure
+  - event-driven systems
+  - high-growth SaaS
+
+Zip (20 terms)
+  - AD
+  - AI
+  - API
+  - BackEnd
+  - CoPilot
+  - EdTech
+  - GO
+  - GraphQL
+  - IT
+  - No Use AI
+  - Python
+  - REACT
+  - SaaS
+  - TechCrunch
+  - TruNeighbor
+  - TypeScript
+  - UI
+  - VentureBeat
+  - Workhelio
+  - enterprise SaaS
+
+Armada (20 terms)
+  - AI
+  - AWS
+  - Azure
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Code Reviews
+  - Docker
+  - GCP
+  - GO
+  - Go (GoLang)
+  - Kubernetes
+  - MySQL
+  - NoSQL
+  - PostgreSQL
+  - Redis
+  - SQL
+  - SQL/NoSQL databases
+  - Version control systems
+  - devOps
+
+Poshmark (20 terms)
+  - AD
+  - AI
+  - AWS
+  - Amazon AWS
+  - CSS
+  - Data Structures
+  - ElasticSearch
+  - GO
+  - HTML5
+  - IT
+  - JAVA
+  - JavaScript
+  - Linux
+  - NoSQL
+  - NoSQL data solutions
+  - RabbitMQ
+  - Ruby
+  - ThredUp
+  - UX
+  - iPhone
+
+Origence (20 terms)
+  - AD
+  - AI
+  - AWS
+  - Azure
+  - Azure Cloud
+  - DevOps Experience
+  - GO
+  - IT
+  - JAVA
+  - LLM
+  - NoSQL
+  - REACT
+  - SQL
+  - SaaS
+  - Spring
+  - Test Driven Development
+  - TypeScript
+  - Vue
+  - Web Services
+  - devOps
+
+Tatari (20 terms)
+  - AD
+  - AI
+  - API
+  - AdapTV
+  - Airflow
+  - BackEnd
+  - GraphQL
+  - KAFKA
+  - LiveRail
+  - ML
+  - Object-Oriented
+  - Python
+  - RDS
+  - REST
+  - SPARK
+  - SQL
+  - TrueCar
+  - distributed systems
+  - gRPC
+  - peer code reviews
+
+Pariveda (20 terms)
+  - AD
+  - AI
+  - AWS
+  - Angular
+  - Azure
+  - GO
+  - Google Cloud
+  - IOT
+  - JAVA
+  - JavaScript
+  - LLM
+  - Machine Learning
+  - NestJS
+  - Python
+  - REACT
+  - Redux
+  - SQL
+  - Vue
+  - devOps
+  - iOS
+
+Knauf North America (20 terms)
+  - AI
+  - AWS
+  - Azure
+  - CSS
+  - ChartJS
+  - Docker
+  - GIT
+  - HTML
+  - IT
+  - JavaScript
+  - Kubernetes
+  - Linux
+  - MacOS
+  - MacOS UI/UX Ability
+  - OS
+  - Python
+  - SASS
+  - UI
+  - UX
+  - jQuery
+
+Picnic (20 terms)
+  - AWS
+  - Azure
+  - BackEnd
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Code Reviews
+  - Docker
+  - Event-driven
+  - GO
+  - Google Cloud
+  - JAVA
+  - Kubernetes
+  - NoSQL
+  - NoSQL databases (e
+  - PostgreSQL
+  - Redis
+  - containerization technologies
+  - devOps
+  - relational and/or NoSQL databases
+
+Herbalife (19 terms)
+  - AD
+  - AI
+  - BackEnd
+  - CSS
+  - Code Reviews
+  - GIT
+  - GO
+  - HTML
+  - IT
+  - JAVA
+  - JavaScript
+  - Node
+  - Node.js
+  - Python
+  - REACT
+  - TypeScript
+  - Version control systems
+  - iOS
+  - version control systems (e
+
+iTradeNetwork, Inc. (19 terms)
+  - AI
+  - AWS
+  - Angular
+  - Azure
+  - Code Reviews
+  - Data Structures
+  - GCP
+  - JAVA
+  - ML
+  - NoSQL
+  - Node
+  - Node.js
+  - Object-Oriented
+  - PyTorch
+  - Python
+  - SQL
+  - iTradeNetwork
+  - microservices architecture
+  - object-oriented programming
+
+Together AI (19 terms)
+  - AD
+  - AI
+  - Code Reviews
+  - FlashAttention
+  - FlexGen
+  - GIT
+  - GO
+  - GPU
+  - HighQ
+  - IT
+  - LLM
+  - ML
+  - No Use AI
+  - RedPajama
+  - SaaS
+  - SaaS companies
+  - Version control systems
+  - distributed systems
+  - version control systems (e
+
+TikTok (19 terms)
+  - AD
+  - AI
+  - Agentic AI
+  - DeepSeek
+  - GO
+  - Inclusion​ TikTok
+  - JAVA
+  - KAFKA
+  - LLM
+  - ML
+  - Python
+  - SPARK
+  - Software Engineer Heliux
+  - TikTok TikTok
+  - TikTok’s efforts
+  - distributed systems
+  - machine learning teams
+  - machine learning workflows
+  - schools TikTok
+
+Docusign (19 terms)
+  - AD
+  - AI
+  - AWS
+  - Azure
+  - C#
+  - DocuGPT
+  - GCP
+  - GO
+  - IAM
+  - IT
+  - JAVA
+  - Object-Oriented
+  - ReBAC
+  - RemoteHunter
+  - Test-Driven
+  - Version Control
+  - gRPC
+  - microservice architecture
+  - robust distributed systems
+
+Western Digital (19 terms)
+  - AD
+  - AI
+  - AWS
+  - Docker
+  - GIT
+  - GO
+  - Generative AI
+  - Google Cloud
+  - HDD
+  - IT
+  - JAVA
+  - JavaScript
+  - LiveRamp
+  - NLP
+  - NetApp Inc.
+  - Node.js
+  - Python
+  - RemoteHunter
+  - WD_BLACKTM
+
+StubHub (19 terms)
+  - AD
+  - AI
+  - ChatGPT
+  - Code Reviews
+  - Data Structures
+  - Enterprise AI
+  - Event-driven
+  - GO
+  - GoLang
+  - IT
+  - IaxaI
+  - JAVA
+  - LLM
+  - LeapXpert
+  - Python
+  - SeatGeek
+  - Spring
+  - TS
+  - event-driven architectures
+
+GovDash (19 terms)
+  - AD
+  - AI
+  - CapCenter
+  - FrostLocker
+  - GO
+  - GovDash Today Work
+  - LLM
+  - Next.js
+  - Node
+  - Node.js
+  - REACT
+  - RUST
+  - React (TypeScript)
+  - TopoDOT
+  - TypeScript
+  - TypeScript / Node
+  - TypeScript / Node.js
+  - UI
+  - UX
+
+Nuro (19 terms)
+  - AI
+  - AWS
+  - BigQuery
+  - BigTable
+  - C++
+  - Cloud PubSub
+  - Docker
+  - DriverTM
+  - GCP
+  - GO
+  - MySQL
+  - PostgreSQL
+  - PubSub
+  - Python
+  - RPC
+  - Redis
+  - cutting-edge AI
+  - gRPC
+  - relational (PostgreSQL
+
+Herald (19 terms)
+  - AI
+  - API
+  - Amazon Web Services
+  - Azure
+  - CD
+  - CI
+  - Docker
+  - GO
+  - Google Cloud Platform
+  - IT
+  - Microsoft Azure
+  - MySQL
+  - NoSQL
+  - NoSQL databases (e
+  - Postgres
+  - RUST
+  - Redis
+  - SaaS
+  - TypeScript
+
+Melissa (19 terms)
+  - AD
+  - AI
+  - API
+  - Apache
+  - Apache Kafka
+  - BackEnd
+  - CouchDB
+  - Django
+  - ETL
+  - GO
+  - KAFKA
+  - Linux
+  - MSSQL
+  - MyFundedFutures
+  - NoSQL
+  - NoSQL databases
+  - PDF
+  - SQL
+  - Web Services
+
+Radar (19 terms)
+  - API
+  - AWS
+  - Airflow
+  - BackEnd
+  - CitiBike
+  - EKS
+  - GO
+  - Kubernetes
+  - MapLibre
+  - Node
+  - Node.js
+  - Python
+  - RUST
+  - Redis
+  - SaaS
+  - Scala
+  - Terraform
+  - TypeScript
+  - s3
+
+PitchBook (19 terms)
+  - AD
+  - AWS
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - DevEx
+  - Docker
+  - GCP
+  - IT
+  - IaaS
+  - Kubernetes
+  - Linux
+  - PaaS
+  - PostgreSQL
+  - SQL
+  - SaaS
+  - Terraform
+  - Web Services
+  - devOps
+
+Heliux (19 terms)
+  - AWS
+  - Docker
+  - DynamoDB
+  - ECS
+  - FastAPI
+  - Flask
+  - JAVA
+  - NextJS
+  - PostgreSQL
+  - Python
+  - RDS
+  - REACT
+  - RUST
+  - SQS
+  - ThreeJS
+  - ThreeJS Backend
+  - TypeScript
+  - s3
+  - w/ FastAPI
+
+Aquent (19 terms)
+  - Angular
+  - Aquent RoboHead
+  - CSS
+  - GIT
+  - HTML5
+  - JSON
+  - JavaScript
+  - LESS
+  - MVC
+  - QA
+  - REST
+  - REST APIs
+  - RoboHead
+  - SASS
+  - Version control systems
+  - XML
+  - continuous integration pipelines
+  - jQuery
+  - peer code reviews
+
+Air Apps (18 terms)
+  - AD
+  - AI
+  - AWS
+  - Azure
+  - BackEnd
+  - Code Reviews
+  - Django
+  - Express.js
+  - GCP
+  - GO
+  - GraphQL
+  - JAVA
+  - NoSQL
+  - Python
+  - Ruby
+  - Spring
+  - distributed systems
+  - relational and/or NoSQL databases
+
+ServiceNow (18 terms)
+  - AD
+  - AI
+  - Angular
+  - Code Reviews
+  - Data Structures
+  - GO
+  - IDE
+  - IP
+  - IT
+  - JAVA
+  - JavaScript
+  - Object-Oriented
+  - Object-Oriented design
+  - REACT
+  - RiseUp
+  - UI
+  - Vue
+  - iOS
+
+Stripe (18 terms)
+  - AD
+  - AI
+  - AWS
+  - Azure
+  - B2B
+  - BackEnd
+  - Code Reviews
+  - GO
+  - Google Cloud Platform
+  - IT
+  - JAVA
+  - JavaScript
+  - Python
+  - Ruby
+  - SQL
+  - Scala
+  - TransSIGHT
+  - cloud computing platforms
+
+nCino (18 terms)
+  - AI
+  - AWS
+  - AWS infrastructure
+  - CD
+  - CI
+  - Code Reviews
+  - Docker
+  - GIT
+  - GO
+  - JAVA
+  - JS
+  - JavaScript
+  - ML
+  - REACT
+  - SQL
+  - TypeScript
+  - devOps
+  - devOps tools
+
+Uare.ai (18 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - Azure
+  - B2B
+  - B2C
+  - GCP
+  - GO
+  - IT
+  - LivePerson
+  - LoCascio
+  - ML
+  - Machine Learning
+  - NLP
+  - RAG
+  - Robert LoCascio
+  - machine learning workflows
+
+_job_description (18 terms)
+  - AD
+  - AI
+  - AWS
+  - Angular
+  - BackEnd
+  - C#
+  - DuckDuckGo
+  - GO
+  - IT
+  - JAVA
+  - Object-Oriented
+  - REST
+  - REST APIs
+  - RideController
+  - SQL
+  - Spring
+  - devOps
+  - object-oriented principles
+
+Aroris Health (18 terms)
+  - AI
+  - Aroris360
+  - AutoGen
+  - B2B
+  - GCP
+  - LLM
+  - LangChain
+  - LangChain agents
+  - LlamaIndex
+  - ML
+  - NLP
+  - Node.js
+  - NumPy
+  - RAG
+  - SQL
+  - SaaS
+  - SaaS solutions
+  - UX
+
+D3 (18 terms)
+  - AWS
+  - BackEnd
+  - Code Reviews
+  - D3 D3
+  - DeFi
+  - DeFi primitives
+  - Google Cloud
+  - GraphQL
+  - JavaScript
+  - MySQL
+  - NestJS
+  - Node.js
+  - PostgreSQL
+  - Python
+  - Version Control
+  - distributed systems
+  - web2
+  - web3
+
+Lincoln Financial (18 terms)
+  - AWS
+  - Angular
+  - CD
+  - CI
+  - CSS
+  - DevOps Experience
+  - DevOps principles
+  - HTML
+  - JAVA
+  - JavaScript
+  - Kotlin
+  - SonarQube
+  - Spring
+  - Spring Boot
+  - TDD
+  - TypeScript
+  - YouTube
+  - devOps
+
+Patterson Companies, Inc. (17 terms)
+  - AD
+  - AI
+  - API
+  - CoPilot
+  - GO
+  - IT
+  - JavaScript
+  - ML
+  - McKesson
+  - McKesson Corporation
+  - Object-Oriented
+  - PiMS
+  - Python
+  - SQL
+  - UI
+  - UX
+  - Win32
+
+Itential (17 terms)
+  - AD
+  - AI
+  - AWS
+  - BackEnd
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Data Structures
+  - GO
+  - IT
+  - JAVA
+  - JavaScript
+  - Node
+  - Node.js
+  - REACT
+  - SolarWinds
+  - TypeScript
+
+Westfield Insurance (17 terms)
+  - AI
+  - Azure
+  - CD
+  - CI
+  - Docker
+  - FastAPI
+  - IT
+  - Kubernetes
+  - LangChain
+  - LangGraph
+  - Python
+  - RAG
+  - SDK
+  - SonarQube
+  - YAML
+  - devOps
+  - e.g., SonarQube
+
+Cambridge Mobile Telematics (17 terms)
+  - AD
+  - AI
+  - AWS
+  - EC2
+  - GO
+  - IOT
+  - IoT devices
+  - MiX Telematics
+  - NoSQL
+  - NoSQL Understanding
+  - Python
+  - RDS
+  - RemoteHunter
+  - SNS
+  - SQS
+  - Web Services
+  - s3
+
+Runpod (17 terms)
+  - AI
+  - CSS
+  - Code Reviews
+  - Continuous Integration
+  - Docker
+  - FastAPI
+  - GIT
+  - GO
+  - HTML
+  - JavaScript
+  - JavaScript frameworks
+  - Machine Learning
+  - Python
+  - REACT
+  - SDK
+  - TypeScript
+  - containerization technologies
+
+Develop Health (17 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - DevOps tooling
+  - GCP
+  - GO
+  - LLM
+  - Python
+  - REACT
+  - React + TypeScript
+  - RideController
+  - TypeScript
+  - devOps
+
+Bio-Techne (17 terms)
+  - AD
+  - AI
+  - ExosomeDx
+  - GO
+  - HTML
+  - IT
+  - JavaScript
+  - Linux
+  - MySQL
+  - PHP
+  - Perl
+  - Python
+  - QA
+  - Ruby
+  - SQL
+  - cGMP
+  - cGxP
+
+Northwestern University (17 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - CSS
+  - CouchDB
+  - Data Structures
+  - GO
+  - HTML
+  - JavaScript
+  - MySQL
+  - NoSQL
+  - Node
+  - Node.js
+  - Python
+  - REACT
+  - SQL
+
+CSI (17 terms)
+  - AD
+  - API
+  - Azure
+  - C#
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - GIT
+  - Git, CI/CD pipelines
+  - IAM
+  - IdentityServer
+  - IdentityServer4
+  - REST
+  - REST APIs
+  - SAML
+  - SaaS
+  - devOps
+
+Ryan Leckey Media (17 terms)
+  - API
+  - CSS
+  - Django
+  - Docker
+  - GIT
+  - HTML
+  - JavaScript
+  - Linux
+  - Object-Oriented
+  - PHP
+  - PostgreSQL
+  - Python
+  - REST
+  - REST APIs
+  - Version control systems
+  - WordPress
+  - object-oriented programming
+
+Coverdash (17 terms)
+  - 30+ top insurers
+  - API
+  - AngelList
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Code Reviews
+  - Docker
+  - JAVA
+  - JazzHR
+  - Linux
+  - Object-Oriented
+  - PostgreSQL
+  - Python
+  - SaaS
+  - SaaS providers
+  - Spring
+
+Rillet (16 terms)
+  - AD
+  - AI
+  - API
+  - BackEnd
+  - BitWarden
+  - GO
+  - JAVA
+  - Kotlin
+  - NetSuite
+  - Object-Oriented
+  - SaaS
+  - Test-Driven
+  - Test-Driven Development
+  - TypeScript
+  - iOS
+  - web3
+
+Intuit (16 terms)
+  - AD
+  - AI
+  - API
+  - CSS
+  - GIT
+  - GO
+  - Generative AI
+  - HTML
+  - JAVA
+  - JavaScript
+  - Object-Oriented
+  - Object-Oriented design
+  - Python
+  - QuickBooks
+  - SaaS
+  - TurboTax
+
+Zapata Quantum (16 terms)
+  - AD
+  - AI
+  - API
+  - GO
+  - GolfForever
+  - JavaScript
+  - LaTeX
+  - PHP
+  - REACT
+  - REST
+  - Sigma360
+  - TypeScript
+  - UI
+  - UX
+  - VoIP
+  - WebRTC
+
+Lumen Technologies (16 terms)
+  - AD
+  - AI
+  - BackEnd
+  - Cloud Computing
+  - GO
+  - IT
+  - JAVA
+  - Linux
+  - Mirai
+  - Next.js
+  - Node
+  - Node.js
+  - NodeJs
+  - Python
+  - SQL
+  - eTrigue
+
+xAI (16 terms)
+  - AD
+  - AI
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - CV
+  - GO
+  - IT
+  - Kubernetes
+  - ML
+  - Python
+  - RUST
+  - Software Engineer Heliux
+  - TypeScript
+  - microservices architecture
+  - xAI’s mission
+
+Navan (16 terms)
+  - AI
+  - API
+  - AWS
+  - BackEnd
+  - Code Reviews
+  - CodeGPT
+  - Data Structures
+  - Event-driven
+  - JAVA
+  - MySQL
+  - NoSQL
+  - PostgreSQL
+  - Spring
+  - distributed systems
+  - event-driven systems
+  - relational and NoSQL databases
+
+Neighborly Software (16 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - AppFolio
+  - Azure
+  - Azure DevOps
+  - C#/
+  - Code Reviews
+  - GO
+  - IT
+  - ManageCasa
+  - QA
+  - REACT
+  - SaaS
+  - devOps
+
+Anduril Industries (16 terms)
+  - AD
+  - AI
+  - CD
+  - CI
+  - CircleCI
+  - Data Structures
+  - GO
+  - JavaScript
+  - Linux
+  - OS
+  - REACT
+  - RxJS
+  - TypeScript
+  - Version control systems
+  - gRPC
+  - gRPC/protobuf
+
+One Inc (16 terms)
+  - AI
+  - AI/ML
+  - BackEnd
+  - CSS
+  - Code Reviews
+  - GIT
+  - HTML
+  - JavaScript
+  - JavaScript/TypeScript
+  - LLM
+  - ML
+  - Object-Oriented
+  - Python
+  - TypeScript
+  - Version Control
+  - object-oriented design Familiarity
+
+Ramp (16 terms)
+  - AD
+  - AI
+  - AWS
+  - Airflow
+  - Azure
+  - BigQuery
+  - GCP
+  - GO
+  - IT
+  - ML
+  - Machine Learning
+  - Python
+  - RemoteHunter
+  - SQL
+  - Terraform
+  - machine learning models
+
+TEGNA (16 terms)
+  - AI
+  - C#/
+  - CD
+  - CI
+  - Code Reviews
+  - Event-driven
+  - GIT
+  - Git, CI/CD pipelines
+  - Kubernetes
+  - Microservices
+  - REST
+  - Spring
+  - Terraform
+  - devOps
+  - distributed systems
+  - microservices architecture
+
+American Express (16 terms)
+  - AD
+  - AI
+  - Ansible
+  - Bash
+  - COBOL
+  - Continuous Integration
+  - GIT
+  - GO
+  - JAVA
+  - Linux
+  - NoSQL
+  - Postgres
+  - Redis
+  - containerization technologies
+  - distributed systems
+  - relational and NoSQL databases
+
+Dell Technologies (16 terms)
+  - AI
+  - Angular
+  - AngularJS
+  - Docker
+  - GoLang
+  - HTML
+  - IT
+  - JAVA
+  - Kubernetes
+  - MyWellatDell
+  - NoSQL
+  - Python
+  - RUST
+  - SQL
+  - Spring
+  - Spring Framework
+
+Nipun Capital, L.P. (16 terms)
+  - AD
+  - AI
+  - Airflow
+  - BackEnd
+  - BigQuery
+  - DataFrames
+  - GO
+  - Google Cloud
+  - Google Cloud Platform
+  - JavaScript
+  - Linux
+  - MySQL
+  - Python
+  - SQL
+  - SQL Server/MySQL
+  - Vertex AI
+
+Lapis (16 terms)
+  - AD
+  - AI
+  - CD
+  - CI
+  - FrostLocker
+  - GO
+  - GPU
+  - PostHog
+  - REACT
+  - RUST
+  - RemoteHunter
+  - TopoDOT
+  - TypeScript
+  - UI
+  - UX
+  - distributed systems
+
+Profound (16 terms)
+  - AI
+  - API
+  - AWS
+  - Azure
+  - BackEnd
+  - GCP
+  - GO
+  - Kubernetes
+  - MySQL
+  - NoSQL
+  - NoSQL alternatives
+  - Node
+  - Node.js
+  - PostgreSQL
+  - Python
+  - distributed systems
+
+Figure (16 terms)
+  - AD
+  - AI
+  - CD
+  - CI
+  - Continuous Integration
+  - GO
+  - Google Cloud
+  - IAM
+  - IaxaI
+  - JAVA
+  - Kotlin
+  - LeapXpert
+  - LendingClub
+  - LinkSquares
+  - Ruby
+  - Vertex AI
+
+Veeam Software (16 terms)
+  - AD
+  - AI
+  - AirVet
+  - Azure
+  - CSS
+  - Data Structures
+  - GO
+  - HTML
+  - IT
+  - JavaScript
+  - Python
+  - REACT
+  - SaaS
+  - TypeScript
+  - eTrigue
+  - iOS
+
+DZYNE Technologies (16 terms)
+  - AD
+  - AI
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Docker
+  - GO
+  - IOT
+  - JavaScript
+  - Node
+  - PostgreSQL
+  - Postgres
+  - REACT
+  - RemoteHunter
+  - Use AI
+  - devOps
+
+H-E-B (16 terms)
+  - AD
+  - AI
+  - BackEnd
+  - Data Structures
+  - Docker
+  - GCP
+  - GIT
+  - GO
+  - JAVA
+  - Kubernetes
+  - Node
+  - Node.js
+  - Postgres
+  - QA
+  - SQL
+  - SpringBoot
+
+Fanatics (16 terms)
+  - AWS
+  - CD
+  - CI
+  - Code Reviews
+  - Docker
+  - GO
+  - JavaScript
+  - Kubernetes
+  - MFA
+  - OAuth2
+  - REACT
+  - REST
+  - REST APIs
+  - SSO
+  - TypeScript
+  - iGaming
+
+Molex (16 terms)
+  - API
+  - AWS
+  - CSS
+  - GIT
+  - HTML
+  - JavaScript
+  - MariaDB
+  - MySQL
+  - NoSQL
+  - PostgreSQL
+  - Python
+  - REACT
+  - UI
+  - UX
+  - cloud computing platforms
+  - e.g. MySQL
+
+Foxconn Industrial Internet - FII (16 terms)
+  - API
+  - CSS
+  - CentOS
+  - Code Reviews
+  - Docker
+  - GIT
+  - IT
+  - K8S
+  - Linux
+  - Linux (CentOS
+  - PostgreSQL
+  - PowerShell
+  - Python
+  - RedHat
+  - SQL
+  - VueJS
+
+Avride (16 terms)
+  - C++ exposure
+  - CI
+  - ClickHouse
+  - Data Structures
+  - Docker
+  - FastAPI
+  - KAFKA
+  - Kubernetes
+  - ML
+  - NumPy
+  - OLAP
+  - OLTP
+  - PostgreSQL
+  - Python
+  - QA
+  - SQL
+
+American Airlines (16 terms)
+  - AKS
+  - Azure
+  - Azure Cloud
+  - Azure DevOps
+  - CD
+  - CI
+  - DevOps fundamentals
+  - GIT
+  - IT
+  - JAVA
+  - Object-Oriented
+  - Python
+  - Test-Driven
+  - Test-Driven Development
+  - VM
+  - devOps
+
+INRIX (16 terms)
+  - AWS
+  - AWS Services
+  - CloudWatch
+  - CoPilot
+  - CoPilot Databases
+  - EC2
+  - EKS
+  - EMR
+  - GitHub Actions
+  - JAVA
+  - Python
+  - RabbitMQ
+  - Redis
+  - SPARK
+  - SQL
+  - s3
+
+Gridmatic (16 terms)
+  - AWS
+  - BigQuery
+  - CD
+  - CI
+  - GCP
+  - Google Cloud
+  - IT
+  - Kubernetes
+  - ML
+  - Machine Learning
+  - NextJS
+  - Postgres
+  - Python
+  - REACT
+  - SQL
+  - Terraform
+
+Expedia Group (16 terms)
+  - CSS
+  - CarRentals
+  - CheapTickets
+  - CruisesTM
+  - Data Structures
+  - Expedia CruisesTM
+  - GroupTM
+  - HTML
+  - JAVA
+  - JavaScript
+  - Kotlin
+  - Machine Learning
+  - Object-Oriented
+  - Version control systems
+  - comTM
+  - object-oriented programming
+
+Agave (15 terms)
+  - AI
+  - API
+  - AWS
+  - B2B
+  - B2B SaaS/API company
+  - EC2
+  - IT
+  - Postgres
+  - REACT
+  - Redis
+  - SQL
+  - SaaS
+  - TypeScript
+  - UX
+  - account-linking UX
+
+Cotiviti (15 terms)
+  - AD
+  - AI
+  - AWS
+  - Bash
+  - GO
+  - Google Cloud
+  - IT
+  - JAVA
+  - MySQL
+  - PostgreSQL
+  - PowerShell
+  - Python
+  - SQL
+  - TypeScript
+  - Vertex AI
+
+Samsara (15 terms)
+  - AI
+  - BackEnd
+  - Data Structures
+  - GoLang
+  - GraphQL
+  - IOT
+  - Node
+  - Node.js
+  - OperationsTM
+  - Python
+  - REACT
+  - React Native
+  - Spring
+  - TypeScript
+  - industrial IoT
+
+Noetica (15 terms)
+  - AI
+  - AWS
+  - Airflow
+  - BackEnd
+  - ECS
+  - Kubernetes
+  - ML
+  - NLP
+  - Object-Oriented
+  - Object-Oriented design
+  - Python
+  - REST
+  - SAML
+  - gRPC
+  - gRPC APIs
+
+Cisco (15 terms)
+  - AD
+  - AI
+  - AWS
+  - Azure
+  - CyberSecurity
+  - GO
+  - Google Cloud
+  - IT
+  - JAVA
+  - Linux
+  - ML
+  - Microsoft Azure
+  - OS
+  - Python
+  - QA
+
+EvenUp (15 terms)
+  - AD
+  - AI
+  - ElasticSearch
+  - FormAlloy
+  - GO
+  - IT
+  - Kubernetes
+  - ML
+  - Machine Learning
+  - Postgres
+  - Python
+  - REACT
+  - SaaS
+  - TypeScript
+  - devOps
+
+HockeyStack (15 terms)
+  - AD
+  - AI
+  - B2B
+  - BackEnd
+  - ClickHouse
+  - GO
+  - IT
+  - JavaScript
+  - Node
+  - Node.js
+  - REACT
+  - SQL
+  - SaaS
+  - TypeScript
+  - iOS
+
+Waystar (15 terms)
+  - 1M+ providers
+  - AD
+  - AI
+  - Azure
+  - Black BookTM surveys
+  - BookTM
+  - GO
+  - IT
+  - QA
+  - REACT
+  - SQL
+  - VoIP
+  - WebRTC
+  - WorldPay
+  - multiple #1 rankings
+
+Aditi Consulting (15 terms)
+  - AD
+  - AI
+  - AditiConsulting
+  - CapCenter
+  - FrostLocker
+  - GO
+  - IT
+  - ML
+  - REACT
+  - RUST
+  - SQL
+  - UI
+  - UX
+  - VisualBasic
+  - machine learning models
+
+Workerbee (15 terms)
+  - AD
+  - AI
+  - BackEnd
+  - Data Structures
+  - FloVision
+  - GIT
+  - GO
+  - JAVA
+  - NoSQL
+  - Node
+  - Node.js
+  - Python
+  - devOps
+  - eTrigue
+  - iOS
+
+Pattern (15 terms)
+  - 25+ brilliant minds
+  - AD
+  - AI
+  - CSS
+  - Code Reviews
+  - ES6
+  - GO
+  - GraphQL
+  - HTML
+  - IT
+  - JavaScript
+  - REACT
+  - REST
+  - TypeScript
+  - UI
+
+Daxwell (15 terms)
+  - AD
+  - AI
+  - CD
+  - CI
+  - EC2
+  - EKS
+  - GIT
+  - GO
+  - JAVA
+  - JavaScript
+  - MVC
+  - Next.js
+  - SQL
+  - Spring
+  - react.js
+
+OKX (15 terms)
+  - AI
+  - API
+  - BackEnd
+  - Code Reviews
+  - Continuous Integration
+  - Data Structures
+  - JavaScript
+  - KAFKA
+  - Linux
+  - MySQL
+  - Python
+  - Redis
+  - SpringBoot
+  - SpringCloud
+  - dApps
+
+Anthropic (15 terms)
+  - AD
+  - AI
+  - Agentic AI
+  - BigQuery
+  - BigQuery warehouse
+  - ChatGPT
+  - EdTech
+  - FP
+  - GO
+  - GPT
+  - HedgeOS
+  - HydroJug
+  - NetSuite
+  - SQL
+  - SaaS
+
+Tomo (15 terms)
+  - AD
+  - AI
+  - API
+  - AWS
+  - CMMI L3
+  - GO
+  - Kubernetes
+  - LLM
+  - Next.js
+  - OmniVista
+  - PageSpeed
+  - Python
+  - code review
+  - continuous deployment
+  - devOps
+
+T-Mobile (15 terms)
+  - AD
+  - Angular
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - CI/CD tools
+  - Docker
+  - GO
+  - JAVA
+  - Kubernetes
+  - Python
+  - SQL
+  - Spring
+  - Spring Boot
+  - devOps
+
+CXC (15 terms)
+  - API
+  - Azure
+  - C#
+  - Containerization
+  - Docker
+  - Event-driven
+  - GraphQL
+  - GraphQL APIs
+  - KAFKA
+  - Kubernetes
+  - Microsoft Azure
+  - NoSQL
+  - SQL
+  - distributed systems
+  - event-driven architectures
+
+Caliber Smart (15 terms)
+  - API
+  - AWS
+  - CloudWatch
+  - Docker
+  - EC2
+  - IAM
+  - MVC
+  - OOP
+  - REST
+  - REST API
+  - SNS
+  - SQL
+  - SQS
+  - SaaS
+  - s3
+
+Nordstrom (15 terms)
+  - AWS
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - Code Reviews
+  - IT
+  - JAVA
+  - JavaScript
+  - KAFKA
+  - Kubernetes
+  - POS+ applications
+  - REACT
+  - Redux
+  - Spring
+  - Spring Boot
+
+Elekta (15 terms)
+  - API
+  - CD
+  - CI
+  - Conduct code reviews
+  - GIT
+  - Object-Oriented
+  - PostgreSQL
+  - REST
+  - REST API development
+  - SOAP
+  - SQL
+  - SVN
+  - Version control systems
+  - Web Services
+  - object-oriented programming concepts
+
+Brellium (14 terms)
+  - AD
+  - AI
+  - AWS
+  - BackEnd
+  - GO
+  - LangChain
+  - LlamaIndex
+  - LlamaIndex Love
+  - ML
+  - Next.js
+  - Python
+  - REACT
+  - SQL
+  - TypeScript
+
+Newfront (14 terms)
+  - AI
+  - Code Reviews
+  - Continuous Integration
+  - GO
+  - JavaScript
+  - LLM
+  - ML
+  - MySQL
+  - MySQL/PostgreSQL
+  - Nest.js
+  - Node.js
+  - PostgreSQL
+  - TypeScript
+  - continuous deployment
+
+Valon (14 terms)
+  - 60%+ margins
+  - AD
+  - AI
+  - Docker
+  - GO
+  - Google Cloud Platform
+  - IT
+  - Kubernetes
+  - Python
+  - REACT
+  - VoIP
+  - WebRTC
+  - WordPress
+  - large-scale distributed systems
+
+Qualtrics (14 terms)
+  - AD
+  - AI
+  - AWS
+  - Airflow
+  - Code Reviews
+  - Continuous Delivery
+  - Docker
+  - GO
+  - IT
+  - JavaScript
+  - Kubernetes
+  - Python
+  - SoGoSurvey
+  - TypeScript
+
+BlackRock (14 terms)
+  - AD
+  - AI
+  - AWS
+  - Code Reviews
+  - DashApps
+  - DashApps Interest
+  - EC2
+  - GO
+  - IT
+  - MySQL
+  - NumPy
+  - Python
+  - RDS
+  - SQL
+
+Amplify (14 terms)
+  - AD
+  - AI
+  - AWS
+  - AppSync
+  - Docker
+  - DynamoDB
+  - GO
+  - GraphQL
+  - JavaScript
+  - PostgreSQL
+  - Python
+  - Terraform
+  - WebdriverIO
+  - devOps
+
+Wanderlog (14 terms)
+  - AD
+  - AI
+  - BackEnd
+  - BookWithMatrix
+  - ElasticSearch
+  - GO
+  - JavaScript
+  - Node
+  - Node.js
+  - Python
+  - REACT
+  - React Native
+  - Redis
+  - iOS
+
+Front (14 terms)
+  - AI
+  - AWS
+  - Amazon Web Services
+  - AreaTM
+  - HootSuite
+  - JS
+  - Kubernetes
+  - MySQL
+  - Node
+  - Node.js
+  - PagerDuty
+  - Python
+  - RUST
+  - VPC
+
+eBay (14 terms)
+  - AD
+  - AI
+  - CD
+  - CI
+  - Containerization
+  - GO
+  - JAVA
+  - Kubernetes
+  - Kubernetes clusters
+  - Python
+  - REACT
+  - TopoDOT
+  - eBay Inc.
+  - eBay Message
+
+CoFi (14 terms)
+  - AD
+  - AI
+  - API
+  - BackEnd
+  - C#
+  - CoFi CoFi
+  - CodeCraftMD
+  - CyberSecurity
+  - GO
+  - Kubernetes
+  - PostgreSQL
+  - REACT
+  - SQL
+  - iOS
+
+Pulsar Publishing LLC (14 terms)
+  - AD
+  - AI
+  - Code Reviews
+  - GIT
+  - GO
+  - Next.js
+  - PHP
+  - Python
+  - REACT
+  - RemoteHunter
+  - SQL
+  - TypeScript
+  - UX
+  - Version Control
+
+AMD (14 terms)
+  - AD
+  - AI
+  - Bash
+  - CPU
+  - GIT
+  - GO
+  - JavaScript
+  - LLM
+  - Linux
+  - MacOS
+  - Machine Learning
+  - Object-Oriented
+  - Object-Oriented design
+  - Python
+
+Brain Co. (14 terms)
+  - 40+ AI experts
+  - AD
+  - AI
+  - BackEnd
+  - Code Reviews
+  - Data Structures
+  - DeepMind
+  - GO
+  - Google DeepMind
+  - LLM
+  - ML
+  - Machine Learning
+  - PyTorch
+  - RAG
+
+Redfin (14 terms)
+  - AD
+  - AI
+  - CapCenter
+  - CoPilot
+  - FrostLocker
+  - GO
+  - GitHub Copilot
+  - JAVA
+  - Postgres
+  - REACT
+  - RUST
+  - Spring
+  - UI
+  - UX
+
+Observe, Inc. (14 terms)
+  - AD
+  - AI
+  - AWS
+  - Apache
+  - Apache Iceberg
+  - BackEnd
+  - Enterprise AI
+  - GCP
+  - GO
+  - IT
+  - IaxaI
+  - Kubernetes
+  - LeapXpert
+  - distributed systems
+
+OmniAI (14 terms)
+  - AI
+  - API
+  - Containerization
+  - Docker
+  - Next.js
+  - PDF
+  - Postgres
+  - REACT
+  - SFTP
+  - SOAP
+  - TypeScript
+  - UI
+  - VPC
+  - devOps
+
+Garner Health (14 terms)
+  - AWS
+  - AWS Experience
+  - ElasticSearch
+  - Flask
+  - JavaScript
+  - Kubernetes
+  - LESS
+  - NodeJs
+  - PostgreSQL
+  - Postgres
+  - Python
+  - REACT
+  - Terraform
+  - TypeScript
+
+Lyft (14 terms)
+  - AWS
+  - Azure
+  - CI
+  - CircleCI
+  - Code Reviews
+  - GCP
+  - GoLang
+  - Microsoft Azure
+  - NoSQL
+  - Object-Oriented
+  - Python
+  - TeamCity
+  - distributed systems
+  - relational and NoSQL databases
+
+IXL Learning (14 terms)
+  - Apache
+  - ES6
+  - EdTech
+  - JAVA
+  - JavaScript
+  - Linux
+  - Python
+  - REACT
+  - SQL
+  - Scala
+  - Swift
+  - UI
+  - iOS
+  - iOS and Android apps
+
+Blossom (13 terms)
+  - AD
+  - AI
+  - CapCenter
+  - CoPilot
+  - FrostLocker
+  - GO
+  - GitHub Copilot
+  - JAVA
+  - LLM
+  - Python
+  - REACT
+  - TypeScript
+  - thoughtful code reviews
+
+Physical Intelligence (13 terms)
+  - AD
+  - AI
+  - BackEnd
+  - CareYaya
+  - FastAPI
+  - GO
+  - IOT
+  - NoSQL
+  - SQL
+  - TS
+  - TypeScript
+  - UI
+  - UX
+
+Roblox (13 terms)
+  - AD
+  - AI
+  - BackEnd
+  - Code Reviews
+  - CustomGPT
+  - Data Structures
+  - GO
+  - GetWhys
+  - JAVA
+  - Python
+  - REACT
+  - TrueCode
+  - TypeScript
+
+Chewy (13 terms)
+  - AD
+  - AI
+  - AWS
+  - AWS Services
+  - Ansible
+  - BackEnd
+  - Code Reviews
+  - GO
+  - JAVA
+  - NextJS
+  - PetSmart
+  - RideController
+  - Terraform
+
+DataAnnotation (13 terms)
+  - AD
+  - AI
+  - BackEnd
+  - GO
+  - JAVA
+  - JavaScript
+  - Kotlin
+  - Machine Learning
+  - Python
+  - REACT
+  - RemoteHunter
+  - Swift
+  - TypeScript
+
+bioMérieux (13 terms)
+  - 5.8 years bioMérieux
+  - AD
+  - AI
+  - BackEnd
+  - BioMérieux Inc.
+  - GO
+  - IT
+  - OS
+  - RideController
+  - bioMerieux
+  - devOps
+  - non-bioMerieux
+  - schools bioMérieux
+
+Flamingo (13 terms)
+  - AD
+  - AI
+  - AWS
+  - BackEnd
+  - ChatGPT
+  - Code Reviews
+  - GO
+  - JavaScript
+  - REACT
+  - RideController
+  - Strong JavaScript/TypeScript fundamentals
+  - TypeScript
+  - modern (JavaScript/TypeScript
+
+LPL Financial (13 terms)
+  - AI
+  - AWS
+  - Azure
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - GCP
+  - IT
+  - JAVA
+  - Kubernetes
+  - Terraform
+  - distributed systems
+  - i.e C++
+
+Harry's (13 terms)
+  - AD
+  - AI
+  - AWS
+  - BackEnd
+  - ChatGPT
+  - Code Reviews
+  - GO
+  - IT
+  - JavaScript
+  - REACT
+  - Strong JavaScript/TypeScript fundamentals
+  - TypeScript
+  - modern (JavaScript/TypeScript
+
+Nominal (13 terms)
+  - AD
+  - AI
+  - AWS
+  - Azure
+  - BackEnd
+  - CD
+  - CI
+  - CI/CD
+  - Docker
+  - GCP
+  - GO
+  - Kubernetes
+  - SpaceX
+
+Apple (13 terms)
+  - AD
+  - AI
+  - BashnmacOS
+  - CD
+  - CI
+  - CyberSecurity
+  - GO
+  - IT
+  - Python
+  - devOps
+  - iOS
+  - iPad
+  - iPhone
+
+Clipboard (13 terms)
+  - AWS
+  - Dart
+  - DevX
+  - ECS
+  - Leverage MongoDB
+  - NestJS
+  - Node
+  - Node/NestJS
+  - Postgres
+  - REACT
+  - Redis
+  - Terraform
+  - TypeScript
+
+Widger Talent (12 terms)
+  - AD
+  - AI
+  - Agentic AI
+  - GO
+  - LLM
+  - LeaderFactor
+  - Node
+  - Python
+  - REACT
+  - TypeScript
+  - UX
+  - Utopai
+
+Spotify (12 terms)
+  - AI
+  - BackEnd
+  - Continuous Delivery
+  - Data Structures
+  - GCP
+  - GIT
+  - IT
+  - JAVA
+  - Kubernetes
+  - PagerDuty
+  - Spring
+  - Spring Boot
+
+Cohesity (12 terms)
+  - AI
+  - Code Reviews
+  - Data Structures
+  - GIT
+  - GO
+  - JAVA
+  - Linux
+  - Object-Oriented
+  - Python
+  - QA
+  - distributed systems
+  - object-oriented programming concepts
+
+Trilon Group (12 terms)
+  - AI
+  - AWS
+  - Azure
+  - JavaScript
+  - LangChain
+  - ML
+  - MLOps
+  - Microsoft Azure
+  - Python
+  - RAG
+  - Version Control
+  - machine learning models
+
+GM Financial (12 terms)
+  - AI
+  - API
+  - Azure
+  - Azure DevOps
+  - GIT
+  - LLM
+  - ML
+  - Python
+  - RAG
+  - SQL
+  - devOps
+  - microservices architecture
+
+Plumb Bill Pay (12 terms)
+  - AD
+  - AI
+  - Agentic AI
+  - BackEnd
+  - ChatGPT
+  - GO
+  - LLM
+  - ML
+  - PhD-level
+  - PhD-level candidates
+  - PlumbBillPay
+  - UX
+
+Sierra Business Solution (12 terms)
+  - AI
+  - GO
+  - Google Labs
+  - Google Lens
+  - Google Maps
+  - Google Workspace
+  - Google’s AR/VR effort
+  - LLM
+  - RAG
+  - REACT
+  - TypeScript
+  - VR
+
+HackerRank (12 terms)
+  - AD
+  - AI
+  - BackEnd
+  - CodeSignal
+  - GO
+  - HackerRank’s decade
+  - IT
+  - LeetCode
+  - ML
+  - RL
+  - TechTree
+  - distributed systems
+
+Eventual (12 terms)
+  - AI
+  - AWS
+  - Azure
+  - CloudKitchens
+  - CoPilot
+  - GCP
+  - GPU
+  - GitHub Copilot
+  - ML
+  - Python
+  - RUST
+  - distributed systems
+
+Nutanix (12 terms)
+  - AD
+  - AI
+  - AWS
+  - Agentic AI
+  - Azure
+  - GCP
+  - GO
+  - ML
+  - NuShades
+  - Python
+  - distributed systems
+  - iOS
+
+Ascent Administration Services (12 terms)
+  - AD
+  - AI
+  - API
+  - BackEnd
+  - GO
+  - IT
+  - JavaScript
+  - Python
+  - Use AI
+  - Version Control
+  - Vue
+  - Vue.js
+
+Optimum (12 terms)
+  - AD
+  - AI
+  - BackEnd
+  - GIT
+  - GO
+  - Google Cloud
+  - IT
+  - InnovAsian
+  - JavaScript
+  - NodeJs
+  - Python
+  - REACT
+
+Moveworks (12 terms)
+  - AD
+  - AI
+  - Agentic AI
+  - GO
+  - GoLang
+  - HighQ
+  - IT
+  - JAVA
+  - LLM
+  - Machine Learning
+  - Python
+  - ZeroDrift
+
+Circle (12 terms)
+  - API
+  - AWS
+  - Azure
+  - Code Reviews
+  - GO
+  - Google Cloud
+  - JAVA
+  - Microsoft Azure
+  - Object-Oriented
+  - SQL
+  - distributed systems
+  - microservice architecture
+
+Mayo Clinic (12 terms)
+  - Ansible
+  - Azure
+  - Cloud Computing
+  - CloudFormation
+  - Code Reviews
+  - GO
+  - GoLang
+  - JAVA
+  - Machine Learning
+  - Python
+  - Terraform
+  - devOps
+
+WeRide (12 terms)
+  - C++
+  - CPU
+  - DinnerPaid
+  - GO
+  - GPU
+  - JAVA
+  - OS
+  - Python
+  - Test-Driven
+  - Test-Driven Development
+  - distributed systems
+  - machine learning models
+
+DoorDash (12 terms)
+  - CockroachDB
+  - DoorDash Engineering
+  - DynamoDB
+  - GoLang
+  - JAVA
+  - KAFKA
+  - NoSQL
+  - NoSQL databases
+  - RPC
+  - Redis
+  - distributed systems
+  - gRPC
+
+Rivian (12 terms)
+  - AWS
+  - CI
+  - Containerization
+  - Docker
+  - DynamoDB
+  - GraphQL
+  - JAVA
+  - Kubernetes
+  - RDS
+  - REST
+  - Test-Driven
+  - UX
+
+HaulPay (12 terms)
+  - API
+  - AWS
+  - Django
+  - Docker
+  - Kubernetes
+  - PostgreSQL
+  - Python
+  - REACT
+  - SaaS
+  - SaaS solutions
+  - TypeScript
+  - devOps
+
+Freddie Mac (12 terms)
+  - BountyJobs
+  - CD
+  - CI
+  - GIT
+  - JS
+  - Kubernetes
+  - Linux
+  - Postgres
+  - Python
+  - SQL
+  - Version Control
+  - devOps
+
+Supermicro (12 terms)
+  - API
+  - Cloud Computing
+  - Hadoop
+  - IOT
+  - IT
+  - JAVA
+  - MSSQL
+  - MySQL
+  - PHP
+  - Python
+  - Shell
+  - UI
+
+Rohde & Schwarz (12 terms)
+  - DevOps processes
+  - Linux
+  - OS
+  - PHP
+  - Python
+  - RUST
+  - SQL
+  - TeamCity
+  - VoIP
+  - VoIP protocols SIP
+  - devOps
+  - tools (TeamCity
+
+Philips (12 terms)
+  - Angular
+  - C++
+  - CSS
+  - HTML
+  - HTML5
+  - JavaScript
+  - Linux
+  - PIIC iX
+  - SQL
+  - Visual Studio
+  - Web technologies (C#
+  - devOps
+
+McDonald's (11 terms)
+  - 65M+ customers
+  - AI
+  - AWS
+  - Data Structures
+  - GCP
+  - GIT
+  - IntelliJ
+  - McDelivery
+  - McDonald
+  - Object-Oriented
+  - Object-Oriented design
+
+Pattern Data (11 terms)
+  - AD
+  - AI
+  - AWS
+  - BackEnd
+  - ElasticSearch
+  - GO
+  - GraphQL
+  - PostgreSQL
+  - REACT
+  - Scala
+  - TypeScript
+
+Rubrik (11 terms)
+  - AD
+  - AI
+  - AWS
+  - BackEnd
+  - Docker
+  - GO
+  - Kubernetes
+  - Python
+  - Scala
+  - YouTube
+  - rubrikInc
+
+NetApp (11 terms)
+  - AD
+  - AI
+  - Data Structures
+  - GO
+  - IT
+  - NetApp NetApp
+  - NetApp’s cloud
+  - OS
+  - QA
+  - RemoteHunter
+  - schools NetApp
+
+Commerce (11 terms)
+  - AI
+  - Angular
+  - BigCommerce
+  - GoLang
+  - Node
+  - PHP
+  - REACT
+  - Ruby
+  - Scala
+  - TypeScript
+  - eCommerce
+
+Lenovo (11 terms)
+  - AI
+  - AWS
+  - Azure
+  - C++ experience
+  - GCP
+  - Kotlin
+  - ML
+  - Python
+  - iOS
+  - integratingAI
+  - orJira
+
+Whop (11 terms)
+  - AD
+  - AI
+  - Azure
+  - Azure Cloud
+  - BackEnd
+  - GO
+  - IT
+  - IvoryCloud
+  - SDK
+  - UI
+  - almost B+
+
+Salient (11 terms)
+  - AD
+  - AI
+  - Agentic AI
+  - GO
+  - JavaScript
+  - PoCs
+  - Python
+  - QA
+  - Software Engineer Heliux
+  - TypeScript
+  - not just PoCs
+
+Databricks (11 terms)
+  - AI
+  - Apache
+  - Apache SparkTM
+  - BackEnd
+  - Data Structures
+  - JAVA
+  - OOP
+  - Python
+  - SparkTM
+  - UI
+  - UX
+
+MSCI Inc. (11 terms)
+  - AD
+  - AI
+  - BackEnd
+  - ChatGPT
+  - GO
+  - IT
+  - JavaScript
+  - Python
+  - REACT
+  - SQL
+  - SemiAnalysis
+
+Sierra (11 terms)
+  - AI
+  - GO
+  - Google Labs
+  - Google Lens
+  - Google Maps
+  - Google Workspace
+  - Google’s AR/VR effort
+  - Python
+  - REACT
+  - TypeScript
+  - VR
+
+Rockstar Games (11 terms)
+  - AD
+  - AI
+  - DevOps Engineer
+  - GO
+  - IP
+  - IT
+  - PowerShell
+  - Python
+  - SQL
+  - TCP
+  - devOps
+
+Lovable (11 terms)
+  - AD
+  - AI
+  - BackEnd
+  - CustomGPT
+  - DevRel
+  - DevRel Experience
+  - GCP
+  - GO
+  - GetWhys
+  - TrueCode
+  - TypeScript
+
+Artisan (11 terms)
+  - AI
+  - BackEnd
+  - CD
+  - CI
+  - Kubernetes
+  - M+ ARR
+  - NoSQL
+  - SQL
+  - SumUp
+  - TypeScript
+  - distributed systems
+
+Mercor (11 terms)
+  - AI
+  - AWS
+  - Code Reviews
+  - Data Structures
+  - GCP
+  - GO
+  - NoSQL
+  - RUST
+  - SQL
+  - SQL/NoSQL databases
+  - distributed systems
+
+Twilio (11 terms)
+  - API
+  - AWS
+  - Containerization
+  - Docker
+  - DynamoDB
+  - DynamoDB Experience
+  - GO
+  - JAVA
+  - Kubernetes
+  - NoSQL
+  - NoSQL databases
+
+Comcast (11 terms)
+  - API
+  - IT
+  - JAVA
+  - Linux
+  - NoSQL
+  - NoSQL databases
+  - NoSQL databases (e
+  - Object-Oriented
+  - Object-Oriented design
+  - REST
+  - SQL
+
+Numerator (11 terms)
+  - API
+  - AWS
+  - AWS Experience
+  - BackEnd
+  - MySQL
+  - Object-Oriented
+  - Postgres
+  - Python
+  - RabbitMQ
+  - Ruby
+  - e.g. MySQL
+
+Realtor.com (11 terms)
+  - AWS
+  - Code Reviews
+  - GCP
+  - JAVA
+  - JavaScript
+  - Kotlin
+  - Object-Oriented
+  - Python
+  - SQL
+  - Test-Driven
+  - TypeScript
+
+Moab (11 terms)
+  - B2B
+  - CD
+  - CI
+  - IT
+  - Postgres
+  - Python
+  - REACT
+  - SaaS
+  - TypeScript
+  - react.js
+  - selling B2B SaaS
+
+Everlaw (11 terms)
+  - EverlawWe
+  - GIT
+  - IT
+  - JAVA
+  - JavaScript
+  - Linux
+  - Python
+  - YoursAt
+  - YoursAt Everlaw
+  - devOps
+  - eDiscovery
+
+Lucid Software (11 terms)
+  - AWS
+  - Angular
+  - CSS
+  - DOM
+  - HTML
+  - HTML5
+  - JavaScript
+  - JavaScript Experience
+  - MySQL
+  - Scala
+  - TypeScript
+
+Zebra Technologies (10 terms)
+  - AI
+  - AWS
+  - DB
+  - GoLang
+  - Google Cloud Platform
+  - JAVA
+  - Spring
+  - TDD
+  - Vertex AI
+  - iOS
+
+Character.AI (10 terms)
+  - AI
+  - CSS
+  - GoLang
+  - HTML
+  - Python
+  - REACT
+  - React Native
+  - TypeScript
+  - UI
+  - UX
+
+Stord (10 terms)
+  - AD
+  - AI
+  - B2B
+  - BackEnd
+  - BrickRed
+  - GO
+  - Python
+  - ShipBob
+  - Tullio
+  - fox59
+
+Cox Automotive Inc. (10 terms)
+  - AI
+  - AWS
+  - Azure
+  - CoPilot
+  - Code Reviews
+  - GCP
+  - HTML
+  - JavaScript
+  - ReactJS
+  - e.g., GitHub Copilot
+
+Scale AI (10 terms)
+  - AI
+  - Generative AI
+  - ML
+  - Python
+  - RAG
+  - REACT
+  - Spring
+  - TypeScript
+  - UI
+  - UX
+
+Oakmont Consulting (10 terms)
+  - AI
+  - AWS
+  - GCP
+  - GO
+  - Node
+  - Node.js
+  - Python
+  - REACT
+  - SaaS
+  - TypeScript
+
+Eudia (10 terms)
+  - AI
+  - Code Reviews
+  - GO
+  - IT
+  - JAVA
+  - Machine Learning
+  - Python
+  - cloud computing platforms
+  - cloud computing platforms (e
+  - cutting-edge AI
+
+Snowflake (10 terms)
+  - AD
+  - AI
+  - BigQuery
+  - GO
+  - Google BigQuery
+  - IT
+  - JAVA
+  - Python
+  - SQL
+  - large-scale distributed systems
+
+Teradyne (10 terms)
+  - AD
+  - AI
+  - BackEnd
+  - ClearCase
+  - Data Structures
+  - GO
+  - JavaScript
+  - Machine Learning
+  - MetLife
+  - Visual Studio
+
+Robinhood (10 terms)
+  - AD
+  - AI
+  - BackEnd
+  - Enterprise AI
+  - GO
+  - IT
+  - IaxaI
+  - LeapXpert
+  - Python
+  - Spring
+
+Ladders (10 terms)
+  - AD
+  - AI
+  - API
+  - GO
+  - JAVA
+  - Node
+  - Node.js
+  - Python
+  - REACT
+  - Scala
+
+Comulate (10 terms)
+  - AI
+  - GraphQL
+  - LiveRamp
+  - Next.js
+  - Node
+  - Postgres
+  - REACT
+  - SPARK
+  - Spark Capital
+  - TypeScript
+
+Novaflow (YC S25) (10 terms)
+  - AD
+  - AI
+  - BackEnd
+  - GO
+  - Google Cloud
+  - PostgreSQL
+  - Python
+  - REACT
+  - TypeScript
+  - Vertex AI
+
+A1 (10 terms)
+  - AD
+  - AI
+  - BackEnd
+  - Docker
+  - GO
+  - NoSQL
+  - NodeJs
+  - PyTorch
+  - Python
+  - noSQL Kubernetes
+
+Stanford University School of Medicine (10 terms)
+  - AD
+  - AI
+  - AWS
+  - Docker
+  - GCP
+  - GO
+  - Python
+  - cloud computing platforms
+  - cloud computing platforms (e
+  - distributed systems
+
+Pear VC (10 terms)
+  - AI
+  - AWS
+  - BackEnd
+  - CD
+  - CI
+  - GCP
+  - LLM
+  - LangChain
+  - Python
+  - TypeScript
+
+Verkada (10 terms)
+  - DynamoDB
+  - GO
+  - KAFKA
+  - Kubernetes
+  - Postgres
+  - Python
+  - REST
+  - REST APIs
+  - SQS
+  - Terraform
+
+Nike (10 terms)
+  - AWS
+  - Docker
+  - JavaScript
+  - PostgreSQL
+  - Python
+  - REACT
+  - TypeScript
+  - UI
+  - devOps
+  - machine learning workflows
+
+Honeywell (10 terms)
+  - Azure
+  - CD
+  - CI
+  - Code Reviews
+  - Docker
+  - GIT
+  - GitHub Actions
+  - KAFKA
+  - Kubernetes
+  - Python
+
+Ciena (10 terms)
+  - CI
+  - Docker
+  - GIT
+  - Kubernetes
+  - Linux
+  - OS
+  - Python
+  - REST
+  - UX
+  - gRPC
+
+BeaconFire Inc. (10 terms)
+  - AWS
+  - Azure
+  - Code Reviews
+  - Data Structures
+  - GIT
+  - Google Cloud
+  - JAVA
+  - Object-Oriented
+  - Version control systems
+  - object-oriented programming
+
+Audible (10 terms)
+  - AWS
+  - Code Reviews
+  - Conduct code reviews
+  - Continuous Integration
+  - Data Structures
+  - IT
+  - JAVA
+  - Object-Oriented
+  - Object-Oriented design
+  - REACT
+
+Brady Corporation (10 terms)
+  - Azure
+  - C#
+  - GIT
+  - JAVA
+  - Leverage C#
+  - Object-Oriented
+  - UI
+  - UML
+  - XAML
+  - devOps
+
+Meter (9 terms)
+  - AD
+  - AI
+  - GO
+  - GraphQL
+  - IT
+  - LAN
+  - REACT
+  - TypeScript
+  - WAN
+
+Pie (9 terms)
+  - AI
+  - API
+  - IT
+  - JavaScript
+  - Kotlin
+  - Next.js
+  - REACT
+  - React Native
+  - TypeScript
+
+DV Commodities (9 terms)
+  - AD
+  - AI
+  - BackEnd
+  - GO
+  - JAVA
+  - JavaScript
+  - Linux
+  - MetLife
+  - Python
+
+MindFort AI (YC X25) (9 terms)
+  - AI
+  - API
+  - Docker
+  - Kubernetes
+  - LLM
+  - LangChain
+  - LangGraph
+  - Postgres
+  - Python
+
+Epic (9 terms)
+  - AD
+  - AI
+  - C++ Systems
+  - GO
+  - IT
+  - JS
+  - NerdWallet
+  - SmartAsset
+  - TS
+
+Applied Intuition (9 terms)
+  - AI
+  - API
+  - Docker
+  - EpiSci
+  - GraphQL
+  - Kubernetes
+  - ORM
+  - OS
+  - REACT
+
+Atlassian (9 terms)
+  - AI
+  - Data Structures
+  - IT
+  - JAVA
+  - ML
+  - PyTorch
+  - Python
+  - TensorFlow, PyTorch
+  - distributed systems
+
+Epsilon (9 terms)
+  - AI
+  - HTML
+  - Linux
+  - Object-Oriented
+  - Object-Oriented design
+  - Python
+  - SQL
+  - XML
+  - advanced AI
+
+Replit (9 terms)
+  - AI
+  - GO
+  - JavaScript
+  - Node
+  - Node.js
+  - Python
+  - REACT
+  - RUST
+  - TypeScript
+
+Ant-Tech (9 terms)
+  - AD
+  - AI
+  - Angular
+  - BackEnd
+  - GO
+  - NodeJs
+  - REACT
+  - TypeScript
+  - iOS
+
+Morgan Stanley (9 terms)
+  - AD
+  - AI
+  - BackEnd
+  - GO
+  - IT
+  - JAVA
+  - Linux
+  - Object-Oriented
+  - Python
+
+Addepar (9 terms)
+  - AI
+  - AWS
+  - Applied AI
+  - GoLang
+  - Kubernetes
+  - LLM
+  - LangChain
+  - Python
+  - gRPC
+
+Roe (9 terms)
+  - AD
+  - AI
+  - AWS
+  - BackEnd
+  - GCP
+  - GO
+  - LLM
+  - ML
+  - SQL
+
+Hewlett Packard Enterprise (9 terms)
+  - AD
+  - AI
+  - GO
+  - IT
+  - Microservices
+  - SaaS
+  - SaaS Ventures
+  - UX
+  - devOps
+
+Assort Health (9 terms)
+  - AD
+  - AI
+  - Agentic AI
+  - GO
+  - No Use AI
+  - OrthoIndy
+  - Python
+  - SharedPractices
+  - iOS
+
+Kaizen Labs (9 terms)
+  - AD
+  - AI
+  - GO
+  - Next.js
+  - Node
+  - Node.js
+  - Postgres
+  - TypeScript
+  - Use AI
+
+United Airlines (9 terms)
+  - AI
+  - Angular
+  - C# Experience
+  - Code Reviews
+  - GO
+  - IT
+  - ML
+  - REACT
+  - SQL
+
+ComfyUI (9 terms)
+  - AD
+  - AI
+  - API
+  - GO
+  - IT
+  - LLM
+  - Python
+  - SDK
+  - source ComfyUI
+
+Gem (9 terms)
+  - AI
+  - Code Reviews
+  - GraphQL
+  - Node
+  - PostgreSQL
+  - Python
+  - REACT
+  - TypeScript
+  - Use AI
+
+Crusoe (9 terms)
+  - AI
+  - Data Structures
+  - GO
+  - JAVA
+  - JavaScript
+  - MetLife
+  - Python
+  - REST
+  - RUST
+
+ExtraHop (9 terms)
+  - 100GB+ sensors
+  - GO
+  - IT
+  - JAVA
+  - Linux
+  - NPM
+  - Python
+  - ResponseTM
+  - continuous integration pipelines
+
+Oracle (9 terms)
+  - AD
+  - API
+  - Docker
+  - GIT
+  - IntelliJ
+  - JAVA
+  - Linux
+  - QA
+  - Visual Studio
+
+Filtrex Service Group (9 terms)
+  - Angular
+  - NoSQL
+  - Node
+  - Node.js
+  - Python
+  - REACT
+  - SQL
+  - Vue
+  - e.g., Node.js
+
+Goldman Sachs (9 terms)
+  - Angular
+  - JAVA
+  - JavaScript
+  - NoSQL
+  - NoSQL data stores
+  - Object-Oriented
+  - Python
+  - SPARK
+  - SecDB
+
+MLabs (9 terms)
+  - API
+  - AWS
+  - AWS infrastructure
+  - BackEnd
+  - EC2
+  - Postgres
+  - Redis
+  - SQL
+  - WebSockets
+
+Motorola Solutions (9 terms)
+  - Continuous Integration
+  - GIT
+  - IP
+  - PowerShell
+  - Python
+  - TCP
+  - TDD
+  - TLS
+  - UDP
+
+Yaskawa Motoman (9 terms)
+  - C#
+  - Code Reviews
+  - FluentAssertions
+  - Microsoft C#
+  - Python
+  - QA
+  - SQL
+  - XAML
+  - xUnit
+
+Experian (9 terms)
+  - AWS
+  - Airflow
+  - Apache
+  - Code Reviews
+  - EC2
+  - Gradle
+  - Python
+  - SQS
+  - Spring
+
+Semgrep (9 terms)
+  - AWS
+  - AWS infrastructure
+  - CD
+  - CI
+  - CI/CD systems
+  - IT
+  - Kubernetes
+  - Kubernetes clusters
+  - distributed systems
+
+ZappHire (9 terms)
+  - API
+  - AWS
+  - Azure
+  - GCP
+  - IT
+  - SQL
+  - SaaS
+  - UX
+  - account-linking UX
+
+Cardone Ventures (8 terms)
+  - AD
+  - AI
+  - CV
+  - CardoMax
+  - GO
+  - IT
+  - McKenzie
+  - RideController
+
+JustAI (8 terms)
+  - AD
+  - AI
+  - Agentic AI
+  - BackEnd
+  - GO
+  - QA
+  - TheTradeDesk
+  - UI
+
+Toshiba Global Commerce Solutions (8 terms)
+  - AD
+  - AI
+  - BackEnd
+  - CD
+  - CI
+  - GO
+  - IT
+  - ML
+
+Persona (8 terms)
+  - AI
+  - Code Reviews
+  - GO
+  - JAVA
+  - Kubernetes
+  - Python
+  - Ruby
+  - Web Services
+
+Abnormal AI (8 terms)
+  - AI
+  - CyberSecurity
+  - GO
+  - IAM
+  - ML
+  - Python
+  - SSO
+  - SaaS
+
+micro1 (8 terms)
+  - AI
+  - API
+  - JAVA
+  - ML
+  - NoSQL
+  - Node.js
+  - Python
+  - Ruby
+
+CPS, Inc. (8 terms)
+  - AD
+  - AI
+  - GO
+  - Google Cloud
+  - Python
+  - REACT
+  - Vertex AI
+  - iOS
+
+OCLC (8 terms)
+  - AD
+  - AI
+  - BackEnd
+  - Code Reviews
+  - GO
+  - IT
+  - JavaScript
+  - Machine Learning
+
+The Voleon Group (8 terms)
+  - AD
+  - AI
+  - GO
+  - JAVA
+  - Kubernetes
+  - Linux
+  - ML
+  - Python
+
+Initialized Capital (8 terms)
+  - AD
+  - AI
+  - GO
+  - LLM
+  - Ruby
+  - TypeScript
+  - UI
+  - x3
+
+Benchling (8 terms)
+  - AD
+  - AI
+  - BackEnd
+  - GO
+  - IT
+  - ReSync
+  - ReSync Bio
+  - RideController
+
+Alchemy (8 terms)
+  - AI
+  - B2B
+  - B2B SaaS
+  - SaaS
+  - TypeScript
+  - WorldCoin
+  - web2
+  - web3
+
+Notion (8 terms)
+  - AI
+  - AWS
+  - NodeJs
+  - ORM
+  - Postgres
+  - REACT
+  - TypeScript
+  - e.g. TypeScript
+
+FurtherAI (8 terms)
+  - AD
+  - AI
+  - B2B
+  - B2B SaaS
+  - GO
+  - Python
+  - RemoteHunter
+  - SaaS
+
+Datadog (8 terms)
+  - AI
+  - DatadogLife
+  - GoLang
+  - IAM
+  - Kubernetes
+  - Linux
+  - SaaS
+  - gRPC
+
+Homekey (8 terms)
+  - AI
+  - AWS
+  - Flask
+  - LangChain
+  - REACT
+  - React Native
+  - Redis
+  - TypeScript
+
+Broccoli AI (8 terms)
+  - AI
+  - Data Structures
+  - Node
+  - Node.js
+  - Python
+  - ServiceTitan
+  - TypeScript
+  - Version Control
+
+UiPath (8 terms)
+  - CD
+  - CI
+  - CI/CD processes
+  - GO
+  - GoLang
+  - Kubernetes
+  - Object-Oriented
+  - UiPath Work
+
+MotherDuck (8 terms)
+  - API
+  - BackEnd
+  - C++ Build
+  - DuckDB
+  - GO
+  - SaaS
+  - SaaS companies
+  - distributed systems
+
+LanceSoft, Inc. (8 terms)
+  - Data Structures
+  - JAVA
+  - Object-Oriented
+  - Perl
+  - Python
+  - Ruby
+  - SQL
+  - object-oriented programming
+
+NextEra Energy, Inc. (8 terms)
+  - AWS
+  - NextEra Analytics
+  - NextEra Energy
+  - Python
+  - RUST
+  - TimescaleDB
+  - Vue
+  - Vue.js
+
+NBCUniversal (8 terms)
+  - AWS
+  - Amazon QuickSight
+  - GCP
+  - GitHub Actions
+  - GolfNow
+  - SonarQube
+  - SportsEngine
+  - Terraform
+
+Figma (7 terms)
+  - AI
+  - Data Structures
+  - JAVA
+  - JavaScript
+  - Python
+  - UI
+  - e.g. C++
+
+Real (7 terms)
+  - AD
+  - AI
+  - BackEnd
+  - GO
+  - IT
+  - No Use AI
+  - iOS
+
+Promise (7 terms)
+  - AI
+  - Applied AI
+  - Generative AI
+  - IT
+  - LLM
+  - ML
+  - RAG
+
+Sigma (7 terms)
+  - AI
+  - Data Structures
+  - JAVA
+  - JavaScript
+  - Python
+  - SPARK
+  - Spark Capital
+
+Nooks (7 terms)
+  - AI
+  - CD
+  - CI
+  - Kubernetes
+  - Postgres
+  - Redis
+  - TypeScript
+
+Athelas (7 terms)
+  - AI
+  - BackEnd
+  - Django
+  - FastAPIs
+  - Flask
+  - Kubernetes
+  - Python
+
+Silna (7 terms)
+  - AI
+  - API
+  - BackEnd
+  - ECS
+  - Flask
+  - Postgres
+  - s3
+
+Walker Partners (7 terms)
+  - AD
+  - AI
+  - BackEnd
+  - GO
+  - OOP
+  - Object-Oriented
+  - object-oriented programming
+
+Randstad Digital Americas (7 terms)
+  - AD
+  - AI
+  - CyberSecurity
+  - GO
+  - IT
+  - LLM
+  - NextJS
+
+Reejig (7 terms)
+  - AD
+  - AI
+  - CoPilot
+  - GO
+  - HighQ
+  - LLM
+  - ML
+
+Samsung Electronics America (7 terms)
+  - AD
+  - AI
+  - CyberSecurity
+  - GO
+  - JAVA
+  - LLM
+  - Python
+
+IMC Trading (7 terms)
+  - AD
+  - AI
+  - AWS
+  - Applied AI
+  - GO
+  - IT
+  - devOps
+
+HTD Talent (7 terms)
+  - AD
+  - AI
+  - BackEnd
+  - GO
+  - IT
+  - Mirai
+  - Next.js
+
+OffDeal (7 terms)
+  - AI
+  - Node
+  - Node.js
+  - NodeJs
+  - REACT
+  - ReactJS
+  - TypeScript
+
+Awardco (7 terms)
+  - BusinessQ
+  - Data Structures
+  - GO
+  - JAVA
+  - JavaScript
+  - Python
+  - peer code reviews
+
+Qumulo (7 terms)
+  - Code Reviews
+  - GO
+  - IT
+  - JAVA
+  - Python
+  - RUST
+  - distributed systems
+
+Collective (7 terms)
+  - Code Reviews
+  - Django
+  - Python
+  - REACT
+  - TechCrunch
+  - TypeScript
+  - YouTube
+
+Radiant (7 terms)
+  - CD
+  - CI
+  - CI/CD Pipelines
+  - GIT
+  - Object-Oriented
+  - Python
+  - Version Control
+
+Korn Ferry (7 terms)
+  - AWS
+  - Continuous Delivery
+  - Continuous Integration
+  - Postgres
+  - Python
+  - SQL
+  - Test Driven Development
+
+Neuralink (7 terms)
+  - GoLang
+  - MacOS
+  - Objective-C
+  - RUST
+  - Swift
+  - code review
+  - iOS
+
+Fuze Health (7 terms)
+  - GIT
+  - JavaScript
+  - JavaScript code
+  - LetsGetChecked
+  - QA
+  - Version control systems
+  - version control systems (e
+
+Innovative Systems, Inc. (7 terms)
+  - CSS
+  - HTML
+  - JavaScript
+  - SQL
+  - SaaS
+  - Spring
+  - XML
+
+Point72 (7 terms)
+  - Continuous Integration environments
+  - GIT
+  - IT
+  - REST
+  - SQL
+  - TDD
+  - WebApi
+
+Best Job Tool (7 terms)
+  - GIT
+  - Microservices
+  - REACT
+  - ReactJS
+  - TypeScript
+  - Version Control
+  - version control tools
+
+The Walt Disney Company (7 terms)
+  - Code Reviews
+  - GIT
+  - Gradle
+  - JAVA
+  - Kotlin
+  - MVVM
+  - SDK
+
+Boeing (7 terms)
+  - CD
+  - CI
+  - Containerization
+  - GIT
+  - Linux
+  - UI
+  - VR
+
+RevenueCat (7 terms)
+  - ChatGPT
+  - IT
+  - Objective-C
+  - PhotoRoom
+  - SDK
+  - either iOS
+  - iOS
+
+Two Dots (7 terms)
+  - BigQuery
+  - GCP
+  - ML
+  - Node
+  - Node.js
+  - Postgres
+  - Redis
+
+Baselayer (6 terms)
+  - AI
+  - API
+  - BackEnd
+  - LoRA
+  - ML
+  - Python
+
+Ascend (6 terms)
+  - AD
+  - AI
+  - CyberSecurity
+  - GO
+  - IT
+  - REACT
+
+Microsoft Innovation Center (6 terms)
+  - AI
+  - CoPilot
+  - GoLang
+  - IT
+  - Microsoft’s mission
+  - Python
+
+Salesforce (6 terms)
+  - AI
+  - IT
+  - JAVA
+  - JavaScript
+  - LLM
+  - Python
+
+Miter (6 terms)
+  - AI
+  - Code Reviews
+  - Node
+  - OS
+  - REACT
+  - TypeScript
+
+The Judge Group (6 terms)
+  - AD
+  - AI
+  - GO
+  - IT
+  - JAVA
+  - RideController
+
+Neuroscale AI (6 terms)
+  - AI
+  - B2B
+  - OS
+  - SaaS
+  - UnifyGTM
+  - YouTube
+
+Shinkei (6 terms)
+  - AD
+  - AI
+  - BackEnd
+  - GO
+  - Python
+  - SQL
+
+OpenAI (6 terms)
+  - AD
+  - AI
+  - AWS
+  - BackEnd
+  - GO
+  - JavaScript
+
+Thales (6 terms)
+  - AD
+  - JAVA
+  - Object-Oriented
+  - REACT
+  - SPA
+  - object-oriented programming concepts
+
+SpotOn (6 terms)
+  - Code Reviews
+  - NerdWallet
+  - NerdWallet Rated
+  - NoSQL
+  - Python
+  - SQL
+
+Alma (6 terms)
+  - BackEnd
+  - BoxGroup
+  - Django
+  - GIT
+  - MetLife
+  - MySQL
+
+University of Southern California (6 terms)
+  - C++
+  - IT
+  - JAVA
+  - JavaScript
+  - Python
+  - Ruby
+
+Begin Software (6 terms)
+  - API
+  - ClickUp
+  - Data Structures
+  - JSON
+  - JavaScript
+  - SaaS
+
+CVS Health (6 terms)
+  - CD
+  - CI
+  - Code Reviews
+  - GIT
+  - code review
+  - devOps
+
+Discord (6 terms)
+  - AWS
+  - Elixir
+  - GCP
+  - IT
+  - K8S
+  - devOps tools
+
+Lensa (6 terms)
+  - DirectEmployers
+  - ETL
+  - IT
+  - JAVA
+  - SQL
+  - peer code reviews
+
+Raytheon (6 terms)
+  - CD
+  - CI
+  - CI/CD tools
+  - Data Structures
+  - JAVA
+  - McKinney
+
+Bevel (5 terms)
+  - AI
+  - BackEnd
+  - ML
+  - Python
+  - TypeScript
+
+Kforce Inc (5 terms)
+  - AI
+  - ChatGPT
+  - CoPilot
+  - IT
+  - Python
+
+8VC (5 terms)
+  - AD
+  - AI
+  - Bolt6
+  - GO
+  - Mirai
+
+Year Up United (5 terms)
+  - AD
+  - AI
+  - GO
+  - GetWhys
+  - IT
+
+Crew (5 terms)
+  - AD
+  - AI
+  - GO
+  - IT
+  - Python
+
+Loop (5 terms)
+  - AD
+  - AI
+  - GO
+  - LLM
+  - iOS
+
+Gaia AI (5 terms)
+  - AI
+  - API
+  - AWS
+  - REACT
+  - TypeScript
+
+Dex (5 terms)
+  - AI
+  - LLM
+  - ML
+  - Python
+  - TypeScript
+
+Hadrian (5 terms)
+  - FactoryOS
+  - GO
+  - IT
+  - Python
+  - REACT
+
+Checkr, Inc. (5 terms)
+  - ElasticSearch
+  - JavaScript
+  - NoSQL
+  - Ruby
+  - SQL
+
+Qualcomm (5 terms)
+  - API
+  - Code Reviews
+  - GIT
+  - JAVA
+  - Python
+
+Microsoft (5 terms)
+  - Code Reviews
+  - JAVA
+  - JavaScript
+  - Microsoft’s mission
+  - Python
+
+WEX (5 terms)
+  - IT
+  - JAVA
+  - JavaScript
+  - Microservices
+  - TypeScript
+
+Infinite Campus (5 terms)
+  - Angular
+  - Groovy
+  - JAVA
+  - JavaScript
+  - SQL
+
+Medpace (5 terms)
+  - AWS
+  - Machine Learning
+  - TensorFlow, Keras
+  - deep learning
+  - devOps
+
+Abbott (5 terms)
+  - Azure
+  - Cloud Computing
+  - FreeU
+  - SaaS
+  - SaaS cloud platform
+
+Praeses (5 terms)
+  - Azure
+  - CD
+  - CI
+  - Code Reviews
+  - GitHub/Lab, Jira
+
+Rover.com (4 terms)
+  - AI
+  - Python
+  - REACT
+  - React Native
+
+DonorAtlas (4 terms)
+  - AI
+  - IDE
+  - LLM
+  - Python
+
+AVEVA (4 terms)
+  - AI
+  - CV
+  - IT
+  - JavaScript
+
+Sesame (4 terms)
+  - AI
+  - GIT
+  - Python
+  - Ubiquity6
+
+Hyra (4 terms)
+  - AD
+  - AI
+  - GO
+  - Python
+
+Pinterest (4 terms)
+  - Data Structures
+  - IT
+  - Object-Oriented
+  - Python
+
+Tessera Data (4 terms)
+  - JavaScript
+  - JavaScript Experience
+  - Python
+  - QA
+
+Körber (4 terms)
+  - AutoCAD
+  - C#
+  - IT
+  - Python
+
+Insulet Corporation (4 terms)
+  - JAVA
+  - Python
+  - QA
+  - UX
+
+Veeco (4 terms)
+  - IT
+  - OS
+  - Object-Oriented
+  - VB
+
+Check Point Software (4 terms)
+  - AWS
+  - Azure
+  - CyberSecurity
+  - Linux
+
+Standout (3 terms)
+  - AI
+  - JS
+  - Python
+
+Nextdoor (3 terms)
+  - AI
+  - Data Structures
+  - TeamNextdoor
+
+Anything (3 terms)
+  - AI
+  - IT
+  - TypeScript
+
+Decagon (3 terms)
+  - AI
+  - Python
+  - TypeScript
+
+Rokt (3 terms)
+  - AI
+  - ML
+  - eCommerce
+
+Uber (3 terms)
+  - GO
+  - JAVA
+  - UI
+
+Charlie Health (3 terms)
+  - PostgreSQL
+  - Python
+  - REACT
+
+Wiraa (3 terms)
+  - Code Reviews
+  - IT
+  - REST
+
+August Schools (3 terms)
+  - GraphQL
+  - GraphQL React
+  - Kubernetes
+
+Mitchell Martin Inc. (3 terms)
+  - C#
+  - Core Technologies C#
+  - SQL
+
+Verily (3 terms)
+  - BDD
+  - REACT
+  - TypeScript
+
+Corgea (2 terms)
+  - AI
+  - AppSec
+
+Mandolin (2 terms)
+  - AI
+  - IT
+
+Kabilah (2 terms)
+  - AI
+  - iOS
+
+NVIDIA (2 terms)
+  - AI
+  - GPU
+
+Grammarly (2 terms)
+  - AI
+  - Data Structures
+
+vLex (2 terms)
+  - AI
+  - NLP
+
+Anyscale (2 terms)
+  - AI
+  - ML
+
+Maven Securities (2 terms)
+  - Modern C++
+  - Python
+
+Optiver (2 terms)
+  - JAVA
+  - Python
+
+Northslope Technologies (2 terms)
+  - LLM
+  - ML
+
+Brooksource (2 terms)
+  - IT
+  - Object-Oriented
+
+Spectrum (2 terms)
+  - Object-Oriented
+  - code review
+
+Giga (1 terms)
+  - AI
+
+Bild (1 terms)
+  - AI
+
+Numeric (1 terms)
+  - AI
+
+TalentAlly (1 terms)
+  - Azure
+
+Terrakotta (YC W24) (1 terms)
+  - UX
+
+Garmin (1 terms)
+  - JAVA
+
+PayPal (1 terms)
+  - Inclusion PayPal
+
+Whatnot (1 terms)
+  - 1M+ users

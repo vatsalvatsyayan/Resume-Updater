@@ -1,0 +1,134 @@
+About the job
+
+This is a pipeline position, multiple openings are available for this opportunity!!
+
+
+
+
+Who We Are:
+
+Ever wonder who brings the entertainment to your flights? Panasonic Avionics Corporation is #1 in the industry for delivering inflight products such as movies, games, WiFi, and now Bluetooth headphone connectivity!
+
+How exciting would it be to be a part of the innovation that goes into creating technology that delights millions of people in an industry that’s here to stay! With our company’s history spanning over 40 years, you will have stability, career growth opportunities, and will work with the brightest minds in the industry. And we are committed to a diverse and inclusive culture that will help our organization thrive! We seek diversity in many areas such as background, culture, gender, ways of thinking, skills and more. If you want to learn more about us visit us at www.panasonic.aero
+
+And for a full listing of open job opportunities go to www.panasonic.aero/join-us/
+
+No relocation can be facilitated at this time
+
+
+
+
+The Position:
+
+We are seeking an MTS I, Software Engineer (Microservices) to assist with design, development, and maintain distributed microservices architectures. The ideal candidate will have some experience with containerization, cloud platforms, and modern development practices, along with a passion for building resilient, scalable systems.
+
+Development & Architecture
+
+Design, develop, and maintain microservices using modern programming languages and frameworks
+Implement RESTful APIs and ensure seamless inter-service communication
+Apply microservices design patterns including service discovery, circuit breaker, and API gateway
+Contribute to architectural decisions and technical strategy discussions
+Write clean, maintainable, and well-documented code following best practices
+
+DevOps & Infrastructure
+
+Build and maintain CI/CD pipelines for automated testing and deployment Containerize applications using Docker and orchestrate with Kubernetes
+Deploy and manage services on cloud platforms (AWS, Azure, or GCP)
+Implement monitoring, logging, and observability solutions
+Ensure system reliability, performance, and security
+
+Collaboration & Leadership
+
+Work closely with cross-functional teams including product managers, designers, and QA engineers
+Mentor junior developers and conduct code reviews
+Participate in Agile/Scrum ceremonies and contribute to sprint planning
+Collaborate with DevOps teams to optimize deployment and infrastructure
+Communicate technical concepts effectively to both technical and non-technical stakeholders
+
+Quality & Testing
+
+Implement comprehensive testing strategies, including unit, integration, and contract testing
+Perform load testing and performance optimization
+Debug and troubleshoot distributed systems issues
+Ensure code quality through automated testing and code review processes
+
+
+
+
+The hourly range of $31.73 - $53.85 is just one component of Panasonic’s total package. The final offer amount may vary based on factors including but not limited to individual’s knowledge, skills, experience, and location. In addition, this role may be eligible for discretionary bonuses and incentives. The minimum hourly wage for this role will be the greater of the posted range, or minimum wage for the location where the employee will be working, subject to local minimum wage requirements.
+
+
+
+
+What we're looking for:
+
+Bachelor of Science Degree in Computer Sciences, Computer Engineering or Software Engineering, or equivalent experience
+0-3 years' of related experience
+Ability to travel to domestic or international locations as required, up to 5% of the time
+
+Programming Skills
+
+Proficiency in at least one modern programming language:
+Java (Spring Boot, Spring Framework, Spring MVC)
+Python (FastAPI, Django, Flask)
+Node.js (Express.js, API development)
+Go for high-performance services
+Strong understanding of object-oriented programming and design patterns
+Experience with functional programming concepts
+Database & Data Management
+Hands-on experience with both SQL and NoSQL databases:
+SQL: MySQL, PostgreSQL, SQL Server
+NoSQL: MongoDB, Cassandra, DynamoDB
+Database design, optimization, and performance tuning
+Understanding of distributed transactions and eventual consistency
+
+API & Integration
+
+Extensive experience with RESTful API design and implementation
+Knowledge of API versioning, pagination, filtering, and error handling
+Experience with API documentation tools (Swagger/OpenAPI)
+Understanding of authentication and authorization (OAuth, JWT)
+Message queue experience (RabbitMQ, Apache Kafka)
+
+Containerization & Orchestration
+
+Proficient in Docker containerization
+Hands-on experience with Kubernetes for container orchestration
+Understanding of service mesh concepts (Istio, Linkerd)
+Container security best practices
+
+Cloud Platforms
+
+Experience with major cloud platforms:
+AWS: EC2, S3, Lambda, EKS, RDS
+Azure: App Service, Azure Functions, AKS
+GCP: Compute Engine, Cloud Functions, GKE
+Infrastructure as Code (Terraform, CloudFormation)
+Serverless computing concepts
+
+DevOps & CI/CD
+
+Experience building and maintaining CI/CD pipelines
+Proficiency with tools like Jenkins, GitLab CI, Azure DevOps, or GitHub Actions
+Automated testing integration and deployment strategies
+Configuration management and environment provisioning
+
+Our Principles
+
+Contribution to Society | Fairness & Honesty | Cooperation & Team Spirit | Untiring Effort for Improvement | Courtesy & Humility | Adaptability | Gratitude
+
+What We Offer
+
+At Panasonic Avionics Corporation we realize the most important aspects in leading our industry are the bright minds behind everything we do. We are proud to offer our employees a highly competitive, comprehensive and flexible benefits program.
+
+Paid time off: Exempt Salaried employees receive flexible paid time off. This means that there is no fixed number, range, or limit to the amount of Personal and Vacation Days that may be taken for exempt employees. Non-exempt hourly employees accrue 14 vacation days per year + 7 sick days + 3 personal days. Accrual rate increases with tenure. All employees receive 11 company paid holidays per year. We also close our offices at the corporate level in the U.S. between Christmas and New Year. For operational positions that are expected to work on holidays, we provide additional compensation for hours worked.
+Health Insurance: Medical insurance offerings from Aetna and Kaiser (CA &HI). Options for Employee Only, Employee + Spouse/Domestic Partner, Employee + Children, or Family. Dental PPO and DMO options & Vision insurance through EyeMed or VSP.
+401K with 50% match on up to 8% contribution, full vested from day 1.
+Washington residents only are eligible for: Washington’s Family and Medical Leave program and Washington’s Paid Sick Leave program.
+Other offerings include: Wellness Program, Counseling services, FSA & HSA, Life Insurance for employee, spouse and child, AD&D Insurance, Long-term and Short-term disability, Critical Illness Insurance, Accident Insurance, Legal Assistance, Pet Insurance, Identity Theft Protection, Dependent Care FLSA, Education Assistance, Commuter Program, Employee Purchase Program, Service Award Program.
+
+All applicants are subject to Company policies, third party customer and worksite requirements, and government requirements, regarding vaccination and/or testing for COVID-19. Where permitted by applicable law, applicants may be required to be fully vaccinated with an authorized COVID-19 vaccine as a condition of employment, unless they are eligible for and obtain an exemption based on a reasonable accommodation because of a disability or a sincerely held religious belief, practice, or observance. While the Company strongly encourages COVID-19 vaccinations, it may require vaccination and/or testing for positions in which third party customer, worksite, or government requirements apply, in accordance with applicable law. At those locations where requirements apply, exemptions will be considered based on applicable law.
+
+Panasonic is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, disability status, protected veteran status, and any other characteristic protected by law or company policy. All qualified individuals are required to perform the essential functions of the job with or without reasonable accommodation. Pre-employment drug testing is required for safety sensitive positions or as may otherwise be required by contract or law. Due to the high volume of responses, we will only be able to respond to candidates of interest. All candidates must have valid authorization to work in the U.S. Thank you for your interest in Panasonic Avionics Corporate.
+
+REQ-151965

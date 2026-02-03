@@ -1,0 +1,67 @@
+About the job
+
+Job Summary
+
+Westfield is hiring an AI Engineer to build AI use cases of different shapes and sizes that impact our core insurance workflows. You’ll work with other AI Engineers, software developers, and business stakeholders to ship features and assets that range in complexity from simple prompt workflows and document understanding to AI agents, RAG, computer use, and more. You’ll be involved in business use cases from design and architecture into implementation, testing, deployment, monitoring, and maintenance.
+
+Applicants must be currently authorized to work in the United States on a full-time basis without employer sponsorship.
+
+What You'll Do
+
+
+Build containerized AI services in Python. Implement clean APIs where needed and standards-based integrations for enterprise systems.
+Design retrieval & agent flows using industry-standard frameworks; implement prompt/tool versioning and safe rollouts (e.g., feature flags, canary).
+Guardrails & governance: help implement controls around PII handling, audit logging, RBAC, prompt-injection defenses, and egress controls.
+Evaluation automation: create eval harnesses, golden sets, regression gates, and basic business KPIs (e.g., quality, safety, latency, cost).
+Observability: instrument tracing/metrics/logging with standard tooling, integrate with enterprise monitoring/logging platforms, and build actionable dashboards/alerts.
+Operational rigor: contribute to runbooks and incident hygiene. Participate in the on-call rotation for the AI services you help own.
+CI/CD: use pipeline-as-code for delivery and keep code-quality/security gates clean for frequent deployments.
+Team play: embed with asset teams when appropriate. Contribute back reusable components, SDKs, and docs to the AI engineering platform. 
+
+
+Job Qualifications
+
+
+At least 2 years of software engineering experience, including at least 1 production-deployed GenAI use case for real business users or consumers. 
+Strong Python and microservice fundamentals (e.g., FastAPI or similar, type hints, tests such as pytest) with an emphasis on well-structured, readable code.
+Hands-on experience with any AI orchestration frameworks (e.g., LangChain, LangGraph, OpenAI Agents SDK, PydanticAI or similar).
+Containers/orchestration experience: solid containerization understanding and hands-on with deploy/scale/config/secret management (e.g., Docker, Kubernetes/OpenShift).
+Observability experience: metrics, logs, tracing (e.g., OTel) and using these signals to debug production outages and performance issues.
+CI/CD discipline (e.g., Azure DevOps YAML or similar), code-quality/security gates (e.g., SonarQube, Snyk), and dependency management basics.
+Governance understanding: audit logs, RBAC, data-privacy boundaries, and change control in business-critical environments. 
+
+
+Job Qualifications (Preferred)
+
+
+Experience deploying and supporting multiple custom GenAI use cases in production.
+Familiarity with MCP, A2A, or other AI integration standards.
+Experience with RAG and vector search.
+Experience with Python dependency/build management (e.g., uv) and familiarity with ASGI servers (e.g., uvicorn).
+
+
+Location
+
+Hybrid defined as three (3) or more days per week in the office.
+
+Behavioral Competencies
+
+
+Collaborates
+Customer focus
+Communicates effectively
+Decision quality
+Nimble learning
+
+
+This job description describes the general nature and level of work performed in this role. It is not intended to be an exhaustive list of all duties, skills, responsibilities, knowledge, etc. These may be subject to change and additional functions may be assigned as needed by management.
+
+About Us
+
+Founded in 1848, Westfield is a global leader in property and casualty insurance, delivering superior risk insights and innovative solutions to customers through a diverse portfolio of insurance products. Westfield underwrites commercial, personal, surety, and specialty lines of coverage through a network of leading independent agents and brokers in the United States and specialty products through Lloyd’s of London Syndicate 1200. As a mutual insurance company with more than 3,000 employees, Westfield has revenues in excess of $4 billion and more than $10 billion in assets.
+
+ Equal Opportunity Employer
+
+United States: All applicants receive consideration for employment without regard to race, color, sex, religion, national origin, age, sexual orientation, gender identity, disability, or status as a protected veteran.
+
+United Kingdom: Westfield is committed to equality of opportunity for all staff and applications from individuals are encouraged regardless of age, disability, sex, gender reassignment, sexual orientation, pregnancy and maternity, race, religion or belief and marriage and civil partnerships.

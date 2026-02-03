@@ -1,0 +1,49 @@
+About the job
+
+About Applied Intuition
+
+Applied Intuition is the vehicle intelligence company that accelerates the global adoption of safe, AI-driven machines. Founded in 2017, Applied Intuition delivers the toolchain, Vehicle OS, and autonomy stacks to help customers build intelligent vehicles and shorten time to market. Eighteen of the top 20 global automakers and major programs across the Department of Defense trust Applied Intuition's solutions to deliver vehicle intelligence. Applied Intuition services the automotive, defense, trucking, construction, mining, and agriculture industries and is headquartered in Mountain View, CA, with offices in Washington, D.C., San Diego, CA, Ft. Walton Beach, FL, Ann Arbor, MI, London, Stuttgart, Munich, Stockholm, Seoul, and Tokyo. Learn more at appliedintuition.com.
+
+We are an in-office company, and our expectation is that employees primarily work from their Applied Intuition office 5 days a week. However, we also recognize the importance of flexibility and trust our employees to manage their schedules responsibly. This may include occasional remote work, starting the day with morning meetings from home before heading to the office, or leaving earlier when needed to accommodate family commitments. (Note: For EpiSci job openings, fully remote work will be considered by exception.)
+
+Meet our software engineers!
+
+Meet some of our new grads from Classes of 2021 and 2022 – and hear more about why they chose to start their careers at Applied Intuition. Learn about their personal experiences ramping up, what their day-to-day looks like, and their advice for potential candidates.
+
+About The Role
+
+We are looking for bright engineers interested in designing elegant solutions to difficult problems in the autonomy space. Our software engineers work across our suite of products, tackling a variety of full-stack, infrastructure, robotics, and graphics challenges. At Applied Intuition, we encourage engineers to take ownership over technical and product decisions, interact closely with users to collect feedback, and contribute to a thoughtful, dynamic team culture.
+
+At Applied Intuition, you will:
+
+
+Work across our entire stack to develop new products, features, and tools for our customers' autonomy development workflows
+Have an unparalleled opportunity to work with domain experts across a variety of fields: infrastructure, robotics, and graphics engineers, as well as startup veterans
+Carve out your own area of expertise and influence product decisions
+Collaborate with other members in the autonomy ecosystem and learn about different approaches to solving core issues in autonomy
+
+
+We're looking for someone who has:
+
+
+Proven ability as a self-starter and can quickly become comfortable with new technical tools
+Designed efficient and effective solutions to a wide range of engineering challenges
+Experience taking initiative in a fast-paced environment
+
+
+Nice to have:
+
+
+Working knowledge of frontend, API layer, database ORM, containerization, or cluster orchestration frameworks (such as React, GraphQL, SQLAlchemy, Docker, or Kubernetes)
+Experience working with simulation tools, modeling physical problems, or using robotics middleware (such as ROS)
+
+
+Compensation at Applied Intuition for eligible roles includes base salary, equity, and benefits. Base salary is a single component of the total compensation package, which may also include equity in the form of options and/or restricted stock units, comprehensive health, dental, vision, life and disability insurance coverage, 401k retirement benefits with employer match, learning and wellness stipends, and paid time off. Note that benefits are subject to change and may vary based on jurisdiction of employment.
+
+Applied Intuition pay ranges reflect the minimum and maximum intended target base salary for new hire salaries for the position. The actual base salary offered to a successful candidate will additionally be influenced by a variety of factors including experience, credentials & certifications, educational attainment, skill level requirements, interview performance, and the level and scope of the position.
+
+Please reference the job posting’s subtitle for where this position will be located. For pay transparency purposes, the base salary range for this full-time position in the location listed is $130,000 USD annually.
+
+Don’t meet every single requirement? If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.
+
+Applied Intuition is an equal opportunity employer and federal contractor or subcontractor. Consequently, the parties agree that, as applicable, they will abide by the requirements of 41 CFR 60-1.4(a), 41 CFR 60-300.5(a) and 41 CFR 60-741.5(a) and that these laws are incorporated herein by reference. These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color, religion, sex, sexual orientation, gender identity or national origin. These regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status or disability. The parties also agree that, as applicable, they will abide by the requirements of Executive Order 13496 (29 CFR Part 471, Appendix A to Subpart A), relating to the notice of employee rights under federal labor laws.

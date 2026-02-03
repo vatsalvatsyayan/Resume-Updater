@@ -1,0 +1,88 @@
+About the job
+
+Location: Orlando, United States of America
+
+Thales people architect solutions that enable two-thirds of planes to take off and land safely. We create in-flight entertainment systems that engross 50 million fliers every year and we develop the avionics that control the world’s largest commercial aircrafts. Our simulators train the next generation of pilots for fighter jets, transporters and search and rescue helicopters. And, together, each and every member of our aerospace team makes a difference.
+
+When you rely on airlines to connect you in flight, you rely on Thales. In an increasingly fast paced world, we make the unpredictable, predictable by connecting and entertain passengers to make your life better. Combining a diversity of talents, we master the decisive moments that matter to passengers and airlines. Whatever it takes.
+
+Software Engineer | Graduate
+
+Orlando, FL (Hybrid)
+
+Position Summary
+
+Thales is looking for a Software Engineer - Graduate to join our In-Flight Entertainment and Connectivity (IFEC) Engineering Team to help develop our next generation of IFEC product suite. This position requires you to be responsible for the complete life cycle of new or modified software products including research & design, implementation, training, and support. To be successful, the candidate should have knowledge of AGILE/SCRUM software development methodology, object-oriented programming concepts, and full software development life cycles.
+
+In this position, you will also be accountable for your commitment (both technically and behaviorally), be able to cooperate effectively, and be adaptive in working with different stakeholders.
+
+Key Areas of Responsibility
+
+
+Development of software products by writing, testing, and documenting code.
+Responsible for providing technical documentation for system, features, and components.
+Responsible for providing thorough unit testing and automated testing to ensure a quality product is delivered.
+Expected to improve, enhance, and support existing operations.
+Designing, building, installing, configuring and supporting production deployments.
+Implement and maintain security and data privacy best practices.
+
+
+
+Minimum Qualifications
+
+
+Bachelor’s degree in Engineering, Computer Science or related study with 0-2 yrs. experience.
+Knowledge in development with Java, or similar object-oriented languages; Knowledge in development with web frameworks (Angular, React); Knowledge of responsive web design principles and SPA.
+Must be able to: demonstrate innovation in problem solving, have clear communication with team members and product owners, follow and support agile methodologies and practices by actively participating in all SCRUM ceremonies.
+Must: adhere to and develop best practices in software engineering; be able to interact with individuals to solidify understanding of requirements and expectations.
+
+
+
+If you’re excited about working with Thales, but not meeting the requirements for this position, we encourage you to join our Talent Community!
+
+Special Position Requirements
+
+
+Schedule: Core Business Hours Monday-Friday and will occasionally involve working some Saturdays and Sundays.
+Physical Environment: Typical office environment.
+Regulatory Compliance Requirements: Pre-employment drug screening.
+
+
+
+What We Offer
+
+The anticipated TTC range for this role is $81,230.25 - $141,698.00 USD Annual. The Company reserves the right to ultimately pay more or less than the posted range and offer additional benefits and other compensation, depending on circumstances not related to an applicant’s status protected by local, state, or federal law.
+
+Thales provides an extensive benefits program for all full-time employees working 30 or more hours per week and their eligible dependents, including the following:
+
+
+Elective Health and Dental plans. 
+Retirement Savings Plan with a company contribution and a match, and without vesting period. 
+Company paid holidays, vacation days, and paid sick leave. 
+Company provided Life Insurance.
+
+
+
+Why Join Us?
+
+Say HI and learn more about working at Thales click here.
+
+This position will require successfully completing a post-offer background check. Qualified candidates with [a] criminal history will be considered and are not automatically disqualified, consistent with federal law, state law, and local ordinances.
+
+We are an equal opportunity employer, including disability and veteran status. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.
+
+If you need an accommodation or assistance in order to apply for a position with Thales, please contact us at talentacquisition@us.thalesgroup.com.
+
+The reference Total Target Compensation (TTC) market range for this position, inclusive of annual base salary and the variable compensation target, is between
+
+This reflects how companies in a similar industry and geographic region generally pay for similar jobs. This range helps the Company make pay decisions as one data point among many. Where a position falls within this range is also dependent on other factors including – but not limited to – the employee’s career path history, competencies, skills and performance, as well as the company’s annual salary budget, the customer’s program requirements, and the company’s internal equity. Thales may offer additional benefits and other compensation, depending on circumstances not related to an applicant’s status protected by local, state, or federal law.
+
+(For Internal candidate, if you need more information, please reach out to your HR Shared Service, 1st Point)
+
+Thales provides an extensive benefits program for all full-time employees working 30 or more hours per week and their eligible dependents, including the following:
+
+
+Elective Health, Dental, Vision, FSA/HSA, Voluntary Life and AD&D, Whole Group Life w/LTC, Critical Illness, Hospital Indemnity, Accident Insurance, Legal Plan, Identity Theft, and Pet Insurance
+Retirement Savings Plan after 30 days of employment with a company contribution and a match, and with no vesting period
+Company paid holidays and Paid Time Off
+Company provided Life Insurance, AD&D, Disability, Employee Assistance Plan, and Well-being Program

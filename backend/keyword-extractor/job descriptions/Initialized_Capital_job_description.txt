@@ -1,0 +1,458 @@
+Initialized Capital
+
+AI Engineer
+
+San Francisco, CA · 13 hours ago · Over 100 people clicked apply
+
+Responses managed off LinkedIn
+
+$130K/yr - $155K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+About the job
+
+Initialized is a generalist seed-stage venture firm with over $3B in AUM. The team works closely with technical, ambitious founders and backs them early as they build enduring companies.
+
+Initialized is focused on investing across AI, robotics, space, energy, defense, and crypto. The firm has backed companies including Coinbase, Instacart, Flexport, Rippling, and Flock Safety, and spends a lot of time thinking about how new tools, especially AI, are changing how companies get built.
+
+As our AI Engineer, you will be the technical glue that builds, automates, and maintains the systems and processes that enable our team to do our jobs better. As an engineering team of one, you will have the autonomy to make architectural decisions and will work across the stack, from APIs and data pipelines to investor-facing UI, to build mission-driven tools that directly influence investment decisions, portfolio growth, and firm efficiency.
+
+Reporting to an Initialized Partner, this is a high-impact role designed for someone looking to shape their career in the new AI-first economy.
+
+You Will
+
+
+Translate business needs into technical specifications
+Collaborate cross-functionally with investors, finance, and operations teams to identify bottlenecks 
+Design, build, and ship internal tools, including investor dashboards and internal workflow automation
+Own Knowledge Base Management & Integration 
+Maintain the codebase of our proprietary CRM while implementing new features 
+Build dashboards and data visualization for monitoring key operational metrics
+Development & Maintain AI Agents
+Build agents to support investment and portfolio support operations while maintaining full accountability for code comprehension, quality, and security.
+AI Tool Research and Adoption 
+Spearhead testing of novel AI tooling. Own AI R&D and adoption efforts by researching, prototyping, and validating new AI tools, agent architectures, and automation approaches to integrate into core workflows
+
+Who You Are
+
+We’re looking for an analytical builder who scores high on curiosity, ownership, and growth mindset and are optimizing for the following:
+
+You Thrive When
+
+
+Given high autonomy and high ambiguity
+Switching between strategic problem-solving and hands-on building
+Being told the outcome and you need to figure out the fastest way to deliver it
+
+
+Traits We Look For 
+
+
+Exceptionally resourceful, proactive, and motivated by hard problems and building from the ground up.
+Fast learner, especially with new tools and systems
+Strong communicator and cross-functional collaborator
+High-velocity operator with an owner mindset who knows when & how to escalate vs. fix independently
+A reputation for positively improving the processes, systems, and teams you are a part of
+
+
+Skills & Experience
+
+
+2-5 years of software engineering, with demonstrated ability to ship production systems and a strong intuition of software development best practices
+Proficiency in the following tech stack: Ruby, Typescript
+Hands-on experience with LLM APIs (OpenAI, Anthropic, etc.) and prompt engineering for production use cases
+Experience designing data models and CRMs
+Familiarity with workflow orchestration
+Adept at gathering requirements, extracting insights, weighing trade-offs, and delivering effective internal solutions.
+
+
+Why Join Us
+
+Impact: Build AI systems and autonomous workflows that contribute to a culture of innovation and continuous improvement.
+
+Innovation: Be on the leading edge of applying AI/LLMs to venture capital workflows.
+
+Collaboration: Work with a lean, entrepreneurial team of investors, technologists, and operators.
+
+Growth: Opportunity to greenfield new tools and make real decisions about how systems are built
+
+This is a hybrid role based in San Francisco, CA.
+
+Compensation: $130- $155k (depending upon experience)
+… more
+
+Set alert for similar jobs
+
+Artificial Intelligence Engineer, San Francisco, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+260
+
+total
+
+260
+
+in the past day
+
+Candidate seniority level
+
+87% Entry level candidates
+
+10% Senior level candidates
+
+Candidate education level
+
+92
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+6
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Initialized Capital
+Powered by Bing
+
+Initialized Capital hires candidates from some of these companies and schools
+
+Initialized Capital hired 2 people from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+Initialized Capital
+
+34,644 followers
+
+Follow
+
+Venture Capital and Private Equity Principals
+
+ • 
+
+11-50 employees
+
+ • 
+
+29 on LinkedIn
+
+We set the standard in seed stage venture capital, backing founders with grit, audacity, and a spark of rebellion. We test for obsession and intellectual honesty and make it clear we mirror that mentality. We're excited by what could be, resilient in the face of challenge, ambitious, empathetic, and collaborative. 
+
+Our team is built for what you need now, guiding you and helping develop your skills in every facet of your business, but most crucially, what you need at seed: building your company and team, refining your story, reaching product market fit, and raising your next round.
+
+Initialized invests across all sectors and is an early backer of companies like Coinbase, Instacart, Rippling, Flexport, and Flock Safety. With $3B+ in assets under management, our portfolio includes 175+ companies worth close to $200B in company valuations, with 25+ valued at $1B or more.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Artificial Intelligence Engineer (Verified job)
+Artificial Intelligence Engineer 
+
+Fractal
+
+United States (Remote)
+
+$120K/yr - $145K/yr
+
+ • 
+
+Medical, Vision, Dental, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 12:03 PM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Developer (Verified job)
+Artificial Intelligence Developer 
+
+Tekgence Inc
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 19, 2026, 12:55 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Engineer
+
+neteffects
+
+United States (Remote)
+
+$70/hr - $80/hr
+
+ • 
+
+4 benefits
+
+Actively reviewing applicants
+
+Posted on January 9, 2026, 2:44 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Engineer
+
+Relate Search
+
+United States (Remote)
+
+Posted on January 21, 2026, 7:37 AM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+AI Engineer or AI Consultant x3 roles
+
+Aventis Solutions
+
+New York, NY (Remote)
+
+9 benefits
+
+Posted on January 12, 2026, 3:42 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Associate AI Engineer (Verified job)
+Associate AI Engineer 
+
+Internet Brands, Inc.
+
+El Segundo, CA
+
+$60K/yr
+
+ • 
+
+Medical, 401(k), +2 benefits
+
+4 company alumni work here
+
+Posted on January 16, 2026, 3:09 AM
+5 days ago
+
+Generative AI Engineer (Verified job)
+Generative AI Engineer 
+
+Capgemini
+
+Greater Seattle Area (Hybrid)
+
+1 benefit
+
+Actively reviewing applicants
+
+Posted on January 14, 2026, 9:49 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+AI Solutions Engineer
+
+dais
+
+Tulsa, OK (Remote)
+
+Posted on January 15, 2026, 4:21 AM
+6 days ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Engineer
+
+Omnis Partners
+
+Dallas, TX (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 9, 2026, 3:21 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+AI Full Stack Developer
+
+Factspan
+
+United States (Remote)
+
+1 school alumni works here
+
+Posted on January 21, 2026, 7:22 AM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+Associate AI Software Engineer (Verified job)
+Associate AI Software Engineer 
+
+Center for Diagnostic Imaging (CDI)
+
+St Louis Park, MN
+
+$65K/yr - $100K/yr
+
+3 school alumni work here
+
+Posted on January 16, 2026, 2:35 PM
+4 days ago
+
+AI Prompt Engineer Intern (Verified job)
+AI Prompt Engineer Intern 
+
+Hunter Engineering Company
+
+Bridgeton, MO (On-site)
+
+Posted on January 9, 2026, 6:13 AM
+1 week ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

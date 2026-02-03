@@ -1,0 +1,130 @@
+About the job
+
+Job Description:
+
+Job Description
+
+At Cboe, we inspire our people to solve complex challenges together because what we do matters. We provide the financial infrastructure that powers the global economy. As a leading provider of market infrastructure and tradable products, Cboe delivers cutting-edge trading, clearing and investment solutions to market participants around the world. 
+
+We’re building inclusive ways to support professional and personal development while strengthening the trust we’ve earned as a global market leader. Our teams are empowered to share ideas, actively pursue them and bring on a challenge. As champions of internal mobility and access to opportunity, we encourage our people to “go for it” and equip our managers with the training to coach their teams to the next level. Our Associate Resource Groups champion diversity, equity and inclusion, giving employees a safe space to network, share ideas and create opportunities.
+
+Sound like the place for you? Join us!
+
+The Data Vantage Software Engineering team is hiring for a Software Engineer
+
+We’re looking for a collaborative and curious software engineer to join our Application Services Engineering team, where you will help us build a unified application and service management platform for Cboe’s Data Vantage platform. This role is ideal for an engineer with experience in .NET/C# server-side development and React/Typescript (or Javascript) on the frontend. We welcome candidates who are eager to learn and work with other languages, including Python and Java, as needed.
+
+In this role, you will contribute to enhancing the Cboe Data Vantage platform, which includes financial analytics, execution, and risk management. Our scalable backend systems and React-based frontend applications are used by our associates in software engineering, operations, and customer-facing roles in all our global offices.
+
+We are looking for candidates with experience in developing and engineering full-stack applications to deliver enterprise-grade software solutions. This role requires close collaboration with cross-functional teams, including product management, to understand requirements and deliver high-quality, well-architected solutions.
+
+Location: Chicago office (flex hybrid)
+
+What You’ll Do:
+
+
+Build & Design: Contribute to the design and implementation of full-stack applications using C#/.NET and React/TypeScript. 
+Lead & Guide: Contribute to technical decisions, manage technical debt, and evolve architecture to meet future needs. 
+Solve Problems: Research and resolve complex technical challenges independently and collaboratively. 
+Collaborate Across Teams: Partner with product management and operations to understand needs and deliver thoughtful solutions. 
+Secure & Scalable APIs: Develop REST APIs with secure authentication and authorization (OpenID Connect, OAuth). 
+Ensure Quality: Apply best practices in testing and code reviews to maintain high standards. 
+Optimize Performance: Analyze and tune applications for speed and efficiency. 
+Champion Security: Use code scanning tools and update software to address vulnerabilities. 
+Grow & Innovate: Stay current with emerging technologies and continuously improve our tech stack. 
+
+
+What You Bring:
+
+
+Education: Bachelor’s degree in Computer Science, Software Engineering, or a related field. 
+Experience: 2+ years of hands-on full-stack development with C#/.NET and React/TS. 
+
+
+Technical Skills:
+
+
+Proficiency in C#/.NET and ASP.NET for backend services. 
+Experience with JavaScript, TypeScript, and React for frontend development. 
+Strong understanding of data structures, algorithms, and performance optimization. 
+Experience with RESTful APIs. 
+Familiarity with PostgreSQL, SQL Server, MySQL, and ORMs like Entity Framework. 
+Comfortable working in both Windows and Linux environments. 
+
+
+Other Skills:
+
+
+Strong communication skills with the ability to collaborate effectively with members of other teams, including product management and operations. 
+Experience or familiarity with Agile methodologies and CI/CD pipelines. 
+
+
+Bonus Skills:
+
+
+Experience or familiarity with Agile methodologies and CI/CD pipelines. 
+Understanding of microservices architecture, containerization (Docker/Kubernetes), and cloud platforms (Azure, AWS, or GCP). 
+
+
+Why Join Us? 
+
+
+Global Impact: Play a key role in building and managing a unified set of applications and services to support a core line of business. 
+Growth Opportunities: Access to ongoing professional development and the opportunity to work with advanced technology and methodologies. 
+Inclusive Culture: Be part of a diverse and inclusive team that values collaboration, continuous learning, and a healthy work-life balance. 
+Competitive Benefits: Enjoy a comprehensive compensation package, including health benefits, retirement plans, and performance-based bonuses. 
+
+
+Benefits And Perks
+
+We value the total wellbeing of our people – including health, financial, personal and social wellness. We believe standard benefits like health insurance and fair pay are a given at any organization. Still, you should know we offer:
+
+
+Fair and competitive salary and incentive compensation packages with an upside for overachievement
+Generous paid time off, including vacation, personal days, sick days and annual community service days
+Flexible, hybrid work environment, where you choose where and how you work
+Health, dental and vision benefits, including access to telemedicine and mental health services
+2:1 401(k) match, up to 8% match immediately upon hire
+Discounted Employee Stock Purchase Plan
+Tax Savings Accounts for health, dependent and transportation
+Employee referral bonus program
+Volunteer opportunities to help you give back to your communities
+
+
+Some of our employees’ favorite benefits and perks include:
+
+
+Complimentary lunch, snacks and coffee in any Cboe office
+Paid Tuition assistance and education opportunities
+Generous charitable giving company match
+Paid parental leave and fertility benefits
+On-site gyms and discounts to other fitness centers
+
+
+More About Cboe Global Markets
+
+We’re reimagining the future of the workplace by focusing on what matters most, our people. Our journey is an inclusive one. We’re investing deeply in leadership programs and career development initiatives that ensure everyone has an equal chance to succeed. We celebrate the diversity in our communities, inside and out, and welcome new perspectives with equity, inclusion and belonging.
+
+We work with purpose, solving problems with ingenuity, collaboration, and a lot of passion. We’re an engaged and excited team connecting markets across borders and embracing growth in all its forms to achieve incredible outcomes.
+
+Learn more about life at Cboe on our website and LinkedIn.
+
+Equal Employment Opportunity
+
+We're proud to be an equal opportunity employer - and celebrate our employees’ differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status.
+
+Our pay ranges are determined by a number of factors, including, but not limited to, role, experience, level, and location. The national new hire base pay range for this job in the United States is $97,750-$120,750. This range represents the minimum and maximum base pay the company expects to offer for new hires working in the position full time. If you live in one of the following areas or if you work in a Cboe office in the following areas, the range may be higher according to the geographic differentials listed below:
+
+US Geographic Differentials:
+
+
+110%: Austin TX, Chicago IL, Denver CO, San Diego CA 
+115%: Los Angeles CA, Seattle WA 
+120%: Boston MA, Washington DC 
+125%: New York City NY 
+130%: San Francisco CA 
+
+
+Within the range, individual pay is determined by a number of factors, including, but not limited to, work location, job-related skills, experience, and relevant education or training. In addition to base pay, our total rewards program includes an annual variable pay program and benefits including healthcare (medical, dental and vision), 401 (k) with a generous company match, life and disability insurance, paid time off, market-leading tuition assistance, and much more! Your recruiter will provide more details about the total compensation package, including variable pay and benefits, during the hiring process. For further information on our total rewards program, visit TOTAL REWARDS @CBOE.
+
+Any communication from Cboe regarding this position will only come from a Cboe recruiter who has a @cboe.com email or via LinkedIn Recruiter. Cboe does not use any other third party communication tools for recruiting purposes.

@@ -1,0 +1,323 @@
+Snowflake
+
+Software Engineer, Database Platform Security 
+
+Menlo Park, CA · 1 day ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$160K/yr - $230K/yr
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Hanzhi and others in your network
+
+Show all
+About the job
+
+Snowflake is about empowering enterprises to achieve their full potential — and people too. With a culture that’s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology — and careers — to the next level.
+
+There is only one Data Cloud. Snowflake’s founders started from scratch and designed a data platform built for the cloud that is effective, affordable, and accessible to all data users. But it didn’t stop there. They engineered Snowflake to power the Data Cloud, where thousands of organizations unlock the value of their data with near-unlimited scale, concurrency, and performance. This is our vision: a world with endless insights to tackle the challenges and opportunities of today and reveal the possibilities of tomorrow.
+
+Our Database Platform Security team is dedicated to building best-in-class security solutions for the Snowflake platform. We focus on three key areas:
+
+
+Zero Trust/Network Security: We ensure secure access from/to Snowflake to customer environments through features like network policies and private links.
+Key Management: We provide a robust crypto infrastructure for all customer data and metadata, offering key rotation, rekeying, and advanced Tri-secret Sharing for Bring Your Own Key (BYOK) capabilities.
+Secret Management: This is a new and rapidly growing area where we are building functionality for secure storage and management of secrets like OAuth tokens and credentials within Snowflake.
+
+
+
+You will:
+
+
+Work on highly impactful initiatives from idea formulation to design and implementation.
+Innovate, design and build highly available, reliable, and secure distributed services and solutions within the global Snowflake platform.
+Ensure operational readiness of services, leading incident management and mitigation discussions including meeting customer commitments for security, reliability, availability, and performance.
+
+
+
+Qualifications:
+
+
+Between 1 to 5 years of industry experience designing, building, and supporting large-scale distributed systems in production, with recent experience in building large scale cloud services.
+Knowledge and experience with different security, governance, privacy and compliance areas is a plus (though not required).
+Strong fundamentals in computer science skills.
+Strong development skills in Java, Python, SQL.
+BS in Computer Science or related degree.
+
+
+
+Every Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company’s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential.
+
+Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.
+
+How do you want to make your impact?
+
+For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com
+
+The following represents the expected range of compensation for this role:
+
+
+ The estimated base salary range for this role is $160,000 - $230,000.
+Additionally, this role is eligible to participate in Snowflake’s bonus and equity plan.
+
+
+
+The successful candidate’s starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; 401(k) retirement plan; flexible spending & health savings account; at least 12 paid holidays; paid time off; parental leave; employee assistance program; and other company benefits.
+
+To comply with pay transparency requirements and other statutes, you can notify us if you believe that a job posting is not compliant by completing this form.
+… more
+
+Benefits found in job post
+
+401(k), Disability insurance
+
+Set alert for similar jobs
+
+Software Engineer, Database Platform Security, Menlo Park, California, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+132
+
+total
+
+132
+
+in the past day
+
+Candidate seniority level
+
+71% Entry level candidates
+
+7% Senior level candidates
+
+Candidate education level
+
+66
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+17
+
+%
+
+have a Bachelor's Degree
+
+
+13
+
+%
+
+have a Master of Science
+
+
+4
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Snowflake
+Powered by Bing
+
+Company focus areas
+
+• Expansion of the AI Data Cloud: Snowflake aims to expand the AI Data Cloud, enabling customers to securely share, monetize, and acquire live data sets and data products. This includes increasing the consumption of their platform by building and expanding the AI Data Cloud.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 24% increase in headcount, indicating a major focus on expanding technical capabilities and product development. Expansion in sales: The 'Sales' department has grown by 15%, suggesting a strategic push to increase market reach and revenue generation. Increased focus on consulting and education: The 'Consulting' and 'Education' departments have experienced 34% and 29% growth respectively, highlighting new initiatives in professional services and training. Growth in operations and marketing: The 'Operations' and 'Marketing' departments have grown by 25% and 22% respectively, indicating efforts to enhance operational efficiency and market presence.
+… more
+
+The latest hiring trend
+
+10,866
+
+Total employees
+
+37%
+
+Company-wide
+
+2 year growth
+
+132%
+
+Engineering
+
+2 year growth
+
+Chart
+Chart with 25 data points.
+The chart has 1 X axis displaying Time. Data ranges from 2024-01-01 00:00:00 to 2026-01-01 00:00:00.
+The chart has 1 Y axis displaying values. Data ranges from 7958 to 10866.
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+5000
+10000
+15000
+End of interactive chart.
+
+Median employee tenure: 2.2 years
+
+Snowflake hires candidates from some of these companies and schools
+
+Snowflake hired 21 people from University of Southern California. See all
+
+Snowflake hired 719 people from University of Southern California. See all
+
+Competitors
+
+Snowflake operates in a highly competitive data cloud market, facing significant challenges from major cloud providers and specialized data platforms. Its strategic focus on AI integration and multi-cloud capabilities positions it uniquely, but it must continuously innovate to maintain its edge against formidable rivals like Databricks, Amazon Redshift, and Google BigQuery.
+… more
+
+Sources: rankred.com +3 more
+
+Show Premium Insights
+About the company
+
+Snowflake
+
+1,214,098 followers
+
+Follow
+
+Software Development
+
+ • 
+
+5001-10000 employees
+
+ • 
+
+10,809 on LinkedIn
+
+**Snowflake is proud to be the Official Data Collaboration Provider for LA28 and Team USA.**
+
+Snowflake delivers the AI Data Cloud — a global network where thousands of organizations mobilize data with near-unlimited scale, concurrency, and performance. Inside the AI Data Cloud, organizations unite their siloed data, easily discover and securely share governed data, and execute diverse analytic workloads. Wherever data or users live, Snowflake delivers a single and seamless experience across multiple public clouds. Snowflake’s platform is the engine that powers and provides access to the AI Data Cloud, creating a solution for data warehousing, data lakes, data engineering, data science, data application development, and data sharing. Join Snowflake customers, partners, and data providers already taking their businesses to new frontiers in the AI Data Cloud.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

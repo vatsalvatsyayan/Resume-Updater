@@ -1,0 +1,44 @@
+About the job
+
+We are a Stanford startup working on an AI-driven residential real estate marketplace. Check out our team at Homekey here: https://www.homekey.casa/meet-our-team.
+
+
+
+
+We’re building across the full lifecycle of real estate: property valuation, auction and matching, natural language search, workflow management, and a voice-based copilot; to make it easy for people to buy, sell, and manage homes. 
+
+
+
+
+Our tech stack
+
+React, TypeScript, Flask, Redis, MongoDB, AWS, LangChain, React Native, Expo, Model Context Protocol (MCP)
+
+
+
+
+The role
+
+We’re looking for a Full-Stack Engineer with at least 2 years of relevant full-time experience to help us build and scale the future of real estate technology.
+
+
+
+
+In this role, you will:
+
+Own and ship core product features across frontend and backend.
+Drive technical architecture and influence product roadmap.
+Define and execute on the technical vision with significant ownership.
+
+
+
+
+About you
+
+2+ years of relevant full-time experience.
+Within a commutable distance to Palo Alto, CA.
+
+
+
+
+If you’re excited about shaping the future of real estate with AI, we’d love to chat.

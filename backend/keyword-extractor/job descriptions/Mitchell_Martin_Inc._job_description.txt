@@ -1,0 +1,73 @@
+About the job
+
+Title: C# pricing Developer
+
+Location: Regional Description (Onsite)
+
+Employment Type: Full Time
+
+Compensation
+
+Pay Range:$120000-$175000
+
+Description
+
+
+ Embark on a transformative journey as a C# Developer. 
+ Redefine the future of banking and craft innovative solutions. 
+ Develop technology infrastructure to enable pricing and execution of financial products. 
+ Contribute to revenue increases and reduce operational risk. 
+
+
+Key Responsibilities
+
+
+ Develop and maintain pricing solutions for structured products. 
+ Collaborate with cross-functional teams to deliver technology solutions. 
+ Enhance existing systems to improve efficiency and performance. 
+ Ensure delivery of quality code within deadlines. 
+
+
+Qualifications
+
+
+ Experience with financial derivatives in a similar environment. 
+ Extensive experience in C# and related frameworks. 
+ Relevant degree in Computer Science, Engineering, Maths, or Physics. 
+ Ability to communicate effectively at all levels and work independently. 
+ Knowledge of Agile environments and modern development practices. 
+
+
+Core Technologies
+
+
+ C# | .NET | Python | SQL | Cloud Technologies
+
+
+Contact Information
+
+Ben Barraclough,benjamin.barraclough@itmmi.com
+
+Benefits
+
+Learn more about our benefits offerings here https://www.mitchellmartin.com/careers/benefits-perks
+
+EEO Statement
+
+Learn more about our EEO policy here https://www.mitchellmartin.com/eoe-statement
+
+
+
+
+
+Desired Skills and Experience
+
+C #
+.NET
+.NET CORE
+SQL
+DEVELOP
+DESIGN
+ARCHITECT
+BANKING
+FINANCE

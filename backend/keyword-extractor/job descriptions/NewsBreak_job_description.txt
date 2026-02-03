@@ -1,0 +1,501 @@
+NewsBreak
+
+Software Engineer, Full Stack (Scoopz)
+
+Mountain View, CA · 44 minutes ago · 29 people clicked apply
+
+Responses managed off LinkedIn
+
+$135K/yr - $190K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+About NewsBreak
+
+Founded in 2015, NewsBreak is the Content Intelligence platform shaping the future content economy. With over 40 million monthly active users, our flagship platform delivers highly personalized local news and information powered by advanced AI, recommendation systems, and adtech.
+
+Recognized by Fast Company as #32 on the Top Workplaces for Innovators, we're proud to be Great Place to Work® certified and home to a dynamic team of technologists, product innovators, and business leaders who are passionate about solving meaningful challenges at scale.
+
+Together, we reached unicorn status in 2021, and we remain committed to continuing this high-growth trajectory with the right team to fulfill our mission: building the infrastructure layer for content intelligence.
+
+If you’re inspired to dream big, innovate fast, and make a difference, we’d love to hear from you! For more information, visit www.newsbreak.com/about
+
+About Scoopz
+
+Scoopz is a fast-growing consumer startup building the next evolution of short-form video. We’re engineers, product thinkers, and builders at heart, obsessed with shipping fast and learning faster. Our product goes beyond endless scrolling — we’re creating interest-based video communities where real people actually connect.
+
+If you like solving hard problems at scale, moving with startup speed, and working with a team that values ownership, curiosity, and impact over titles, you’ll feel right at home here.
+
+About The Role
+
+We are looking for a passionate Full Stack / Backend Engineer to join our team. You will help build and scale the infrastructure that powers Scoopz’s video communities, ensuring fast, reliable, and seamless experiences for millions of users. You’ll collaborate closely with product, design, and other engineers to deliver features end-to-end — from database design and APIs to front-end interactions.
+
+Responsibilities
+
+Full Stack Engineer will be required to see out a project from conception to final product, requiring good organizational skills and attention to detail.
+
+
+Design, build, and maintain scalable backend services (Java / Go / Python).
+Develop responsive, performant web applications using modern frameworks (React, Next.js, or similar).
+Collaborate with product managers, designers, and other engineers to deliver high-quality features end to end.
+Implement robust API integrations and efficient data processing pipelines.
+Participate in architecture reviews, code reviews, and continuous deployment cycles.
+Continuously improve performance, scalability, and reliability of existing systems.
+
+
+Requirements
+
+
+Proficiency in at least one backend language (Java, Go, or Python).
+Solid experience with modern frontend technologies (JavaScript, TypeScript, React, or Next.js).
+Strong understanding of RESTful APIs, database systems (MySQL, PostgreSQL, or MongoDB), and caching (Redis).
+Familiarity with Git, CI/CD pipelines, and containerization (Docker, Kubernetes).
+Excellent problem-solving and communication skills.
+
+
+Nice to Have
+
+
+Experience with distributed systems, microservices, or cloud platforms (AWS, GCP, or Azure).
+Knowledge of AI/ML, data processing, or automation pipelines.
+Exposure to high-traffic production environments and performance tuning.
+
+
+The US base salary range for this full-time position is listed below. Pay may vary based on a number of factors including job-related skills, level, experience, geographic location and relevant education or training. At NewsBreak, we design our overall rewards package to attract top talents. Depending on the position, the role may also be eligible for discretionary bonus and options. Your recruiter can share more details during the hiring process.
+
+Annual Base Pay Range
+
+$135,000—$190,000 USD
+
+CPRA Privacy Notice for California Candidates
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Full Stack (Scoopz), Mountain View, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+29
+
+total
+
+29
+
+in the past day
+
+Candidate seniority level
+
+76% Entry level candidates
+
+10% Senior level candidates
+
+Candidate education level
+
+82
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+14
+
+%
+
+have a Bachelor's Degree
+
+
+4
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about NewsBreak
+Powered by Bing
+
+Company focus areas
+
+• Expansion of User Base: Increase the number of app downloads and monthly active users by enhancing the user experience and expanding the reach of the NewsBreak platform.
+
+...more
+
+Sources: brandsownedby.com +1 more
+
+Hiring & headcount
+
+Focus on engineering: The 'Engineering' department has seen a 12% increase in employee count over the past year, indicating a significant investment in technical capabilities and product development. Growth in sales: The 'Sales' department has experienced a 38% increase in headcount, suggesting a strong push towards expanding market reach and revenue generation. Expansion in arts and design: The 'Arts and Design' department has grown by 25%, highlighting an emphasis on enhancing the company's creative and design capabilities. Reduction in media and communication: The 'Media and Communication' department has decreased by 19%, which may indicate a strategic shift away from traditional media roles or a restructuring within the company.
+… more
+
+The latest hiring trend
+
+325
+
+Total employees
+
+0%
+
+Company-wide
+
+2 year growth
+
+54%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+200
+400
+
+Median employee tenure: 3.7 years
+
+NewsBreak hires candidates from some of these companies and schools
+
+NewsBreak hired 5 people from University of Southern California. See all
+
+Competitors
+
+Particle Media, through its core product NewsBreak, operates in a highly competitive landscape of intelligent news aggregation. The company focuses on delivering local news at scale across the US, leveraging AI to select news content. Competitors like Perplexity AI and Artifact also utilize AI for news aggregation, while Tempo News provides regional coverage with a focus on community development. The competitive landscape is characterized by the use of advanced technologies to enhance user experience and the growing importance of local news content.
+… more
+
+Sources: journalists.org +2 more
+
+Show Premium Insights
+About the company
+
+NewsBreak
+
+23,358 followers
+
+Follow
+
+Software Development
+
+ • 
+
+51-200 employees
+
+ • 
+
+325 on LinkedIn
+
+NewsBreak is the leading platform for local news and information, with more than 40 million users across America. By using new technology, NewsBreak provides community-focused news and information from over 10,000 sources in a timely and accessible way. NewsBreak is bridging the gap between new technology and traditional local media, offering an innovative digital solution that allows users to get the information they need to live safer, more vibrant, and connected lives. 
+
+Based in Mountain View, California, NewsBreak connects users with local information, national publishers, and targeted advertising from local businesses, with increased traffic and revenue that helps strengthen local communities.
+
+We are always looking for great talents. Contact us via careers@newsbreak.com
+
+Our website:
+https://www.newsbreak.com/about
+
+Creator Program: 
+https://www.newsbreak.com/creators 
+
+Publishing Platform:
+https://mp.newsbreakapp.com
+
+Android App Download:
+https://play.google.com/store/apps/details?id=com.particlenews.newsbreak&hl=en
+
+iOS App Download:
+https://itunes.apple.com/us/app/news-break-personal-local/id1132762804?mt=8
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Full Stack Software Engineer
+
+Basic Capital
+
+New York, NY (On-site)
+
+Posted on January 22, 2026, 3:35 PM
+2 hours ago
+
+Data Engineer
+
+Advantage Tech Services
+
+Greater Phoenix Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 1:29 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Creative Technology Engineer
+
+Origin
+
+New York, NY (Hybrid)
+
+Posted on January 21, 2026, 12:10 PM
+1 day ago
+
+Senior/Staff Founding Software Engineer (Cloud / Full Stack) (Verified job)
+Senior/Staff Founding Software Engineer (Cloud / Full Stack) 
+
+JetBridge AI
+
+Seattle, WA (On-site)
+
+You’d be a top applicant
+
+Posted on January 22, 2026, 2:21 AM
+15 hours ago
+
+Forward Deployed Engineer
+
+Droneforge
+
+El Segundo, CA (On-site)
+
+$140K/yr - $180K/yr
+
+Posted on January 22, 2026, 8:18 AM
+9 hours ago
+
+ · 
+
+ Easy Apply
+
+Applied AI Engineer
+
+Louisville Metro Government
+
+Louisville Metropolitan Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 1:11 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+AI Product Engineer
+
+Tacit
+
+San Francisco, CA (On-site)
+
+$120K/yr - $180K/yr
+
+Posted on January 21, 2026, 10:53 PM
+18 hours ago
+
+Senior Developer Advocate (Developer Evangelist)
+
+Typesense
+
+United States (Remote)
+
+$150K/yr - $170K/yr
+
+ • 
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 2:33 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+ShipMyCards LLC
+
+Litchfield Park, AZ (On-site)
+
+$24/hr - $33/hr
+
+ • 
+
+Medical, Vision, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 7:30 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (Verified job)
+Software Engineer 
+
+Photronics
+
+Brookfield, CT (On-site)
+
+Vision, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 12:48 PM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer (Verified job)
+Full Stack Engineer 
+
+Anblicks
+
+Burbank, CA (Hybrid)
+
+Posted on January 22, 2026, 3:19 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+Platform DevEx Engineer (Verified job)
+Platform DevEx Engineer 
+
+National Center for Biotechnology Information (NCBI)
+
+Fairfax, VA (On-site)
+
+$115K/yr - $150K/yr
+
+ • 
+
+401(k) benefit
+
+Posted on January 22, 2026, 8:43 AM
+9 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

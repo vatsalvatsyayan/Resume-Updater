@@ -1,0 +1,43 @@
+About the job
+
+About The Company
+
+Qumulo is the leading file data platform for multi cloud environments, providing outstanding freedom, control, and real-time visibility for file data at substantial scale. Fortune 500 companies, major film studios, and the largest research facilities in the world trust Qumulo to help them innovate with their most important digital files. The Qumulo experience makes file data management simple with continuous new features, a single solution for all workloads, and access to customer success specialists on your schedule.
+
+At Qumulo, we are building an open and collaborative culture where people can do their best work with customers as our magnetic field. We act as owners, we share by default, we are data driven and experimental and as an inclusive workplace, we encourage and celebrate multiple points of view. As part of our culture we believe diversity drives innovation.
+
+About The Position
+
+At Qumulo, we've built a truly outstanding modern file data platform from scratch. Our software runs natively in the public cloud or in private data centers, allowing our customers to truly Scale Anywhere. It’s incredibly exciting work and there is a lot more to do to make our full vision reality. As a new Engineer at Qumulo you will join a feature team and immediately begin writing, testing and deploying production code. Your work will take an innovative product to the next level, see that effort fuel customer innovation, and grow the Qumulo business.
+
+We hire committed, adaptive engineers with a diverse set of backgrounds and who we can depend on to solve problems head on. Our engineers work collaboratively both within the product development organization and across the company to ship a continuously integrated and deployed code base. Engineers at Qumulo work alongside people who have an appetite for collaborative coding environments. It's a community where individual engineers have a voice. Our teams are given the charter to design and build the features that deliver clear value to our customers.
+
+Responsibilities
+
+
+Collaborate with team members on design, code reviews, and pair programming
+Collaborate with team members and area leads on architecture and design of new/updated features
+Contribute to feature development and testing using C, Rust and Python
+Define and implement customer-facing features and internal improvements
+Help debug and fix test failures and product or service issues
+
+
+Qualifications
+
+
+Ability to write well-factored and well-tested code
+Strong grasp of algorithms and data structures, with some experience in distributed systems, database concepts, concurrent programming, or operating systems concepts
+At least one class, internship or personal project using C, C++, Rust, Java, or Go
+Willingness to work collaboratively with a team to solve complex problems
+Finishing a BS or BA in Computer Science or Computer Engineering or equivalent experience
+
+
+The annual pay range for the role is USD $127,000 - $191,000.
+
+Qumulo is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, disability, military status, or national origin or any other characteristic protected under federal, state, or applicable local law.
+
+Please note that employment at Qumulo is contingent upon completion of a satisfactory background check.
+
+For more information on our Applicant and Employee Privacy Notice please click on the link below:
+
+ Privacy Notice

@@ -1,0 +1,70 @@
+About the job
+
+Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
+
+About The Team
+
+The Web Infrastructure team creates and maintains the foundational components and tooling that power Anduril's web application ecosystem. We serve as the backbone of the web development process, enabling our engineers to focus on building innovative features for Lattice applications rather than reinventing infrastructure. Our team crafts the entire developer journey from environment setup and local development workflows to build processes, testing frameworks, and deployment pipelines. We develop shared building blocks utilized throughout Anduril's customer-facing web applications, such as internationalization systems, error handling mechanisms, and comprehensive observability solutions. Our mission is to accelerate development cycles and equip our engineering teams with robust tools to create exceptional web applications that advance Anduril's defense technology goals.
+
+About The Job
+
+We are seeking a Software Engineer to join our growing team during its formative stage. In this position, you will help shape how Anduril engineers build and deliver web software. You will contribute to designing and implementing developer tools that streamline workflows and enhance productivity across the organization. Your work will span multiple technical domains as you identify friction points and craft elegant solutions to improve our development infrastructure. This role requires a solid foundation in web technologies, enthusiasm for build systems, and keen insight into what makes for efficient developer workflows. If you're a collaborative problem-solver who finds satisfaction in creating tools that amplify the effectiveness of other engineers, we want to talk to you.
+
+What You'll Do
+
+
+Design, build, test, deploy, and maintain tooling that helps Anduril increase engineering velocity and product quality
+Proactively identify pain points and opportunities to improve our dev experience and infrastructure
+Work across the stack (front-end, back-end, build, CI/CD) to get things done
+Support and mentor fellow engineers on engineering best practices, and on how to best use our tools
+
+
+Required Qualifications
+
+
+Bachelor's degree in Computer Science or related field; or equivalent industry experience
+Experience building production web applications in JavaScript or TypeScript (we use TypeScript, React, and RxJS)
+Familiarity with algorithms, data structures, cloud infrastructure, Linux systems, version control systems, automated testing, and other technical tools
+High empathy for your fellow engineers (our customers)
+Minimum 3 years of software engineering experience
+Must be a U.S. Person due to required access to U.S. export controlled information or facilities
+
+
+Preferred Qualifications
+
+
+Have a bias for action and taking ownership. You have a track record of solving a problem if you see one.
+Experience maintaining continuous integration systems (we use CircleCI)
+Experience or interest working in monorepos with modern build systems like Bazel, Buck, Nx, etc. (we use Bazel)
+Experience or interest working in Go
+Experience with gRPC/protobuf or similar technologies
+
+
+US Salary Range
+
+$138,000—$207,000 USD
+
+Benefits
+
+The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including: 
+
+
+Platinum Healthcare Benefits: For U.S. roles, we offer comprehensive medical, dental, and vision plans at little to no cost to you.
+For UK roles, Private Medical Insurance (PMI): Anduril will cover the full cost of the insurance premium for an employee and dependents.
+For AUS roles, Private health plan through Bupa: Coverage is fully subsidized by Anduril.
+Basic Life/AD&D and long-term disability insurance 100% covered by Anduril, plus the option to purchase additional life insurance for you and your dependents.
+Extremely generous company holiday calendar including a holiday hiatus in December, and highly competitive PTO plans.
+16 weeks of paid Caregiver & Wellness Leave to care for a family member, bond with your baby, or tend to your own medical condition.
+Family Planning & Parenting Support: Fertility (eg, IVF, preservation), adoption, and gestational carrier coverage with additional benefits and resources to provide support from planning to parenting.
+Mental Health Resources: We provide free mental health resources 24/7 including therapy, life coaching, and more. Additional work-life services, such as free legal and financial support, available to you as well.
+A professional development stipend is available to all Andurilians.
+Daily Meals and Provisions: For many of our offices this means breakfast, lunch and fully stocked micro-kitchens.
+Company-funded commuter benefits available based on your region.
+Relocation assistance (depending on role eligibility).
+401(k) retirement savings plan - both a traditional and Roth 401(k). (US roles only)
+
+The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process.
+
+Anduril is an equal-opportunity employer committed to creating a diverse and inclusive workplace. The Anduril team is made up of incredibly talented and unique individuals, who together are disrupting industry norms by creating new paths towards the future of defense technology. All qualified applicants will be treated with respect and receive equal consideration for employment without regard to race, color, creed, religion, sex, gender identity, sexual orientation, national origin, disability, uniform service, Veteran status, age, or any other protected characteristic per federal, state, or local law, including those with a criminal history, in a manner consistent with the requirements of applicable state and local laws, including the CA Fair Chance Initiative for Hiring Ordinance. We actively encourage members of recognized minorities, women, Veterans, and those with disabilities to apply, and we work to create a welcoming and supportive environment for all applicants throughout the interview process. If you are someone passionate about working on problems that have a real-world impact, we'd love to hear from you!
+
+To view Anduril's candidate data privacy policy, please visit https://anduril.com/applicant-privacy-notice/.

@@ -1,0 +1,526 @@
+Prudential Financial
+
+Associate Software Engineer 
+
+Newark, NJ · 56 minutes ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$66.7K/yr - $110.1K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+Job Classification
+
+Technology - Engineering & Cloud
+
+Are you interested in building capabilities that enable the organization with innovation, speed, agility, scalability and efficiency? The Global Technology team takes great pride in our culture where digital transformation is built into our DNA! When you join our organization at Prudential, you’ll unlock an exciting and impactful career – all while growing your skills and advancing your profession at one of the world’s leading financial services institutions.
+
+Your Team & Role 
+
+As an Associate Software Engineer in Global Technology and Operations you will partner with product owners, tech leads, designers, engineers and delivery professionals to improve Financial Accounting Platforms. You will code, test and debug new and existing applications as you implement capabilities to solve sophisticated business problems, deploy innovative products, services and experiences to delight our customers! You will bring excellent problem solving, communication and teamwork skills, along with agile ways of working, strong business insight, an inclusive leadership attitude and a continuous learning focus to all that you do.
+
+Location: Newark, NJ hybrid (in office 3 days/week)
+
+Here is What You Can Expect on a Typical Day 
+
+
+Build applications ensuring that the code follows latest coding practices and industry standards, using modern design patterns and architectural principles; with guidance, actively code and execute against the roadmap
+Develop high quality, well documented and efficient code adhering to all applicable Prudential standards 
+Collaborate with product owners in understanding needs and defining feature stories, tech leads in defining technical design and other team members to understand the system end-to-end and deliver robust solutions that bring about business impact 
+Write unit, integration tests and functional automation, researching problems discovered by quality assurance or product support
+Continue to advance understanding of relevant and emerging technologies with learning and innovation embedded in the day-to-day 
+Work on problems of moderate scope in which analysis of situation or data requires a review of identifiable factors
+Use programming languages including but not limited to Python, Java, or JavaScript and React, Springboot, Node.js Frameworks 
+
+
+The Skills & Expertise You Bring
+
+
+Bachelor of Computer Science or Engineering or experience in related fields
+Leverage diverse ideas, experiences, thoughts and perspectives to the benefit of the organization 
+Experience with agile development methodologies and Test-Driven Development (TDD)
+Knowledge of business concepts tools and processes that are needed for making sound decisions in the context of the company's business
+Ability to learn new skills and knowledge on an on-going basis through self-initiative and tackling on challenges
+Excellent problem solving, communication and collaboration skills
+Experience with the following:
+Programming Languages: Python, Java or Java Script; working in distributed systems, object-oriented programming, design patterns and design methodology; JAVA services using Spring CLI, Maven, Microservice, multi-threading, Concurrency and parallel processing
+Frameworks: React, Springboot, Node.js, such as Full Stack
+Data Store: NoSQL or Relational Data structures
+Knowledge/understanding of the following:
+Application Programming Interfaces (API): Consumption & Development; implementing service-oriented architecture (SOA) patterns; Web service technologies such as APIs, REST, JSON, SOAP, XML, JDBC, MySQL
+Unit, interface and end user testing concepts and tooling (functional & non-functional)
+Automated testing
+Accessibility awareness
+Software security skills including secure coding, web application security and DevSecOps; Solid grasp of security concepts (authentication, authorization, encryption, digital signature, JWT), SSL, web service proxies, firewall, SAML 2.0, OpenID Connect, OAuth 2.0)
+Dev Ops Tools & Practices: Branching techniques and usage of GitHub, Bitbucket or Subversion; DevOps, Jenkins
+Software Development Life Cycle (SDLC): Monitoring and logging techniques
+AWS Core Services: AWS Services such as CloudWatch, Code-Deploy
+Preferred qualifications:
+AWS Development
+Architecture Patterns
+Design Thinking
+
+What We Offer You
+
+Prudential is required by state specific laws to include the salary range for this role when hiring a resident in applicable locations. The salary range for this role is from $66,700.00 to $110,100.00. Specific pricing for the role may vary within the above range based on many factors including geographic location, candidate experience, and skills.
+
+
+Market competitive base salaries, with a yearly bonus potential at every level. 
+Medical, dental, vision, life insurance, disability insurance, Paid Time Off (PTO), and leave of absences, such as parental and military leave. 
+401(k) plan with company match (up to 4%). 
+Company-funded pension plan. 
+Wellness Programs including up to $1,600 a year for reimbursement of items purchased to support personal wellbeing needs. 
+Work/Life Resources to help support topics such as parenting, housing, senior care, finances, pets, legal matters, education, emotional and mental health, and career development. 
+Education Benefit to help finance traditional college enrollment toward obtaining an approved degree and many accredited certificate programs. 
+Employee Stock Purchase Plan: Shares can be purchased at 85% of the lower of two prices (Beginning or End of the purchase period), after one year of service. 
+
+
+Eligibility to participate in a discretionary annual incentive program is subject to the rules governing the program, whereby an award, if any, depends on various factors including, without limitation, individual and organizational performance. To find out more about our Total Rewards package, visit Work Life Balance | Prudential Careers. Some of the above benefits may not apply to part-time employees scheduled to work less than 20 hours per week.
+
+Prudential Financial, Inc. of the United States is not affiliated with Prudential plc. which is headquartered in the United Kingdom.
+
+Prudential is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender identity, national origin, genetics, disability, marital status, age, veteran status, domestic partner status, medical condition or any other characteristic protected by law.
+
+If you need an accommodation to complete the application process, please email accommodations.hw@prudential.com.
+
+If you are experiencing a technical issue with your application or an assessment, please email careers.technicalsupport@prudential.com to request assistance.
+
+
+… more
+
+Benefits found in job post
+
+Disability insurance, 401(k), Pension plan
+
+Set alert for similar jobs
+
+Associate Software Engineer, Newark, New Jersey, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+128
+
+total
+
+128
+
+in the past day
+
+Candidate seniority level
+
+86% Entry level candidates
+
+5% Senior level candidates
+
+Candidate education level
+
+80
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+19
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a High School Diploma
+Exclusive Job Seeker Insights about Prudential Financial
+Powered by Bing
+
+Company focus areas
+
+• Transformation towards less market-sensitive operations: Prudential Financial aims to continue its transformation towards becoming less market-sensitive, including efforts to further de-risk through reinsurance transactions and to deliver sustainable long-term growth by investing in products and solutions that meet evolving customer needs.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Focus on finance: The 'Finance' department has seen a 2% increase in headcount, indicating a strategic emphasis on financial operations and growth within this sector. Growth in sales and operations: Both the 'Sales' and 'Operations' departments have experienced a 3% increase in headcount, suggesting a push towards expanding sales capabilities and operational efficiency. Investment in education: The 'Education' department has shown a 6% increase in headcount, highlighting a significant investment in educational initiatives and employee development. Stability in engineering and business development: The 'Engineering' and 'Business Development' departments have maintained stable headcounts, reflecting a steady focus on innovation and business growth.
+… more
+
+The latest hiring trend
+
+27,873
+
+Total employees
+
+2%
+
+Company-wide
+
+2 year growth
+
+45%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+20000
+40000
+
+Median employee tenure: 8.9 years
+
+Prudential Financial hires candidates from some of these companies and schools
+
+Prudential Financial hired 5 people from University of Southern California. See all
+
+Prudential Financial hired 50 people from University of Southern California. See all
+
+Competitors
+
+Prudential Financial operates in a highly competitive landscape, facing significant competition from other major financial services companies such as MetLife, Principal Financial Group, and Ameriprise Financial. The company leverages its massive scale, world-class asset management through PGIM, and a dominant market share in the Japanese life insurance market to maintain its competitive edge. Prudential's strategic focus includes adapting to market changes, leveraging alternative investments, and performance-linked products to bolster profitability.
+… more
+
+Sources: markets.financialcontent.com +1 more
+
+Show Premium Insights
+About the company
+
+Prudential Financial
+
+410,441 followers
+
+Follow
+
+Financial Services
+
+ • 
+
+10001+ employees
+
+ • 
+
+25,786 on LinkedIn
+
+Prudential Financial (NYSE:PRU) was founded on the belief that financial security should be within reach for everyone, and for over 140 years, we have helped our customers reach their potential and tackle life's challenges for now and future generations to come. Today, we are one of the world’s largest financial services institutions, offering individual and institutional clients a wide array of financial products and services. With operations in the United States, Asia, Europe and Latin America, we are known for delivering on our promises to our customers, and are recognized as a trusted brand and one of the world’s most admired companies. We also have one of the most recognized and trusted brand symbols: The Rock®, an icon of strength, stability, expertise and innovation.  We measure our long-term success on our ability to deliver value for shareholders, meet customer needs, and attract and develop the best talent in our industry. We offer an inclusive work environment where employees can develop to their full potential, and give back to the communities where we live and work. (Pru.us/disclaimer)
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Artificial Intelligence Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:48 AM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Core Systems
+
+Unlimited Industries
+
+San Francisco, CA (On-site)
+
+1 school alumni works here
+
+Posted on December 3, 2025, 1:53 PM
+1 month ago
+
+Distributed Systems Software Engineer
+
+Stealth AI CyberSecurity Startup
+
+Brooklyn, NY (On-site)
+
+$180K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on December 19, 2025, 11:00 AM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Embedded Software Engineer (C/C# .NET)
+
+ADMET
+
+Norwood, MA (On-site)
+
+$100K/yr - $120K/yr
+
+ • 
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 2:15 PM
+55 minutes ago
+
+ · 
+
+ Easy Apply
+
+Staff Software Engineer
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$160K/yr - $200K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 2:55 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Systems Integrator
+
+VIA Centers for Neurodevelopment
+
+Central, VA (On-site)
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 8, 2026, 6:11 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer - New Grad
+
+Valon
+
+New York, NY (Hybrid)
+
+$130K/yr - $155K/yr
+
+ • 
+
+401(k), +1 benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:37 AM
+12 hours ago
+
+Software Engineer I (Verified job)
+Software Engineer I 
+
+GumGum
+
+Santa Monica, CA
+
+$128K/yr - $149K/yr
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:30 AM
+12 hours ago
+
+Associate Software Engineer
+
+Cabana
+
+New York City Metropolitan Area (On-site)
+
+$140K/yr - $170K/yr
+
+ • 
+
+4 benefits
+
+Actively reviewing applicants
+
+Posted on January 14, 2026, 5:14 PM
+21 hours ago
+
+ · 
+
+ Easy Apply
+
+Entry Level Software Developer (Verified job)
+Entry Level Software Developer 
+
+IBM
+
+Lowell, MA (Hybrid)
+
+1 connection works here
+
+Posted on January 8, 2026, 7:32 AM
+1 week ago
+
+Entry Level Software Developer
+
+Property Matrix
+
+Los Angeles, CA (On-site)
+
+401(k) benefit
+
+Posted on December 26, 2025, 12:58 PM
+2 weeks ago
+
+Software Engineer
+
+Valon
+
+San Francisco, CA (On-site)
+
+$140K/yr - $200K/yr
+
+ • 
+
+1 benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:37 AM
+12 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

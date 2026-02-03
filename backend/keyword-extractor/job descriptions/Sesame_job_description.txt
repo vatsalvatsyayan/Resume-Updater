@@ -1,0 +1,55 @@
+About the job
+
+About Sesame
+
+Sesame believes in a future where computers are lifelike - with the ability to see, hear, and collaborate with us in ways that feel natural and human. With this vision, we're designing a new kind of computer, focused on making voice companions part of our daily lives. Our team brings together founders from Oculus and Ubiquity6, alongside proven leaders from Meta, Google, and Apple, with deep expertise spanning hardware and software. Join us in shaping a future where computers truly come alive.
+
+About The Role
+
+We're looking for passionate software engineers to build product experiences that people love.
+
+You'll collaborate across design, product, and engineering to build features and tools that power our conversational AI experience and consumer apps. You’ll work with and learn from people who are not only technically excellent but who care deeply about delivering something outstanding.
+
+We're building the future of personal AI, and your work will help make it feel effortless and delightful.
+
+Responsibilities
+
+
+Write and ship code that shapes the experience of our users.
+Work on cross-functional projects with both internal and external impacts.
+Develop and hone the skills to own projects end-to-end.
+Participate in product ideation and play an active role in shaping the user experience.
+
+
+Required Qualifications
+
+
+Computer science or engineering degree.
+A demonstrated passion for excellence, whether academic or otherwise.
+Strong problem-solving skills and an ability to quickly grasp new challenges.
+Experience in developing software with multiple contributors using Git and other collaboration tools
+Strong communication and collaboration skills.
+
+
+Preferred Qualifications
+
+
+Active interest in AI.
+Experience building and shipping a full-stack application to users.
+Experience working with Python.
+
+
+Sesame is committed to a workplace where everyone feels valued, respected, and empowered. We welcome all qualified applicants, embracing diversity in race, gender, identity, orientation, ability, and more. We provide reasonable accommodations for applicants with disabilities—contact careers@sesame.com for assistance.
+
+Full-time Employee Benefits
+
+
+401k matching
+100% employer-paid health, vision, and dental benefits 
+Unlimited PTO and sick time 
+Flexible spending account matching (medical FSA) 
+
+
+Benefits do not apply to contingent/contract workers
+
+Compensation Range: $150K - $190K

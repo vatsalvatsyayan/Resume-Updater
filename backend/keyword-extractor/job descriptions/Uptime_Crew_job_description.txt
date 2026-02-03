@@ -1,0 +1,472 @@
+Uptime Crew
+
+Entry Level AI Software Engineer
+
+Mountain View, CA · 9 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+About the job
+
+About Uptime Crew
+
+Uptime Crew is technology-focused and delivers talent in Full-Stack engineering, Cloud, DevSecOps, Networking, Cyber Security, Artificial Intelligence, Business Intelligence, Data Science, and Machine Learning. Our training uses realistic client environments so you can contribute quickly.
+
+
+
+
+Why this role
+
+Start your career using AI to code faster, test better, and ship with confidence. Once hired, you will train for 8-10 weeks, then start productive work!
+
+
+
+
+The training program
+Agile sprints, code reviews, and realistic tickets.
+Curriculum focus: AI-assisted software development, prompt patterns for coding and testing, secure and compliant AI use in regulated environments, code quality and reliability, SDLC automation, cloud deployment basics.
+Capstone: Deliver a production-style slice that uses AI tools to cut cycle time, raise test coverage, and improve documentation quality.
+Deployment: Join the client team on-site, contribute to existing services and apps, and continue using AI to accelerate delivery.
+
+
+
+
+What you will do on the job
+Drive the adoption of AI-assisted DevSecOps practices, using large language models and automation tools to accelerate secure containerization of legacy applications while maintaining security compliance.
+Develop and maintain AI-enhanced CI/CD pipelines that automatically generate security policies, container configurations, and infrastructure-as-code templates based on application requirements and best practices.
+Use AI coding assistants for implementation, refactoring, and documentation while following team guidelines.
+Generate unit and integration tests, improve coverage, and reduce defects.
+Speed up PRs with AI-assisted reviews, summaries, and risk notes.
+Query logs and docs with AI to troubleshoot issues and unblock work.
+Partner with product, design, security, and compliance to ship increments that meet fintech standards.
+
+
+
+
+Tech you might use
+
+Java or Python, Spring Boot or Node, REST and gRPC, React, SQL, GitHub, CI/CD, Docker, AWS or GCP. AI tools such as LangChain, Cursor, Windsurf, GitHub Copilot, code review assistants, test generators, and documentation copilots.
+
+
+
+
+Minimum qualifications
+Hands-on coding experience through coursework, projects, or internships.
+Strong fundamentals in data structures, algorithms, and web or backend basics.
+Ability to learn quickly and work in an Agile team.
+Bachelor’s degree.
+Legally authorized to work in the United States without employer sponsorship.
+Willing to work on-site in one of the listed locations
+
+
+
+
+Nice to have
+Projects that show AI-assisted development, such as AI-generated tests or AI-supported refactors.
+Experience with cloud services, databases, or CI/CD.
+Interest in security, privacy, and handling sensitive data.
+
+
+
+
+Benefits and compensation
+Salary (including training): $110,000+ per year
+Health insurance including medical, vision, and dental
+Employee Stock Purchase Plan (ESPP)
+Matching 401(k)
+Up to 15 days PTO
+Enjoy 14 Paid Holidays
+Get a week off at the end of the year to unplug from work, rest and recharge
+Take a day off to celebrate your birthday
+Take up to 10 days for the loss of a family member and one day for a pet
+Tuition Reimbursement
+
+
+
+
+Entry Level AI Engineer responsibilities
+Development in Java, Spring Boot, Microservices, API while providing expertise in the full software development lifecycle, from concept and design to testing, designing, developing and delivering high-volume, low-latency applications for mission-critical systems.
+Participate in technical solution and design discussions.
+Perform proofs of concept and comprehensive solutions throughout the development lifecycle.
+Add new features while improving efficiency, reliability, and scalability to address client needs.
+
+
+
+
+… more
+
+Benefits found in job post
+
+Medical insurance, 401(k)
+
+Set alert for similar jobs
+
+Artificial Intelligence Engineer, Mountain View, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+763
+
+total
+
+763
+
+in the past day
+
+Candidate seniority level
+
+79% Entry level candidates
+
+8% Senior level candidates
+
+Candidate education level
+
+78
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+20
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Uptime Crew
+Powered by Bing
+
+The latest hiring trend
+
+62
+
+Total employees
+
+6100%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+50
+100
+
+Median employee tenure: 0.9 years
+
+Show Premium Insights
+About the company
+
+Uptime Crew
+
+434 followers
+
+Follow
+
+IT Services and IT Consulting
+
+ • 
+
+201-500 employees
+
+ • 
+
+62 on LinkedIn
+
+Uptime Crew delivers the skilled workforce powering today’s most critical industries. From data centers and semiconductors to enterprise AI adoption, we provide engineers and technicians who accelerate productivity, reduce risk, and scale with confidence. 
+
+Our talent is rigorously vetted and trained in real-world environments to meet enterprise standards for safety, reliability, and performance. With continuous pipelines and industry expertise, Uptime Crew reduces workforce risk while helping organizations stay resilient and innovative. 
+
+ By eliminating upfront hiring costs and delivering ready talent pipelines, we enable enterprises to shift capital toward what matters most — innovation and growth. 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Engineer - AI Economics
+
+SemiAnalysis
+
+San Francisco Bay Area (On-site)
+
+Posted on January 6, 2026, 6:51 PM
+1 week ago
+
+Software Engineer - AI Economy
+
+SemiAnalysis
+
+San Francisco Bay Area (On-site)
+
+Posted on January 6, 2026, 6:59 PM
+1 week ago
+
+AI/ML Engineer
+
+Tissue Connect Systems
+
+New York, NY (Hybrid)
+
+Actively reviewing applicants
+
+Posted on December 8, 2025, 3:02 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Data Engineer - Intern
+
+SemiAnalysis
+
+Chicago, IL (On-site)
+
+Posted on January 12, 2026, 9:41 AM
+1 week ago
+
+AI Backend Engineer - Data & Integration
+
+Digital Iron
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 11, 2026, 8:51 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Founding Engineer - Full-Stack or AI (Equity Only)
+
+Doc Labs
+
+San Francisco Bay Area (Remote)
+
+Actively reviewing applicants
+
+Posted on January 13, 2026, 9:43 PM
+6 days ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Engineer
+
+ID Privacy AI
+
+United States (Remote)
+
+Posted on January 2, 2026, 5:16 PM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Research Engineer
+
+Company.ai
+
+San Francisco Bay Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 19, 2026, 2:32 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer – Matching and Scheduling Optimization
+
+Sage Care
+
+Palo Alto, CA (Hybrid)
+
+1 school alumni works here
+
+Posted on December 4, 2025, 10:19 AM
+1 month ago
+
+Data Engineer
+
+Liza Health
+
+Cambridge, MA (On-site)
+
+Posted on October 31, 2025, 1:26 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Frontend / Fullstack Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:55 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Founding Software Engineer (Entry Level) (Verified job)
+Founding Software Engineer (Entry Level) 
+
+Ruli
+
+San Francisco Bay Area (Hybrid)
+
+$110K/yr - $150K/yr
+
+Actively reviewing applicants
+
+Posted on November 4, 2025, 9:14 AM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

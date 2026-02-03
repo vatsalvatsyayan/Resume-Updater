@@ -1,0 +1,61 @@
+About the job
+
+Company Overview
+
+Promise modernizes how government agencies and utilities support people in financial difficulty. We build technology that makes it simple for residents to receive benefits, engage with assistance programs, set up flexible payment plans, and stay on track—while helping agencies increase efficiency, recover revenue, and deliver services with dignity. Our mission is to transform public systems so they work better for everyone, especially the most vulnerable.
+
+Our team includes experts from companies like Palantir, Google, Stripe , and esteemed government leaders. We work hard and believe deeply in what we do. We're looking for excellent people to build innovative, resilient technology.
+
+Backed by over $50 million in funding from top investors – such as Reid Hoffman, Howard Schultz, Michael Seibel, Y Combinator, 8VC, The General Partnership, First Round Capital, Kapor Capital, XYZ Ventures, and Bronze Investments – Promise has been recognized as one of Fast Company's "World's Most Innovative Companies of 2022,” “Forbes Next Billion-Dollar Startups 2024,” and Y Combinator’s #1 GovTech startup.
+
+About The Role
+
+At Promise, we’re transforming how people in financial difficulty connect with public services—using technology to make systems simpler, faster, and more human. As a Software Engineer - AI, you’ll design and deliver end-to-end generative AI and large language model (LLM) applications that directly power this mission.
+
+You’ll build AI pipelines and infrastructure for prompt engineering, fine-tuning, document parsing, and RAG systems, while also experimenting with new generative use cases. You’ll be developing AI products that will be deployed across a variety of complex customer use cases. Your work will drive innovation, automation, and efficiency across our platform—helping government services reach people more effectively and with greater dignity.
+
+This is a chance to be on the frontier of applied AI: shaping systems that not only push technical boundaries but also make a real-world impact at scale.
+
+What You’ll Do
+
+
+Build with purpose: Design and develop AI-powered applications and services, focusing on generative AI and LLMs. 
+Create pipelines: Implement services for generative AI integrations, document parsing, model fine tuning, and RAG systems. 
+Drive automation: Partner across teams to identify opportunities where AI reduces friction, increases efficiency, and solves real-world challenges. 
+Stay ahead: Track and apply advancements in the AI landscape, guiding strategy and adoption. 
+
+
+Shape strategy: Contribute to the vision, goals, and roadmap for AI/ML development at Promise.
+
+You’ll Love It Here If
+
+
+You are energized by big, complex challenges and the opportunity to solve them. 
+You want your work to have a real, measurable impact on people’s lives. 
+You take ownership and run toward problems, not away from them. 
+You value clear, candid, and constructive communication. 
+
+
+Promise Is Not For You If
+
+
+You prefer hierarchy and rigid structures. We operate with freedom and responsibility. 
+You are uncomfortable with change. We move fast, adapt often, and expect agility. 
+You want a typical corporate culture. We are mission-driven, ambitious, and direct. 
+You believe efficiency means “doing less.” We believe efficiency means doing better. 
+
+
+Company Benefits
+
+
+100% paid health coverage
+Generous PTO and sick leave
+Lunch, snacks, and coffee provided
+Company retreats
+Opportunities to travel and see the impact of your work
+Hybrid work: we deeply value in-person collaboration and are in-office at least 3 days a week, but are flexible on working from home
+
+
+Promise is an equal opportunity employer and does not discriminate against any applicant or employee because of race, color, religion, sex, sexual orientation, gender identity, national origin, disability, genetic information, age, or military or veteran status. Additionally, the Company complies with applicable state and local laws governing non-discrimination in employment in every jurisdiction in which it operates. Promise is committed to promoting diversity and inclusion in the workplace. We also provide reasonable accommodations to qualified individuals with disabilities, pregnant individuals, and those with sincerely held religious beliefs, in accordance with applicable laws.
+
+Promise engages in US government contracts and restricts hiring to US persons, which includes US citizens and permanent residents (e.g., Green Card holders). Additionally, candidates must reside in the US.

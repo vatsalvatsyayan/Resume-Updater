@@ -1,0 +1,65 @@
+About the job
+
+About Veeco
+
+You probably don’t realize it, but what we do at Veeco touches the lives of every person, every day. It’s a bold statement, but it’s true. From the smartphones in our pockets that access the world’s collective knowledge, to the cloud-based services where all that information lives, to high-speed wireless communication and computing power needed to drive artificial intelligence, augmented and virtual reality, gaming and so much more, our technology is all around us.
+
+We design, develop, manufacture, and service highly complex, cutting-edge machines used by our customers to create the essential devices that drive the digital age, connect the world, and improve the human experience. Along with the world’s leading technology companies, many of which are household names, we help solve their most difficult material science challenges, enabling technologies for a more connected, sustainable, and convenient world.
+
+We’re looking for material difference-makers to join our growing team. Interested? Learn more at www.veeco.com/careers .
+
+Overview
+
+The Product Development team in San Jose operates in a rapid-paced & innovative/challenging environment. We focus on creating new market solutions with rapid productization. The software development team solves challenging problems and requires engineers to be engaged in all phases of development.
+
+Responsibilities
+
+
+ Identify requirements; plan tasks; apply highly regarded programming practices and share insights and efforts with the team. 
+ Lead or participate in requirements and design phases, perform implementations, debugging and integrations. 
+ Provide content for Operations Manuals, Release Notes, Manufacturing and Technical Support documentation. 
+ Contribute to the development of test procedures and scenarios to qualify new software. 
+ Coordinate with operational and customer facing organizations for knowledge transfer and New Product Introduction activities. 
+ Work with vendors supplying components and supporting 3rd party applications. 
+ Perform duties as assigned by product and project managers. 
+
+
+Qualifications
+
+Bachelor’s degree in computer science or similar technical discipline and 2 years of software engineering experience OR a Master’s degree is required.
+
+Knowledge, Skills And Abilities
+
+
+ Strong knowledge of Object-Oriented methodologies, C#, .NET, C++, VB, COM, MFC, MS Visual Studio, Windows OS. 
+ Debugging skills in a very large code base. Proficiency in multithreaded applications. 
+ Knowledge and demonstration of S/W development and process methodology for critical applications, and complete S/W lifecycle. 
+ Excellent written, verbal and communications skills in English. 
+
+
+Salary And Benefits
+
+The expected salary range for this position is $117,936.00 — $149,385.60 , plus a bonus opportunity. We will consider your location, experience, and other job-related factors when determining your pay. If your salary requirements exceed the advertised range and you remain interested in Veeco, we encourage you to apply or email your resume to recruiting@veeco.com .
+
+Other Benefits Include
+
+
+ Medical, Dental, and Vision 
+ Employee Stock Purchase Plan (ESPP) 
+ 401(k) with Company Match 
+ Holiday, Vacation, and Sick Time 
+ Flexible Spending Accounts (FSA) 
+ Commuter Benefits 
+ Life and Accident Insurance 
+ Disability Insurance 
+ Tuition Reimbursement 
+ Employee Assistance Program (EAP) 
+ Identity Theft Remediation 
+ Emergency Travel Assistance 
+
+
+Veeco is an equal opportunity employer. We evaluate applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information, and other legally protected characteristics. Veeco is committed to working with and providing reasonable accommodations to individuals with disabilities.
+
+Notice To Applicants
+
+All communication about open positions and hiring will come from someone with a @veeco.com email address. You will always have multiple interviews and meet several team members (in-person or virtually) before we present an offer. We may also check references or conduct a background investigation as part of the offer process. We will never ask you for money for any reason, especially to send equipment or for pre-employment training. If you have any questions or concerns, or if someone has reached out to you and you think it might be a scam, please get in touch with us at recruiting@veeco.com .

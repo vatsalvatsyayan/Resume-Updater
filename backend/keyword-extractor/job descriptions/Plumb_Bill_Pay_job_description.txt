@@ -1,0 +1,523 @@
+Plumb Bill Pay
+
+Promt/AI Engineer 
+
+San Diego, CA · 37 minutes ago · 27 applicants
+
+Promoted by hirer · No response insights available yet
+
+$90K/yr - $125K/yr
+Hybrid
+Full-time
+Easy Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+About the job
+
+Prompt/AI Engineer
+
+Technology Division
+
+Job Description and Ad
+
+Full Time | Remote/On-Site in La Jolla, CA 92037
+
+
+
+
+Plumb Company Overview
+
+Plumb provides Family Office Accounting/Bill Pay services (PlumbBillPay.com). We have 50+ employees. Our 13 Principles are who we are, or at least who we strive to be, (https://www.plumbbillpay.com/plumbsguiding13principles/). Our clients are Ultra High Net Worth Individuals around the United States and some abroad. We are NOT Financial Advisors, rather, we tend to do all of the back-office accounting services and provide our clients and their advisors reporting and services.
+
+Plumb is AI-first and AI-forward. We believe the best teams in the next decade will be the ones who can pair strong engineering judgment with modern AI tooling to ship faster, with higher quality, and with less wasted effort.
+
+
+
+
+
+
+
+Position Description
+
+We’re looking for a Prompt / AI Engineer who is excited by the idea of being part builder, part experimenter, and part product-thinker.
+
+This role is intentionally R&D-flavored: you will have meaningful freedom to explore, prototype, validate, and ship AI-driven capabilities that improve productivity and operational efficiency across the business—even when requirements are not fully defined (or don’t exist yet). We want someone who naturally asks:
+
+“Where are we spending time that we shouldn’t be spending time—and what can AI do about it?”
+
+This is not a “research scientist” role and it’s not a “prompt-only” role either. We are not looking for PhD-level candidates writing deep learning algorithms from scratch. We are looking for savvy, high-agency AI builders who are obsessed with modern tools (ChatGPT, Codex, Claude, etc.) and who love turning messy problems into repeatable systems.
+
+In this role, passion and applied AI savviness come before technical excellence. A computer science / developer background is strongly preferred, but we will absolutely prioritize candidates who have shipped clever, impactful AI solutions and can demonstrate great judgment, curiosity, and ownership.
+
+
+
+
+What Success Looks Like
+
+You repeatedly identify workflow bottlenecks on your own and turn them into working AI-assisted solutions.
+You move from prototype → pilot → production with speed, without compromising safety or reliability.
+You create “wow moments” internally—tools people actually want to use—because they save time, reduce errors, and feel magical.
+Your work compounds: what you build becomes reusable infrastructure and repeatable patterns, not one-off demos.
+ 
+ 
+
+Key Responsibilities
+
+
+
+
+Applied AI R&D (Explore → Prove → Ship)
+
+Actively hunt for opportunities to improve efficiency across operations, accounting workflows, support, and internal reporting—sometimes without being handed a formal spec.
+Rapidly prototype AI solutions, validate them with real users, and iterate until they’re genuinely useful.
+Build AI features that:
+Extract insights from unstructured reports/documents and return structured outputs
+Detect anomalies/outliers and surface “this looks wrong” items with explainable rationale
+Turn voice or natural language instructions into safe, auditable actions (with confirmations and permissions)
+Automate repetitive operational work while preserving control and correctness
+
+
+
+
+Prompting, Tooling, and Reliability (Make it real)
+
+Design and refine prompts, tool-calling schemas, and structured extraction pipelines that hold up under real-world messiness.
+Build lightweight evaluation methods (golden sets, regression checks, failure-mode tracking) so quality improves over time.
+Add guardrails: validation, safe defaults, clear fallbacks, and “I’m not sure” behaviors.
+
+
+
+
+Ownership and Autonomy (High agency required)
+
+Own projects end-to-end: problem discovery, solution design, prototyping, stakeholder feedback, iteration, and delivery.
+Make pragmatic suggestions to management about what to build, what not to build, and when a solution is “good enough to ship.”
+Communicate clearly: what you tried, what worked, what didn’t, and what you recommend next.
+
+Architecture & Integration (Bonus, not a barrier)
+
+Collaborate with engineering to integrate AI features into the product via a dedicated AI endpoint and clean service boundaries.
+Think through synchronous vs. asynchronous design decisions (instant responses vs. background jobs, streaming outputs, retries, etc.).
+Help ensure observability: traceability of model calls, cost/latency awareness, and production monitoring.
+
+
+
+
+Internal Resources
+
+Healthy, ongoing sales pipeline of new clients onboarding monthly.
+Internal software development team automating various components of our operations’ delivery system.
+Great core group of operational leaders.
+
+
+
+
+Skillsets and Recommended Requirements
+
+Required
+
+Proof that you’ve completed projects where AI meaningfully improved a workflow, such as:
+Automated insights extraction from reports, documents, emails, or spreadsheets
+Outlier/anomaly detection that reduced review time or prevented errors
+Natural language / voice-driven automations that trigger real actions safely
+Strong familiarity with modern AI tools and LLM ecosystems (ChatGPT, Codex, Claude, etc.) and the instinct to use them creatively.
+A builder mindset: you don’t just talk about ideas—you make them real, test them, and refine them.
+
+Strongly Preferred (but not mandatory)
+
+Software engineering background (CS, backend, full-stack, systems) and comfort working in production environments.
+Experience designing APIs/services and integrating AI into existing systems.
+Some experience with observability/debugging in production (logs, traces, error analysis).
+
+Nice-to-Have
+
+FinTech/accounting workflow familiarity.
+Speech-to-text / voice UX experience.
+Familiarity with privacy/security considerations in AI systems (PII, access control, audit logs).
+
+What We Care About (Non-Negotiables Culturally)
+
+You buy into what we're building and care about the mission.
+You move with urgency, but you don't create chaos.
+You're proactive and high-agency—you create clarity where none exists.
+You're excited to build “cool” internal products that make people faster and happier.
+You want ownership, freedom, and responsibility—and you thrive in that environment.
+
+
+
+
+
+
+
+Next Steps
+
+Compensation Range and Additional Information: The base salary range is $90,000 - $125,000, with a significant bonus on top of this.The position can be onsite or remote, though we prefer them to work out of our La Jolla office. We are an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.
+
+Details: This role is part of the senior management team.Feel free to respond to whatever service you have found this ad on, or, if you prefer, contact the president directly (rob@thinkplumb.com), or Executive Vice President (anneke@thinkplumb.com), and send a cover letter, your resume, and whatever else you think is best to show that you have researched our company, see how you can take on this role, and are a long term fit for this position.Plumb has a history of hiring on potential, so, if you think you are a fit and you may not have all the qualifications, reach out and let us know that you are the right person for the position, explain why, and see what happens. The rule is a (good / well thought out / detailed) cover letter gets an interview.
+
+… more
+
+Featured benefits
+
+Medical insurance, Vision insurance, Dental insurance, 401(k), Disability insurance
+
+Requirements added by the job poster
+
+• 1+ years of work experience with Engineering
+
+• 1+ years of work experience with Artificial Intelligence (AI)
+
+Set alert for similar jobs
+
+Artificial Intelligence Engineer, San Diego, California, United States
+
+Off
+See how you compare to other applicants
+Based on LinkedIn data. Excludes subsidiaries.
+Applicants for this job
+
+27
+
+Applicants
+
+27
+
+Applicants in the past day
+
+Applicant seniority level
+
+56% Entry level people applied for this job
+
+22% Senior level people applied for this job
+
+Applicant education level
+
+85
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+15
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about Plumb Bill Pay
+Powered by Bing
+
+The latest hiring trend
+
+161
+
+Total employees
+
+24%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+100
+200
+
+Median employee tenure: 2.7 years
+
+Show Premium Insights
+About the company
+
+Plumb Bill Pay
+
+7,004 followers
+
+Follow
+
+Accounting
+
+ • 
+
+51-200 employees
+
+ • 
+
+161 on LinkedIn
+
+Founded in 1996, Plumb Bill Pay started as an outsourced accounting firm with a primary focus on providing fractional Controller-level services to small and medium-sized companies. Over the years, we discovered that when CEOs sold their businesses or retired, they no longer had their corporate accountant to help with day-to-day financial tasks. This revelation sparked Plumb to establish its family CFO and Bill Pay division.
+
+Our purpose and vision is to consistently deliver transformational and innovative accounting products and services, so you can pursue your passion—at work, in business, and wherever we apply our services. 
+
+Our Promise is to provide stewardship and clarity through our accounting services and technology products. We serve with stewardship in accounting that creates clarity for customers.
+
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Associate Software Engineer (New College Grad 2026) (Verified job)
+Associate Software Engineer (New College Grad 2026) 
+
+Solace
+
+Redwood City, CA (On-site)
+
+1 company alumni works here
+
+Posted on January 14, 2026, 8:28 PM
+1 week ago
+
+Computer Vision Engineer
+
+Homekey
+
+Palo Alto, CA (On-site)
+
+Posted on October 8, 2025, 3:31 PM
+3 months ago
+
+Data/Reports Developer (Onsite | Californa, US) (Verified job)
+Data/Reports Developer (Onsite | Californa, US) 
+
+Arcadian
+
+Culver City, CA (On-site)
+
+Posted on January 12, 2026, 2:07 PM
+1 week ago
+
+Software Engineer
+
+Halo Nova
+
+San Francisco, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on November 5, 2025, 12:19 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+AI/ML Full Stack Engineer (Mid Level)
+
+Media Mogul
+
+Chicago, IL (Hybrid)
+
+$110K/yr - $130K/yr
+
+ • 
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on December 31, 2025, 11:39 AM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Engineer
+
+Onyx Odds
+
+New York, NY (On-site)
+
+1 school alumni works here
+
+Posted on January 17, 2026, 1:07 PM
+5 days ago
+
+AI Backend Engineer - Data & Integration
+
+Digital Iron
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 11, 2026, 8:51 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer (Agentic AI) | New York
+
+Lyzr AI
+
+New York City Metropolitan Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 5:49 AM
+6 days ago
+
+ · 
+
+ Easy Apply
+
+Computer Vision Engineer
+
+Dopl Technologies
+
+Bothell, WA (Hybrid)
+
+2 benefits
+
+Posted on November 17, 2025, 2:19 PM
+2 months ago
+
+Backend Software Engineer
+
+Onyx Odds
+
+New York, NY (On-site)
+
+$170K/yr - $250K/yr
+
+1 school alumni works here
+
+Posted on January 17, 2026, 1:15 PM
+5 days ago
+
+Machine Learning Engineer (LLM)
+
+GPTZero
+
+New York City Metropolitan Area (Hybrid)
+
+Posted on October 25, 2025, 8:04 AM
+3 months ago
+
+Founding Engineer – AI
+
+Muro AI
+
+San Francisco Bay Area (On-site)
+
+$150K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on December 26, 2025, 10:08 AM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

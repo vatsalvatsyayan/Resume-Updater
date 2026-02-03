@@ -1,0 +1,69 @@
+About the job
+
+Grammarly offers a dynamic hybrid working model for this role. This flexible approach gives team members the best of both worlds: plenty of focus time along with in-person collaboration that helps foster trust, innovation, and a strong team culture. 
+
+About Grammarly
+
+Grammarly is the trusted AI assistant for communication and productivity, helping over 40 million people and 50,000 organizations do their best work. Companies like Atlassian, Databricks, and Zoom rely on Grammarly to brainstorm, compose, and enhance communication that moves work forward. Grammarly works where you work, integrating seamlessly with over 500,000 applications and websites. Founded in 2009, Grammarly is No. 7 on the Forbes Cloud 100, one of TIME’s 100 Most Influential Companies, one of Fast Company’s Most Innovative Companies in AI, and one of Inc.’s Best Workplaces.
+
+The Opportunity
+
+To achieve our ambitious goals, we’re looking for Full-Stack Software Engineers to join our engineering teams. As a Full-Stack Engineer at Grammarly, you will play a critical role in building core parts of the Grammarly product offering, infrastructure, and features to help 40 million users write more clearly and effectively every day. You’ll have the opportunity to work across both Front-End and Back-End, contributing to highly visible, impactful projects.
+
+Grammarly’s engineers and researchers have the freedom to innovate and uncover breakthroughs—and, in turn, influence our product roadmap. The complexity of our technical challenges is growing rapidly as we scale our interfaces, algorithms, and infrastructure. You can hear more from our team on our technical blog.
+
+Grammarly is growing rapidly. There are opportunities to join a team, learn from experienced peers, and build product offerings and teams from the ground up. Within our growing engineering organization, there is plenty of room for ownership and direct impact on users.
+
+As a Full-Stack Engineer, You Will
+
+
+Start building and pushing code in your first week and ship impactful features in your first few months.
+Build and support production services with high call rates on the Back-End and develop rich user interfaces on the Front-End. 
+Target high availability for consumer and enterprise customers. 
+Learn how to build infrastructure as code (IaC).
+Collaborate widely with internal teams such as Core, Growth, Enterprise, Trust, and Data to deliver delightful product offerings to our customers. 
+Contribute to an engineering culture with a strong emphasis on documentation, testing, and user experience.
+Evaluate the systems and technology in place today while proposing systems and architecture that can scale for the future. 
+Have the opportunity to mentor new hires.
+
+
+Qualifications
+
+
+Brings at least three years of experience in Full-Stack development.
+Displays excellent software engineering fundamentals, including knowledge of algorithms and data structures.
+Is ready to tackle infrastructure challenges when needed.
+Knows modern web client development and testing tools.
+Has experience building, deploying, and debugging production systems at scale.
+Demonstrates perseverance when faced with tough technical issues.
+Cares about the end-user experience and strives to ensure high quality.
+Has a demonstrated ability to work independently with minimal guidance, proactively manages tasks and priorities across multiple projects, analyzes and executes work efficiently, collaborates effectively with cross-functional teams, and thrives in fast-paced, results-driven environments
+Embodies our EAGER values—is ethical, adaptable, gritty, empathetic, and remarkable.
+Is inspired by our MOVE principles: move fast and learn faster; obsess about creating customer value; value impact over activity; and embrace healthy disagreement rooted in trust.
+
+
+We invite you to share your knowledge, experience, and goals with us to help us find the best team match for you. Tell us your superpower!
+
+Compensation And Benefits
+
+Grammarly offers all team members competitive pay along with a benefits package encompassing the following and more:
+
+
+Excellent health care (including a wide range of medical, dental, vision, mental health, and fertility benefits)
+Disability and life insurance options
+401(k) and RRSP matching 
+Paid parental leave
+20 days of paid time off per year, 12 days of paid holidays per year, two floating holidays per year, and flexible sick time
+Generous stipends (including those for caregiving, pet care, wellness, your home office, and more)
+Annual professional development budget and opportunities
+
+
+Grammarly takes a market-based approach to compensation, which means base pay may vary depending on your location. Our US locations are categorized into two compensation zones based on proximity to our hub locations.
+
+Base pay may vary considerably depending on job-related knowledge, skills, and experience. The expected salary ranges for this position are outlined below by compensation zone and may be modified in the future.
+
+Zone 1: $180,000 - $264,000/year (USD)
+
+We encourage you to apply
+
+At Grammarly, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, ancestry, national origin, citizenship, age, marital status, veteran status, disability status, political belief, or any other characteristic protected by law. Grammarly is an equal opportunity employer and a participant in the US federal E-Verify program (US). We also abide by the Employment Equity Act (Canada).

@@ -1,0 +1,517 @@
+Harry's
+
+Software Engineer 
+
+New York, NY · 11 minutes ago · 65 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$110K/yr - $130K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+About the job
+
+About Harry’s
+
+Harry’s is a men’s grooming brand that offers high quality shave, body, hair, and skin care products at an exceptional value. Launched in 2013, Harry’s redefined the shaving experience and helped pioneer the earliest era of direct to consumer in the process. Since then, the brand has become the #2 shave brand globally and expanded to offer products for every step in its customer’s routine. Harry’s is also on a mission to ensure guys have access to quality mental health care. To date, the brand has helped connect over 2 million men to quality mental health resources.
+
+Harry’s is part of Mammoth Brands, the modern CPG company behind category-leading brands Harry’s, Flamingo, Lume, Mando, and Coterie. Driven by a mission to “Create Things People Like More,” the company is creating a new model—and home—for brands, founders, and talent looking to solve unmet needs, improve peoples’ lives and ultimately change the status quo. Even as we grow, we take extra care to maintain the small, scrappy, entrepreneurial culture that helped to get us where we are today: a company that people like more, that better serves its customers, employees, and community. Mammoth Brands is committed to making a positive impact and donated over $20 million through our network of nonprofit partners to date.
+
+About The Team
+
+We're the H&F DTC Engineering team, and we're here to make personal care effortless for customers around the world. We build and maintain the digital shopping experiences that bring new customers into the Harry's and Flamingo family and keep our loyal customers coming back. Our stack is modern (JavaScript/TypeScript, Remix, Hydrogen, Oxygen) and our approach is thoughtful—we prioritize speed, reliability, and simplicity. We're a tight-knit crew of engineers who care deeply about craft, collaboration, and continuous learning.
+
+About The Role
+
+We're looking for a Software Engineer to join our team and grow with us. You'll work alongside experienced engineers who are excited to mentor and collaborate, shipping real features from your first weeks. This is an opportunity to build your engineering fundamentals while working on a platform that serves millions of customers. We value curiosity, ownership, and a willingness to learn—and we're especially excited about engineers who bring fresh perspectives and embrace modern tools (including AI) in their workflow.
+
+What You Will Accomplish
+
+
+Ship production code within your first weeks, starting with bug fixes and progressing to well-scoped features
+Build and improve customer-facing features that directly impact how people discover, evaluate, and purchase our products
+Own features end-to-end: from ticket to code to review to deploy to monitor
+Work with integrations that power the shopping experience—payments, analytics, marketing tools, and fulfillment systems
+Contribute to sprint work and participate actively in team ceremonies
+Engage meaningfully in code reviews—both giving and receiving feedback
+Bring your toolkit and teach us something new—whether that's an AI workflow, a debugging technique, or a fresh approach to a problem
+
+
+
+This should describe you
+
+
+Strong JavaScript/TypeScript fundamentals and familiarity with React or similar component-based frameworks
+Genuinely curious—you actively seek out learning opportunities and stay up to date on new developments in your field
+Curious about how e-commerce works—you're interested in why conversion rates, page speed, and checkout flows matter, not just how to build them
+Comfortable using AI tools (Copilot, ChatGPT, Claude, etc.) in your development workflow—and you know how to validate their output
+Take ownership of your work: you dive in without being asked twice and deliver on your commitments
+Open to feedback and eager to give it—you believe code reviews make everyone better
+Keep your cool when plans change and recommit with positivity
+
+
+
+Nice to have
+
+
+Experience with Shopify, Remix, Hydrogen, or e-commerce platforms
+Familiarity with AWS or cloud platforms
+Awareness of web performance optimization and its impact on user experience
+
+
+
+Here's Who You'll Work With
+
+
+Reporting to Director of Engineering
+Working on the H&F DTC Engineering team alongside Staff and Senior Staff Engineers
+Collaborating cross-functionally with Product Management and Design
+
+
+
+Benefits And Perks
+
+
+Medical, dental, and vision coverage
+401k match
+Equity in Mammoth Brands 
+Flexible time off and working hours
+Wellness and L&D stipends
+4 weeks sabbatical after 5 years, 6 weeks after 10 years, and 8 weeks after 15 years 
+20 fully paid weeks off for parents who give birth, or 16 fully paid weeks off for all other paths to parenthood
+Fun IRL and virtual events including happy hours, team building events, and parties on our rooftop
+Free products from all of our brands
+
+
+
+The Mammoth Brands working model is in-office Tuesday, Wednesday, and Thursday. Our beautiful 70,000 square foot SoHo office is decked out with bagels on Wednesdays and lunch on Thursdays, and fully stocked kitchens with snacks, coffee, and drinks everyday. Can’t forget the free products and the opportunity to have some meetings without Zoom!
+
+We can’t quantify all of the intangible things we think you’ll love about working at Mammoth Brands, like the exciting challenges we tackle, the smart and humble team you’ll get to work with, and our supportive and inclusive culture. That said, our salary ranges are based on paying competitively for our size and industry, and are one part of our total rewards package, which also includes a comprehensive set of benefits and our equity program. The base salary hiring range for this position is $110,000-$130,000, but the final compensation offer will ultimately be based on the candidate’s location, skill level and experience.
+
+Mammoth Brands is committed to bringing together individuals from different backgrounds and perspectives. We strive to create an inclusive environment where everyone can thrive, feel a sense of belonging, and do great work together.
+
+Mammoth Brands is an Equal Opportunity Employer, providing equal employment and advancement opportunities to all individuals. We recruit, hire and promote into all job levels the most qualified applicants without regard to race, color, creed, national origin, religion, sex (including pregnancy, childbirth and related medical conditions), parental status, age, disability, genetic information, citizenship status, veteran status, gender identity or expression, transgender status, sexual orientation, marital, family or partnership status, political affiliation or activities, military service, domestic violence victim status, arrest/conviction record, sexual or reproductive health decisions, caregiver status, credit history immigration status, unemployment status, traits historically associated with race, including but not limited to hair texture and protective hairstyles or any other status protected under applicable federal, state and local laws. Mammoth Brands' commitment to providing equal employment opportunities extends to all aspects of employment, including job assignment, compensation, discipline and access to benefits and training.
+
+We respect the laws enforced by the EEOC and are dedicated to going above and beyond in fostering diversity across our company.
+… more
+
+Benefits found in job post
+
+401(k)
+
+Set alert for similar jobs
+
+Software Engineer, New York, New York, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+65
+
+total
+
+65
+
+in the past day
+
+Candidate seniority level
+
+83% Entry level candidates
+
+8% Senior level candidates
+
+Candidate education level
+
+72
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+25
+
+%
+
+have a Bachelor's Degree
+
+
+3
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Harry's
+Powered by Bing
+
+Company focus areas
+
+• Expansion into Fragrance Market: Harry's has launched its first-ever line of cologne, marking its permanent entrance into the fragrance category with three unique scents.
+
+...more
+
+Sources: wvnews.com +1 more
+
+Hiring & headcount
+
+Focus on operations: The 'Operations' department has seen a 7% increase in headcount, indicating a strategic focus on improving operational efficiency and capacity. Engineering and IT downsizing: The 'Engineering' and 'Information Technology' departments have experienced a decrease in headcount by 7% and 8% respectively, suggesting a potential shift in technological priorities or cost-cutting measures. Marketing and product management reduction: The 'Marketing' and 'Product Management' departments have seen significant reductions in headcount by 27% and 29% respectively, which may indicate a strategic pivot away from these areas or a reallocation of resources. Growth in legal and media: The 'Legal' and 'Media and Communication' departments have increased by 20% and 14% respectively, highlighting potential new initiatives or increased focus on compliance and communication strategies.
+… more
+
+The latest hiring trend
+
+712
+
+Total employees
+
+1%
+
+Company-wide
+
+2 year growth
+
+30%
+
+Engineering
+
+2 year growth
+
+Chart
+Chart with 25 data points.
+The chart has 1 X axis displaying Time. Data ranges from 2024-01-01 00:00:00 to 2026-01-01 00:00:00.
+The chart has 1 Y axis displaying values. Data ranges from 660 to 730.
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+500
+1000
+End of interactive chart.
+
+Median employee tenure: 4 years
+
+Competitors
+
+Harry's operates in a highly competitive men's grooming market, facing significant competition from established brands like Gillette and innovative direct-to-consumer companies like Dollar Shave Club and Bevel. The company differentiates itself through high-quality, affordable products and a subscription-based model that offers convenience and value. Harry's continues to expand its product line and market presence, including recent ventures into fragrances, to stay ahead in the evolving grooming industry.
+… more
+
+Sources: verifiedmarketresearch.com +2 more
+
+Show Premium Insights
+About the company
+
+Harry's
+
+103,958 followers
+
+Follow
+
+Personal Care Product Manufacturing
+
+ • 
+
+11-50 employees
+
+ • 
+
+449 on LinkedIn
+
+Harry’s is a men’s grooming brand that offers high quality shave, body, hair, and skin care products at an exceptional value. We launched in 2013 and helped redefine the shaving experience and pioneer the earliest era of direct to consumer in the process. Since then, Harry’s has become the #2 shave brand globally and expanded to offer products for every step in our customer’s routine. We’re also on a mission to ensure guys have access to quality mental health care. To date, Harry’s has helped connect over 2 million men to quality mental health resources.
+
+Harry’s is part of Mammoth Brands, the modern CPG company. Driven by a mission to “Create Things People Like More,” the company’s growing family of brands—Harry’s, Flamingo, Lume, Mando, and Coterie—offers exceptional products that speak to today’s consumer, and as a result have become an essential part of millions of people’s daily routines. 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Software Engineer
+
+Scint AI
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on February 1, 2026, 2:30 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Backend & Infrastructure Engineer (Equity-Only)
+
+TwinWise AI
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 31, 2026, 7:00 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Senior Fullstack Engineer (On-Site, West Hollywood, CA) (Verified job)
+Senior Fullstack Engineer (On-Site, West Hollywood, CA) 
+
+COVU
+
+Los Angeles, CA (On-site)
+
+$120K/yr - $180K/yr
+
+1 school alumni works here
+
+Posted on January 30, 2026, 3:28 PM
+3 days ago
+
+Software Engineer I (Verified job)
+Software Engineer I 
+
+Chewy
+
+Boston, MA (On-site)
+
+$103K/yr - $164.5K/yr
+
+ • 
+
+401(k) benefit
+
+1 connection works here
+
+Posted on February 2, 2026, 6:17 PM
+11 minutes ago
+
+Software Engineer 1 (New Grad) (Verified job)
+Software Engineer 1 (New Grad) 
+
+College Board
+
+United States (Remote)
+
+$106K/yr - $125K/yr
+
+5 company alumni work here
+
+Posted on February 2, 2026, 4:43 PM
+1 hour ago
+
+Clinical Software Engineer I (on-site) (Verified job)
+Clinical Software Engineer I (on-site) 
+
+Abbott Laboratories
+
+Los Angeles, CA
+
+$73.9K/yr - $116K/yr
+
+1 connection works here
+
+Posted on February 2, 2026, 1:24 PM
+5 hours ago
+
+Back End Developer
+
+Workerbee
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on February 2, 2026, 2:26 PM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer Full Stack & Application Development I (Intern) – United States (Verified job)
+Software Engineer Full Stack & Application Development I (Intern) – United States 
+
+Cisco
+
+Hillsboro, OR (On-site)
+
+Vision, 401(k), +1 benefit
+
+1 connection works here
+
+Posted on February 2, 2026, 6:17 PM
+11 minutes ago
+
+Software Engineer I (Verified job)
+Software Engineer I 
+
+bioMérieux - jobvite
+
+Salt Lake City, UT (On-site)
+
+$82K/yr - $102K/yr
+
+ • 
+
+2 benefits
+
+5 company alumni work here
+
+Posted on February 2, 2026, 12:23 PM
+6 hours ago
+
+Software Engineer
+
+Flamingo
+
+New York, NY (On-site)
+
+$110K/yr - $130K/yr
+
+ • 
+
+401(k) benefit
+
+Posted on February 2, 2026, 1:51 PM
+4 hours ago
+
+Full-Stack Software Engineer (Verified job)
+Full-Stack Software Engineer 
+
+Divergent
+
+Los Angeles, CA
+
+$118.7K/yr - $160.3K/yr
+
+1 connection works here
+
+Posted on February 2, 2026, 1:02 PM
+5 hours ago
+
+Software Engineer (Embedded & Application Development, US Citizen Only)
+
+IST PRECISION
+
+Mooresville, NC (On-site)
+
+Medical, Vision, Dental, 401(k)
+
+Posted on February 1, 2026, 5:34 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

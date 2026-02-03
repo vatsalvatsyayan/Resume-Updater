@@ -1,0 +1,39 @@
+About the job
+
+About The Company
+
+At Boeing, we are dedicated to innovation and collaboration to create a better world. Our commitment to fostering an inclusive, respectful, and welcoming environment ensures every teammate has the opportunity for professional growth. As a global leader in aerospace and defense, Boeing leverages cutting-edge technology and industry expertise to deliver exceptional solutions to our customers worldwide. Our mission is to shape the future of flight and security, making a meaningful impact on society through our innovative products and services.
+
+About The Role
+
+We are seeking a highly skilled Senior Software Engineer to join our team in Hazelwood, MO. This pivotal role involves supporting the Air Force's Dynamic Mission Planning/Replanning initiatives, which are crucial for national defense. The successful candidate will contribute to the development of advanced capabilities that enable real-time dynamic mission replanning (DMR) within a classified cloud environment accessed via mobile technology. This position offers an exciting opportunity to work on innovative solutions that will support and enhance our national security posture for decades to come. As part of Boeing's esteemed team, you will leverage your expertise in software development, system architecture, and agile methodologies to deliver impactful results in a challenging and rewarding environment.
+
+Qualifications
+
+The ideal candidate will possess a Bachelor's Degree in Computer Science, Software Engineering, or a related field, along with a minimum of 9 years of experience in software development. Proficiency in coding languages such as C#, .NET, and REACT is essential, coupled with experience using version control tools like Git or Bitbucket. Familiarity with modern software development patterns including microservices, RESTful APIs, mono repositories, and single-page applications (SPAs) is required. Candidates should have a strong background in designing and implementing system architectures, requirements gathering, software testing, and debugging. Experience with Typescript, ReactJS/Redux, and working within large-scale Agile teams is highly desirable. The ability to obtain a U.S. Secret Security Clearance is mandatory, and U.S. citizenship is required for employment.
+
+Responsibilities
+
+
+Support the design, development, testing, and maintenance of software throughout its lifecycle, ensuring high quality and reliability.
+Collaborate with the Product Owner to review, analyze, and translate customer requirements into effective software designs.
+Develop, maintain, and enhance software products and functionalities, focusing on system integration and performance optimization.
+Create and maintain architecture documentation, requirements, algorithms, interfaces, and design specifications for software solutions.
+Debug and resolve technical issues promptly to ensure system stability and efficiency.
+Troubleshoot complex technical problems, providing innovative solutions to support mission-critical operations.
+Contribute to the development and continuous improvement of software processes and best practices within the team.
+
+
+Benefits
+
+We offer a comprehensive total rewards package designed to attract, engage, and retain top talent. Our benefits include competitive base salary and variable compensation opportunities, health insurance options, flexible spending accounts, health savings accounts, and retirement savings plans. Eligible employees can access life and disability insurance programs, paid time off, and unpaid leave options. Our benefits are tailored to meet the needs of our diverse workforce and may vary based on location and hire date. We are committed to supporting our employees' well-being and professional development, fostering a positive work environment where contributions are valued and recognized.
+
+Equal Opportunity
+
+Boeing is an Equal Opportunity Employer. We are committed to creating a diverse and inclusive workplace where employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military or veteran status, or other characteristics protected by law. We believe that a diverse workforce enhances our innovation and ability to serve our global customers effectively. All qualified applicants will receive consideration for employment, and we encourage individuals from all backgrounds to apply.
+
+
+
+Desired Skills and Experience
+
+Software Development, System Architecture, Agile Methodologies, RESTful APIs, Microservices, Version Control

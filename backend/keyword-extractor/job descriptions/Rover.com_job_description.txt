@@ -1,0 +1,69 @@
+About the job
+
+Who We Are
+
+Want to make an impact? Join our pack and come work (and play!) with us.
+
+We believe everyone deserves the unconditional love of a pet—and at Rover, our mission is to make it easier to experience that love. Founded in 2011, the Rover app and website connect dog and cat parents with loving pet sitters and dog walkers in neighborhoods across the US, Canada, and Europe. We empower our community of trusted pet sitters and dog walkers to run their own pet care businesses on Rover with the tools and security of a global company to back them.
+
+Headquartered in Seattle, Washington, we work closely with our teams in Barcelona, San Antonio, Spokane, and remote locations. We’ve got a reputation for being a great place to work, having been named among the 100 Best Companies to Work For in Seattle Business Magazine and Washington’s Best Workplaces in the Puget Sound Business Journal. We're an agile, fast-growing company, and our leadership comes from some of the world's most respected tech companies.
+
+At Rover, our furry coworkers are just as important as our human ones—and we wouldn’t have it any other way. Along with making the joys of pet parenthood more accessible, we’re committed to fostering a diverse, inclusive, and welcoming community of pet people—and that starts with our employees.
+
+This is a hybrid position that has the minimum expectation to work out of our Downtown Seattle Office two days per week on Mondays and Thursdays. For this reason, candidates must be based in the Greater Seattle Area or willing to relocate.
+
+Meet The Expansion Team
+
+The Expansion team grows the Rover platform to support the diverse needs of pet parents. Our team focuses on efficiency and maximizing impact for effort, empowering engineers with significant agency in shaping the direction of innovative features from the ground up. We leverage a startup-like approach to rapidly introduce and refine new products, while still enjoying the backing and resources of an established technology organization.
+
+What We’re Working On
+
+The team is currently in the early stages of adding pet grooming to the Rover platform. By enabling Pet Parents to book directly with Groomers, we aim to solve many of the pain points associated with conventional Grooming services.
+
+Who We’re Looking For
+
+We are looking for a junior engineer who is eager to learn and grow as a professional, and is driven to help transform this ambitious project into reality. You will be joining a team of experienced engineers who will help you on this journey. Additionally, our team collaborates closely with product and design counterparts to shape the scope and behavior of our products. We highly value individuals with imaginative thinking and problem-solving abilities, who use efficient solutions to achieve exceptional results.
+
+Our tech stack includes Python/Django, React, and React Native and is built using a relational database. However, no specific language or framework skills are required for this position and new grads will be considered. The ideal candidate will demonstrate comfort working across the stack, and adaptability to grow into areas where they are less experienced.
+
+To succeed in this role, you should be self-motivated to learn and improve at your craft as an engineer, and seek to take on new responsibilities to expand your impact.
+
+Your Qualifications
+
+
+0-4 years of experience as a professional software developer
+Interest in full-stack development
+Strong coding fundamentals
+A track record of meeting deadlines (professional or academic)
+Intuitive sense for when a solution is "good enough" versus when it requires additional polish
+Strong ability to collaborate and thrive in a team-oriented environment, aligning with Rover's Core Values
+
+
+Benefits Of Working At Rover.com
+
+
+Competitive compensation
+401k match
+Flexible PTO
+Competitive benefits package, including medical, dental, and vision insurance
+Commuter benefits
+Bring your dog to work (and unlimited puppy time)
+Doggy benefits, including $1000 toward adopting your first dog
+Stocked fridges, coffee, soda, and lots of treats (for humans and dogs) and free catered lunches semi-monthly 
+Regular team activities performed in-person and virtually
+
+
+Compensation
+
+
+In the greater Seattle area the first-year salary range is $99,719-$128,513. Additionally, Rover offers a long-term incentive plan with a company performance-based cash payout and benefits to full-time employees.
+The cash compensation offered for this role will be dependent on the candidate's experience, qualifications, skills, and abilities as demonstrated in the interview and hiring process.
+
+
+At Rover, we’re driven by seeing our people succeed and grow, while doing our jobs better than ever before. We believe the best business outcomes come from a diverse set of perspectives and we’re committed to promoting an inclusive, inventive, and fun environment with amazing employees. We welcome and encourage applicants from all backgrounds to apply.
+
+Rover is an equal opportunity employer. We consider all qualified applicants without regard to age, race, color, ancestry, national origin, religion, disability, military or veteran status, sex, pregnancy, gender identity or expression, sexual orientation, marital or partnership status, genetic predisposition, or any other protected status in accordance with applicable federal, state and local laws.
+
+We are committed to work with you to look for reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

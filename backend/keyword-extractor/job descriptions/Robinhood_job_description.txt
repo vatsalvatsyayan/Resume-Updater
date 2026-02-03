@@ -1,0 +1,502 @@
+Robinhood
+
+Software Engineer, Backend 
+
+Menlo Park, CA · 7 hours ago · Over 100 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Sharmista and others in your network
+
+Show all
+About the job
+
+Join us in building the future of finance.
+
+Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.
+
+About the team + role
+
+We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards.
+
+The Core Financial Products Engineering team’s mission is to build secure, scalable systems that power Robinhood’s key financial offerings and help democratize finance for all. We focus on reliability, correctness, and innovation while working closely with product, design, and data teams to deliver value to our users.
+
+As a Software Engineer, you’ll help design, build, and maintain backend infrastructure and services critical to our financial products. You’ll gain deep insight into how the U.S. financial system works, strengthen your domain knowledge, and make a tangible impact on millions of users. This is an exciting opportunity to contribute to highly visible features and evolve our platform in meaningful ways!
+
+This role is based in our Menlo Park, CA and New York, NY offices, with in-person attendance expected at least 3 days per week.
+
+At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams.
+
+What You’ll Do
+
+
+Design, build, test, and release backend systems with high correctness, reliability, and scalability requirements 
+Own and maintain key services that power our financial product ecosystem 
+Collaborate with cross-functional teams to solve complex engineering and business challenges 
+Interface with external financial institutions to integrate services and expand capabilities 
+Contribute to shaping engineering best practices and improving developer workflows 
+
+
+What You Bring
+
+
+Hands-on software engineering experience through previous roles 
+Proficiency with Python/Django or Go (or similar backend technologies) 
+Solid understanding of relational databases and transaction-safe design 
+Curiosity and interest in financial systems or a strong desire to learn 
+Strong computer science fundamentals and a problem-solving mindset 
+
+
+What We Offer
+
+
+Challenging, high-impact work to grow your career 
+Performance driven compensation with multipliers for outsized impact, bonus programs, equity ownership, and 401(k) matching 
+Best-in-class benefits to fuel your work, including 100% paid health insurance for employees with 90% coverage for dependents 
+Lifestyle wallet – a highly flexible benefits spending account for wellness, learning, and more 
+Employer-paid life & disability insurance, fertility benefits, and mental health benefits 
+Time off to recharge including company holidays, paid time off, sick time, parental leave, and more! 
+Exceptional office experience with catered meals, events, and comfortable workspaces 
+
+
+In addition to the base pay range listed below, this role is also eligible for bonus opportunities + equity + benefits.
+
+Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected base pay range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. For other locations not listed, compensation can be discussed with your recruiter during the interview process.
+
+Base Pay Range
+
+Zone 1 (Menlo Park, CA; New York, NY; Bellevue, WA; Washington, DC)
+
+$123,000—$145,000 USD
+
+Zone 2 (Denver, CO; Westlake, TX; Chicago, IL)
+
+$109,000—$128,000 USD
+
+Zone 3 (Lake Mary, FL; Clearwater, FL; Gainesville, FL)
+
+$96,000—$113,000 USD
+
+Click here to learn more about our Total Rewards, which vary by region and entity.
+
+If our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application.
+
+Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the Privacy Policy for your country of application.
+… more
+
+Benefits found in job post
+
+401(k), Medical insurance, Disability insurance
+
+Set alert for similar jobs
+
+Software Engineer, Menlo Park, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+485
+
+total
+
+485
+
+in the past day
+
+Candidate seniority level
+
+85% Entry level candidates
+
+8% Senior level candidates
+
+Candidate education level
+
+82
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+16
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Robinhood
+Powered by Bing
+
+Company focus areas
+
+• Expansion into Prediction Markets: Robinhood is focusing on expanding into prediction markets to enhance control over listings, pricing, and long-term partnerships for liquidity, reducing reliance on external partners.
+
+...more
+
+Sources: investorshangout.com +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 28% increase in headcount, indicating a major focus on technological development and innovation. Expansion in information technology: The 'Information Technology' department has experienced a 34% increase in employees, suggesting a strong investment in IT infrastructure and capabilities. Increased focus on operations: The 'Operations' department has grown by 18%, highlighting an emphasis on improving operational efficiency and scalability. Growth in research and education: The 'Research' and 'Education' departments have seen increases of 35% and 27% respectively, indicating new initiatives in research and development as well as employee training and development.
+… more
+
+The latest hiring trend
+
+4,484
+
+Total employees
+
+33%
+
+Company-wide
+
+2 year growth
+
+20%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+2500
+5000
+
+Median employee tenure: 2.7 years
+
+Robinhood hires candidates from some of these companies and schools
+
+Robinhood hired 7 people from University of Southern California. See all
+
+Robinhood hired 79 people from University of Southern California. See all
+
+Competitors
+
+Robinhood Markets operates in a highly competitive landscape, facing significant challenges from both traditional financial institutions and emerging fintech companies. The company's zero-commission trading model has forced incumbents like Charles Schwab, Fidelity, and E*TRADE to eliminate trading fees. However, the competitive pressure is intensifying with new entrants and existing competitors expanding their offerings. Coinbase and Kraken have ventured into advanced crypto trading and staking, while SoFi continues to grow its financial services portfolio. Robinhood's recent strategic initiatives, including margin trading and retirement accounts, aim to diversify its revenue streams and enhance its market position.
+… more
+
+Sources: invezz.com +2 more
+
+Show Premium Insights
+About the company
+
+Robinhood
+
+320,062 followers
+
+Follow
+
+Financial Services
+
+ • 
+
+1001-5000 employees
+
+ • 
+
+4,484 on LinkedIn
+
+Trade. Invest. Earn. 
+
+rbnhd.co/social_media_disclosures
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Solutions Engineer (Verified job)
+Solutions Engineer 
+
+LeapXpert
+
+United States (Remote)
+
+Medical, Vision, Dental, 401(k)
+
+Posted on January 7, 2026, 2:20 PM
+1 day ago
+
+Senior Software Developer (Founding Team / Future CTO)
+
+IaxaI, Inc.
+
+United States (Remote)
+
+Posted on January 8, 2026, 4:52 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Founding Solutions Engineer (Enterprise AI)
+
+Neon Blue
+
+San Francisco Bay Area (Hybrid)
+
+$130K/yr + Stock options
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 1:27 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+ZealTech
+
+Concord, CA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 8, 2026, 6:21 PM
+28 minutes ago
+
+ · 
+
+ Easy Apply
+
+Associate Cloud Engineer
+
+Align ENT + Allergy
+
+Philadelphia, PA (On-site)
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 1:57 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Developer (Angular + Java Spring Boot)
+
+Innovative Object Solutions, Inc.
+
+Washington DC-Baltimore Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 9:18 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Web Developer – Maintenance & Support (Verified job)
+Web Developer – Maintenance & Support 
+
+Opus Design
+
+Newton, MA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 10:54 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+AI Project Systems Integrator (Verified job)
+AI Project Systems Integrator 
+
+ADCO Electrical Corp.
+
+New York, NY (On-site)
+
+Posted on January 8, 2026, 7:35 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+Data Engineer
+
+Prepaire Labs
+
+Boston, MA (On-site)
+
+$120K/yr - $145K/yr
+
+Posted on January 7, 2026, 10:08 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Embedded System Engineer
+
+KORMESH, LLC
+
+Miami, FL (Hybrid)
+
+Posted on January 7, 2026, 12:16 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Developer (React/Node) (Verified job)
+Full Stack Developer (React/Node) 
+
+Zoom Video Communications
+
+Denver, CO
+
+$87.6K/yr - $186K/yr
+
+7 company alumni work here
+
+Posted on January 8, 2026, 3:09 AM
+15 hours ago
+
+Senior Software Engineer
+
+Shinkei
+
+El Segundo, CA (On-site)
+
+$145K/yr - $195K/yr
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 12:25 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

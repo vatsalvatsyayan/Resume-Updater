@@ -1,0 +1,59 @@
+About the job
+
+At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+
+The Fulfillment group, within the Marketplace at Lyft, is responsible for determining what inventory can be reliably offered for a given rider session and fulfilling rider requests. The group comprises several sub-teams that generate feasible offers for riders, match rider requests with drivers, and maintain a distributed state machine to track rides and drivers from request through completion.
+
+As a software engineer at Lyft, you will collaborate with other engineers and cross-functional teams, such as product, data science, and analytics, to lead and execute large projects—from concept to efficient execution. We are looking for a motivated Software Engineer who is passionate about solving challenging technical problems and excited to work in a fast-paced, innovative, and cross-functional environment. In this role, you will tackle some of the most interesting and impactful problems in ridesharing.
+
+Key traits for success include being passionate about Lyft’s business and product, a quick learner, a collaborative mindset, and an eagerness to drive initiatives both within and across teams. You'll be joining a small, close-knit team with passionate, collaborative co-workers.
+
+Responsibilities:
+
+
+Design, develop, deploy, monitor, operate and maintain existing or new elements of the Fulfillment tech stack
+Write well-crafted, well-tested, readable, maintainable code
+Have a good grasp and ability to explain the various trade offs made in decisions
+Participate in code reviews to ensure code quality and distribute knowledge 
+Lead projects from idea to positive execution
+Proactively participate in resolving ongoing incidents 
+Unblock, support, effectively communicate, and obtain buy-in across teams to achieve results
+Share your knowledge by giving brown bags, tech talks, and evangelizing appropriate tech and engineering best practices
+
+
+Experience:
+
+
+BS/MS or equivalent in Computer Engineering, Computer Science, or related field or relevant work experience
+2+ years of software engineering industry experience
+Proficiency in object-oriented programming
+Experience designing, debugging and running fault-tolerant, highly available, large-scale distributed systems
+Experience working with public cloud platforms (e.g., AWS, GCP, Microsoft Azure, etc.)
+Proficiency in scripting languages to use APIs to automate manual processes
+Experience with common CI tools (Jenkins, Buildkite, CircleCI, TeamCity), and proficiency in at least one of those tools
+Sold knowledge of distributed systems, relational and NoSQL databases
+Ability to communicate in English in writing, meeting and presentations
+Fulfillment owns services written in Golang and Python
+
+
+Benefits:
+
+
+Great medical, dental, and vision insurance options with additional programs available when enrolled
+Mental health benefits
+Family building benefits
+Child care and pet benefits
+401(k) plan to help save for your future
+In addition to 12 observed holidays, salaried team members have discretionary paid time off, hourly team members have 15 days paid time off
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+Subsidized commuter benefits
+Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
+
+
+Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
+
+Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule — Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
+
+The expected base pay range for this position in the San Francisco area is $128,000 - $160,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
+
+Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.

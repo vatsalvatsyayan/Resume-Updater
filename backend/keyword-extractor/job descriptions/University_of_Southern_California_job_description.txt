@@ -1,0 +1,21 @@
+About the job
+
+Our auditory research lab seeks a programmer with experience in C++ and Qt. This position will entail the development of user-friendly software to control custom hardware that drives experimental imaging setups. This project will involve the development of a graphical user interface that can accept user input, call the appropriate hardware drivers, receive the data that is returned, and plot images and data in easy-to-understand 2D and 3D formats. Graphics, game design, virtual reality, and/or signal processing expertise will be considered highly valuable.
+
+This position is available within the lab of John Oghalai, part of a strong auditory research group within the USC Caruso Department of Otolaryngology – Head and Neck Surgery. The lab is located on the Keck Medical Campus of USC. Depending upon how this project proceeds, this may lead to a part-time position within an existing startup company designed to commercialize this technology.
+
+Knowledge of C++ and Qt is required. Successful candidates will be able to demonstrate experience in coding. The ability to work in teams collaboratively with other lab personnel is critical. The ideal candidate will have a degree in computer science, engineering, math, or physics. Full-time work hours are preferable, but we will consider candidates who desire a part-time position. Work must be done at the worksite.
+
+The annual base salary range for this position is $109,605.12 - $134,056.20. When extending an offer of employment, the University of Southern California considers factors such as (but not limited to) the scope and responsibilities of the position, the candidate’s work experience, education/training, key skills, internal peer equity, federal, state, and local laws, contractual stipulations, grant funding, as well as external market and organizational considerations.
+
+The University of Southern California (USC), founded in 1880, is the largest private employer in the City of Los Angeles. As an employee of USC, you will be a part of a world-class research university and a member of the "Trojan Family," which is comprised of the faculty, students and staff that make the university what it is.
+
+Submissions will be reviewed immediately and accepted until the position is filled.
+
+Minimum Education: Bachelor's degree Addtional Education Requirements Combined experience/education as substitute for minimum education Minimum Experience: 2 years with programming and documentation procedures, methods and operator instructions. Minimum Skills: Experience conducting unit/performance tests, systems integration and user acceptance. Demonstrated experience with one or more relevant programming languages, able to gain needed contexts for domains. Comprehensive knowledge of architecture, design and development of software solutions. Excellent organization, planning, analytical and problem-solving skills. Ability to provide technical expertise and creative solutions while aligned to organizational objectives and customer needs. Experience weighing economic costs and values objectively, supporting coworkers on a project basis, and contributing to discussions in a civil manner. Excellent written and oral communication skills, able to provide both detailed information as well as summaries to varied audiences. Substantial knowledge of security concepts, familiarity with secure code development techniques, and understanding of scalable and automated solutions. Ability to build strong, positive working relationships and rapport with heterogeneous groups of team members. Preferred Education: Bachelor's degree In Computer Science Or Computer Engineering Or Electrical Engineering Required experience: Knowledge of and experience coding in C++ and Qt; Ability to work in teams Preferred experience: Graphics, game design, virtual reality, and/or signal processing expertise Preferred education: Bachelor's degree or higher in computer science, engineering, math, or physics Preferred Experience: 4 years in IT/programming. Preferred Skills: Proficiency with Python, Javascript, C/C++, Java, Ruby and/or other advanced programming languages. Experience with Unix/Linux programming and/or administration. Experience in higher education.
+
+Job ID REQ20167654 Posted Date 11/10/2025
+
+Apply
+
+Current employees apply here

@@ -1,0 +1,43 @@
+About the job
+
+Runpod is pioneering the future of AI and machine learning, offering cutting-edge cloud infrastructure for full-stack AI applications. Founded in 2022, we are a rapidly growing, well-funded company with a remote-first organization spread globally. Our mission is to empower innovators and enterprises to unlock AI's true potential, driving technology and transforming industries. Join us as we shape the future of AI.
+
+We are looking to hire a Full-Stack Engineer. As a Full-Stack Software Engineer at Runpod, you will work alongside experienced engineers and developers, contributing to the development of tools that bridge AI engineering and scalable infrastructure. This role offers a unique opportunity to grow your skills while making a tangible impact on the products and services that shape AI innovation.
+
+Responsibilities:
+
+Contribute to Frontend & Backend Development: Assist in building, maintaining, and enhancing user interfaces, APIs, and other core components of our platform using Python, Typescript, and Go Lang (with a primary focus on Python and Typescript).SDK Support & Development: Work with our open-source SDK to ensure it remains intuitive and effective for developers integrating with Runpod's platform.Collaboration with Engineering & AI Teams: Support cross-functional teams by developing features and addressing bugs that enhance the user experience for AI engineers and researchers.Testing & Code Quality: Write clean, maintainable code with an emphasis on performance and scalability, following best practices for testing and continuous integration.Learning & Development: Participate in code reviews, mentorship opportunities, and continuous learning to deepen your expertise in full-stack development.
+
+Requirements:
+
+
+Programming Skills: Some experience with Python and/or Typescript, with a passion for learning and growing in a full-stack role. Familiarity with Go Lang or other strict-type language is a plus.
+Web Development Knowledge: Basic knowledge of frontend technologies (HTML, CSS, JavaScript frameworks) and backend frameworks (e.g., React, Express, FastAPI, Pydantic, etc).
+Open Source Interest: Enthusiasm for open-source projects and contributions is a strong plus.
+Problem-Solving Skills: Eager to tackle challenges, learn from feedback, and work collaboratively within a dynamic team environment.
+Communication Skills: Ability to clearly communicate technical concepts and collaborate with other developers and non-technical team members.
+Successful completion of a background check
+
+
+Preferred:
+
+
+Exposure to cloud platforms, distributed computing, or containerization technologies like Docker.
+Familiarity with modern best practices.
+Prior coursework or projects to showcase full-stack experience.
+Experience with Git and version control workflows.
+
+
+What You'll Receive:
+
+
+The competitive base pay for this position ranges from ($130,000 - $200,000). This salary range may be inclusive of several career levels at Runpod and will be narrowed during the interview process based on a number of factors, including the candidate's experience, qualifications, and location
+Meaningful equity in a fast-growing AI infra company- everyone on the team receives stock options — your impact drives our growth, and you share in the upside.
+Generous medical, dental & vision plans — we cover 100% for all employees and partial for dependents. 
+Flexible PTO- take the time you need to recharge
+Most roles have are remote work first with an inclusive, collaborative teams utilizing slack as the main form of internal communication 
+Join a passionate team on the cutting edge of AI infrastructure — where culture, learning, and ownership are at the heart of how we scale.
+$1,200 Home Office & Equipment Stipend- We set you up for success from day one with gear and support to create your ideal workspace
+
+
+Runpod is committed to maintaining a workplace free from discrimination and upholding the principles of equality and respect for all individuals. We believe that diversity in all its forms enhances our team. As an equal opportunity employer, Runpod is committed to creating an inclusive workforce at every level. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, marital status, protected veteran status, disability status, or any other characteristic protected by law. We welcome every qualified candidate eligible to work in the United States; however, we are currently unable to sponsor employment visas.

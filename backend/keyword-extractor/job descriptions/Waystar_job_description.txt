@@ -1,0 +1,512 @@
+Waystar
+
+Application Engineer 
+
+Atlanta, GA · 23 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+About This Position
+
+The FinTech team is responsible for building and managing real-time APIs, both for our integrating partners, and payment processing industry vendors. The team is also responsible for building and managing the core system logic to batch payment data and integrate with the banking system for funding and accounting. The team builds internal tools to manage merchant onboarding and payment exception handling.
+
+Right now, we are looking for an outstanding, brilliant, and driven Application Engineer to join our growing team. While our Application Engineers are involved in multiple things throughout the Technology organization, primarily they are responsible for working with the Technology and the Business teams to design, build, and implement amazing web and process applications. These Team Members are also charged with assisting the Client Success department in resolving issues relating to production processes. The Application Engineer is responsible for troubleshooting and resolving technical issues as well.
+
+What You'll Do
+
+
+Proposes technical solutions to the Manager, Application Engineering
+Designs/develops/tests/implements improvements or new features into the Waystar website and core processing applications
+Responsible for developing/augmenting applications based on the functional and technical specifications
+Responsible for adhering to Waystar coding standards and the approved technologies, and proposing amendments to either when necessary
+Unit tests all changes on development, and then works with the appropriate Business and/or Technology Owner(s) to ensure that the developed solution meets the business requirements
+Communicates the development progress daily to the senior-level team members
+Attends to any work items assigned through the internal case system in a timely fashion
+Takes ownership of work items assigned, communicates estimates and daily progress as part of the SDLC process, and actively works to resolve issues blocking progress
+Assists in the QA process
+Participates, as required, in Production Code Turn days, providing instructions for deploying the code changes successfully, and for Smoke Testing code post-release
+Develops and maintains open and fluid communication with Management
+Develops and maintains a positive relationship with other team members
+Assists in the creation and/or approving of technical specifications
+Assists in identifying areas in the application that need to be refactored
+Works with the various departments and team members to design and/or implement various new enhancements to the existing web application.; this includes, but is not limited to, SQL table design, SQL stored procedure design, and process design in the designated programming language
+Tracks any changes required by such development using internal tools, and communicates to the QA Team any abnormalities required to push the changes from development through the various stages to production
+Identifies and informs the Manager, Application Engineering of areas of the application that can be improved by refactoring, optimization, or other improved technology solutions
+Notifies the Manager, Application Engineering of any problems that negatively impact applications, and works to implement a solution
+Communicates and works with the Manager, Application Engineering to reassign any items that cannot be addressed in a timely fashion
+Provides estimates for project tasks using an internal project tool, and updates the estimates if they increase or decrease
+Additional duties as assigned 
+
+
+
+What You'll Need
+
+
+Experience with statically typed / compiled languages (c#, java, c, go)
+Experience with dynamically typed / interpreted languages (javascript, python, php)
+Experience with Relational Databases (sql server, mysql, postgres)
+Experience with cloud technologies (aws, gcloud, azure)
+Experience with Version Control (git)
+Experience with Unit and Integration Testing Methodologies
+Experience building highly-scalable software solutions
+Excellent written and verbal communication skills
+Ability to work in a fast-paced environment & welcome change
+Highly self-motivated
+
+
+
+Preferred Skills
+
+
+Experience scaling real-time high availability APIs
+Experience integrating with payment gateways and processors (Stripe, Elavon, Authorize.Net, NMI, USAePay, WorldPay, TSYS, etc)
+Experience with finance and banking processes and concepts (merchant accounts, ACH, settlement, etc)
+
+
+
+About Waystar
+
+Through a smart platform and better experience, Waystar helps providers simplify healthcare payments and yield powerful results throughout the complete revenue cycle.
+
+Waystar’s healthcare payments platform combines innovative, cloud-based technology, robust data, and unparalleled client support to streamline workflows and improve financials so providers can focus on what matters most: their patients and communities. Waystar is trusted by 1M+ providers, 1K+ hospitals and health systems, and is connected to over 5K commercial and Medicaid/Medicare payers. We are deeply committed to living out our organizational values: honesty; kindness; passion; curiosity; fanatical focus; best work, always; making it happen; and joyful, optimistic & fun.
+
+Waystar products have won multiple Best in KLAS® or Category Leader awards since 2010 and earned multiple #1 rankings from Black Book™ surveys since 2012. The Waystar platform supports more than 500,000 providers, 1,000 health systems and hospitals, and 5,000 payers and health plans. For more information, visit waystar.com or follow @Waystar (https://twitter.com/Waystar) on Twitter.
+
+WAYSTAR PERKS
+
+
+Competitive total rewards (base salary + bonus, if applicable)
+Customizable benefits package (3 medical plans with Health Saving Account company match)
+We offer generous paid time off for our non-exempt team members, starting with 3 weeks + 13 paid holidays, including 2 personal floating holidays. We also offer flexible time off for our exempt team members + 13 paid holidays
+Paid parental leave (including maternity + paternity leave)
+Education assistance opportunities and free LinkedIn Learning access
+Free mental health and family planning programs, including adoption assistance and fertility support
+401(K) program with company match
+Pet insurance
+Employee resource groups
+
+
+
+Waystar is proud to be an equal opportunity workplace. We celebrate, value, and support diversity and inclusion. Qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, marital status, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.
+
+This applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
+
+Job Category: Technology/Engineering
+
+Job Type: Full time
+
+Req ID: R2944
+… more
+
+Benefits found in job post
+
+Paid paternity leave, 401(k)
+
+Set alert for similar jobs
+
+Application Engineer, Atlanta, Georgia, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+103
+
+total
+
+103
+
+in the past day
+
+Candidate seniority level
+
+85% Entry level candidates
+
+4% Senior level candidates
+
+Candidate education level
+
+82
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+17
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Waystar
+Powered by Bing
+
+Company focus areas
+
+• AI-Powered Transformation: Accelerate the transformation of healthcare payments through AI-powered solutions, enhancing capabilities to prevent denials, reduce manual work, and improve financial performance.
+
+...more
+
+Sources: waystar.com +1 more
+
+Hiring & headcount
+
+Significant growth in Engineering and IT: The 'Engineering' and 'Information Technology' departments have seen employee percentage increases of 9% and 11% respectively, indicating a strong focus on technological and engineering advancements. Expansion in Business Development and Customer Success: The 'Business Development' and 'Customer Success and Support' departments have grown by 20% and 18% respectively, suggesting new initiatives to drive business growth and enhance customer satisfaction. Increased focus on Operations and Marketing: The 'Operations' and 'Marketing' departments have experienced notable growth with 29% and 28% increases in headcount, reflecting efforts to streamline operations and boost marketing efforts. Rising job openings in key areas: There is a significant increase in job openings in 'Engineering' (176%), 'Information Technology' (117%), and 'Sales' (86%), highlighting the company's commitment to expanding these critical functions.
+… more
+
+The latest hiring trend
+
+1,685
+
+Total employees
+
+24%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+1000
+2000
+
+Median employee tenure: 3.8 years
+
+Waystar hires candidates from some of these companies and schools
+
+Waystar hired 3 people from University of Southern California. See all
+
+Competitors
+
+Waystar operates in a highly competitive healthcare technology sector, focusing on revenue cycle management solutions. The company leverages AI-driven tools to enhance financial performance and streamline billing processes. Its recent acquisition of Iodine Software aims to further automate healthcare payment systems using AI and clinical data. Waystar's innovative platform and strategic acquisitions position it as a critical partner for healthcare providers, but it faces significant competition from other technology-driven companies in the industry.
+… more
+
+Sources: business-news-today.com +1 more
+
+Show Premium Insights
+About the company
+
+Waystar
+
+28,707 followers
+
+Follow
+
+Software Development
+
+ • 
+
+1001-5000 employees
+
+ • 
+
+1,685 on LinkedIn
+
+Waystar’s enterprise-grade software is purpose-built to simplify healthcare payments. We enable providers to prioritize patient care and optimize their financial performance. Waystar serves approximately 30,000 clients, representing over 1 million distinct providers, including 16 of 20 institutions on the U.S. News Best Hospitals Honor Roll. Waystar’s enterprise-grade platform annually processes over 5 billion healthcare payment transactions, including over $2.4 trillion in annual gross claims and spanning approximately 60% of U.S. patients. Waystar strives to transform healthcare payments so providers can put the human touch where it matters most: their patients and communities. 
+
+Put simply, Waystar is the way to make healthcare payments more human with a software platform designed for providers + patients. 
+
+Discover the way forward at waystar.com.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+AI Engineer
+
+N2P Systems
+
+Denver, CO (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 27, 2026, 7:26 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Founding Full Stack Engineer
+
+Reval
+
+Los Angeles Metropolitan Area (On-site)
+
+You’d be a top applicant
+
+Posted on January 27, 2026, 8:03 AM
+1 day ago
+
+Azure Tech Lead
+
+Amity Tech corporation
+
+Kansas City, MO (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 27, 2026, 7:19 PM
+21 hours ago
+
+ · 
+
+ Easy Apply
+
+Founding Software Engineer
+
+Lumos
+
+San Francisco Bay Area (On-site)
+
+$180K/yr - $230K/yr
+
+You’d be a top applicant
+
+Posted on January 28, 2026, 1:02 PM
+3 hours ago
+
+ · 
+
+ Easy Apply
+
+React Native Developer - WebRTC/VoIP (Contract)
+
+BluePro AI
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 28, 2026, 12:48 PM
+3 hours ago
+
+Founding Engineer (Recent Grad)
+
+Ambral (YC S25)
+
+New York, NY (On-site)
+
+Medical benefit
+
+You’d be a top applicant
+
+Posted on January 27, 2026, 12:03 PM
+1 day ago
+
+Machine Learning Engineer
+
+CereHive, Inc.
+
+Richmond, VA (Hybrid)
+
+Posted on January 27, 2026, 2:29 PM
+1 day ago
+
+Full Stack Engineer
+
+HekaHeart
+
+New York City Metropolitan Area (Hybrid)
+
+$130K/yr - $170K/yr
+
+Posted on January 27, 2026, 10:59 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Speech C++ Developer (Verified job)
+Software Speech C++ Developer 
+
+Adacel
+
+Orlando, FL (Hybrid)
+
+$74K/yr
+
+Actively reviewing applicants
+
+Posted on January 28, 2026, 6:12 AM
+10 hours ago
+
+ · 
+
+ Easy Apply
+
+Application Developer Apprentice (Utah Residents Only)
+
+Startup Hakk
+
+Salt Lake City Metropolitan Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 27, 2026, 7:53 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Full-stack Engineer (Verified job)
+Senior Full-stack Engineer 
+
+Iris AI
+
+New York, NY (On-site)
+
+401(k) benefit
+
+You’d be a top applicant
+
+Posted on January 28, 2026, 12:25 PM
+4 hours ago
+
+Full Stack Engineer
+
+Anagh Technologies Inc
+
+New York City Metropolitan Area (On-site)
+
+You’d be a top applicant
+
+Posted on January 28, 2026, 2:35 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

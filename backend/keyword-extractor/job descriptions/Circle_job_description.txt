@@ -1,0 +1,56 @@
+About the job
+
+Circle is a financial technology company at the epicenter of the emerging internet of money, where value can finally travel like other digital data — globally, nearly instantly and less expensively than legacy settlement systems. This ground-breaking new internet layer opens up previously unimaginable possibilities for payments, commerce and markets that can help raise global economic prosperity and enhance inclusion. Our infrastructure – including USDC, a blockchain-based dollar – helps businesses, institutions and developers harness these breakthroughs and capitalize on this major turning point in the evolution of money and technology.
+
+What You’ll Be Part Of
+
+Circle is committed to visibility and stability in everything we do. As we grow as an organization, we're expanding into some of the world's strongest jurisdictions. Speed and efficiency are motivators for our success and our employees live by our company values: High Integrity, Future Forward, Multistakeholder, Mindful, and Driven by Excellence. We have built a flexible and diverse work environment where new ideas are encouraged and everyone is a stakeholder.
+
+What You’ll Be Responsible For
+
+As a Software Engineer at Circle, you’ll contribute to the design, development, and delivery of the systems that power our global financial infrastructure. You’ll work on building scalable backend services, reliable APIs, and secure data flows that enable money and value to move seamlessly across Circle’s products and platforms.
+
+You’ll collaborate closely with experienced engineers and cross-functional teams to:
+
+
+Design, build, and maintain backend systems and APIs that are reliable, secure, and performant.
+Contribute to architecture discussions, system design, and code reviews.
+Develop high-quality, production-grade software that supports Circle’s mission of raising global economic prosperity through the frictionless exchange of value.
+Participate in testing, deployment, and monitoring processes to ensure system resilience and quality.
+Troubleshoot issues, identify improvements, and help drive technical excellence across the engineering organization.
+
+
+This is an opportunity to start your career at the intersection of software engineering, finance, and blockchain, contributing to technologies that impact millions of users and businesses worldwide.
+
+What You’ll Bring To Circle
+
+
+Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent experience).
+1+ years of professional or internship experience in software development using object-oriented languages (such as Java, Go, or similar).
+Familiarity with RESTful API design principles and backend service development.
+Understanding of cloud platforms (AWS, Google Cloud, Microsoft Azure, etc.) and deployment best practices.
+Experience working with SQL databases, schema design, and data modeling.
+Exposure to distributed systems, microservice architecture, or payment systems is a plus.
+A focus on writing clean, maintainable, and testable code with strong attention to quality and security.
+Excellent communication skills — able to collaborate effectively in a distributed team environment.
+A self-starter mindset — motivated to learn, ship meaningful software, and continuously improve your craft.
+
+
+Why you’ll love working at Circle
+
+
+You’ll join a team that’s mission-driven to build a more open, inclusive, and efficient global financial system.
+You’ll gain hands-on experience with modern backend engineering and cloud technologies.
+You’ll be part of a mentorship-driven engineering culture that values curiosity, collaboration, and growth.
+You’ll work alongside talented peers who care deeply about technical excellence and real-world impact.
+
+
+Circle is on a mission to create an inclusive financial future, with transparency at our core. We consider a wide variety of elements when crafting our compensation ranges and total compensation packages.
+
+Starting pay is determined by various factors, including but not limited to: relevant experience, skill set, qualifications, and other business and organizational needs. Please note that compensation ranges may differ for candidates in other locations.
+
+Base Pay Range: $100,000 - $140,000
+
+We are an equal opportunity employer and value diversity at Circle. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Additionally, Circle participates in the E-Verify Program in certain locations, as required by law.
+
+Should you require accommodations or assistance in our interview process because of a disability, please reach out to accommodations@circle.com for support. We respect your privacy and will connect with you separately from our interview process to accommodate your needs.

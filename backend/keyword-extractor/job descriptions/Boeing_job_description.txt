@@ -1,0 +1,125 @@
+About the job
+
+Job Description
+
+At Boeing, we innovate and collaborate to make the world a better place. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+
+At The Boeing Company, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+
+The Boeing Company is looking for a Software Engineers - Developers to join the Government Vehicle Health Management Systems (GVHMS) team located in Hazelwood, Missouri. This position will focus on supporting the Boeing Global Services (BGS) Software Engineering organization.
+
+Our amazing team of engineers develops, fields, and supports platform health management systems for the F/A-18, MQ-25, F-15, T-38, T-7, and proprietary platforms. Our software acquires and manages platform health and usage data, performs health and usage assessment, and recommends maintenance actions. We are tasked with the creation, design, development, modification, proof of concept, verification, testing, and demonstration of products and solutions to maximize platform mission readiness and effectiveness, reduce lifecycle costs, and keep our customers safe.
+
+Do you want to be part of something agile? Something bigger, better, and faster? Do you want to make a difference in the world using your unique knowledge, skills, talents, and experiences?
+
+Do you want to be part of a team where your creativity is challenged, your skills utilized, and your experiences called upon? A team where you are asked to envision the impossible into the possible, to perform with excellence and quality, all while committed to superb customer focus and service?
+
+If you answered yes and are ready to be part of a team innovating with leading edge technologies to develop Health Management solutions on and for existing, new, and future cutting edge development programs and platforms, then the BGS GVHMS Team is for you.
+
+Successful candidates will develop software and software tests throughout all phases of the software development lifecycle in this role. The candidate will develop cloud-based, micro-service applications in a CI/CD software build pipeline using Agile methodology. At this time, we are particularly interested in candidates with experience in Unity, WPF, and/or development in a cloud-based environment. Specific responsibilities relate to these technologies; visualization (including AR/VR), UI creation and updates, and transition to and growth of our cloud-based solutions.
+
+Our teams are currently hiring for a broad range of experience levels including Associate and Mid-Level Software Engineers.
+
+Position Responsibilities
+
+
+
+ Supports the design, development, test, and maintenance of non-embedded software throughout the end-to-end lifecycle that meets industry, customer, safety, and regulation standards.
+ Assists with review, analysis and translation of customer requirements into initial design of software products.
+ Supports development, maintenance, enhancement and optimization of software products and functionalities for systems integrations.
+ Supports development, documentation and maintenance of architectures, requirements, algorithms, interfaces and designs for software products.
+ Supports debugging and resolution of issues identified to ensure the reliability and efficiency of software products.
+ Participates in handling user inquiries, troubleshooting technical issues and user feedback analysis.
+ Supports implementation of current and emerging technologies, tools, frameworks and changes in regulations relevant to software development.
+ Supports development, establishment, monitoring and improvement of software processes, tools and key performance metrics that align projects with organizational goals and industry benchmarks.
+ Supports execution and documentation of software research and development project.
+ Assists with performing software project management activities and software supplier management functions.
+ Supports tracking and evaluation of software team and supplier performance to ensure product and process compliance to project plans and industry standards.
+
+
+
+Basic Qualifications
+
+
+
+ 2 years of experience in .NET , C#, javascript
+ 2 years of experience in Windows, Linux
+ 2 years of experience in containerization , Git
+ Customer facing UI development experience
+
+
+
+Preferred Qualifications
+
+
+
+ Bachelor of Science degree from an accredited course of study in engineering, engineering technology (includes manufacturing engineering technology), chemistry, physics, mathematics, data science, or computer science
+5 or more year’s related work experience or an equivalent combination of education and experience
+ Knowledge of specification format requirements, guidelines, and change control processes. Understanding of relationship between specifications/standards and aircraft/product certification systems.
+ Knowledge of host environments, including processors, operating systems and networks. Ability to build, integrate and troubleshoot software components.
+ Knowledge of software programming languages and databases and the ability to apply to the software domain. Programming languages encompass higher order languages, auto-coded languages and assembly languages.
+ Knowledge of how to derive and allocate requirements (e.g., system, sub-system, software) and show traceability throughout the product lifecycle.
+ Knowledge of software architecture and design methodologies. Ability to synthesize software architectures and designs that meet requirements, characteristics and constraints.
+ Knowledge of software development processes in compliance with established internal and industry standards, guidelines, and best practices in the development, testing, and deployment of software.
+ Knowledge of general and software development and testing tools, capability and usage. Examples include compilers, linkers, debuggers, data analysis tools, graphical user interface builders, post processing tools, requirements management tools, and web authoring tools.
+ Knowledge of domains, characteristics, constraints and products that require software and influence architecture, requirements, interfaces, designs, and integration/test approaches. Domain examples include data processing, ground support, tools and analysis models. Examples of characteristics and constraints that impact software include operating systems, fidelity and information processing capacity. Examples of products include aircraft, missiles, airborne/shipboard/space systems/ground-based support systems.
+ Knowledge of supplier assessment processes including Preferred Supplier Certification and Work Transfer Process. Elements of assessment to include supplier's past performance, business processes, capacity plan, statement of work evaluation, risk mitigation plan, capabilities and lean practices in order to rate supplier viability to support the Boeing companies goals and objectives. Ability to control and deliver project deliverables, project accounting and appraisal, and optimize the contribution of the people involved using project management tools.
+ Knowledge of implementation, validation, and verification processes, practices, and guidelines to ensure software development quality, performance, and safety.
+
+
+
+Travel
+
+Occasional travel may be required (less than 10%)
+
+Technical Assessment
+
+To be considered for this position you will be required to complete a technical assessment as part of the selection process. Failure to complete the assessment will remove you from consideration.
+
+Drug Free Workplace
+
+Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
+
+At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.
+
+The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.
+
+The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.
+
+Please note that the information shown below is a general guideline only. Pay is based upon candidate experience and qualifications, as well as market and business considerations.
+
+Summary Pay Range Associate: $86,700 - $117,300
+
+Summary Pay Range Mid Level: $107,100 - $144,900
+
+Applications for this position will be accepted until Sept. 18, 2025
+
+Export Control Requirements: This position must meet export control compliance requirements. To meet export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R.
+
+
+
+120.15 is required. “U.S. Person” includes U.S. Citizen, lawful permanent resident, refugee, or asylee.
+
+
+
+Export Control Details: US based job, US Person required
+
+Relocation 
+
+This position offers relocation based on candidate eligibility.
+
+Security Clearance 
+
+This position requires the ability to obtain a U.S. Security Clearance for which the U.S. Government requires U.S. Citizenship. An interim and/or final U.S. Secret Clearance Post-Start is required.
+
+Visa Sponsorship 
+
+Employer will not sponsor applicants for employment visa status.
+
+Shift 
+
+This position is for 1st shift
+
+Equal Opportunity Employer:
+
+Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.

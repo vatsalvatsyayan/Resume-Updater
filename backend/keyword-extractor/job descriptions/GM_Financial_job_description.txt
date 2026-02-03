@@ -1,0 +1,52 @@
+About the job
+
+Job Description
+
+Why GMF Technology?
+
+GM Financial is set to change the auto finance industry and is leading the path of embarking on tech modernization – we have a startup mindset, and preserve our small company culture, in a public company environment with financial stability and intense growth over a decade-plus history. We are data junkies and trust in data and insights to advance our business objectives. We take our goal of zero emission, zero collision, zero congestion, and zero friction very seriously. We believe as an auto finance market leader we are in the driver's seat to lead us in the GM EV mission to change the world. We are building global platforms, in LATAM, Europe, China, U.S. and Canada – and we are looking to grow our high-performing team. GMF is comprised of over 10,000 team members globally. Join our fintech culture within a Blue-Chip company where we are changing the way we use technology to support our customers, dealers and busine ss.
+
+Responsibilities
+
+About the Role:
+
+As a Software Development Engineer (SDE) I-Gen AI, you’ll be a key contributor on an Agile Scrum team, working across all areas of product development—from building new features to integrating cutting-edge technologies. While you may bring strengths in specific tools or languages, we value adaptability and a growth mindset. You’ll have opportunities to expand your skill set, collaborate across domains, and help the team deliver high-impact solutions by stepping in wherever needed to meet shared goals.
+
+
+Design and deploy generative AI applications and solutions, consistently delivering high-quality results aligned with team goals.
+Build scalable ML pipelines and data workflows in Databricks, applying robust software development practices within Agile Scrum teams.
+Integrate Azure AI services into enterprise applications, contribute to cloud migration efforts, and accelerate implementation through continuous learning and experimentation.
+Develop APIs and microservices for AI model serving, maintaining a production-first mindset focused on scalability, uptime, and rapid issue resolution.
+Implement Retrieval-Augmented Generation (RAG) systems, enhancing contextual relevance and performance of LLM-based solutions.
+Create custom AI solutions using LLMs and foundation models, supporting product features across web applications, data platforms, and API services.
+Establish monitoring and evaluation frameworks for AI systems, leveraging automated pipelines to improve deployment speed and quality.
+Collaborate with data scientists to productionize ML models, contribute to test automation, peer reviews, and continuous improvement of product quality.
+Invest in Agile practices, improving time to market, team collaboration, and overall delivery excellence
+
+
+Qualifications
+
+Experience: 
+
+
+Bachelor’s degree in Computer Science, Engineering, or equivalent experience
+Strong background in software development, test automation, and modern development practices
+Proficient in Python, SQL, and RESTful API design
+Hands-on experience with LLMs, transformers, and generative AI frameworks
+Skilled in Databricks (Spark, Delta Lake, MLflow) and Azure AI services integration
+Familiar with microservices architecture, vector databases, and embedding technologies
+Comfortable with Git, Azure DevOps, and Agile methodologies
+Excellent problem-solving, collaboration, and communication skills
+
+
+What We Offer: Generous benefits package available on day one to include: 401K matching, bonding leave for new parents (12 weeks, 100% paid), tuition assistance, training, GM employee auto discount, community service pay and nine company holidays.
+
+Our Culture: Our team members define and shape our culture — an environment that welcomes innovative ideas, fosters integrity, and creates a sense of community and belonging. Here we do more than work — we thrive.
+
+Compensation: Competitive pay and bonus eligibility
+
+Work Life Balance: Flexible hybrid work environment, 2-days a week in our Irving, TX office
+
+Please note we are not able to provide visa sponsorship for this position now or in the future. 
+
+#GMFJobs

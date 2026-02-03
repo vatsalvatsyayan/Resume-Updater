@@ -1,0 +1,447 @@
+Pattern
+
+Entry Level Frontend Developer 
+
+Boulder, CO · 5 hours ago · Over 100 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+About the job
+
+About Pattern 
+
+Pattern is transforming airport ground operations through AI-driven software and robotics. Our mission is to make aviation logistics efficient, predictable, and human-friendly. With tools like Pulse (our data & dispatch platform), Co-pilot (think "Uber for airport equipment dispatch"), and Pathfinder (a flexible robotic conveyor belt) we’re building the ecosystem of tools to drive airport operations. Join our team of 25+ brilliant minds in Boulder, where our culture thrives on: Autonomy | Humility | Customer Obsession | Enthusiasm | Transparency
+
+
+
+
+Your Mission 
+
+Build the intuitive, powerful interfaces that bring our cutting-edge aviation technology to life. As a key contributor to our front-end applications, you will transform complex data from our Pulse platform and robotic systems into clear, actionable user experiences for airport operations teams around the world. This is a hands-on role where your code will have an immediate impact.
+
+
+
+
+Key Responsibilities
+
+UI Development & Implementation: Write clean, functional code to build and refine user interfaces for our fleet management systems, operational dashboards, and internal tools. You'll take design concepts and turn them into fast, reliable, and responsive web applications.
+
+User-Centric Collaboration: Work closely with full-stack developers, product managers, and end-users to understand needs and contribute to the design direction. Your focus will be on creating interfaces that are not only visually appealing but also highly usable in fast-paced, 24/7 airport environments.
+
+Code Quality & Learning: Contribute to our codebase with a focus on quality and maintainability. Participate in code reviews to learn best practices from senior team members and help maintain our high standards as we scale.
+
+Testing & Iteration: See your work through from development to deployment. You'll have the opportunity to test your interfaces and gather feedback, using insights to iterate and improve the user experience.
+
+Foundational Growth: Play a key role in the foundation of our front-end systems. As our team grows, you will have the opportunity to help shape our component library, design system, and software architecture from the ground up.
+
+
+
+
+Tools We Use
+
+React | TypeScript | JavaScript (ES6+) | HTML/CSS | Git | Figma | REST/GraphQL APIs
+
+
+
+
+Who You Are 
+
+Aspiring Front-End Developer: You have 0-3 years of professional experience and a portfolio (personal or professional projects are great!) that demonstrates your skills with modern front-end technologies like React, JavaScript, and CSS. A degree in CS/Design is a plus, but not required.
+
+Quick Learner with a Can-Do Attitude: You are energized by a challenge and thrive in a fast-paced environment. You may not know everything, but you are resourceful, eager to learn, and unafraid to ask questions.
+
+User-Interface Craftsman: You have a keen eye for clean, functional design and a passion for creating great user experiences. You care about the details—from pixel-perfect layouts to smooth interactions.
+
+Collaborative Team Player: You value humility and enthusiasm. You enjoy working with others, giving and receiving feedback constructively, and contributing to a positive and inclusive team culture.
+
+Mission-Driven: You are excited to apply your skills to tough problems in the physical world. The idea of building software that helps move planes and baggage more efficiently gets you out of bed in the morning.
+
+
+
+
+Why Join Pattern?
+
+Build the Future: Shape the user interfaces for the core tech stack used in airports worldwide. Your work will have a direct, visible impact on how people travel.
+
+Mentorship & Growth: Get hands-on experience with cutting-edge technology and learn from a talented, supportive team. We are committed to your professional development.
+
+Culture of Excellence: Work with top-tier talent who value humility and hustle.
+
+Boulder Lifestyle & Perks: Our office is nestled in the foothills of the Rocky Mountains with access to hiking, climbing, and skiing. We offer unlimited PTO, health benefits, hybrid flexibility, a dog-friendly office, and all the snacks you can eat.
+
+At Pattern we are committed to being a fun, groundbreaking, and inclusive place to work. We strongly encourage engineers from BIPOC, LGBTQ+, and traditionally underrepresented backgrounds to apply.
+
+
+
+
+Hiring Process 
+
+CEO Screen → 2. Technical & Cultural Interview (1-2 calls) → 3. Onsite / Practical Interview → Offer
+… more
+
+Set alert for similar jobs
+
+Frontend Developer, Boulder, Colorado, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+122
+
+total
+
+122
+
+in the past day
+
+Candidate seniority level
+
+74% Entry level candidates
+
+7% Senior level candidates
+
+1% Manager level candidates
+
+Candidate education level
+
+73
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+21
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have an Associate's Degree
+
+
+4
+
+%
+
+have other degrees
+
+There’s not enough quality data on this company just yet
+
+Once there are 30 complete member profiles from this company, we’ll be able to show you the company’s growth and hiring trends
+
+About the company
+
+Pattern
+
+1,915 followers
+
+Follow
+
+Airlines and Aviation
+
+ • 
+
+11-50 employees
+
+ • 
+
+29 on LinkedIn
+
+Pattern builds flexible, responsive, infrastructure for aviation operation. Pulse is a dynamic software platform for managing teams, tasks, turns, and ground logistics. Pathfinder is a modern robotic conveyance, sortation, and storage system that scales with operations, reduces process touchpoints, and expands the airports logisitics footprint.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Frontend Developer
+
+Marklo.AI
+
+San Mateo, CA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on October 28, 2025, 9:28 AM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer - Agentic AI
+
+Homekey
+
+Palo Alto, CA (On-site)
+
+You’d be a top applicant
+
+Posted on November 6, 2025, 9:43 AM
+1 month ago
+
+Founding Full-Stack Engineer
+
+Baton AI
+
+San Francisco, CA (On-site)
+
+You’d be a top applicant
+
+Posted on August 20, 2025, 4:30 PM
+4 months ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Clinically AI
+
+San Diego, CA (Hybrid)
+
+$100K/yr - $240K/yr
+
+ • 
+
+401(k) benefit
+
+Posted on November 13, 2025, 12:08 PM
+1 month ago
+
+Full Stack Software Engineer
+
+Moon
+
+Glendale, CA (On-site)
+
+Vision, 401(k)
+
+1 school alumni works here
+
+Posted on September 9, 2025, 2:39 PM
+3 months ago
+
+full stack software engineer, ros expert
+
+mundane
+
+Palo Alto, CA (On-site)
+
+$120K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on November 16, 2025, 7:51 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+General Software Engineer
+
+Medra
+
+San Francisco, CA (On-site)
+
+Medical, Dental, 401(k)
+
+Posted on December 12, 2025, 11:33 AM
+2 weeks ago
+
+IT Engineer (Verified job)
+IT Engineer 
+
+Paradigm
+
+San Francisco, CA (On-site)
+
+4 benefits
+
+3 school alumni work here
+
+Posted on December 16, 2025, 10:06 AM
+1 week ago
+
+Full Stack Engineer
+
+Stealth Startup
+
+Los Angeles, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on November 23, 2025, 6:11 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Forward Deployed Engineer
+
+CollectWise
+
+New York, NY (On-site)
+
+$150K/yr - $190K/yr
+
+Actively reviewing applicants
+
+Posted on November 10, 2025, 10:44 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Exfluential
+
+Rancho Santa Margarita, CA (Hybrid)
+
+$120K/yr - $140K/yr
+
+ • 
+
+401(k) benefit
+
+Posted on December 19, 2025, 3:53 PM
+1 week ago
+
+Software Engineer
+
+MindFort AI (YC X25)
+
+Los Angeles, CA (On-site)
+
+$175K/yr - $265K/yr
+
+ • 
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on November 3, 2025, 11:22 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2025
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

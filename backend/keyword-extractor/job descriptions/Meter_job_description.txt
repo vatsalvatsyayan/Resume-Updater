@@ -1,0 +1,489 @@
+Meter
+
+Software Engineer, Product
+
+New York, NY · 17 minutes ago · 8 people clicked apply
+
+Responses managed off LinkedIn
+
+$163K/yr - $220K/yr
+Remote
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Recent Software Engineer, Product hires at Meter
+
+Show all
+About the job
+
+Our dashboard is the preeminent way our customers and partners interact with our products. It’s where complex networks become simple, where infrastructure decisions become clear, and where businesses gain confidence in their connectivity. As a product engineer at Meter, you’ll shape how companies visualize and interact with the networks that keep them running, transforming dense technical systems into intuitive, elegant, and performant experiences.
+
+The impact you’ll drive
+
+
+Create data visualizations that go beyond charts. You’ll give businesses real-time insight into device health, connectivity and performance. 
+Ensure every interaction feels instantaneous by improving render, load, and scroll performance
+Adapt our dashboard to shine on any screen
+Build reusable visualization components and design patterns that empower the entire team to move faster. 
+
+
+What Your Craft Looks Like
+
+You will work in TypeScript, React, Vercel, and GraphQL to deliver fast, resilient, and beautiful experiences across varied use cases. That means getting the fundamentals right: well-tested code, intuitive interfaces, and ensuring swift performance at scale. You’ll evolve Meter’s in-house Design System, expand reusable components, and collaborate closely with Design and Engineering peers to accelerate product delivery.
+
+What Makes You a Fit
+
+
+You bring both deep technical craft and hold a high bar for quality and polish
+You operate with autonomy, communicate with clarity, and find energy in helping others move faster
+You care about building elegant systems that scale and unlock better customer outcomes
+You’re motivated by the opportunity to shape the foundation of a fast-growing company, where even small improvements create outsized impact. 
+
+
+Why Meter?
+
+The internet runs the world. Every purchase you make, video call you join, it's all packets flowing through networks. But those networks haven’t changed for decades. They’re brittle, complex, and surprisingly hard to set up in an enterprise space.
+
+We started Meter to build better networks. We had to build everything from the ground-up: designing and building our own enterprise hardware, intuitive software, and streamlined operations to deliver great outcomes for our customers. Today, we build and deploy these networks at scale. Ambitious companies and enduring institutions like Bridgewater, Lyft, Reddit, rely on Meter to keep their thousands of employees and locations online and productive.
+
+Compensation
+
+
+The estimated salary range for this role is $163,000 - $220,000. 
+Additionally, this role is eligible to participate in Meter's equity plan. 
+
+
+By applying to this job you acknowledge that you've read and understood Meter's Job Applicant Privacy Notice.
+
+
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Product, New York, New York, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+8
+
+total
+
+8
+
+in the past day
+
+Candidate seniority level
+
+75% Entry level candidates
+
+25% Senior level candidates
+
+Candidate education level
+
+71
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+14
+
+%
+
+have an Associate's Degree
+
+
+14
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Meter
+Powered by Bing
+
+Company focus areas
+
+• Innovative Networking Solutions: Meter aims to change the way local area networks are built and managed, focusing on innovative solutions like WAN/LAN collaboration and cellular solutions as DAS replacements.
+
+...more
+
+Sources: fierce-network.com +1 more
+
+Hiring & headcount
+
+Significant growth in sales: The 'Sales' department has seen a 185% increase in headcount over the past year, indicating a major initiative to boost sales efforts and market presence. Expansion in marketing: The 'Marketing' department experienced a 233% increase in headcount, suggesting a strong focus on marketing initiatives and brand development. Investment in human resources: The 'Human Resources' department grew by 400%, highlighting a strategic move to enhance talent acquisition and employee management capabilities. Growth in engineering and IT: The 'Engineering' and 'Information Technology' departments have increased by 39% and 67% respectively, reflecting a commitment to innovation and technological advancement.
+… more
+
+The latest hiring trend
+
+185
+
+Total employees
+
+147%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+100
+200
+
+Median employee tenure: 1 years
+
+Competitors
+
+Meter operates in the enterprise internet infrastructure industry, providing hardware, software, and network management tools. The competitive landscape is highly dynamic with numerous players focusing on innovation in network optimization, security, and scalability. Companies like Cisco, Juniper Networks, and Arista Networks are key competitors, each offering robust solutions that cater to various enterprise needs. Strategic imperatives for Meter include continuous innovation, enhancing security features, and expanding market reach to maintain a competitive edge.
+… more
+
+Show Premium Insights
+About the company
+
+Meter
+
+13,025 followers
+
+Follow
+
+Software Development
+
+ • 
+
+51-200 employees
+
+ • 
+
+185 on LinkedIn
+
+Meter provides internet infrastructure for businesses. Headquartered in San Francisco, we were founded in 2015 to build enterprise-grade networks that are faster, more accessible, and more secure. Our full-stack approach combines hardware, software, and operations so that any company can seamlessly run on a reliable and modern network. We believe the internet is a fundamental utility that businesses should be able to turn on as easily as water and electricity.
+
+Our team includes people who have helped scale successful companies and recent graduates who are eager to learn and build. We’re looking for people who are excited to work on interesting problems, enjoy learning from and helping each other, and above all, are kind and ambitious. We’re building for the long term, and we’re just getting started. 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Senior Go High Level Expert
+
+Brenda Breland LLC
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 26, 2026, 3:49 PM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer II (Verified job)
+Software Engineer II 
+
+Mercury Insurance
+
+Brea, CA (On-site)
+
+$83.7K/yr - $161.8K/yr
+
+ • 
+
+401(k) benefit
+
+3 company alumni work here
+
+Posted on January 29, 2026, 5:53 PM
+48 minutes ago
+
+Cofounder / Software Engineer (Equity Only, Pre-Funding)
+
+Forboc AI
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 27, 2026, 6:56 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+undisclosed
+
+United States (Remote)
+
+$160K/yr - $320K/yr
+
+ • 
+
+8 benefits
+
+7 school alumni work here
+
+Posted on January 28, 2026, 7:07 PM
+23 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Engineer (Remote)
+
+Refresh
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 3:44 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Software Development Engineer
+
+Mercor
+
+United States (Remote)
+
+$50/hr - $150/hr
+
+1 connection works here
+
+Posted on January 27, 2026, 2:58 PM
+2 days ago
+
+Back-End Software Engineer (Go) (Verified job)
+Back-End Software Engineer (Go) 
+
+Wizer - Free Security Awareness Training
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 19, 2026, 6:47 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Stats & Analytics (Verified job)
+Software Engineer, Stats & Analytics 
+
+StackAdapt
+
+United States (Remote)
+
+401(k) benefit
+
+7 school alumni work here
+
+Posted on January 29, 2026, 12:10 PM
+6 hours ago
+
+Software Engineer - Integration Specialist (Verified job)
+Software Engineer - Integration Specialist 
+
+Corporate Central Credit Union
+
+United States (Remote)
+
+Posted on January 18, 2026, 6:48 AM
+1 week ago
+
+Senior Developer Advocate (Developer Evangelist)
+
+Typesense
+
+United States (Remote)
+
+$150K/yr - $170K/yr
+
+ • 
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 2:33 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+SutureHealth
+
+United States (Remote)
+
+4 benefits
+
+Posted on January 29, 2026, 8:59 AM
+9 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Engineer
+
+Mainstay
+
+United States (Remote)
+
+$120K/yr - $140K/yr
+
+ • 
+
+7 benefits
+
+Actively reviewing applicants
+
+Posted on January 27, 2026, 7:48 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

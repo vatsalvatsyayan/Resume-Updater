@@ -1,0 +1,71 @@
+About the job
+
+Company Description
+
+
+
+
+pie. Vibes. We help people find fun things to do, with people they enjoy. We're building a program that's more social than media. A movement where the feed is not AI slop but actually meaningful and deep IRL connections. We're warm, flexible, funny people, looking for a Software Engineer who is a coders coder, a computer person, who wants to be on a mission with us to make IRL the new wave of the future.
+
+
+
+
+Role Description
+
+
+
+
+This is a full time, on-site role for a Software Engineer to join us in our office in the River North neighborhood of Chicago. Let's throw some terms out: full stack, vibe coder, backend, front end. What does it all mean in the age of AI? We are looking for someone who is willing to embrace blurred roles, but might lean into one area with a passion. You'll have to love product, maybe you're a Product Engineer? We also expect you to have "classic" coding chops, but be into the AI stuff also. You'll work closely with our cross-functional product engineering team to deliver high quality, code reviewed (by a human) software.
+
+
+
+
+We have a React Native mobile app, a Kotlin backend, and a React website. We're not running JavaScript on the backend. Our stack is functional, type-safe, and cutting edge. We like the craft of coding and we're the kind of people who feel lucky to work on this project as it truly doesn't feel like a job. It's a true startup vibe.
+
+
+
+
+Qualifications
+
+
+
+
+You're not required to have all of these skills, but a subset of them would be great!
+
+
+
+
+At least a couple years of coding experience, with knowledge of, or excitement to learn Kotlin, React, React Native, and TypeScript.
+Experience with Next.js for web development.
+Experience with Expo for mobile development.
+Kotlin skills for backend work.
+Experience with backend development, databases, and API design.
+Comfortable, and stoked to work in a collaborative, in-office environment.
+Empathizes with users and can channel their perspective to build lovable products that help people connect in real life.
+Can balance tradeoffs and find creative solutions.
+Communicates and collaborates effectively with peers and cross-functional counterparts.
+Ability to work with our team's defensive, functional, and efficient patterns.
+Team player
+
+
+
+
+What We Offer
+
+
+
+
+World-class UHC 100% medical coverage.
+401k with company match.
+Monthly cell phone, gym, and transit stipends.
+Dental & vision insurance.
+Flexible time off.
+Equity package (subject to approval).
+A flexible, collaborative environment with a 9-to-5, in-office vibe.
+An empathic, friendly, and generous team that believes the best software is built by personalities that mesh. If you're creative, hard-working, and love a good laugh, you'll fit right in.
+$100-$175k base salary range.
+
+
+
+
+No recruiters, agencies, or third-party staffing firms. We only accept direct applications from candidates. Please do not contact us on behalf of candidates or submit resumes through third-party services.

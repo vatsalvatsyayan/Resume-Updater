@@ -1,0 +1,55 @@
+About the job
+
+About Us
+
+MindFort is an AI-powered penetration testing platform that delivers human-level security testing at machine speed. We're building fully autonomous AI agents that can find, exploit, and patch complex vulnerabilities in web applications at massive scale.
+
+Our agents think and act like human penetration testers: they analyze targets, collaborate, and exploit weaknesses — but with the speed and scale only AI can achieve.
+
+Security teams are already falling behind with outdated tools and manual processes. AI-generated code is flooding the world faster than humans can secure it. MindFort is closing that gap. Our platform will be critical for organizations building with AI and will redefine how offensive security is done.
+
+About The Role
+
+We’re hiring a Software Engineer – Backend Engineering with a strong focus on backend and AI. You’ll help architect and scale our AI Security Agent systems from the ground up. This is a high-impact, high-ownership role: as one of our earliest engineers, you’ll shape not just our product, but also our engineering culture and standards.
+
+You’ll join a high-trust, high-velocity team where decisions are fast, responsibilities are broad, and your work will have an immediate effect on developer experience and product performance
+
+Key Responsibilities
+
+
+Design and build end-to-end applications using modern LLM frameworks (LangChain, LangGraph, or custom).
+Architect and maintain scalable backend systems (Python, APIs, Postgres, Docker, Kubernetes).
+Orchestrate reasoning, prompt flows, and memory mechanisms to build reliable AI agents.
+Integrate AI models into production environments with real users at scale.
+Write clean, maintainable backend code and build complex features with performance in mind.
+Identify and resolve bottlenecks to keep systems fast and resilient.
+
+
+Qualifications::
+
+
+Bachelor’s or Master’s in Computer Science (or equivalent experience).
+Strong software engineering skills with deep Python expertise.
+Experience with LLMs, AI agents, and AI libraries.
+Solid knowledge of API design, databases (Postgres), and backend systems.
+Experience deploying and scaling AI in production.
+Strong communication skills and proven ability to thrive in small, cross-functional teams.
+
+
+Nice To Have
+
+
+Experience training and serving LLM models.
+Background in cybersecurity, web vulnerabilities, or security tools.
+Prior startup or early-stage experience as a software engineer.
+
+
+What You Get
+
+
+Competitive salary plus founding-level equity.
+Equinox membership (fully covered, ~$350/month).
+Top-tier health insurance — 100% covered.
+Lunch included regularly plus ad hoc team dinners.
+Unparalleled access to leading AI labs and world-class security teams.
+Unlimited, flexible PTO.

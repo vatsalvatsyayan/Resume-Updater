@@ -1,0 +1,52 @@
+About the job
+
+Who We Are
+
+At Cox Automotive, we're transforming the automotive industry through technology and innovation. Our software engineers build world-class solutions that make the car-buying journey smarter and more efficient for consumers, dealers, and manufacturers.
+
+Here, you'll join a collaborative and energetic environment where teamwork, problem-solving, and continuous learning are at the core of what we do. We encourage creative thinking, provide opportunities to expand your technical skills, and celebrate building impactful software together.
+
+What You'll Do
+
+As a Software Engineer, you'll be a key member of one of our Scrum teams, contributing to the design, development, and delivery of software solutions that solve complex business challenges. You'll apply modern design patterns, best practices, and frameworks with a focus on performance, scalability, and maintainability.
+
+On our team, collaboration is more than a buzzword, we practice paired programming, code reviews, and mentorship to ensure everyone continues to grow and succeed.
+
+Your Duties
+
+
+Design, build, deploy, monitor, and support highly available production systems.
+Write clean, efficient, and maintainable code.
+Participate in code reviews and share best practices with your team.
+Contribute ideas to improve processes, tools, and team practices.
+Explore and evaluate open-source or industry-standard technologies to enhance our solutions.
+
+
+Minimum Qualifications
+
+
+Bachelor's degree in a related discipline. The right candidate could also have a different combination, such as 4 years' experience in a related field
+
+
+Preferred Qualifications
+
+
+Solid understanding of programming and database concepts.
+Hands-on academic or internship experience developing software applications.
+Ability to thrive in a collaborative, team-oriented environment.
+Familiarity with web technologies (e.g., JavaScript, HTML, ReactJS).
+Cloud experience (AWS, Azure, or GCP) is a plus.
+Experience with AI-assisted development tools (e.g., GitHub Copilot) to improve code quality, accelerate delivery, and enhance productivity.
+
+
+USD 72,200.00 - 108,200.00 per year
+
+Compensation
+
+Compensation includes a base salary of $72,200.00 - $108,200.00. The base salary may vary within the anticipated base pay range based on factors such as the ultimate location of the position and the selected candidate's knowledge, skills, and abilities. Position may be eligible for additional compensation that may include an incentive program.
+
+Benefits
+
+The Company offers eligible employees the flexibility to take as much vacation with pay as they deem consistent with their duties, the company's needs, and its obligations; seven paid holidays throughout the calendar year; and up to 160 hours of paid wellness annually for their own wellness or that of family members. Employees are also eligible for additional paid time off in the form of bereavement leave, time off to vote, jury duty leave, volunteer time off, military leave, and parental leave.
+
+Applicants must currently be authorized to work in the United States for any employer without current or future sponsorship.

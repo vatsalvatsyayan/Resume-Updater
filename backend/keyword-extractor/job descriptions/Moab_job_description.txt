@@ -1,0 +1,60 @@
+About the job
+
+About The Company
+
+Moab is a seed stage company founded by early employees of Ramp and Uber.
+
+We're funded by a top Bay Area venture firm and a leading industry-focused venture firm.
+
+Moab is building heavy equipment rental and dealer management software with the aim to automate all aspects of running these businesses - including managing inventory, orders, billing, service, repair, dispatch, and accounting.
+
+The equipment dealer and rental market is an integral part of the multi-trillion dollar construction, agriculture, and logistics industries. It is currently under served by antiquated, incumbent software solutions - most of which were incepted in the 1980's and 1990's.
+
+Our ultimate goal is to connect everyone who is selling, buying, renting, servicing, or utilizing equipment. We're starting by building a new system-of-record for equipment rental businesses that will increase back office efficiency and generate additional front office revenue.
+
+The founding team has deep expertise in building and selling B2B SaaS. It's comprised of:
+
+
+Charles Soll (CEO)
+Patrick Anderson (CTO)
+Rodda John (Lead Engineer)
+
+
+About The Role
+
+Moab is hiring engineers to build software alongside Patrick Anderson and Rodda John.
+
+Our ideal candidate is highly proficient with their tools - having put them to use over many repetitions, taking the time to understand their depth.
+
+We use Python, Unix, and Postgres to build Moab's backend. Our frontend is built with React.js and TypeScript.
+
+Patrick wrote about his approach to building engineering teams here. Rodda wrote briefly about his approach to building software here and at length here.
+
+Moab engineering will appeal to you if you'd like to work on a team that keeps the tech stack simple, measures their CI/CD time in seconds, has a deeply technical leader, only works on things that move the needle for the business, and ships more than its competitors with a fraction of their headcount.
+
+What you'll do
+
+
+Build the reliable, maintainable, and minimal software that comprises our product
+Collaborate with customers to provide feedback on their proposals and assess feasibility of implementation
+Lay the foundation of our engineering culture
+
+
+What you'll need
+
+
+Experience working at a venture backed company
+Track record of shipping software that balances time to market with reliability
+Ability to translate a product vision into elegant software abstractions
+Full-stack experience
+
+
+Compensation
+
+The annual salary for this role is $150,000 to $200,000 plus equity plus benefits
+
+Benefits (for US based full-time employees)
+
+Medical, dental, and vision insurance coverage
+
+Compensation Range: $150K - $200K

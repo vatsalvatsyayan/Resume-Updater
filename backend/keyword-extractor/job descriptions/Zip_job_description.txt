@@ -1,0 +1,503 @@
+Zip
+
+Software Engineer, Security Products 
+
+San Francisco, CA · 3 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$150K/yr - $180K/yr
+Remote
+Full-time
+Apply
+Save
+
+Your profile was shared with the job poster. Undo
+
+Did you apply?
+
+Let us know, and we’ll help you track your application.
+
+Yes
+No
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Jayshil and others in your network
+
+Show all
+About the job
+
+The simple task of buying software, services, or tools at work has become hopelessly complicated at even the most innovative companies in the world. Today, enterprises spend $120T+ per year globally (>30 times larger than annual consumer e-commerce spend) and rely on vendors more than ever before to run their businesses.
+
+Our cofounders started Zip in 2020 to address this seemingly intractable problem with a purpose-built procurement platform that provides a simple, consumer-grade user experience. Within the last 4 years, Zip has created a new category and developed the leading solution in this $50B+ TAM space. Today, the world’s leading companies like OpenAI, Snowflake, Anthropic, Coinbase, and Prudential rely on Zip to manage billions of dollars in spend.
+
+We have a world-class team coming from category-defining companies like Airbnb, Meta, Stripe, Salesforce, Apple, and Google. With a $2.2 billion valuation and $370 million in funding from Y Combinator, Tiger Global, BOND, DST Global, and CRV, we’re focused on developing cutting-edge technology, expanding into new global markets, and—above all–driving incredible value for our customers. Join us!
+
+Your Role
+
+The Identity team is responsible for the platforms that manage user access and data confidentiality for customers. As a Software Engineer on the team, you will take on a dynamic role, developing core customer-facing identity products, such as authentication/authorization, user account security, and encryption key management. We move quickly to solve a wide range of complex technical and product challenges. While we are an experienced team that can provide constant guidance and mentorship, we value engineers who can autonomously scope and solve complex technical challenges.
+
+You will
+
+
+Design and build product features for enterprise customers, such as AI-powered anomaly detection for payment fraud and account takeovers, granular access control and identity management, and bring-your-own-key encryption.
+Work closely with cross-functional product and customer-facing teams to understand requirements and ship thoughtful solutions.
+Work closely with our customers’ security teams (e.g., Discover, Snowflake, and Anthropic) to understand their needs and learn how they assess risk.
+Build guardrails, tooling, frameworks, and automation to empower software engineers to ship secure changes and prevent vulnerabilities from reaching the main branch.
+Design and build scalable frontend applications and components.
+
+
+
+Qualifications
+
+
+Minimum 1+ years of experience in a software engineering role. This role requires software development experience.
+Experience with web application and API development in production environments. At Zip, our stack includes Python, Typescript, React, and GraphQL.
+Experience in enterprise SaaS, fintech, software security best practices, and compliance frameworks is a bonus, but not required.
+
+
+
+The salary range for this role is $150,000 - $180,000. The salary for this position is determined based on a variety of job-related factors that may include location, relevant experience, education, or particular skills and expertise.
+
+Perks & Benefits
+
+At Zip, we’re committed to providing our employees with everything they need to do their best work.
+
+
+📈 Start-up equity
+🦷 Full health, vision & dental coverage
+🍽️ Catered lunches & dinners for SF employees
+🚍 Commuter benefit
+🚠 Team building events & happy hours
+🌴 Flexible PTO
+💻 Apple equipment plus home office budget
+💸 401k plan
+
+
+
+We're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!
+… more
+
+Benefits found in job post
+
+Commuter benefits, 401(k)
+
+Set alert for similar jobs
+
+Software Engineer, San Francisco, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+291
+
+total
+
+291
+
+in the past day
+
+Candidate seniority level
+
+81% Entry level candidates
+
+10% Senior level candidates
+
+Candidate education level
+
+78
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+18
+
+%
+
+have a Bachelor's Degree
+
+
+3
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Zip
+Powered by Bing
+
+Company focus areas
+
+• Procurement orchestration: Zip focuses on transforming procurement processes through its procurement orchestration platform, which aims to centralize and streamline workflows, information, and people involved in procurement.
+
+...more
+
+Sources: ziphq.com +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 69% increase in headcount, indicating a major focus on expanding technical capabilities and product development. Expansion in sales: The 'Sales' department has experienced a 74% increase in employee count, suggesting a strong push towards boosting sales efforts and market reach. Increased focus on IT: The 'Information Technology' department has grown by 97%, highlighting a substantial investment in IT infrastructure and digital transformation. Growth in operations and business development: The 'Operations' and 'Business Development' departments have increased by 46% and 44% respectively, pointing to efforts in improving operational efficiency and exploring new business opportunities.
+… more
+
+The latest hiring trend
+
+1,118
+
+Total employees
+
+126%
+
+Company-wide
+
+2 year growth
+
+126%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+500
+1000
+1500
+
+Median employee tenure: 1.2 years
+
+Zip hires candidates from some of these companies and schools
+
+Zip hired 3 people from University of Southern California. See all
+
+Zip hired 12 people from University of Southern California. See all
+
+Competitors
+
+Zip operates in a highly competitive procurement orchestration market, facing significant competition from companies like Tonkean, Sage Intacct, and Tipalti. These competitors offer advanced AI-powered solutions and comprehensive financial management features that challenge Zip's market position. To maintain its competitive edge, Zip needs to focus on enhancing its procurement workflows and expanding its feature set to meet evolving customer needs.
+… more
+
+Sources: procurementmag.com +2 more
+
+Show Premium Insights
+About the company
+
+Zip
+
+42,878 followers
+
+Follow
+
+Software Development
+
+ • 
+
+501-1000 employees
+
+ • 
+
+1,118 on LinkedIn
+
+Zip is the world’s leading AI-powered procurement orchestration platform, empowering businesses to accelerate the procurement process, mitigate risk, and drive growth by offering a single front door to unify the teams, tasks, and tools involved in working with suppliers. With Zip, businesses can maximize employee adoption of purchasing policies and increase spend visibility and control. As the leading solution for optimizing business spend, Zip’s AI-powered platform is trusted by hundreds of leading enterprises worldwide, including AMD, Anthropic, Arm, Canva, Coinbase, Discover, Dollar Tree, HP, Instacart, Lyft, Northwestern Mutual, Pinterest, Prudential, Reddit, Sephora, Snowflake, Sprouts Farmers Market, and Toast to maximize the ROI of every dollar. 
+
+Zip in October of 2024 secured a $190 million Series D at a $2.2 billion valuation marking the largest investment in procurement technology in over two decades. Zip’s impact has been transformative: over $107 billion in customer spend processed to date and collectively saving over $4.4 billion. Snowflake alone achieved $305 million in savings.
+
+Zip has earned numerous awards, including Fast Company’s Next Big Things in Tech, Inc.’s Best in Business, Forbes 2025 Fintech 50 and Forbes 2025 America's Best Startup Employers, along with coverage in Fortune, Bloomberg, VentureBeat and TechCrunch. Industry analyst IDC recently created a new “Spend Orchestration” category, with Zip named the leader.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Founding Engineer
+
+Tarly
+
+United States (Remote)
+
+$160K/yr - $220K/yr
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 3:39 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+AI Software Developer (EdTech & SaaS Focus)
+
+Creative Design Group, Inc.
+
+Burbank, CA (Remote)
+
+$130K/yr
+
+Actively reviewing applicants
+
+Posted on January 13, 2026, 9:08 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+AI Agent Engineer - GitHub CoPilot & Azure AI Foundry
+
+WINIGENT
+
+Redmond, WA (Remote)
+
+Actively reviewing applicants
+
+Posted on January 6, 2026, 2:29 PM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+Glimmer Fics
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 20, 2026, 4:56 PM
+9 minutes ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer
+
+Neural Earth
+
+United States (Remote)
+
+Posted on January 15, 2026, 5:17 AM
+5 days ago
+
+Founding Engineer / CTO-Track (Equity Only)
+
+TruNeighbor
+
+San Diego Metropolitan Area (Remote)
+
+Company response time is typically 1 week
+
+Posted on January 20, 2026, 11:49 AM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+UI Developer
+
+Journalytic
+
+Folsom, CA (Remote)
+
+Posted on January 12, 2026, 3:38 PM
+1 week ago
+
+Software Engineer
+
+UFODRIVE
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 9, 2026, 5:07 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer Intern
+
+Workhelio
+
+United States (Remote)
+
+$30/hr
+
+Actively reviewing applicants
+
+Posted on January 18, 2026, 8:32 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+Praeses
+
+United States (Remote)
+
+$105K/yr - $115K/yr
+
+Actively reviewing applicants
+
+Posted on January 9, 2026, 6:16 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Software Enginner
+
+RealSimGear Inc
+
+San Diego, CA (Remote)
+
+$90K/yr - $150K/yr
+
+ • 
+
+Medical, Vision, Dental, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 8:59 PM
+4 days ago
+
+ · 
+
+ Easy Apply
+
+Back-End Software Engineer (Go)
+
+Wizer - Free Security Awareness Training
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 19, 2026, 6:47 PM
+22 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

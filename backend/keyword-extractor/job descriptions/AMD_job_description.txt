@@ -1,0 +1,444 @@
+AMD
+
+Software Development Engineer 
+
+San Jose, CA · 4 minutes ago · 21 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$151.2K/yr - $170.4K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Chaitanya and others in your network
+
+Show all
+About the job
+
+WHAT YOU DO AT AMD CHANGES EVERYTHING
+
+At AMD, our mission is to build great products that accelerate next-generation computing experiences—from AI and data centers, to PCs, gaming and embedded systems. Grounded in a culture of innovation and collaboration, we believe real progress comes from bold ideas, human ingenuity and a shared passion to create something extraordinary. When you join AMD, you’ll discover the real differentiator is our culture. We push the limits of innovation to solve the world’s most important challenges—striving for execution excellence, while being direct, humble, collaborative, and inclusive of diverse perspectives. Join us as we shape the future of AI and beyond. Together, we advance your career. 
+
+Job Role and Responsibility: Xilinx, Inc., a subsidiary of AMD, Inc., is hiring Software Development Engineers to Research, design, develop, and/or test operating systems-level software, compilers, and/or network distribution software for semiconductor operations, applying principles and techniques of computer science, engineering, and mathematical analysis. Design, develop, troubleshoot and debug software programs for enhancements and new products. Develop software and tools in support of design, infrastructure and technology platforms, including operating systems, compilers, routers, networks, utilities, databases, cloud-based and internet-related tools. Determine hardware compatibility and/or influence hardware design. Work in an area of specialization to develop systems-level software, working on problems of complex scope where analysis of situations or data requires a review of a variety of factors. Under limited supervision, exercise judgment within defined company procedures and practices to select methods, techniques and evaluation criteria for obtaining results. Utilize knowledge of computers and electronics, including computer hardware and software, applications, and programming, as well as knowledge of the practical application of engineering science and technology. Apply knowledge of engineering principles, best practices, and technologies to the design, development, and testing of various company systems and products.
+
+Multiple openings. Qualified applicants click “APPLY NOW” button to apply online.
+
+Travel required: NO
+
+Qualifications: Degree required
+
+Master’s degree or foreign equivalent in Computer Science, Computer Engineering, Electrical Engineering, Electronic Engineering, or related field.
+
+Qualifications: Amount and type of experience required: None
+
+Specific skills required: The following skills are required:
+
+Position Requires Experience In The Following
+
+
+Python or Bash;
+Machine learning;
+TensorFlow;
+Git;
+JavaScript;
+Object-oriented design; and
+Software debugging (macOS, Linux, or Unix).
+
+
+
+Experience may be gained through graduate-level coursework, research, project, assistantship, or internship experience.
+
+Benefits offered are described: AMD benefits at a glance.
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.
+
+AMD may use Artificial Intelligence to help screen, assess or select applicants for this position. AMD’s “Responsible AI Policy” is available here.
+
+This posting is for an existing vacancy.
+
+
+… more
+
+Set alert for similar jobs
+
+Software Engineer, San Jose, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+21
+
+total
+
+21
+
+in the past day
+
+Candidate seniority level
+
+86% Entry level candidates
+
+5% Senior level candidates
+
+Candidate education level
+
+75
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+25
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about AMD
+Powered by Bing
+
+Company focus areas
+
+• Data Center Growth: Accelerate growth in the Data Center segment by increasing sales of AMD Instinct GPUs and AMD EPYC CPUs. The company aims to deliver an annual cadence of leadership AI solutions and expand its high-performance server CPU portfolio.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 17% increase in headcount, indicating a strong focus on research and development, which suggests potential growth in innovative product offerings. Expansion in administrative and sales functions: The 'Administrative' and 'Sales' departments have experienced substantial increases of 219% and 132% respectively, highlighting a strategic push towards strengthening operational support and market reach. Increased focus on business development: The 'Business Development' function has doubled its headcount with a 100% increase, suggesting a concerted effort to explore new markets and partnerships, which could drive future revenue growth. Emerging focus on healthcare services: The 'Healthcare Services' department has seen a remarkable 241% increase in headcount, indicating a new or expanded initiative in this sector, which could present significant growth opportunities.
+… more
+
+The latest hiring trend
+
+62,057
+
+Total employees
+
+89%
+
+Company-wide
+
+2 year growth
+
+8%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+50000
+100000
+
+Median employee tenure: 1.5 years
+
+AMD hires candidates from some of these companies and schools
+
+AMD hired 109 people from University of Southern California. See all
+
+AMD hired 604 people from University of Southern California. See all
+
+Competitors
+
+Advanced Micro Devices (AMD) is a key player in the semiconductor industry, competing fiercely with Intel and Nvidia. The company has made significant strides in AI technology, securing major deals with Oracle and OpenAI, which positions it strongly against Nvidia. However, AMD faces competitive pressures from the Intel-Nvidia alliance and new entrants like Qualcomm in the data center AI chip market. Strategic innovation and partnerships are crucial for AMD to maintain its competitive edge.
+… more
+
+Sources: business.sherbrookerecord.com +3 more
+
+Show Premium Insights
+About the company
+
+AMD
+
+2,115,826 followers
+
+Following
+
+Semiconductor Manufacturing
+
+ • 
+
+10001+ employees
+
+ • 
+
+60,180 on LinkedIn
+
+We care deeply about transforming lives with AMD technology to enrich our industry, our communities, and the world. Our mission is to build great products that accelerate next-generation computing experiences – the building blocks for the data center, artificial intelligence, PCs, gaming and embedded. Underpinning our mission is the AMD culture. We push the limits of innovation to solve the world’s most important challenges. We strive for execution excellence while being direct, humble, collaborative, and inclusive of diverse perspectives. 
+AMD together we advance_ 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Firmware Audio Engineer
+
+Polaro
+
+San Mateo, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 6:02 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+LLM Engineer
+
+Prana Tree
+
+Chicago, IL (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 6:29 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Founding Full Stack Engineer
+
+Topify.ai
+
+San Francisco, CA (On-site)
+
+3 school alumni work here
+
+Posted on January 23, 2026, 12:36 AM
+17 hours ago
+
+ · 
+
+ Easy Apply
+
+Back End Developer, Shopify
+
+PIVOT | Shopify Plus Agency Partner
+
+Mission Viejo, CA (Hybrid)
+
+Posted on January 23, 2026, 2:33 PM
+3 hours ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Engineer (Verified job)
+Artificial Intelligence Engineer 
+
+Stuut
+
+San Francisco Bay Area (On-site)
+
+Vision, 401(k)
+
+Posted on January 22, 2026, 2:18 PM
+1 day ago
+
+System Engineer
+
+Sonit Systems, LLC
+
+Archbold, OH (On-site)
+
+Medical, 401(k)
+
+Posted on January 23, 2026, 6:41 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Engineer
+
+Basic Capital
+
+New York, NY (On-site)
+
+Posted on January 22, 2026, 3:35 PM
+1 day ago
+
+Staff Software Engineer (Verified job)
+Staff Software Engineer 
+
+Trellis
+
+United States (Remote)
+
+$220K/yr
+
+ • 
+
+7 benefits
+
+1 school alumni works here
+
+Posted on January 22, 2026, 1:24 PM
+1 day ago
+
+Infrastructure Engineer - St. Louis Only (Verified job)
+Infrastructure Engineer - St. Louis Only 
+
+Lemonaid Health
+
+St Louis, MO (On-site)
+
+$75K/yr
+
+ • 
+
+Medical, Vision, Dental, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 12:34 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Robotics Firmware Engineer
+
+Zenblen
+
+Chicago, IL (On-site)
+
+Posted on January 22, 2026, 9:16 AM
+1 day ago
+
+Forward Deployed Engineer
+
+Empromptu.ai
+
+San Francisco Bay Area (Remote)
+
+$100K/yr - $150K/yr
+
+Posted on January 23, 2026, 12:44 PM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

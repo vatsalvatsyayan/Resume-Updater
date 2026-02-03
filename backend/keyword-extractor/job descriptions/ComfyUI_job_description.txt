@@ -1,0 +1,428 @@
+ComfyUI
+
+Software Engineer, Core ComfyUI Contributor
+
+San Francisco, CA · 18 minutes ago · 2 people clicked apply
+
+Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Recent Software Engineer, Core ComfyUI Contributor hires at ComfyUI
+
+Show all
+About the job
+
+The Role
+
+You will be a core contributor to open source ComfyUI, one of the most popular open source projects of our time.
+
+Your mission is to create a world-class creative tool and workflow engine. You will architect, and implement the foundations that power our engineering organization — clean software abstractions, extensible RESTFUL APIs and Python SDK, and clean code. Decisions here have long-lasting implications, and can result in massive headwinds or tailwinds for the project, thus requiring exceptional attention to detail and thoughtful design.
+
+Example projects include…
+
+
+Writing shared abstractions that are extensible for future changes, such as the concept of subgraphs (within a graph)
+Designing data models that can be evolved in an open source environment
+Introducing a new core type, such as VIDEO or 3D
+Partnering with product design and frontend engineers to ship user facing features that also need to work in headless environments (many users run ComfyUI as an API service). 
+
+
+You might be a fit if…
+
+
+Experience writing Python and maintaining APIs and SDKs used at scale
+Regularly write and review code, maintaining a high bar for each
+Care deeply about elegant software design and writing clean code
+Bonus: Familiar with ComfyUI or other node based workflow tools
+Bonus: Strong understanding of tensors, pytorch, and can contribute to implementing new models for ComfyUI
+
+
+What is ComfyUI?
+
+ComfyUI is the world’s leading visual AI platform — an open, modular system where anyone can build, customize, and automate AI workflows with precision and full control.
+
+Unlike most AI tools that hide their inner workings behind a simple prompt box, ComfyUI gives professionals the freedom to design their own pipelines — connecting models, tools, and logic visually like building blocks.
+
+It’s used by artists, filmmakers, video game creators, designers, researchers, VFX houses, and among others, teams at OpenAI, Netflix, Amazon Studios, Ubisoft, EA, and Tencent — all who want to go beyond presets and truly shape how AI creates.
+
+ComfyUI empowers those who were not trained with the power of the brush to also be a painter, and those who are, to be a maestro.
+
+
+Built for users who value transparency and control Infinitely extensible — thousands of community-made nodes and integrations
+Scales from creative experimentation to production automation
+Open-source, used by millions, and backed by one of the most active AI communities online
+Evolving to democratize visual AI creation: empowering everyone from hobbyists to studios, storytellers, and enterprises to be more productive and creative than ever before
+
+
+ComfyUI isn’t just another AI app. It’s aiming to become the operating system for visual generative AI , the foundation on which the next generation of creative tools are being built.
+
+An creative’s show case of how Comfy is adopted in their work
+
+About Us
+
+We are a small, intense, and well-funded team in San Francisco who push ComfyUI and its ecosystem forward. Our team comes from Stability AI and Google and many contributed to the ComfyUI ecosystem way before working here.
+
+Our organization is flat and there is no hierarchy, only categories: dev, arts, prod, ops, etc (and no, there is no one here with the title of Member of Technical Staff, it’s long and silly for a job title).
+
+The only thing that matters is the quality of your cultural fit and execution. We work hard and demand a lot of each other. But we have fun: everyone is here to make something meaningful that will end up being our life’s work. If this mission excites you and you view yourself as a top-tier talent, your future latent self is waiting for you at Comfy.
+
+Check out our Github and blog for what we’ve been working on. Our investors include Pace Capital, Chemistry, Abstract Venture, and Guillermo Rauch.
+
+
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Core ComfyUI Contributor, San Francisco, California, United States
+
+Off
+Based on LinkedIn data. Excludes subsidiaries.
+
+2
+
+Candidates
+
+We’re waiting on more data to deliver Competitive intelligence
+
+Once there are 3 or more candidates for this job, we will show how you compare to the competition.
+
+Exclusive Job Seeker Insights about ComfyUI
+Powered by Bing
+
+The latest hiring trend
+
+43
+
+Total employees
+
+617%
+
+Company-wide
+
+2 year growth
+
+300%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+25
+50
+
+Median employee tenure: 0.7 years
+
+Show Premium Insights
+About the company
+
+ComfyUI
+
+23,550 followers
+
+Follow
+
+Software Development
+
+ • 
+
+11-50 employees
+
+ • 
+
+43 on LinkedIn
+
+Building ComfyUI
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Firmware Audio Engineer
+
+Polaro
+
+San Mateo, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 6:02 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+LLM Engineer
+
+Prana Tree
+
+Chicago, IL (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 6:29 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Founding Full Stack Engineer
+
+Topify.ai
+
+San Francisco, CA (On-site)
+
+3 school alumni work here
+
+Posted on January 23, 2026, 12:36 AM
+17 hours ago
+
+ · 
+
+ Easy Apply
+
+Back End Developer, Shopify
+
+PIVOT | Shopify Plus Agency Partner
+
+Mission Viejo, CA (Hybrid)
+
+Posted on January 23, 2026, 2:33 PM
+3 hours ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Engineer Audio (Verified job)
+Artificial Intelligence Engineer Audio 
+
+Stuut
+
+San Francisco Bay Area (On-site)
+
+Vision, 401(k)
+
+Posted on January 22, 2026, 1:16 PM
+1 day ago
+
+Full Stack Software Engineer
+
+Basic Capital
+
+New York, NY (On-site)
+
+Posted on January 22, 2026, 3:35 PM
+1 day ago
+
+System Engineer
+
+Sonit Systems, LLC
+
+Archbold, OH (On-site)
+
+Medical, 401(k)
+
+Posted on January 23, 2026, 6:41 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+Infrastructure Engineer - St. Louis Only (Verified job)
+Infrastructure Engineer - St. Louis Only 
+
+Lemonaid Health
+
+St Louis, MO (On-site)
+
+$75K/yr
+
+ • 
+
+Medical, Vision, Dental, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 12:34 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Robotics Firmware Engineer
+
+Zenblen
+
+Chicago, IL (On-site)
+
+Posted on January 22, 2026, 9:16 AM
+1 day ago
+
+Staff Software Engineer (Verified job)
+Staff Software Engineer 
+
+Trellis
+
+United States (Remote)
+
+$220K/yr
+
+ • 
+
+7 benefits
+
+1 school alumni works here
+
+Posted on January 22, 2026, 1:24 PM
+1 day ago
+
+Forward Deployed Engineer
+
+Empromptu.ai
+
+San Francisco Bay Area (Remote)
+
+$100K/yr - $150K/yr
+
+You’d be a top applicant
+
+Posted on January 23, 2026, 12:44 PM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+Frontend Engineer
+
+Malachyte
+
+New York City Metropolitan Area (Hybrid)
+
+$140K/yr - $160K/yr
+
+ • 
+
+Medical, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 8:47 AM
+9 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

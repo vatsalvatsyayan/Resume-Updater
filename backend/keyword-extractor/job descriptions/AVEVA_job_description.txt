@@ -1,0 +1,89 @@
+About the job
+
+AVEVA is creating software trusted by over 90% of leading industrial companies.
+
+Salary Range:
+
+$92,300.00 - $153,900.00
+
+This pay range represents the minimum and maximum compensation that the position offers, and final compensation can vary within the range depending on work location, job experience, skills, and relevant educational attainment and/or training.
+
+Position: Software Developer
+
+Qualifications: Experience designing and developing in C#/.NET framework
+
+Employment type: Full-time regular
+
+Location: Philadelphia, PA – Hybrid
+
+As a Software Developer, your responsibilities will include:
+
+
+Recognizing, articulating, and making technical decisions / trade-offs around multiple dimensions (scaling, reliability, performance, maintenance, etc.) that have an impact on your team
+Designing, developing, testing, and debugging software applications
+Delivering software on-time and constantly work to make accurate estimates and deliver on those estimates
+Providing technical support of products including direct customer support and escalated issues
+Documenting product behavior and implementation details
+Collaborating with team members on how to approach and prioritize development efforts
+Understanding and proactively following team processes, documentation, best practices, and code style guides
+Giving insightful feedback on pull requests, engineering designs, and features
+Expanding your working knowledge of your respective technical domain
+Acting as a technical mentor for more junior developers
+
+
+Basic Qualification:
+
+
+A Bachelor's Degree, Master's Degree or PhD in Chemical, Electrical, or Mechanical Engineering; Computer Science; Math; Physics or a related field 
+3+ years of Software product or application development experience
+
+
+Preferred Qualification:
+
+
+Good experience with developing software in major programming languages such as: C++, C#/.NET, JavaScript, etc.
+Familiarity with software design patterns (objected oriented design), Computer Science fundamentals/principles and methodologies, as well as knowledge of operating system internals
+Sharp debugging and problem-solving skills
+The ability to clearly communicate complex ideas both verbally and in written form
+An eagerness to accept and expand upon skills and knowledge based on feedback
+Someone who seeks advice on how to approach and prioritize development efforts
+A self-motivated person with a knack for time management
+
+
+R&D at AVEVA
+
+Our global team of 2000+ developers work on an incredibly diverse portfolio of over 75 industrial automation and engineering products, which cover everything from data management to 3D design. AI and cloud are at the centre of our strategy, and we have over 150 patents to our name.
+
+Our track record of innovation is no fluke – it’s the result of a structured and deliberate focus on learning, collaboration and inclusivity. If you want to build applications that solve big problems, join us.
+
+Find out more: aveva.com/en/about/careers/r-and-d-careers/
+
+USA Benefits include:
+
+Flex work hours, 20 days PTO rising to 25 with service, three paid volunteering days, primary and secondary parental leave, well-being support, medical, dental, vision, and 401K.
+
+It’s possible we’re hiring for this position in multiple countries, in which case the above benefits apply to the primary location. Specific benefits vary by country, but our packages are similarly comprehensive.
+
+Find out more: aveva.com/en/about/careers/benefits/
+
+Hybrid working
+
+By default, employees are expected to be in their local AVEVA office three days a week, but some positions are fully office-based. Roles supporting particular customers or markets are sometimes remote.
+
+Hiring process
+
+Interested? Great! Get started by submitting your cover letter and CV through our application portal. AVEVA is committed to recruiting and retaining people with disabilities. Please let us know in advance if you need reasonable support during your application process.
+
+Find out more: aveva.com/en/about/careers/hiring-process
+
+About AVEVA
+
+AVEVA is a global leader in industrial software with more than 6,500 employees in over 40 countries. Our cutting-edge solutions are used by thousands of enterprises to deliver the essentials of life – such as energy, infrastructure, chemicals, and minerals – safely, efficiently, and more sustainably.
+
+We are committed to embedding sustainability and inclusion into our operations, our culture, and our core business strategy. Learn more about how we are progressing against our ambitious 2030 targets: sustainability-report.aveva.com/
+
+Find out more: aveva.com/en/about/careers/
+
+AVEVA requires all successful applicants to undergo and pass a drug screening and comprehensive background check before they start employment. Background checks will be conducted in accordance with local laws and may, subject to those laws, include proof of educational attainment, employment history verification, proof of work authorization, criminal records, identity verification, credit check. Certain positions dealing with sensitive and/or third-party personal data may involve additional background check criteria.
+
+AVEVA is an Equal Opportunity Employer. We are committed to being an exemplary employer with an inclusive culture, developing a workplace environment where all our employees are treated with dignity and respect. We value diversity and the expertise that people from different backgrounds bring to our business. AVEVA provides reasonable accommodation to applicants with disabilities where appropriate. If you need reasonable accommodation for any part of the application and hiring process, please notify your recruiter. Determinations on requests for reasonable accommodation will be made on a case-by-case basis.

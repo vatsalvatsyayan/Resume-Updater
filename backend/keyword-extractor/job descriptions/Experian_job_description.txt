@@ -1,0 +1,46 @@
+About the job
+
+Job Posting - Salary Range: See pay range in the job description below
+
+Company Description
+
+Experian is a global data and technology company, powering opportunities for people and businesses around the world. We help to redefine lending practices, uncover and prevent fraud, simplify healthcare, create marketing solutions, and gain deeper insights into the automotive market, all using our unique combination of data, analytics and software. We also assist millions of people to realise their financial goals and help them save time and money. 
+
+We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more industry segments. 
+
+We invest in people and new advanced technologies to unlock the power of data. As a FTSE 100 Index company listed on the London Stock Exchange (EXPN), we have a team of 22,500 people across 32 countries. Our corporate headquarters are in Dublin, Ireland. Learn more at experianplc.com 
+
+Job Description
+
+Employer: Predictive Pop, Inc., dba Audigent
+
+Job Title: Software Engineer
+
+Job Location: 261 Madison Ave, 4th Floor, New York, NY 10016
+
+Duties: Design, develop, test, and maintain software applications. Develop scalable web services and APIs and deploy them on cloud infrastructure. Develop asynchronous service-to-service communication, employing queuing systems such as AMQ, SQS, etc. Build robust data models and database schemas to address a wide range of business requirements. Participate in code reviews and contribute to the development of coding standards. Keep up to date with new technologies and programming languages. Analyze and optimize system performance and troubleshoot issues. Telecommuting is an option. Some travel to Predictive Pop, Inc. DBA Audigent offices may be required.
+
+Qualifications
+
+Bachelor’s degree, or foreign equivalent, in Computer Science, Information Systems, Mathematics, Engineering (any field) or closely related quantitative discipline and one (1) year of experience in job offered or in any occupation in a related field.
+
+Position Requires Experience In The Following
+
+
+Hazelcast
+AWS EC2
+Java
+Spring Boot
+Gradle
+Apache Druid
+MongoDB
+Metabase
+Airflow
+Python
+
+
+Any suitable combination of education, training and/or experience is acceptable.
+
+Additional Information
+
+Pay range for this role is $127,052.00 - $140,000.00 per annum, with actual pay based on work location, job-related skills, experience and education. Role incl. variable pay and comprehensive benefits. To apply please go to https://www.experian.com/careers/ and search requisition number REF26551L.

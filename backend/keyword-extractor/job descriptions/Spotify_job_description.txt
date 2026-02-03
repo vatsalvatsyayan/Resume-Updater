@@ -1,0 +1,49 @@
+About the job
+
+We are seeking a skilled Backend Engineer to join a new squad within the Music Mission, dedicated to shaping the future of Music Policy at Spotify. This role is pivotal in ensuring that listeners trust the authenticity and fair competition of content on Spotify, and that artists and licensors trust in fair competition, accurate artist identity representation, and Spotify's policing of the platform.
+
+This pioneering role in the AI space involves providing tools for Generative AI detection and an ecosystem of signals to identify problematic content and artists for programming purposes. If you are passionate about revolutionizing the music industry and empowering artists, we encourage you to apply!
+
+We are looking for an engineer enthusiastic about backend development, focused on building structured, high-quality backend and data solutions. These solutions will enhance our products, delivering superior experiences to both our users and the global artist community. Our team develops highly scalable backend APIs using Java, Spring Boot, Kubernetes, and related technologies. The products and services you build will significantly impact both artist success and the listening experience for consumers on the Spotify platform.
+
+What You'll Do
+
+
+Work with a small, focused team to build and launch backend services to help drive initiatives around Music Policy.
+Collaborate closely with product, insights, design, as well as web, backend, and data engineers to understand the needs of our external customers.
+Design, develop and deploy backend services with a focus on high availability, low latency and scalability.
+Collaborate closely with other engineers and become a valued member of an autonomous, cross- functional team.
+Take operational responsibility for the services that are owned by your team, including taking part in an on-call rotation.
+Work in an environment that supports your individual growth.
+Work in agile teams to continuously experiment, iterate and deliver on new product objectives and enhance tooling for squads within our product area.
+
+
+Who You Are
+
+
+You have a strong command of backend development standard processes and a proven track record of delivering DRY, maintainable code that scales across all levels of production-level traffic.
+You feel comfortable with Java code and have contributed to the development and maintenance of a few backend services.
+You are interested in keeping up with current best practices in your areas of expertise.
+You are comfortable working with modern infrastructure and tools.
+You know and care about sound engineering practices like continuous delivery and automated testing.
+Have an interest in being more “t-shaped”, exploring different disciplines like Front End engineering.
+You’re familiar with the design of distributed and scalable systems and enjoy being part of a team that owns services with millions of users.
+You have a good understanding of data structures and algorithms, and understand how to apply them to design pragmatic solutions.
+You are proficient with: JAVA, Spring Boot, Kubernetes, Git, Google Cloud Platform(GCP), Grafana, JUnit, PagerDuty, Data Structures & Algorithms.
+A nice to have: Experience with Front End technologies to help be flexible with the team.
+
+
+Where You'll Be
+
+
+We offer you the flexibility to work where you work best! For this role, you can be within the North Americas region as long as we have a work location.
+This team operates within the Eastern Standard time zone for collaboration.
+
+
+The United States base range for this position is $ 125,561- $ 179,374, plus equity. The benefits available for this position include health insurance, six month paid parental leave, 401(k) retirement plan, a monthly meal allowance, 23 paid days off, 13 paid flexible holidays. These ranges may be modified in the future.
+
+Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+At Spotify, we are passionate about inclusivity and making sure our entire recruitment process is accessible to everyone. We have ways to request reasonable accommodations during the interview process and help assist in what you need. If you need accommodations at any stage of the application or interview process, please let us know - we’re here to support you in any way we can.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service.

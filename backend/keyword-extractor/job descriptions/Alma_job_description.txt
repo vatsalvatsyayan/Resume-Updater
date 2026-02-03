@@ -1,0 +1,63 @@
+About the job
+
+Alma is on a mission to simplify access to high-quality, affordable mental health care. We do this by making it easy and financially rewarding for therapists to accept insurance and offer in-network care. When a provider joins Alma, they gain access to a suite of tools that not only help them better run their business, but also grow it sustainably and develop as a provider. Alma is available in all 50 states, with over 20,000 therapists in our growing network. Anyone looking for a therapist can browse Alma’s free directory. Alma has raised $220.5M in funding from Insight Partners, Optum Ventures, Tusk Venture Partners, Primary Venture Partners, First Round Capital, Sound Ventures, BoxGroup, Cigna Ventures, and Rainfall Ventures. Alma was also named one of Inc’s Best Workplaces in 2022 and 2023.
+
+Website
+
+Job Board
+
+Values
+
+Candidate Interview Guide 
+
+Backend Engineer I, Claims Reconciliation
+
+Alma is seeking a mission-driven Backend Engineer II to join our team. The Claims Reconciliation team is responsible for the actions after a claim is submitted and a response is received from insurance. In this role, you will be building features that solve real problems for mental health providers. The ideal candidate is able to recognize that successful software development requires communication, experimentation, and iteration.
+
+On this scaling team, you will have a strong hand in defining Alma's features, services, and architecture. The ideal person for this role loves to collaborate with other teams to design and build amazing digital experiences.
+
+What You’ll Do:
+
+
+Gain a deep understanding of what Alma members do, how they operate, and where their pain points are.
+Design, develop, and implement maintainable and scalable product features using modern web technologies (Python, Django, MySQL, Linus).
+Develop internal-facing features around claims reconciliation and processes at scale
+Collaborate with Alma managers, PMs, and designers to conceptualize and build solutions for practical problems facing Alma members.
+Ensure applications and services meet Alma's standards for software including performance, scalability, and security.
+
+
+Who You Are:
+
+
+You have 1-3 years of experience as an engineer with a proven history of working on the backend and building products at scale.
+You have experience with web technologies. We are language agnostic in our interviews but require experience with one or more common web frameworks.
+You’ve implemented automated testing platforms and unit tests.
+You possess a proficient understanding of code versioning tools, such as Git.
+You enjoy customer-centered software development and collaborating closely with a team of engineers, designers, and product managers.
+You possess a desire to experiment (succeed or fail), and use research and data, where appropriate, to make data-driven decisions.
+
+
+Benefits:
+
+
+We’re a remote-first company
+Health insurance plans through Aetna (medical and dental) and MetLife (vision), including FSA and HSA plans
+401K plan (ADP)
+Monthly therapy and wellness stipends
+Monthly co-working space membership stipend
+Monthly work-from-home stipend
+Financial wellness benefits through Northstar
+Pet discount program through United Pet Care
+Financial perks and rewards through BenefitHub
+EAP access through Aetna
+One-time home office stipend to set up your home office
+Comprehensive parental leave plans
+12 paid holidays,1 Alma Give Back Day
+Flexible PTO 
+
+
+Salary Band: $105,200 - $150,200
+
+All Alma jobs are listed on our careers page. We do not use outside applications or automated text messaging in our recruiting process. We will not ask for any sensitive financial or identification information throughout the recruiting process. Any communication during the recruitment process, including interview requests or job offers, will come directly from a recruiting team member with a helloalma.com email address.
+
+Learn more about how Alma handles applicant data by reading Alma's Applicant Privacy Notice.

@@ -1,0 +1,467 @@
+Whop
+
+Full Stack Engineer, Payments
+
+Buffalo-Niagara Falls Area · 1 hour ago · 22 people clicked apply
+
+Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+About Whop
+
+Our mission is to deliver everyone a sustainable income. We've paid out over $2B to online business owners and we're growing fast. Our engineering team is small, but we are running some of the most critical payment rails on the internet. We ship fast and own what we build.
+
+About The Role
+
+You'll build systems where the stakes are real. Our checkout handles billions in transactions. Businesses depend on us to get paid. That means capturing payments, verifying identity, managing balances, and transferring money needs to be fast and secure. Users trust us with their income and we take that seriously.
+
+What You'll Do
+
+
+Improve conversion on our checkout page that handles billions in global transaction volume
+Create embeddable SDK payments components to power the next generation of marketplaces
+Add more payment methods and providers to optimize auth rates and global payments reach
+Write world-class developer docs and interactive playgrounds for developers using our SDKs and components
+Build clean interfaces and APIs for easy KYC, balance management, and withdraws
+Experiment with ways to make payments easier and more accessible
+
+
+You'll thrive here if you
+
+
+Have a designer's eye. You notice when spacing is off, when animations feel janky, when flows could be simpler
+Understand that payments UI is a trust exercise
+Have built SDK components that lived inside other people's products
+Comfortable with financial systems and know how money moves
+Ship fast without sacrificing quality
+
+
+Why now
+
+The checkout experience that has processed $2B needs to handle 100x the volume, while converting even better.
+
+You'll own surfaces millions of people interact with. Buyers completing purchases, creators checking balances, developers integrating our components. The craft you bring directly impacts whether Whop becomes the default way the internet does business.
+
+If you've been looking for a high-stakes role where your taste in UI and systems thinking has real business impact, this is it.
+
+Benefits Overview
+
+✅ Minimum cash comp of $250,000K + a competitive equity package
+
+❤️ Unlimited PTO, with full health, vision, dental coverage
+
+💪 Free access to Equinox
+
+🏠 $9k annual rent stipend if you live near the office
+
+🏢 State of the art in-person office with stocked pantry in the historic Domino Sugar Factory
+
+🍕 Lunch & dinner paid for Monday thru Friday
+
+💻 Ramp card to get you the latest Macbook Pro & tech accessories
+… more
+
+Set alert for similar jobs
+
+Full Stack Engineer, Payments, Buffalo-Niagara Falls Area
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+22
+
+total
+
+22
+
+in the past day
+
+Candidate seniority level
+
+73% Entry level candidates
+
+23% Senior level candidates
+
+Candidate education level
+
+100
+
+%
+
+have a Master's Degree (Similar to you)
+Exclusive Job Seeker Insights about Whop
+Powered by Bing
+
+Company focus areas
+
+• Empowering Online Entrepreneurs: Whop aims to empower online entrepreneurs by providing a comprehensive platform for selling digital products, memberships, services, and coaching. This includes tools to grow and scale online businesses.
+
+...more
+
+Sources: whop.com +1 more
+
+Hiring & headcount
+
+Significant growth in Business Development: The 'Business Development' function has seen a 143% increase in headcount over the past year, indicating a major focus on expanding business opportunities and partnerships. Expansion in Media and Communication: The 'Media and Communication' function has grown by 112% in the past year, suggesting a strategic initiative to enhance the company's communication and media presence. Increase in Sales and Engineering: Both 'Sales' and 'Engineering' functions have experienced over 100% growth in headcount, reflecting a strong emphasis on boosting sales capabilities and engineering talent to support product development and market expansion. Focus on Arts and Design: The 'Arts and Design' function has seen a 380% increase in headcount, highlighting a significant investment in creative and design capabilities, likely to enhance product aesthetics and user experience.
+… more
+
+The latest hiring trend
+
+388
+
+Total employees
+
+379%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+250
+500
+
+Median employee tenure: 0.8 years
+
+Whop hires candidates from some of these companies and schools
+
+Whop hired 2 people from University of Southern California. See all
+
+Competitors
+
+Whop is a versatile digital commerce and community management platform that has rapidly gained traction in the market. It offers a comprehensive suite of tools for creators and business owners to sell digital products, memberships, and software subscriptions. Whop's unique selling points include its adaptive payments infrastructure, community features, and the ability to integrate various product types. However, it faces stiff competition from established platforms like Kajabi, Thinkific, and Mighty Networks, which offer specialized solutions for course creation, community building, and digital commerce.
+… more
+
+Sources: mightynetworks.com +2 more
+
+Show Premium Insights
+About the company
+
+Whop
+
+19,886 followers
+
+Follow
+
+Software Development
+
+ • 
+
+51-200 employees
+
+ • 
+
+388 on LinkedIn
+
+Whop is building a platform to service the internet economy. Millions of people are building new products that they are selling guerrilla style on social media and on forums throughout the internet. Whop gives these sellers a sleek storefront that can accept payments, seamlessly deliver digital products, and attract new customers visiting our marketplace. We currently handle almost $1B+ in yearly payments with thousands of active merchants. 
+
+To view our open roles, please visit https://careers.whop.com
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Member of Technical Staff - Full Stack Engineer
+
+Vinci4D.ai
+
+San Francisco Bay Area (Hybrid)
+
+You’d be a top applicant
+
+Posted on November 17, 2025, 11:42 AM
+2 months ago
+
+General Software Engineer
+
+Medra
+
+San Francisco, CA (On-site)
+
+Medical, Dental, 401(k)
+
+Posted on December 12, 2025, 11:33 AM
+1 month ago
+
+Associate Software Engineer (New College Grad 2026) (Verified job)
+Associate Software Engineer (New College Grad 2026) 
+
+Solace
+
+Redwood City, CA (On-site)
+
+1 company alumni works here
+
+Posted on January 14, 2026, 8:28 PM
+2 weeks ago
+
+Backend Software Engineer – Matching and Scheduling Optimization
+
+Sage Care
+
+Palo Alto, CA (Hybrid)
+
+1 school alumni works here
+
+Posted on December 4, 2025, 10:19 AM
+2 months ago
+
+Founding Fullstack Engineer
+
+Jampack Labs
+
+New York, NY (Hybrid)
+
+$160K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 3:41 PM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer
+
+Onyx Odds
+
+New York, NY (On-site)
+
+$170K/yr - $250K/yr
+
+1 school alumni works here
+
+Posted on January 17, 2026, 1:15 PM
+1 week ago
+
+Software Engineer, AI & Automation (Verified job)
+Software Engineer, AI & Automation 
+
+ALEXIS
+
+Miami, FL (On-site)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 4:23 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer - Google DV360, CM360 & Ads Data Hub Integration Specialist (Verified job)
+Full Stack Engineer - Google DV360, CM360 & Ads Data Hub Integration Specialist 
+
+[cognition]
+
+Jacksonville, FL (On-site)
+
+Actively reviewing applicants
+
+Posted on November 6, 2025, 6:55 AM
+3 months ago
+
+ · 
+
+ Easy Apply
+
+Frontend / Fullstack Engineer (Verified job)
+Frontend / Fullstack Engineer 
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:55 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+InsightFinder AI
+
+Raleigh-Durham-Chapel Hill Area (On-site)
+
+Actively reviewing applicants
+
+Posted on December 14, 2025, 8:10 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Azure Cloud & Full-Stack Developer (Verified job)
+Azure Cloud & Full-Stack Developer 
+
+ntegral
+
+Atlanta Metropolitan Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 7:04 AM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Virtual Desktop Infrastructure Engineer (Verified job)
+Virtual Desktop Infrastructure Engineer 
+
+IvoryCloud
+
+Fairfield, PA (On-site)
+
+$170K/yr - $185K/yr
+
+ • 
+
+Vision, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 26, 2026, 8:35 AM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

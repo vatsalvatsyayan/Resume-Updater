@@ -1,0 +1,75 @@
+About the job
+
+FactSet creates flexible, open data and software solutions for over 200,000 investment professionals worldwide, providing instant access
+
+to financial data and analytics that investors use to make crucial decisions.
+
+At FactSet, our values are the foundation of everything we do. They express how we act and operate, serve as a compass in our decision-making, and play a big role in how we treat each other, our clients, and our communities. We believe that the best ideas can come from anyone, anywhere, at any time, and that curiosity is the key to anticipating our clients’ needs and exceeding their expectations.
+
+FactSet’s product suite of smart analytics and unique data empower the world’s leading financial service professionals to make more informed decisions every day. At our heart is an inclusive community unified by the spirit of going above and beyond. Our philosophy is to embrace diversity, and that our best ideas can come from anyone, anywhere, at any time. We continuously look ahead to advance the future and technology of our industry, by rolling up our sleeves to solve tough problems together, and by learning from our successes, as well as our failures.
+
+Being a software engineer at FactSet is to shape the future of investments technology. Our engineers use cutting edge technologies including machine learning, natural language processing, predictive analysis, and cloud computing to solve some of the investment community’s greatest challenges – relying every step of the way on some of our most creative minds to create sleek and intuitive UIs that make our products among the industry’s easiest to use.
+
+We’re looking for hard-working and out-of-the-box thinkers from all software engineering disciplines to bring new perspective and fresh ideas to our team. Engineers are aligned with specific teams where they design and implement applications for integration within the FactSet product suite and deployment to investment professionals worldwide.
+
+Our engineers find the right balance between FactSet's flexible environment where everyone can contribute individually, yet at the same time cultivate a community where they can depend on each other for help, learning, and development.
+
+Qualifications
+
+
+BS or MS degree in Computer Science (or equivalent) conferred by June 2026
+Experience programming with an OOP language (C++, Python, Java, C#, etc.)
+
+
+What We Value as Members of FactSet’s Engineering Community:
+
+
+Thorough understanding of object-oriented programming and design
+Understanding of modern web technologies like JavaScript, Typescript, Vue, HTML5/CSS3, etc.
+Experience with scripting languages such as Python or Ruby
+Familiarity with relational or unstructured database technology such as Postgres, SQL, Kafka, Cassandra
+Windows and Linux programming environments
+Knowledge of Cloud technology stack in AWS, Azure or GCP
+Working with and managing a large code base
+Programming in a multi-threaded, distributed environment
+Desire to both design and implement reliable and superior software
+
+
+What You Can Expect When Joining FactSet’s Engineering Community:
+
+
+A comprehensive training program that begins on your first day with FactSet
+Support from your manager and teammates
+Open lines of communication that foster collaboration
+Mentorship from tenured Engineers
+Opportunity to build your FactSet network from day one through various events (virtually or in person)
+An emphasis on continuous learning and professional development
+
+
+Why Life Is Better As a FactSetter
+
+
+FactSet looks to foster a globally inclusive culture. From leadership commitment, to employee led resource groups, FactSet has diversity, equity, and inclusion as a priority. Read more about our priorities here: https://www.factset.com/company/diversity-equity-and-inclusion
+FactSet believe giving back to our communities is part of our culture. From volunteer opportunities to working with non-profit partners, you can read more about our commitments here: https://www.factset.com/company/corporate-responsibility
+Collaborative, hybrid work environment
+4 weeks paid time off your first year of employment
+Secure your future with our discounted employee stock purchase program and 401K matching
+No or low cost medical, dental and vision care
+Reimbursement for eligible expenses related to the CFA, CIPM, CAIA and FRM exams
+Wellness programs including gym discounts and more
+16 weeks paid parental leave for the primary caregiver (4 weeks for secondary)
+Employee referral bonuses
+And more!
+
+
+At FactSet, we celebrate diversity of thought, experience, and perspective. We are committed to disrupting bias and a transparent hiring process. All qualified applicants will be considered for employment regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or veteran status. FactSet participates in E-Verify.
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information.
+
+The budgeted amount range for this position is $90,000 - $105,000.
+
+Company Overview
+
+FactSet (NYSE:FDS | NASDAQ:FDS) helps the financial community to see more, think bigger, and work better. Our digital platform and enterprise solutions deliver financial data, analytics, and open technology to more than 8,200 global clients, including over 200,000 individual users. Clients across the buy-side and sell-side, as well as wealth managers, private equity firms, and corporations, achieve more every day with our comprehensive and connected content, flexible next-generation workflow solutions, and client-centric specialized support. As a member of the S&P 500, we are committed to sustainable growth and have been recognized among the Best Places to Work in 2023 by Glassdoor as a Glassdoor Employees’ Choice Award winner. Learn more at www.factset.com and follow us on X and LinkedIn.
+
+At FactSet, we celebrate difference of thought, experience, and perspective. Qualified applicants will be considered for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, disability, protected veteran status or other characteristics protected by law. FactSet participates in E-Verify

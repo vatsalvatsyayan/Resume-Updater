@@ -1,0 +1,77 @@
+About the job
+
+Our Mission
+
+Our mission is to bring web3 to a billion people, by providing builders with the tools they need to build exceptional onchain products. Alchemy is the only complete developer platform that offers the powerful APIs, SDKs, and tools necessary to build and scale onchain apps and rollups.
+
+Our infrastructure powers 70% of the top web3 teams, 90%+ of web2 companies building in web3 and 100+ million end users. Our customers include top web3 brands like Polymarket, OpenSea, Circle, WorldCoin, as well as major global brands like Shopify and Adobe.
+
+The Alchemy team draws from decades of deep expertise in massively scalable infrastructure, AI, and blockchain from leadership roles at leading companies and universities like Google, Microsoft, Facebook, Stanford, and MIT.
+
+We're backed by the world's leading VCs and institutions, including: Lightspeed, Silver Lake, a16z, Coatue, Pantera, Addition, Stanford University, Coinbase, and Charles Schwab, among others.
+
+The Role
+
+Alchemy powers the most innovative companies in crypto - from Robinhood and Coinbase to Worldcoin and Stripe. As a Solutions Engineer, you'll work directly with our most strategic customers to help them design scalable systems, optimize performance, and push the boundaries of what’s possible in blockchain infrastructure.
+
+This isn’t a support role - you’ll be a strategic advisor, systems architect, and product collaborator rolled into one. You’ll bridge the gap between bleeding-edge use cases and robust infrastructure, shaping the future of Alchemy through your insights on real-world needs.
+
+Be the technical partner behind Web3’s most ambitious teams.
+
+What You’ll Do
+
+
+Architect and Advise: Help top-tier teams design, scale, and optimize their use of Alchemy’s infrastructure — from smart contract automation to custom data pipelines. 
+Drive Adoption: Deeply understand customer goals and proactively guide them through onboarding, integration, and long-term success. 
+Prototype and Integrate: Write code to help customers unlock the full potential of our stack. 
+Influence Product: Be a voice of the customer - translate needs from our most demanding users into product insights and roadmap priorities. 
+Build Relationships: Act as the technical point of contact for strategic accounts, navigating technical blockers, future planning, and success metrics. 
+Collaborate Cross-Functionally: Work across Product, Engineering, and BD to uplevel the full customer experience and close feedback loops fast. 
+
+
+What We’re Looking For
+
+
+5+ years of experience in technical roles (solutions engineering, software engineering, devrel, or similar) 
+Strong foundation in systems design, APIs, and distributed architecture 
+Experience working directly with customers - ideally in B2B SaaS or infra 
+Comfortable writing and reading code - Python, TypeScript, or similar scripting languages 
+Stellar communicator who can translate technical concepts for both builders and execs 
+Passion for blockchain, crypto, and the infrastructure powering it - you don’t need to be a degen, but you’re curious and hungry to learn 
+Bonus: experience at a high-growth startup or scaling a product in a fast-moving environment 
+
+
+Why This Role
+
+
+You'll operate at the intersection of product, engineering, and real-world adoption. 
+You’ll shape how top-tier crypto companies bring products to life. 
+You'll have massive scope and autonomy on a small, high-leverage team. 
+Define the customer experience for Web3’s infrastructure layer. 
+
+
+Benefits and Perks
+
+🩺 Medical, Dental, & Vision
+
+💪 Gym Reimbursement
+
+🖥️ Home Office Build-out Budget
+
+🥙 In-Office Group Meals
+
+🧘‍♂️ Wellbeing & Mental Health Perks
+
+📚 Learning & Development Stipend
+
+🎉 Company Sponsored Conferences & Events
+
+💸 HSA and FSA Plans
+
+🧬 Fertility Benefits
+
+More On The Role
+
+Alchemy is committed to offering competitive compensation, including base salary as well as equity. Additionally, Alchemy offers comprehensive medical, dental, and vision coverage, as well as other benefits such as 401k and unlimited flexible time off.
+
+The salary range for this position is estimated to be between $150,000 - $230,000 annually. Please note this range reflects base salary only (relative to SF and NYC geolocations), and does not include annual bonus, equity, or benefits. Your salary will be determined by various factors, including relevant experience, skill set, qualifications, and other business needs.

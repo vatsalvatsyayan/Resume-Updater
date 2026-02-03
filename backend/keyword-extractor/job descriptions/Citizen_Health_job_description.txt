@@ -1,0 +1,508 @@
+Citizen Health
+
+Early Career Software Engineer
+
+San Francisco, CA · 26 minutes ago · 39 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+$100K/yr - $180K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Nasha Fitter
+
+• 3rd
+
+Citizen Health / FOXG1 Research Foundation
+
+School alum from University of Southern California
+
+Follow
+About the job
+
+Who We Are
+
+Citizen Health was founded on the belief — shaped by firsthand lived experiences navigating healthcare — that having the right advocate is the single most important factor in achieving better care and outcomes. By uniquely combining data, AI, and community, Citizen is building a personalized AI advocate powered by patients' complete medical histories and data from thousands of other patients to generate personalized insights for clinical decisions and day-to-day challenges. Starting in rare and complex conditions, patients share their data in exchange for value, enabling biopharma and researchers with seamless access to patients and regulatory-grade data, shaving years off drug development for much-needed treatments.
+
+Citizen is founded by experienced entrepreneurs with multiple successes under their belts and is funded by top-tier investors including 8VC, Transformation Capital, and Headline Ventures, among others. We are a mission-driven team excited to be building the future of consumer healthcare.
+
+The Role 
+
+We're seeking a full-stack Software Engineer to work on the development of our patient, partner, and company web applications. This role is crucial in creating intuitive, efficient, and responsive user interfaces that will directly impact our users' experience and our platform's success.
+
+As a key part of our engineering team, you will build high-performance, scalable, and accessible user interfaces that use AI to serve diverse user groups including rare disease patients, healthcare providers, researchers, and our internal teams.
+
+You will join a team that highly leverages the latest AI coding assistants (e.g. Cursor, Claude Code, Codex, etc.) to implement features at very high velocity.
+
+Your work will be at the heart of our mission, translating complex health data and research findings into user-friendly interfaces that empower patients, facilitate groundbreaking research, and streamline our internal operations.
+
+Who You Are
+
+You’re a builder and problem-solver who thrives in fast-paced, innovative environments. You’ve worked on consumer or data-rich products, enjoy end-to-end ownership, and collaborate closely with teammates to ship real value. You’re comfortable diving into your strengths (frontend, backend, or full-stack) and curious about how AI can improve the experiences we deliver for patients, providers, researchers, and internal teams.
+
+You will likely be a fit if you have
+
+
+0-3 years of professional software engineering experience with a track record of launching user-facing features or services.
+Strength in one or more of the following:
+Frontend: JavaScript/TypeScript with a modern framework (e.g., React/Vue), semantic HTML/CSS, accessibility, and performance for data-heavy UIs.
+Product Engineering: Strong product sense and UX instincts; you use user needs, data, and experiments to guide decisions and iterate quickly.
+Working knowledge of performance, scalability, and security fundamentals appropriate to your layer (e.g., web perf, API efficiency, data modeling, auth).
+Experience with testing (e.g., Jest, React Testing Library, Cypress, PyTest) and comfort with code reviews and iterative development.
+
+
+You will receive bonus points if you have
+
+
+Experience with frontend state management (e.g., Redux, MobX, Recoil) or a backend framework (e.g., Express, FastAPI, Spring, Fiber).
+Familiarity with CI/CD pipelines and modern build tooling.
+Proficiency with databases (SQL or NoSQL) and writing simple queries to inform product decisions.
+Experience with analytics/experimentation and/or accessibility best practices.
+Exposure to cloud infrastructure (AWS/GCP/Azure), containers, and observability is a plus.
+
+
+Why Join Us?
+
+At Citizen Health, You Will Be Part Of An Ambitious Mission To Build Innovative AI-driven Solutions That Redefine The Consumer Healthcare Experience And Improve Outcomes For Millions. We Value Curiosity, Creativity, And Collaboration, And We Believe In Empowering Every Team Member To Have An Impact. Here, You’ll Find
+
+
+The chance to work on pioneering AI technologies and solve complex problems that push the boundaries of what’s possible in healthcare
+The freedom to lead your projects and shape the company’s direction in a mission-driven environment where your work makes a real impact
+A fast-paced, high-growth setting that brings expanding opportunities and clear paths for career progression
+A supportive culture of learning, experimentation, and innovation, where new ideas are encouraged and explored
+A commitment to empathy and diversity, recognizing that our greatest strengths come from our varied perspectives and experiences
+Regular team activities and knowledge sharing, all within a culture that prioritizes well-being and connection
+
+
+Additional Perks
+
+
+Competitive salary + equity package
+Comprehensive health, dental, and vision insurance
+Unlimited paid time off, including a generous parental leave
+Flexible hybrid work environment
+
+
+Our Commitment to Diversity & Inclusion: Citizen Health is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We welcome applicants of all backgrounds, identities, and experiences. Everyone deserves an equal chance to contribute and grow here — regardless of race, gender identity, sexual orientation, religion, national origin, age, disability, or veteran status.
+
+Don't meet every qualification? No worries! We believe that passion, curiosity, and the right mindset are just as important as a checklist of skills. If you’re excited about what we’re building, we encourage you to apply.
+
+Compensation Range: $100K - $180K
+… more
+
+Benefits found in job post
+
+Vision insurance
+
+Set alert for similar jobs
+
+Software Engineer, San Francisco, California, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+39
+
+total
+
+39
+
+in the past day
+
+Candidate seniority level
+
+69% Entry level candidates
+
+15% Senior level candidates
+
+Candidate education level
+
+74
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+26
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about Citizen Health
+Powered by Bing
+
+The latest hiring trend
+
+61
+
+Total employees
+
+307%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+0
+50
+100
+
+Median employee tenure: 1.1 years
+
+Citizen Health hires candidates from some of these companies and schools
+
+Citizen Health hired 1 person from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+Citizen Health
+
+3,967 followers
+
+Follow
+
+Technology, Information and Internet
+
+ • 
+
+11-50 employees
+
+ • 
+
+61 on LinkedIn
+
+At Citizen Health, we have a singular mission: to improve the lives of the 400+ million people navigating rare and complex conditions. 
+
+We empower patients with seamless access and control over their health data that they can share across our multi-sided platform with caregivers, providers and researchers to illuminate better treatment and support options, while bringing therapies to patients faster. 
+
+Led by a seasoned founding team with a history of success in healthcare and consumer startups, we are a mission driven startup team of builders, advocates, family caregivers, and researchers who have had first-hand experience across the spectrum of rare and complex diseases. 
+
+We support thousands of patients, work with a rapidly growing network of patient advocacy organizations, and innovate with leading biopharma organizations to accelerate therapies, always ensuring patients remain at the center.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Frontend / Fullstack Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:55 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Enterprise App AI Trainer, $80-90/hour
+
+LinkedIn
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on December 21, 2025, 7:41 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Envestnet SME
+
+Tecstash
+
+Las Vegas, NV (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:00 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (Platform)
+
+Tenkara
+
+San Francisco, CA (On-site)
+
+$160K/yr - $200K/yr
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 10:57 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Back End Developer
+
+Juice
+
+Los Angeles, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 21, 2025, 10:36 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+You’d be a top applicant
+
+Posted on December 22, 2025, 8:48 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer (Verified job)
+Full Stack Engineer 
+
+TEAM International
+
+Houston, TX (Hybrid)
+
+Actively reviewing applicants
+
+Posted on December 23, 2025, 10:53 AM
+6 hours ago
+
+ · 
+
+ Easy Apply
+
+Growth Equity Data & Tech Platform Intern
+
+Roan Equity
+
+Charlotte, NC (On-site)
+
+Actively reviewing applicants
+
+Posted on December 21, 2025, 6:30 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Medical Device Programmer
+
+LEXION Medical
+
+St Paul, MN (On-site)
+
+$75K/yr - $100K/yr
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 12:51 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (Verified job)
+Software Engineer 
+
+Flip
+
+Los Angeles Metropolitan Area (On-site)
+
+$110K/yr - $150K/yr
+
+2 school alumni work here
+
+Posted on December 23, 2025, 5:02 PM
+44 minutes ago
+
+ · 
+
+ Easy Apply
+
+Backend Engineer (Verified job)
+Backend Engineer 
+
+Wealthfront
+
+Seattle, WA (Hybrid)
+
+$140K/yr - $185K/yr
+
+ • 
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on December 23, 2025, 3:34 AM
+14 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (C++) (Verified job)
+Software Engineer (C++) 
+
+Adaptiva
+
+Kirkland, WA (On-site)
+
+$100K/yr - $125K/yr
+
+ • 
+
+4 benefits
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 9:09 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2025
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

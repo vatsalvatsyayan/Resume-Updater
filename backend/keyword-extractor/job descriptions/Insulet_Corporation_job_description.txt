@@ -1,0 +1,61 @@
+About the job
+
+Position Overview
+
+The Software Engineer is responsible for developing/scripting and maintaining existing automation frameworks and scripts for testing wireless, smart phone and cloud based software solutions for medical products.
+
+Responsibilities
+
+
+ Design automation framework , develops, tests and documents wireless, smart phone and cloud based software solutions.
+ Ensures that their automation is in compliance with Company policies, and that software activities are appropriate for the design and maintenance of medical products.
+ Writes and maintains documentation and testing requirements.
+ Works with Quality, Regulatory, Marketing and Manufacturing to ensure that designs meet technical, regulatory and manufacturing requirements.
+ Works closely with other UX designers, software developers, software QA, and localization engineers to integrate, debug, and test systems.
+ Perform other duties as required
+
+
+Education And Experience
+
+Minimum Requirements:
+
+
+ Bachelor's degree required (preferred field of study: Software Engineering) and 2+ years of relevant work experience.
+ Strong programming skills in Python, Java or C/C++ is required.
+ Hands-on automation development and testing experience with mobile applications is required.
+
+
+Preferred Skills And Competencies
+
+
+ Demonstrated working knowledge of software automation testing.
+ Experience developing Automation frameworks for testing mobile applications.
+ Medical device experience is preferred.
+ Able to work independently with minimum supervision.
+ Detail oriented, with effective verbal and written communication skills.
+ Able to communicate with candor and trust at multiple levels of the organization.
+ Demonstrated abilities to leverage creativity in order to overcome obstacles and work with a sense of urgency.
+ Strong software engineering development skills.
+ Able to organize and judge multiple priorities.
+
+
+NOTE: This position is eligible for hybrid working arrangements (requires on-site work from an Insulet office).
+
+Additional Information
+
+Compensation & Benefits: For U.S.-based positions only, the annual base salary range for this role is $118,700.00 - $171,050.00 This position may also be eligible for incentive compensation. We offer a comprehensive benefits package, including:
+
+
+ Medical, dental, and vision insurance
+ 401(k) with company match
+ Paid time off (PTO)
+ And additional employee wellness programs Application Details: This job posting will remain open until the position is filled. To apply, please visit the Insulet Careers site and submit your application online. Actual pay depends on skills, experience, and education.
+
+
+Insulet Corporation (NASDAQ: PODD), headquartered in Massachusetts, is an innovative medical device company dedicated to simplifying life for people with diabetes and other conditions through its Omnipod product platform. The Omnipod Insulin Management System provides a unique alternative to traditional insulin delivery methods. With its simple, wearable design, the tubeless disposable Pod provides up to three days of non-stop insulin delivery, without the need to see or handle a needle. Insulet’s flagship innovation, the Omnipod 5 Automated Insulin Delivery System, integrates with a continuous glucose monitor to manage blood sugar with no multiple daily injections, zero fingersticks, and can be controlled by a compatible personal smartphone in the U.S. or by the Omnipod 5 Controller. Insulet also leverages the unique design of its Pod by tailoring its Omnipod technology platform for the delivery of non-insulin subcutaneous drugs across other therapeutic areas. For more information, please visit insulet.com and omnipod.com.
+
+We are looking for highly motivated, performance-driven individuals to be a part of our expanding team. We do this by hiring amazing people guided by shared values who exceed customer expectations. Our continued success depends on it!
+
+At Insulet Corporation all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+(Know Your Rights)

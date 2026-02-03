@@ -1,0 +1,21 @@
+About the job
+
+Join Two Dots to build a stronger financial system.
+
+Every time someone applies for a mortgage, car loan, or apartment lease, they submit financial documents that humans use to build a financial profile about them. The quality of these financial profiles is a key input that regulates temperature of the economy.
+
+Two Dots is building a better system to build these financial profiles more consistently and fairly with conversational interfaces that interact with consumers and automate much of the back and forth document collection process in loan and lease origination. We prevent fraud that humans can’t see, help applicants navigate documenting complex financial situations, and we surface value in atypical applications that would otherwise be discarded.
+
+Our stack:
+
+Scripting: Node.js / Python
+
+Databases: Postgres, Bigquery, Redis
+
+Cloud: GCP
+
+ML: Custom pytorch models when absolutely necessary, primarily Gemini, avoid ML if possible
+
+Dev tools: Cursor daily, sometimes Claude for heavier automatic development
+
+Compensation Range: $150K - $225K

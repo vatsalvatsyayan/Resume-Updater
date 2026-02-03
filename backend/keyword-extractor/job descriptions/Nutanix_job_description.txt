@@ -1,0 +1,512 @@
+Nutanix
+
+Member of Technical Staff 2 - NC2 
+
+San Jose, CA · 3 minutes ago · 4 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$109.6K/yr - $218.4K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+Hungry, Humble, Honest, with Heart.
+
+The Opportunity
+
+Are you a flexible and adaptable software engineer with a strong problem-solving attitude and a passion for engaging with customers? If so, you’ll thrive in our collaborative and supportive environment, where you’ll have the opportunity to learn new technologies, solve real customer challenges, and contribute to innovative cloud solutions at Nutanix.
+
+About The Team
+
+The role will be part of the NC2 team, based in San Jose, California. This team focuses on deploying and integrating hybrid cloud solutions that mesh seamlessly with existing infrastructure and public cloud offerings. The culture within the team is collaborative, as members work closely with one another and with other Nutanix engineering teams. The mission at Nutanix is to drive innovation and provide robust cloud services that enhance efficiency and operational capabilities across various platforms.
+
+You will report to a Director of Engineering, who emphasizes a strong work-life balance and prioritizes the well-being of team members. The manager encourages an open and adaptive leadership style, focusing on mentorship and support to help team members thrive. The position is hybrid, requiring the hire to work from the office two days a week initially, with plans to adjust to three days in the near future. While travel cannot be ruled out, it is expected to be very minimal.
+
+Your Role
+
+
+Develop and maintain solutions for cloud-hosted distributed systems.
+Integrate new capabilities and features into existing public cloud services.
+Operationalize enhancements from cloud providers to improve functionality.
+Collaborate with cross-functional teams to advance control and management planes.
+Support onboarding of new cloud services.
+Drive migrations to new solutions while ensuring current functionalities remain intact.
+Contribute to a continuous pipeline of features, enhancements, and compliance updates.
+Participate in team discussions to strategize and shape future developments and integrations. 
+
+
+What You Will Bring
+
+
+Bachelor's/Master's in Computer Science, Computer Engineering, or a related field, up to 3 years of experience in a product-focused environment.
+Proficiency in Python and Go programming languages.
+Understanding of distributed systems and cloud networking concepts.
+Strong problem-solving skills and the ability to engage with customers effectively.
+Flexibility and adaptability to learn new technologies quickly.
+Experience with cloud platforms such as GCP, AWS, or Azure is a plus.
+High energy and enthusiasm for continuous learning and growth.
+Ability to collaborate effectively within a team-oriented environment.
+
+
+Work Arrangement
+
+Hybrid: This role operates in a hybrid capacity, blending the benefits of remote work with the advantages of in-person collaboration. In locations where our workplace policy applies (i.e. San Jose, Durham, Mexico City, Bangalore, Pune, Hoofddorp, Belgrade, Barcelona, Singapore, Sydney and Tokyo), employees are expected to work onsite a minimum of 3 days per week to foster collaboration, team alignment, and access to in-office resources. Workplace type may vary based on location and team requirements. Please speak with your recruiter for details. Additional team-specific guidance and norms will be provided by your manager.
+
+The pay range for this position at commencement of employment is expected to be between USD $ 109,600 and USD $ 218,400 per year.
+
+However, base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements, including a sign-on bonus, restricted stock units, and discretionary awards in addition to a full range of medical, financial, and/or other benefits (including 401(k) eligibility and various paid time off benefits, such as vacation, sick time, and parental leave), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+
+If hired, employee will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors. Our application deadline is 40 days from the date of posting. In good faith, the posting may be removed prior to this date if the position is filled or extended in good faith.
+… more
+
+Set alert for similar jobs
+
+Member of Technical Staff, San Jose, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+4
+
+total
+
+4
+
+in the past day
+
+Candidate seniority level
+
+100% Entry level candidates
+
+Candidate education level
+
+33
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+33
+
+%
+
+have a Bachelor's Degree
+
+
+33
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Nutanix
+Powered by Bing
+
+Company focus areas
+
+• Hybrid Multicloud Infrastructure: Nutanix focuses on enabling organizations to build hybrid multicloud infrastructure, providing a consistent cloud operating model with a single platform for running applications and managing data across various environments.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Expanding engineering capabilities: The 'Engineering' department has seen an 8% increase in headcount, indicating a significant investment in technical and product development initiatives. Strengthening sales efforts: The 'Sales' department has experienced a 14% increase in employee count, suggesting a strategic focus on boosting sales and market penetration. Growing human resources and consulting: Both 'Human Resources' and 'Consulting' departments have grown by 16%, reflecting efforts to enhance internal support and advisory services. Investing in healthcare and research: The 'Healthcare Services' and 'Research' departments have shown substantial growth with 25% and 23% increases respectively, highlighting new initiatives in these areas.
+… more
+
+The latest hiring trend
+
+9,637
+
+Total employees
+
+21%
+
+Company-wide
+
+2 year growth
+
+12%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+5000
+10000
+15000
+
+Median employee tenure: 3.6 years
+
+Nutanix hires candidates from some of these companies and schools
+
+Nutanix hired 11 people from University of Southern California. See all
+
+Nutanix hired 90 people from University of Southern California. See all
+
+Competitors
+
+Nutanix operates in a highly competitive landscape within the hyperconverged infrastructure (HCI) and hybrid cloud markets. The company is known for its pioneering HCI software and has positioned itself favorably with a focus on hybrid multicloud infrastructure. Nutanix faces significant competition from established players like VMware, Dell Technologies, and Red Hat, which offer robust alternatives in both HCI and hybrid cloud solutions. The competitive dynamics are influenced by the shift towards cloud-native architectures, containerization, and AI integration, with Nutanix leveraging its strengths in these areas to maintain a competitive edge.
+… more
+
+Sources: monexa.ai +2 more
+
+Show Premium Insights
+About the company
+
+Nutanix
+
+587,763 followers
+
+Follow
+
+Software Development
+
+ • 
+
+5001-10000 employees
+
+ • 
+
+9,637 on LinkedIn
+
+Nutanix is a global leader in cloud software, offering organizations a single platform for running apps and data across clouds. With Nutanix, companies can reduce complexity and simplify operations, freeing them to focus on their business outcomes. Building on its legacy as the pioneer of hyperconverged infrastructure, Nutanix is trusted by companies worldwide to power hybrid multicloud environments consistently, simply, and cost-effectively. Learn more at www.nutanix.com or follow us on social media @nutanix.
+… more
+
+Commitments
+
+Career growth and learning
+
+We share an intellectual curiosity and a hunger for learning and growth. We encourage professional and personal development by offering our employees various learning and development opportunities. From meeting with a professional coach for Speed Coaching sessions to our Leadership Speaker Series, where you can hear from industry thought leaders. In addition, we offer training courses and opportunities for employees to expand their leadership, people skills, and capabilities to advance their growth and the success of our company.
+… more
+
+Diversity, equity, and inclusion
+
+At Nutanix, we believe that creating an inclusive and engaging culture is essential to our innovation and success. Our Employee Resource Groups, called LIFE groups, are communities of belonging that allow each of us to connect with other employees who share our background, interests, and lived experiences. Nutanix employees have launched a number of LIFE Groups; including the following: Women of Nutanix, NuShades, LatinX, Qutants, People First Alliance, and Project Victory. You are invited to join as many as you like!
+… more
+
+Work-life balance
+
+At Nutanix, we get it. Life happens. We give you the freedom to kick back, take care of your loved ones, and do your thing. Plus, each team gets to decide how often they want to show up at the office (if at all). We're all about that purpose-driven presence where value is achieved, not watching the clock. Our leaders keep it real and expectations clear, so you can work hard and unwind harder.
+… more
+
+Social impact
+
+ .heart inspires full-time or part-time, regular employees and interns to get involved in their communities and support causes they hold close. With two programs, employees are empowered to choose their favorite charitable organization(s) to volunteer with using VTO (paid volunteer time off) and organizations to which they would like to donate funds for company matching.
+… more
+
+Learn more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Founding iOS Developer
+
+crtd labs
+
+San Francisco Bay Area (Remote)
+
+$100K/yr - $140K/yr
+
+Posted on January 16, 2026, 3:13 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Inference (Verified job)
+Software Engineer, Inference 
+
+ByteDance
+
+Seattle, WA (On-site)
+
+$177.7K/yr - $341.7K/yr
+
+ • 
+
+Vision, 401(k), +1 benefit
+
+Posted on January 18, 2026, 1:04 PM
+40 minutes ago
+
+ · 
+
+ Easy Apply
+
+Entry Level Back End Developer 2026 (Verified job)
+Entry Level Back End Developer 2026 
+
+IBM
+
+Poughkeepsie, AR (Hybrid)
+
+1 connection works here
+
+Posted on January 17, 2026, 3:58 AM
+1 day ago
+
+Software Engineer, ML System Scheduling (Verified job)
+Software Engineer, ML System Scheduling 
+
+ByteDance
+
+San Jose, CA (On-site)
+
+$177.7K/yr - $341.7K/yr
+
+ • 
+
+Vision, 401(k), +1 benefit
+
+1 connection works here
+
+Posted on January 18, 2026, 1:20 PM
+24 minutes ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer (Agentic AI) | New York
+
+Lyzr AI
+
+New York City Metropolitan Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 5:49 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+C# Developer - Front Office Trading Desk Support
+
+INFOTRON
+
+Manhattan, NY (Hybrid)
+
+You’d be a top applicant
+
+Posted on January 18, 2026, 11:43 AM
+2 hours ago
+
+Client Technology - Software Engineering (Verified job)
+Client Technology - Software Engineering 
+
+EY
+
+Austin, TX (On-site)
+
+$134.2K/yr - $258.3K/yr
+
+ • 
+
+401(k) benefit
+
+2 connections work here
+
+Posted on January 17, 2026, 4:19 AM
+1 day ago
+
+Python Software Engineer (Verified job)
+Python Software Engineer 
+
+Alvarez and Marsal
+
+New York, NY
+
+$70/hr - $90/hr
+
+8 company alumni work here
+
+Posted on January 16, 2026, 6:39 PM
+1 day ago
+
+Python Software Engineer (Verified job)
+Python Software Engineer 
+
+Alvarez and Marsal
+
+Tampa, FL
+
+$70/hr - $90/hr
+
+8 company alumni work here
+
+Posted on January 16, 2026, 6:39 PM
+1 day ago
+
+Client Technology - Software Engineering (Verified job)
+Client Technology - Software Engineering 
+
+EY
+
+Minneapolis, MN (On-site)
+
+$134.2K/yr - $258.3K/yr
+
+ • 
+
+401(k) benefit
+
+823 school alumni work here
+
+Posted on January 16, 2026, 4:20 AM
+2 days ago
+
+Software Development Engineer 3 (Verified job)
+Software Development Engineer 3 
+
+Adobe
+
+Austin, TX
+
+$114.1K/yr - $215K/yr
+
+4 connections work here
+
+Posted on January 16, 2026, 2:01 AM
+2 days ago
+
+Senior Software Engineer (Backend)
+
+Infocusp Innovations
+
+Mountain View, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 18, 2026, 12:19 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

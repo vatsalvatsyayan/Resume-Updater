@@ -1,0 +1,480 @@
+TikTok
+
+Software Engineer, TikTok Actor Integrity Foundation - Global Monetization (Ads) 
+
+San Jose, CA · 1 hour ago · 18 applicants
+
+Promoted by hirer · No response insights available yet
+
+$136.8K/yr - $359.7K/yr
+On-site
+Full-time
+Easy Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Liqiang and others in your network
+
+Show all
+About the job
+
+Responsibilities
+The Actor Integrity Foundation team builds the core platform that supports TikTok’s efforts to protect the balance and integrity of its business ecosystem. We focus on enabling trustworthy interactions among advertisers, creators, and the platform by developing scalable, intelligent, and reliable ads delivery systems. Our work powers critical functions in ads integrity and platform risk control, with a strong emphasis on automation, transparency, and explainability. We build foundational engineering platforms and collaborate closely with machine learning teams to deliver AI/ML infrastructure that drives accurate, data-informed decisions across TikTok’s global business surfaces.
+
+We’re looking for sophisticated software engineers who are excited about solving complex infrastructure problems, scaling machine learning workflows, and contributing to a safer and more trustworthy platform for everyone involved in our global business ecosystem.
+
+Responsibilities
+As part of the team, you will:
+- Design and implement backend services/infra of Actor Risk Control Platform for abuse detection, enforcement, and transparency
+- Build real-time and offline data pipelines and feature platforms to support ML and Rule based risk control
+- Develop platforms that enable human-in-the-loop investigation and enforcement
+- Collaborate closely with machine learning engineers, product managers, and operations teams to build AI-powered Actor Moderation System with agentic decision-making powered by LLM
+- Contribute to the technical roadmap and help evolve TikTok’s risk control ecosystem
+- Operate in a fast-paced, collaborative, and globally distributed environment
+
+Qualifications
+Minimum Qualifications:
+- BS or MS degree in Computer Science, Engineering, or related technical field
+- 2+ years of experience in software development (backend services) or infrastructure engineering
+- Strong coding skills in one or more languages (e.g., Go, Python, C++, Java)
+- Solid understanding of distributed systems, backend architectures, and data processing frameworks
+- Ability to think critically, solve complex problems, and communicate effectively across teams
+
+Preferred Qualifications:
+- Experience in risk control, ads integrity, abuse detection, or fraud prevention systems 
+- Familiarity with ML workflows, feature engineering, or LLM-powered moderation tools
+- Knowledge of streaming and batch data processing (e.g., Kafka, Flink, Spark)
+- Passion for business integrity under complex recommender system/search/ranking or other relevant monetization scenarios, and building infrastructure that drives real-world impact at scale
+
+About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.​
+
+
+Why Join Us
+Inspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.​
+We strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
+​
+Diversity & Inclusion​
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
+
+
+TikTok Accommodation
+TikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request​
+
+
+Job Information
+【For Pay Transparency】Compensation Description (Annually)
+The base salary range for this position in the selected city is $136800 - $359720 annually.​
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.​
+For Los Angeles County (unincorporated) Candidates:​
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​
+3. Exercising sound judgment.​
+… more
+
+Benefits found in job post
+
+401(k), Vision insurance, Disability insurance
+
+Set alert for similar jobs
+
+Software Engineer, San Jose, California, United States
+
+Off
+See how you compare to other applicants
+Based on LinkedIn data. Excludes subsidiaries.
+Applicants for this job
+
+18
+
+Applicants
+
+18
+
+Applicants in the past day
+
+Applicant seniority level
+
+72% Entry level people applied for this job
+
+11% Senior level people applied for this job
+
+6% Manager level people applied for this job
+
+Applicant education level
+
+76
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+18
+
+%
+
+have a Bachelor's Degree
+
+
+6
+
+%
+
+have a Doctor of Philosophy
+Exclusive Job Seeker Insights about TikTok
+Powered by Bing
+
+Company focus areas
+
+• AI and Talent Development: ByteDance is focusing on enhancing its AI capabilities and talent pool through initiatives like the Douyin Stock Incentive Program, aimed at boosting employee confidence and participation in the company's future development.
+
+...more
+
+Sources: news.aibase.com +1 more
+
+Hiring & headcount
+
+Significant growth in education: The 'Education' department has seen an 83% increase in employee count, indicating a major initiative in educational services or products. Expansion in healthcare services: The 'Healthcare Services' department has experienced an 86% increase in headcount, suggesting a strong focus on healthcare-related initiatives. Increase in sales and administrative roles: The 'Sales' and 'Administrative' departments have grown by 44% and 55% respectively, highlighting a push towards expanding sales operations and administrative support. Growth in entrepreneurship and community services: The 'Entrepreneurship' and 'Community and Social Services' departments have increased by 51% and 18% respectively, indicating new initiatives in fostering entrepreneurship and community engagement.
+… more
+
+The latest hiring trend
+
+128,278
+
+Total employees
+
+40%
+
+Company-wide
+
+2 year growth
+
+67%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+100000
+200000
+
+Median employee tenure: 1.8 years
+
+TikTok hires candidates from some of these companies and schools
+
+TikTok hired 100 people from University of Southern California. See all
+
+TikTok hired 546 people from University of Southern California. See all
+
+Competitors
+
+ByteDance is a major player in the AI and content creation market, facing competition from companies like Meta Platforms Inc., Alibaba, and DeepSeek. The company is expanding its influence in AI, cloud services, and the creator economy, leveraging its technological advancements and strategic partnerships to maintain a competitive edge.
+… more
+
+Sources: wired.com +3 more
+
+Show Premium Insights
+About the company
+
+TikTok
+
+4,023,391 followers
+
+Following
+
+Entertainment Providers
+
+ • 
+
+10001+ employees
+
+ • 
+
+82,697 on LinkedIn
+
+Inspire Creativity and Bring Joy
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Full Stack Engineer (Agentic AI) | New York
+
+Lyzr AI
+
+New York City Metropolitan Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 5:49 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+C# Developer - Front Office Trading Desk Support
+
+INFOTRON
+
+Manhattan, NY (Hybrid)
+
+You’d be a top applicant
+
+Posted on January 18, 2026, 11:43 AM
+2 hours ago
+
+Founding Engineer
+
+Story Inc.
+
+Salt Lake City, UT (Hybrid)
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 8:10 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Python Software Engineer (Verified job)
+Python Software Engineer 
+
+Alvarez and Marsal
+
+New York, NY
+
+$70/hr - $90/hr
+
+68 school alumni work here
+
+Posted on January 16, 2026, 6:39 PM
+1 day ago
+
+Software Engineering Specialist 1 (Verified job)
+Software Engineering Specialist 1 
+
+Crowe
+
+Costa Mesa, CA (Remote)
+
+$113K/yr - $267.5K/yr
+
+8 company alumni work here
+
+Posted on January 18, 2026, 2:03 AM
+12 hours ago
+
+Python Software Engineer (Verified job)
+Python Software Engineer 
+
+Alvarez and Marsal
+
+Tampa, FL
+
+$70/hr - $90/hr
+
+8 company alumni work here
+
+Posted on January 16, 2026, 6:39 PM
+1 day ago
+
+Developer I (Verified job)
+Developer I 
+
+DHL Supply Chain
+
+Whiteland, IN
+
+401(k) benefit
+
+21 school alumni work here
+
+Posted on January 16, 2026, 12:52 PM
+2 days ago
+
+Senior Software Engineer
+
+Neural Payments
+
+Cincinnati Metropolitan Area (Hybrid)
+
+$120K/yr - $150K/yr
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 1:19 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer
+
+Neural Payments
+
+Nashville Metropolitan Area (Hybrid)
+
+$120K/yr - $150K/yr
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 1:16 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Python Software Engineer (Verified job)
+Python Software Engineer 
+
+Alvarez and Marsal
+
+Chicago, IL
+
+$70/hr - $90/hr
+
+8 company alumni work here
+
+Posted on January 16, 2026, 6:39 PM
+1 day ago
+
+Entry Level Back End Developer 2026 (Verified job)
+Entry Level Back End Developer 2026 
+
+IBM
+
+Sandy Springs, GA (Hybrid)
+
+1 connection works here
+
+Posted on January 17, 2026, 3:59 AM
+1 day ago
+
+Software Engineer
+
+Heliux
+
+San Francisco, CA (On-site)
+
+1 school alumni works here
+
+Posted on January 18, 2026, 2:32 AM
+11 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

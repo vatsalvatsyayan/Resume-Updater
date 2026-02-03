@@ -1,0 +1,507 @@
+Emerson
+
+Software Engineer 
+
+Austin, TX · 3 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+Job Description
+
+About the Role
+
+The Test & Measurement Group in Austin is seeking an entry-level DevOps Engineer to join our team. We build and maintain infrastructure and services that enable developers to build, test, and release a wide variety of hardware and software products. Our team also provides solutions for Continuous Integration (CI) and Continuous Delivery (CD) to streamline development workflows.
+
+As a DevOps Engineer, you will help design, implement, and maintain tools and processes that ensure efficient software delivery and system reliability. You will work on CI/CD pipelines, infrastructure automation, and monitoring systems, as well as support a wide range of internal services. Collaboration with development, operations, IT, and global teams will be key to creating scalable and robust environments.
+
+We are hiring for this position in Austin, Texas. This is 4 days in the office and 1-day remote position.
+
+Key Responsibilities
+
+
+ Assist in developing and maintaining workflows and services for product delivery. 
+ Support automation of infrastructure provisioning and deployment. 
+ Monitor system performance and troubleshoot issues across environments. 
+ Collaborate with cross-functional teams (R&D, IT, and global teams). 
+ Follow best practices for DevOps operations and documentation. 
+
+
+Who You Are
+
+You are a motivated engineer with a passion for automation, infrastructure, and continuous improvement. You enjoy learning new technologies, solving problems, and working in collaborative environments.
+
+Position Requirements
+
+
+ B.S. in Computer Science, Computer Engineering, Electrical Engineering, or a related field. 
+ Familiarity with:
+ Scripting languages (Python, Bash, etc.) 
+ Version control systems (Git) 
+ Operating systems (Linux, Windows) 
+ Understanding of basic networking concepts. 
+ Strong problem-solving skills and attention to detail. 
+ Good communication skills in English. 
+ Hold US Citizenship or be a Green Card Holder 
+
+
+Preferred Qualifications (What Sets You Apart)
+
+
+ Experience with CI/CD tools (Azure DevOps Pipelines , GitHub Actions, Jenkins). 
+ Exposure to containerization (Docker, Kubernetes). 
+ Familiarity with Infrastructure as Code (Ansible, Terraform). 
+ Knowledge of cloud platforms (AWS & Azure). 
+ Understanding of Agile methodologies. 
+
+
+Our Culture & Commitment to You
+
+At Emerson, we prioritize a workplace where every employee is valued, respected, and empowered to grow. We foster an environment that encourages innovation, collaboration, and diverse perspectives—because we know that great ideas come from great teams. Our commitment to ongoing career development and growing an inclusive culture ensures you have the support to thrive. Whether through mentorship, training, or leadership opportunities, we invest in your success so you can make a lasting impact. We believe diverse teams, working together are key to driving growth and delivering business results.
+
+We recognize the importance of employee wellbeing. We prioritize providing flexible, competitive benefits plans to meet you and your family’s physical, mental, financial, and social needs. We provide a variety of medical insurance plans, with dental and vision coverage, Employee Assistance Program, 401(k), tuition reimbursement, employee resource groups, recognition, and much more. Our culture offers flexible time off plans, including paid parental leave (maternal and paternal), vacation and holiday leave.
+
+About Us
+
+WHY EMERSON
+
+Our Commitment to Our People
+
+At Emerson, we are motivated by a spirit of collaboration that helps our diverse, multicultural teams across the world drive innovation that makes the world healthier, safer, smarter, and more sustainable. And we want you to join us in our bold aspiration.
+
+We have built an engaged community of inquisitive, dedicated people who thrive knowing they are welcomed, trusted, celebrated, and empowered to solve the world’s most complex problems — for our customers, our communities, and the planet. You’ll contribute to this vital work while further developing your skills through our award-winning employee development programs. We are a proud corporate citizen in every city where we operate and are committed to our people, our communities, and the world at large. We take this responsibility seriously and strive to make a positive impact through every endeavor.
+
+At Emerson, you’ll see firsthand that our people are at the center of everything we do. So, let’s go. Let’s think differently. Learn, collaborate, and grow. Seek opportunity. Push boundaries. Be empowered to make things better. Speed up to break through. Let’s go, together.
+
+Work Authorization
+
+Emerson will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1(including those with OPT or CPT) , H-1, H-2, L-1, B, J or TN, or who need sponsorship for work authorization now or in the future, are not eligible for hire.
+
+Equal Opportunity Employer
+
+Emerson is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, age, marital status, political affiliation, sexual orientation, gender identity, genetic information, disability or protected veteran status. We are committed to providing a workplace free of any discrimination or harassment.
+
+Accessibility Assistance or Accommodation
+
+If you have a disability and are having difficulty accessing or using this website to apply for a position, please contact: idisability.administrator@emerson.com .
+
+About Emerson
+
+Emerson is a global leader in automation technology and software. Through our deep domain expertise and legacy of flawless execution, Emerson helps customers in critical industries like life sciences, energy, power and renewables, chemical and advanced factory automation operate more sustainably while improving productivity, energy security and reliability.
+
+With global operations and a comprehensive portfolio of software and technology, we are helping companies implement digital transformation to measurably improve their operations, conserve valuable resources and enhance their safety.
+
+We offer equitable opportunities, celebrate diversity, and embrace challenges with confidence that, together, we can make an impact across a broad spectrum of countries and industries. Whether you’re an established professional looking for a career change, an undergraduate student exploring possibilities, or a recent graduate with an advanced degree, you’ll find your chance to make a difference with Emerson. Join our team – let’s go!
+
+No calls or agencies please.
+… more
+
+Benefits found in job post
+
+401(k), Medical insurance
+
+Set alert for similar jobs
+
+Software Engineer, Austin, Texas, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+154
+
+total
+
+154
+
+in the past day
+
+Candidate seniority level
+
+86% Entry level candidates
+
+5% Senior level candidates
+
+Candidate education level
+
+85
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+15
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about Emerson
+Powered by Bing
+
+Company focus areas
+
+• Portfolio Management and Strategic Acquisitions: Emerson Electric Co. focuses on portfolio management through strategic acquisitions and divestitures to create a cohesive, higher growth, and higher margin industrial technology portfolio. Recent acquisitions include AspenTech and National Instruments Corporation.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Focus on healthcare services: The 'Healthcare Services' department has seen a significant increase in headcount by 32%, indicating a major new initiative in this area, which could present opportunities for growth and investment. Expansion in education and community services: The 'Education' and 'Community and Social Services' departments have grown by 10%, suggesting new initiatives in these sectors that may require additional resources and support. Growth in research and legal: The 'Research' and 'Legal' departments have both increased by 6%, indicating a focus on innovation and compliance, which could be areas of strategic investment. Stable growth in engineering and operations: The 'Engineering' and 'Operations' departments have grown by 4%, reflecting steady expansion in core operational areas, which may present opportunities for investment in infrastructure and technology.
+… more
+
+The latest hiring trend
+
+51,113
+
+Total employees
+
+7%
+
+Company-wide
+
+2 year growth
+
+6%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+25000
+50000
+75000
+
+Median employee tenure: 6.6 years
+
+Emerson hires candidates from some of these companies and schools
+
+Emerson hired 45 people from University of Southern California. See all
+
+Competitors
+
+Emerson Electric Co. operates in a highly competitive landscape, particularly in the industrial automation and climate technologies sectors. The company is focusing on digital transformation and sustainability, with recent partnerships and innovations in AI-driven industrial automation and energy storage solutions. Key competitors include Siemens AG, Rockwell Automation, and Honeywell International Inc., all of which have strong market positions and extensive portfolios in automation and control technologies.
+… more
+
+Sources: thebrandhopper.com +3 more
+
+Show Premium Insights
+About the company
+
+Emerson
+
+1,516,837 followers
+
+Follow
+
+Automation Machinery Manufacturing
+
+ • 
+
+10001+ employees
+
+ • 
+
+51,113 on LinkedIn
+
+Emerson (NYSE: EMR) is a global automation leader delivering solutions for the most demanding technology challenges. Headquartered in St. Louis, Missouri, Emerson is engineering the autonomous future, enabling customers to optimize operations and accelerate innovation. For more information, visit Emerson.com.
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Founding Software Engineer
+
+Lumos
+
+San Francisco Bay Area (On-site)
+
+$180K/yr - $230K/yr
+
+Posted on January 28, 2026, 1:02 PM
+3 hours ago
+
+ · 
+
+ Easy Apply
+
+React Native Developer - WebRTC/VoIP (Contract)
+
+BluePro AI
+
+United States (Remote)
+
+Posted on January 28, 2026, 12:48 PM
+4 hours ago
+
+Founding Engineer (Recent Grad)
+
+Ambral (YC S25)
+
+New York, NY (On-site)
+
+Medical benefit
+
+Posted on January 27, 2026, 12:03 PM
+1 day ago
+
+WordPress Web Developer
+
+RR Digital
+
+Maitland, FL (Hybrid)
+
+Medical, Vision, Dental, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 28, 2026, 1:25 PM
+3 hours ago
+
+ · 
+
+ Easy Apply
+
+Machine Learning Engineer
+
+CereHive, Inc.
+
+Richmond, VA (Hybrid)
+
+Posted on January 27, 2026, 2:29 PM
+1 day ago
+
+Full Stack Engineer
+
+HekaHeart
+
+New York City Metropolitan Area (Hybrid)
+
+$130K/yr - $170K/yr
+
+Posted on January 27, 2026, 10:59 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Speech C++ Developer (Verified job)
+Software Speech C++ Developer 
+
+Adacel
+
+Orlando, FL (Hybrid)
+
+$74K/yr
+
+Actively reviewing applicants
+
+Posted on January 28, 2026, 6:12 AM
+10 hours ago
+
+ · 
+
+ Easy Apply
+
+Biomedical AI Prototyper / Developer (Verified job)
+Biomedical AI Prototyper / Developer 
+
+Energy4Life
+
+Salt Lake City Metropolitan Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 27, 2026, 7:48 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Full-stack Engineer (Verified job)
+Senior Full-stack Engineer 
+
+Iris AI
+
+New York, NY (On-site)
+
+401(k) benefit
+
+Posted on January 28, 2026, 12:25 PM
+4 hours ago
+
+Full Stack Software Engineer
+
+Mainstay
+
+United States (Remote)
+
+$120K/yr - $140K/yr
+
+ • 
+
+7 benefits
+
+1 school alumni works here
+
+Posted on January 27, 2026, 7:48 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Fonzi AI
+
+San Francisco Bay Area (Hybrid)
+
+Posted on January 27, 2026, 12:43 PM
+1 day ago
+
+Full Stack Web Developer (Verified job)
+Full Stack Web Developer 
+
+B&H Photo Video
+
+New York, NY (On-site)
+
+$120K/yr - $150K/yr
+
+ • 
+
+8 benefits
+
+Actively reviewing applicants
+
+Posted on January 28, 2026, 12:12 PM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

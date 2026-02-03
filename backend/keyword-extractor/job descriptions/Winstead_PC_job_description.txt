@@ -1,0 +1,489 @@
+Winstead PC
+
+Application Developer - Information Technology - Dallas 
+
+Dallas, TX · 5 hours ago · 38 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Brendan Garfinkel
+
+• 3rd
+
+Associate at Winstead PC
+
+School alum from University of Southern California
+
+Message
+About the job
+
+Job Summary:
+
+We are a mid-sized law firm seeking a talented and versatile Application Developer to join our innovative and collaborative technology team. This is a unique opportunity to work on cutting-edge projects focused on artificial intelligence, large language models (GPT), and data warehousing. The ideal candidate will play a key role in developing and integrating applications that enhance our firm's legal services and internal operations.
+
+Key Responsibilities:
+
+
+Design, develop, and maintain custom applications and solutions using modern programming languages and frameworks.
+Work closely with data engineers and AI specialists to integrate applications with our data warehousing systems and AI/GPT models.
+Build and manage data pipelines for the ingestion, transformation, and storage of legal and business data.
+Ensure the performance, scalability, and security of all developed applications.
+Collaborate with end-users and other team members to gather requirements and deliver high-quality, impactful solutions.
+Troubleshoot and debug application issues, providing timely resolutions and support.
+Stay up-to-date with emerging technologies and industry best practices in AI and software development.
+
+
+Required Qualifications:
+
+
+Strong proficiency in one or more of the following programming languages: Python, R, or C#.
+Proficiency in JavaScript (ES6+), HTML5, CSS3, TypeScript, and responsive design principles.
+Strong experience with React or Angular/Vue.js frameworks.
+Strong experience with API integration (REST/GraphQL) and asynchronous communication.
+Experience with Node.js, NPM, and frontend tooling such as Vite or Webpack.
+Experience developing and deploying Microsoft Office Add-in applications.
+Understanding of Office.js, Yeoman Generator, Manifest File, and the Office Add-in Development Lifecycle.
+Proficiency in unit testing and expertise in debugging code in sandboxed environments.
+Knowledge of web application security best practices.
+Experience with authentication/authorization (OAuth, Single sign-on, token management).
+Experience with Visual Studio, VS Code, or other development IDEs. Git/GitHub.
+Experience with SQL for database management and querying.
+Demonstrated experience with Microsoft Azure services (e.g., Azure Data Factory, Azure Functions, Azure SQL Database).
+Knowledge of software development lifecycle (SDLC) best practices, including version control (e.g., Git).
+Fundamental understanding of developing AI applications.
+Excellent problem-solving skills and the ability to work independently or as part of a small team.
+Strong communication skills to explain technical concepts to non-technical stakeholders.
+
+
+Preferred Qualifications:
+
+
+Experience in a professional services or legal environment.
+Familiarity with data warehousing concepts and tools.
+Understanding of machine learning principles and the use of APIs for large language models (e.g., OpenAI’s GPT).
+Experience with implementing UI Security best practices (OWASP).
+Experience utilizing design tools like Figma or Sketch.
+Demonstrated experience implementing an AI application (e.g., chat or custom agent using AI Services).
+Experience with Browser APIs (chrome. or browser.), Popup/Sidebar UI, and cross-browser compatibility (Chrome, Edge). 
+Experience with real-time communication and state management.
+
+
+Work Environment:
+
+This is a fully remote position, but candidates must be willing to travel to our Dallas, TX office on a limited basis for team meetings or project kick-offs. We offer a flexible and supportive work environment that values innovation and continuous learning.
+… more
+
+Set alert for similar jobs
+
+Application Developer - Information Technology - Dallas, Dallas, Texas, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+38
+
+total
+
+38
+
+in the past day
+
+Candidate seniority level
+
+74% Entry level candidates
+
+11% Senior level candidates
+
+Candidate education level
+
+87
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+11
+
+%
+
+have a Bachelor's Degree
+
+
+3
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Winstead PC
+Powered by Bing
+
+Company focus areas
+
+• Expansion and Growth: Winstead PC is focused on strategic growth, as evidenced by the opening of a new office in Nashville, which is part of their broader expansion strategy.
+
+...more
+
+Sources: lawfuel.com +1 more
+
+Hiring & headcount
+
+Significant growth in the Legal department: The Legal department has seen a 9% increase in headcount over the past year, indicating a major focus on expanding legal services and capabilities. Expansion in Marketing and Operations: The Marketing department has grown by 22% and Operations by 13%, suggesting new initiatives in marketing strategies and operational efficiencies. Increase in Administrative roles: The Administrative function has increased by 8%, reflecting a need for more support staff to manage growing operations. Fluctuations in Finance and Sales: The Finance and Sales departments have decreased by 11% and 20% respectively, indicating potential restructuring or shifts in strategic focus within these areas.
+… more
+
+The latest hiring trend
+
+808
+
+Total employees
+
+6%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Information Technology
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+0
+500
+1000
+
+Median employee tenure: 10.1 years
+
+Winstead PC hires candidates from some of these companies and schools
+
+Winstead PC hired 1 person from University of Southern California. See all
+
+Competitors
+
+Winstead PC is a prominent law firm in the US, particularly recognized for its expertise in the real estate sector. The firm is expanding its presence, as evidenced by the opening of a new office in Nashville. Winstead PC faces competition from other major law firms such as Shumway Van, Gordon Rees Scully Mansukhani, and international firms like Clifford Chance. The competitive landscape is characterized by a focus on specialized legal services, regional expansion, and strategic partnerships.
+… more
+
+Sources: goodfirms.co +2 more
+
+Show Premium Insights
+About the company
+
+Winstead PC
+
+13,028 followers
+
+Follow
+
+Law Practice
+
+ • 
+
+501-1000 employees
+
+ • 
+
+808 on LinkedIn
+
+Winstead is a leading Texas-based law firm with national practices serving clients across the country. We focus on exceeding our clients’ expectations by providing innovative solutions to their business and legal opportunities and challenges. We work as a trusted counsel to public and private companies, governments, individuals, universities, and public institutions.
+Our business, transactions, and litigation practices serve key industries, including real estate, financial services, investment management and private funds, higher education and P3, airlines, healthcare and life sciences, sports business, and wealth management.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Tech Lead – Web & Application Development
+
+SmartMark Communications
+
+Greater Philadelphia (Hybrid)
+
+$90K/yr - $100K/yr
+
+Actively reviewing applicants
+
+Posted on December 23, 2025, 8:22 AM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer I (Verified job)
+Software Engineer I 
+
+Mercury Insurance
+
+Los Angeles, CA
+
+$75K/yr - $138.7K/yr
+
+ • 
+
+401(k) benefit
+
+3 company alumni work here
+
+Posted on December 26, 2025, 2:17 AM
+15 hours ago
+
+Software Development Engineer (Verified job)
+Software Development Engineer 
+
+HackerRank
+
+Santa Clara, CA (Hybrid)
+
+$150K/yr - $172K/yr
+
+3 school alumni work here
+
+Posted on December 26, 2025, 2:29 AM
+14 hours ago
+
+Full Stack Engineer - Health App
+
+Oasis
+
+Los Angeles, CA (Remote)
+
+You’d be a top applicant
+
+Posted on December 24, 2025, 6:42 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Full-Stack Engineer — Ruby on Rails (Proptech or Fintech Experience Preferred)
+
+Cosign
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on December 24, 2025, 1:57 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Reval Recruiting
+
+San Francisco Bay Area (On-site)
+
+$120K/yr - $300K/yr
+
+You’d be a top applicant
+
+Posted on December 24, 2025, 8:16 AM
+2 days ago
+
+Full Stack Engineer
+
+Tunul
+
+New York, NY (On-site)
+
+Posted on December 26, 2025, 3:34 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Java Software Engineer
+
+MavenForever
+
+San Jose, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 23, 2025, 7:00 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Gen AI Engineer
+
+Reval Recruiting
+
+San Francisco Bay Area (On-site)
+
+$175K/yr - $190K/yr
+
+1 school alumni works here
+
+Posted on December 24, 2025, 8:03 AM
+2 days ago
+
+Fullstack Software Engineer (Verified job)
+Fullstack Software Engineer 
+
+Hadrian
+
+Los Angeles, CA (On-site)
+
+$120K/yr - $250K/yr
+
+ • 
+
+401(k) benefit
+
+3 company alumni work here
+
+Posted on December 26, 2025, 3:44 AM
+13 hours ago
+
+Software Developer SME, ACTIVE TS/SCI with FS Poly Required
+
+Lion Federal
+
+Chantilly, VA (On-site)
+
+Vision, 401(k)
+
+Actively reviewing applicants
+
+Posted on December 23, 2025, 9:03 AM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Data Center Infrastructure Engineer
+
+Proof Group
+
+San Francisco, CA (On-site)
+
+$175K/yr - $225K/yr
+
+Posted on December 26, 2025, 12:38 PM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2025
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

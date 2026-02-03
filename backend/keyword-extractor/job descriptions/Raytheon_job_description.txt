@@ -1,0 +1,115 @@
+About the job
+
+Date Posted:
+
+2025-11-05
+
+Country:
+
+United States of America
+
+Location:
+
+TX190: 2501 West University, McKinney 2501 West University , McKinney, TX, 75070 USA
+
+Position Role Type:
+
+Onsite
+
+U.S. Citizen, U.S. Person, or Immigration Status Requirements: 
+
+The ability to obtain and maintain a U.S. government issued security clearance is required. U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance
+
+Security Clearance: 
+
+DoD Clearance: Secret
+
+At Raytheon, the foundation of everything we do is rooted in our values and a higher calling – to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today’s mission and stay ahead of tomorrow’s threat. Our team solves tough, meaningful problems that create a safer, more secure world.
+
+We have an exciting opportunity for a Software Engineer I to join our Electro-Optical & Infrared (EO/IR) Solutions Engineering Team in McKinney, TX, which is part of our Advanced Products & Solutions group.
+
+The Advanced Product and Solutions organization at RTX provides the joint warfighter with actionable information from an unblinking eye across the battlespace. By joining the APS Engineering team you’ll have the opportunity to design, develop and test product capabilities for Active Electronically Scanned Array (AESA) radars, integrated sensor suites, precision targeting, multispectral EO/IR targeting systems, Pilot Situational Awareness, Special mission aircraft and Strategic and tactical ISR Systems.
+
+But more than anything, we are innovators, creators and strategists drawing inspiration from each other every day. We collaborate, iterate, and execute with an eye toward the company mission and personal career growth.
+
+Explore our opportunities today and join us!
+
+What You Will Learn
+
+How to develop and maintain large-scale, complex software solutions in an agile environment.
+
+Testing frameworks and best practices to enable high-quality software deliveries utilizing Continuous Integration/Continuous Delivery concepts.
+
+What You Will Do
+
+This position is for a Software Engineer who has educational and professional experience in the development and implementation of software for real-time applications.
+
+Deliverables include but not limited to:
+
+Supports all aspects of a software development life cycle as members of a multi-disciplined team. This would include supporting new and legacy military and commercial programs from concept and requirements, to design, development, integration, test, and potentially subsequent maintenance tasking.
+
+Uses and provides creative solutions to complex technical system and software integration problems.
+
+Works closely with Systems Engineers to design ideal solutions with the end user and operational needs in mind.
+
+The ability to obtain and maintain a Secret U.S. government issued security clearance and a Special Access Program security clearance. U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance.
+
+Work onsite at McKinney, TX [relocation eligible]
+
+Qualifications You Must Have
+
+Bachelor’s degree in Computer Science, Engineering, Mathematics, or a related (STEM) discipline.
+
+This position requires 12 months or less of relevant professional work experience.
+
+Experience developing software with C, C++, or Java.
+
+The ability to obtain and maintain a Secret U.S. government issued security clearance. U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance.
+
+Qualifications We Prefer
+
+Experience in a Unix/Linux operating system.
+
+Experience with CI/CD tools (Jenkins) and configuration management tools (Git, Bitbucket, Artifactory).
+
+Knowledge of data structures and algorithms, memory management, and multithreaded applications.
+
+Well-developed communication, technical writing, oral presentation, and interpersonal skills.
+
+Experience contributing to a team environment for the purpose of developing creative solutions to complex technical problems.
+
+Ability to work in a fast paced, dynamic environment with time-critical requirements.
+
+Ability to promote a culture of continuous learning, cross-team collaboration and training.
+
+What We Offer
+
+Our values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, Innovation, and Safety.
+
+Learn More & Apply Now!
+
+Onsite: Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.
+
+Additional Details:
+
+Please upload a copy of your most recent resume when applying to this requisition. Include your cumulative GPA and projected graduation date on your resume.
+
+Clearance Information: This position requires security clearance. DCSA Consolidated Adjudication Services (DCSA CAS), an agency of the Department of Defense, handles and adjudicates the security clearance process. More information about Security Clearances can be found on the US Department of State government website here: https://www.state.gov/m/ds/clearances/c10978.htm
+
+As part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote.
+
+The salary range for this role is 55,000 USD - 107,000 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate’s work experience, location, education/training, and key skills.
+
+Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.
+
+Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company’s performance.
+
+This role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.
+
+RTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.
+
+RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.
+
+Privacy Policy and Terms:
+
+Click on this link to read the Policy and Terms

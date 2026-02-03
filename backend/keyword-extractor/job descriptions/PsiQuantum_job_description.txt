@@ -1,0 +1,68 @@
+About the job
+
+Quantum computing holds the promise of humanity’s mastery over the natural world, but only if we can build a real quantum computer. PsiQuantum is on a mission to build the first real, useful quantum computers, capable of delivering the world-changing applications that the technology has long promised. We know that means we will need to build a system with roughly 1 million qubits that supports fault tolerant error correction within a scalable architecture, and a data center footprint.
+
+By harnessing the laws of quantum physics, quantum computers can provide exponential performance increases over today’s most powerful supercomputers, offering the potential for extraordinary advances across a broad range of industries including climate, energy, healthcare, pharmaceuticals, finance, agriculture, transportation, materials design, and many more.
+
+PsiQuantum has determined the fastest path to delivering a useful quantum computer, years earlier than the rest of the industry. Our architecture is based on silicon photonics which gives us the ability to produce our components at Tier-1 semiconductor fabs such as GlobalFoundries where we leverage high-volume semiconductor manufacturing processes, the same processes that are already producing billions of chips for telecom and consumer electronics applications. We also benefit from the quantum mechanics reality that photons don’t feel heat or electromagnetic interference, allowing us to take advantage of existing cryogenic cooling systems and industry standard fiber connectivity.
+
+In 2024, PsiQuantum announced two government-funded projects to support the build-out of our first Quantum Data Centers and utility-scale quantum computers in Brisbane, Australia and Chicago, Illinois. Both projects are backed by nations that understand quantum computing’s potential impact and the need to scale this technology to unlock that potential. And we won’t just be building the hardware, but also the fault tolerant quantum applications that will provide industry-transforming results.
+
+Quantum computing is not just an evolution of the decades-old advancement in compute power. It provides the key to mastering our future, not merely discovering it. The potential is enormous, and we have the plan to make it real. Come join us.
+
+There’s much more work to be done and we are looking for exceptional talent to join us on this extraordinary journey!
+
+Job Summary
+
+At PsiQuantum we are developing and testing prototype quantum computer systems with complex software and hardware including integrated photonics, optics, electronics, and cryogenics subsystems. The Quantum Systems Validation team is responsible for characterizing the performance of integrated quantum optical systems and subsystems. As a Software Engineer on this team, you will design, build, and maintain the software tools that enable physicists and engineers to configure, test and validate system designs efficiently. You will work closely with validation engineers to write and improve software for acquiring, analyzing storing, and visualizing data on quantum computer prototypes.
+
+Responsibilities
+
+
+Design and implement software tools that focus on internal user needs and allow for a long-running, ever-evolving system.
+Enable physicists and engineers to develop test scripts, share data, and validate photonic quantum computer systems performance.
+Provide technical leadership including code reviews, pair programming, and mentoring, to promote high-quality, well-documented software from contributors from a variety of backgrounds.
+Build robust unit, integration, and hardware-in-the-loop tests to ensure system stability.
+Collaborate across teams to debug issues, provide rapid solutions, and contribute to long-term design improvements.
+Partner with design teams to define validation objectives and ensure system designs meet those requirements.
+Write requirements for data, APIs, and hardware features that will be provided by other teams.
+
+
+Experience/Qualifications
+
+
+Bachelor’s degree in computer science, mathematics, physics, engineering, or a related field.
+Advanced knowledge of Python including libraries for data analysis, unit testing, and Web APIs.
+Extensive experience using Git for version control in a collaborative software environment.
+Ability to work independently with limited direction and manage responsibility and ownership for delivering validation objectives.
+Excellent verbal and written communication skills with an ability to communicate effectively to a variety of audiences including senior leadership and technical experts.
+Demonstrated interest in PsiQuantum’s mission and vision for quantum computing, with an ability to contribute within a fast-paced start-up environment consistent with PsiQuantum’s values of communication, collaboration, respect, results, and challenge.
+
+
+Ways to stand out
+
+
+Experience teaching or mentoring software development skills, especially for colleagues with academic or scientific backgrounds.
+Familiarity with quantum physics, photonic integrated circuits, digital electronics, fiber networking, or related domains.
+Experience with data visualization tools such as Tableau, PowerBI, Python Dash, or JMP.
+Experience with relational or document-based databases such as: PostgreSQL, SQLite, Mongo, and S3.
+Experience with CI/CD tools such as GitLab, GitHub, or Jenkins.
+Experience managing Linux servers with tools such as Ansible, Bash, or Chef.
+Experience with cloud infrastructure management and automation such as: AWS, GCP, Terraform, CloudWatch, and Kubernetes.
+
+
+PsiQuantum provides equal employment opportunity for all applicants and employees. PsiQuantum does not unlawfully discriminate on the basis of race, color, religion, sex (including pregnancy, childbirth, or related medical conditions), gender identity, gender expression, national origin, ancestry, citizenship, age, physical or mental disability, military or veteran status, marital status, domestic partner status, sexual orientation, genetic information, or any other basis protected by applicable laws.
+
+Note: PsiQuantum will only reach out to you using an official PsiQuantum email address and will never ask you for bank account information as part of the interview process. Please report any suspicious activity to recruiting@psiquantum.com.
+
+We are not accepting unsolicited resumes from employment agencies.
+
+The ranges below reflect the target ranges for a new hire base salary. One is for the Bay Area (within 50 miles of HQ, Palo Alto), the second one (if applicable) is for elsewhere in the US (beyond 50 miles of HQ, Palo Alto). If there is only one range, it is for the specific location of where the position will be located. Actual compensation may vary outside of these ranges and is dependent on various factors including but not limited to a candidate's qualifications including relevant education and training, competencies, experience, geographic location, and business needs. Base pay is only one part of the total compensation package. Full time roles are eligible for equity and benefits. Base pay is subject to change and may be modified in the future.
+
+U.S. Base Pay Range
+
+$140,000—$160,000 USD
+
+Bay Area Pay Range
+
+$160,000—$180,000 USD

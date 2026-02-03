@@ -1,0 +1,106 @@
+About the job
+
+Make your mark at Comcast -- a Fortune 30 global media and technology company. From the connectivity and platforms we provide, to the content and experiences we create, we reach hundreds of millions of customers, viewers, and guests worldwide. Become part of our award-winning technology team that turns big ideas into cutting-edge products, platforms, and solutions that our customers love. We create space to innovate, and we recognize, reward, and invest in your ideas, while ensuring you can proudly bring your authentic self to the workplace. Join us. You’ll do the best work of your career right here at Comcast. (In most cases, Comcast prefers to have employees on-site collaborating unless the team has been designated as virtual due to the nature of their work. If a position is listed with both office locations and virtual offerings, Comcast may be willing to consider candidates who live greater than 100 miles from the office for the remote option.)
+
+Job Summary
+
+Responsible for planning and designing new software and web applications. Edits new and existing applications. Implements, testing and debugging defined software components. Documents all development activity. Works with moderate guidance in own area of knowledge.
+
+Job Description
+
+
+This position is unable to provide work authorization sponsorship or immigration support now or in the future.*
+
+
+The Technology + Product organization works at the intersection of media and technology and our innovative teams are continually developing and delivering products and next-generation technologies that transform the customer experience.
+
+Join Us in Powering the Future of Entertainment Metadata
+
+We’re building a world-class API platform that delivers rich entertainment metadata to Comcast’s suite of television, web, and mobile products. Our backend services ingest, synthesize, and deliver massive volumes of data to millions of customers across the globe—so scalability and reliability aren’t just goals, they’re requirements.
+
+As a software engineer on our team, you’ll be involved in every phase of the development cycle: from gathering requirements to implementation, testing, and deployment. You’re someone who can take an open-ended product description and translate it into elegant, high-performance code.
+
+If you’re passionate about building scalable solutions, solving complex data challenges, and working on technology that touches millions of lives, we’d love to hear from you.
+
+Responsibilities
+
+
+Analyzes and determines integration needs.
+Evaluates and plans software designs, test results and technical manuals.
+Reviews literature, patents and current practices relevant to the solution of assigned projects.
+Programs new software, web applications and supports new applications under development and the customization of current applications.
+Edits and reviews technical requirements documentation.
+Works with Quality Assurance team to determine if applications fit specification and technical requirements.
+Displays knowledge of engineering methodologies, concepts, skills and their application in the area of specified engineering specialty.
+Displays knowledge of and ability to apply, process design and redesign skills.
+Displays in-depth knowledge of and ability to apply, project management skills.
+Consistent exercise of independent judgment and discretion in matters of significance.
+Regular, consistent and punctual attendance. Must be able to work nights and weekends, variable schedule(s) and overtime as necessary.
+Other duties and responsibilities as assigned.
+
+
+Required Qualifications
+
+
+Knowledge of Object-Oriented design and patterns
+1-2 years of experience and proficiency with Java
+Good communication skills: verbal, written, and listening
+
+
+Additional Highly Desirable Qualifications
+
+
+UNIX, Linux, or Mac background
+Understanding of or desire to learn JVM performance tuning
+Knowledge of SQL and/or NoSQL databases (e.g. MongoDB)
+Experience with HTTP/REST and writing web services
+Experience with systems monitoring (e.g. Grafana, Splunk Dashboard/Alerting)
+Familiarity with a scripting language
+Experience with data modeling in the entertainment domain
+Familiarity with current trends and technologies around the social web
+
+
+About Our Perks & Benefits
+
+We are determined to create an environment where our employees feel valued, understand our business goals, and are motivated.
+
+Here's a look at just some of the perks and benefits we make available to our US-based employees:
+
+
+Medical & Dental
+401(k) Savings Plan
+Generous paid time off
+Life Milestones - from adoption assistance, childcare resources, pet insurance, and more, Comcast supports you at all life stages.
+Courtesy Services - We offer all full-time employees in serviceable areas free digital TV and internet.
+Discount tickets for Universal Resorts, including theme park tickets and onsite hotel rooms.
+
+
+Learn more at https://jobs.comcast.com/benefits
+
+Reasonable Accommodation
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, perform essential job functions, and receive other benefits and privileges of employment. Please contact us to request an accommodation.
+
+Disclaimer
+
+
+This information has been designed to indicate the general nature and level of work performed by employees in this role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications.
+
+
+Comcast is an EOE/Veterans/Disabled/LGBT employer.
+
+Job Profile: Engineer 2, Software Development & Engineering
+
+Comcast is an equal opportunity workplace. We will consider all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, veteran status, genetic information, or any other basis protected by applicable law.
+
+Skills
+
+Java; Design; Communication
+
+Base pay is one part of the Total Rewards that Comcast provides to compensate and recognize employees for their work. Most sales positions are eligible for a Commission under the terms of an applicable plan, while most non-sales positions are eligible for a Bonus. Additionally, Comcast provides best-in-class Benefits to eligible employees. We believe that benefits should connect you to the support you need when it matters most, and should help you care for those who matter most. That’s why we provide an array of options, expert guidance and always-on tools, that are personalized to meet the needs of your reality – to help support you physically, financially and emotionally through the big milestones and in your everyday life. Please visit the compensation and benefits summary  on our careers site for more details.
+
+Education
+
+Bachelor's Degree
+
+While possessing the stated degree is preferred, Comcast also may consider applicants who hold some combination of coursework and experience, or who have extensive related professional experience.

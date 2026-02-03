@@ -1,0 +1,55 @@
+About the job
+
+About The Company
+
+Coinbase is a leading cryptocurrency exchange and financial technology company committed to increasing economic freedom worldwide. As a pioneer in the blockchain and crypto space, Coinbase provides a secure, user-friendly platform that enables individuals and institutions to buy, sell, and manage digital assets. The company is dedicated to building the emerging on-chain platform and shaping the future of the global financial system through innovative technology, transparency, and customer-centric solutions. With a mission to foster financial inclusion and promote the adoption of blockchain technology, Coinbase continuously strives to deliver reliable and compliant services that empower users across the globe.
+
+About The Role
+
+We are seeking a talented Software Engineer to join our dynamic team. In this role, you will be instrumental in developing, testing, and deploying product-facing features that are critical to our platform's performance, security, and scalability. You will collaborate closely with cross-functional teams including product managers, operations, and other engineers to design and implement solutions that address complex technical challenges. Your work will directly impact the functionality of key components such as market data, trading systems, authentication, and security protocols. We value individuals who are passionate about blockchain technology and are eager to contribute to the evolution of the financial ecosystem. This role offers an exciting opportunity to leave a tangible mark on the future of digital finance while working in a fast-paced, innovative environment.
+
+Qualifications
+
+
+2+ years of software engineering experience
+Strong understanding of relational databases and transactional systems
+Proficiency in designing and consuming REST APIs
+Experience with scalable system architecture and performance optimization
+Familiarity with blockchain technology and crypto-related concepts is a plus
+Excellent problem-solving and analytical skills
+Ability to work collaboratively in a team-oriented environment
+Bachelor's degree in Computer Science, Engineering, or a related field
+
+
+Responsibilities
+
+
+Build, test, and deploy product-facing features with high correctness and scalability standards
+Develop functionalities related to market data, trading, authentication, and security protocols
+Collaborate with engineering and operations teams to design solutions for scalability challenges
+Implement and optimize backend systems to ensure high availability and performance
+Participate in code reviews, testing, and documentation to maintain code quality
+Identify and troubleshoot system issues, providing timely resolutions
+Stay updated with emerging technologies and industry trends to continuously improve the platform
+
+
+Benefits
+
+
+Competitive salary range of $147,900—$174,000 USD, plus bonus and equity options
+Comprehensive health benefits including medical, dental, and vision coverage
+Retirement plans such as 401(k) with company matching
+Paid time off and flexible work arrangements
+Participation in company-wide offsites and team-building activities
+Opportunities for professional growth and development within a forward-thinking organization
+
+
+Equal Opportunity
+
+Coinbase is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation, or any other protected characteristic under applicable law. Coinbase also considers qualified applicants with criminal histories in a manner consistent with federal, state, and local laws. We promote fairness and equal access in our hiring practices and workplace policies.
+
+
+
+Desired Skills and Experience
+
+IT

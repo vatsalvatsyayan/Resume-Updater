@@ -1,0 +1,477 @@
+Origence
+
+Software Engineer
+
+Ontario, CA · 6 minutes ago · 2 people clicked apply
+
+Responses managed off LinkedIn
+
+$88.4K/yr - $110.5K/yr
+Hybrid
+Internship
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Madelyn Liu, CPA, CFA Level III Candidate 
+
+• 3rd
+
+Head of Financial Planning and Analysis at Origence
+
+School alum from University of Southern California
+
+Message
+About the job
+
+About Origence
+
+With 30 years at the forefront of fintech innovation, we specialize in SaaS lending solutions that lead the industry. Our core mission is customer-centric, focusing on empowering Credit Unions across the United States with the tools to offer accessible, competitive lending services. We're deeply committed to enhancing the financial ecosystem for a broad network of credit unions, members and auto dealers. We invest in our greatest assets, our employees, and foster a culture of innovation and ownership through freedom and responsibility. We celebrate fiscal accountability, operational rigor and efficiency to create a sustainably healthy and robust business for the long term.
+
+About You
+
+You are a self-driven, conscientious, fiscally responsible, self-aware, passionate and compassionate software engineer. You are comfortable with ambiguity, eternally curious, and love problem solving. You operate as an owner and work with a growth mindset. You are extremely productive on your own, and act as a multiplier collaborating with others. You are tireless in questioning the status quo and pursue the best answers to the hardest problems to the benefit of the business. Your focus is strong and capable of context switching and pivoting with the business. In the vacuum of leadership, you assume it. You aren’t just a developer; you are a game changer.
+
+The Software Engineer will be responsible for the design/implementation of new software applications, maintenance and enhancement of various software products / solutions of Origence. They assist in successful execution of projects with minimal direction and guidance.
+
+What You’ll Be Doing
+
+
+Spend 90% of your time actively designing and coding in support of the immediate team. 10% of your time will be spent researching new technology, coaching, and mentoring other engineers.
+Ensure that technical initiatives align with organizational goals working closely with Principal Engineers / Development Managers / Staff and Senior Software Engineers .
+As a Full Stack Engineer assigned to the product/project ensure performance, maintainability, and functional requirements from design, development, testing to rollout and support
+Work with cross-engineering staff, collaborating on hardware and system monitoring requirements to ensure expected performance and reliability of the application / system developed.
+Proactively communicate and work to mitigate changes to project timelines, degradation in performance of applications, troubleshooting / problem solving production issues.
+
+
+Education
+
+The Ideal Candidate:
+
+
+Bachelor’s degree in Computer Science, Engineering or related industry experience
+
+
+Experience
+
+
+A minimum of 1 year of professional software development experience in business process automation applications, which includes internships. 
+Working knowledge of .Net/.Net Core, C#, Windows tools and languages as well as modern web frameworks (Angular via Typescript, React, Vue), and or equivalent languages and frameworks such as Java, Java Spring boot. 
+Understanding of SQL and NoSQL is preferred. 
+Understanding of Event Driven and microservice architecture a plus. 
+Preferred Experience: ASP.NET, WCF, Web Services, Azure Cloud, Infrastructure as Code (IaC), and or equivalent non-Azure based tools and frameworks such as AWS. 
+DevOps experience as a full stack developer participating in the Software Development Lifecycle a plus. 
+Understanding of test driven development, and or experience writing unit and integration tests. 
+
+
+Specialized Skills
+
+
+Can effectively lead technical initiatives, collaboratively design/requirements meetings while gathering the necessary information for software development.
+Ownership and accountability mindset, strong decision making along with communication and analytical skills that helps to partner with Product Owners and cross functional teams.
+Leadership in project execution and delivery. Must be an excellent team player with the ability to handle stressful situations. 
+The individual has deep expertise in their chosen technology stack and have a broader knowledge of various programming languages, frameworks, and tools. 
+Brings a wealth of experience and a nuanced understanding of the specific domain, enabling insightful decisions and innovative problem-solving. 
+Ability to break up larger projects into individual pieces, assess complexity of each piece, and balance the work amongst team members. 
+Ability to work in fast paced / flexible environment that practices SAFe / Agile based SDLC.
+Sets high standards for behavior and performance, models the values and principles of the organization, and inspires others through action.
+Practices Test Driven Design leveraging unit tests, mocks, and data factories.
+Experience with event driven design and microservice architecture best practices.
+Posses strong sense of interpersonal awareness, has a bias for action, builds trust, is technically deep, and has good judgement.
+
+
+Why You Should Apply
+
+
+Flexible Working Environment
+Paid Time Off
+401k (8% match)
+College Tuition Benefits/ Tuition Reimbursement
+Good Benefits options
+Company Culture! Cultural and Holiday celebrations, Theme days like Star Wars Day & Bring your Kids to Work Day, Monthly Townhalls and Quarterly Company Meetings that ensure awareness, inclusion, and transparency.
+
+
+The starting salary range for this full-time position in Irvine, CA is $88400 - $110500 per year. This base pay will take into consideration internal equity, candidate’s geographic region, job-related knowledge and experience among other factors. Origence maintains a highly competitive compensation program. Under company guidelines, this position is eligible for an annual bonus to provide an incentive to achieve targeted goals. Bonuses are awarded at company’s discretion on an individual basis.
+
+Origence is an equal opportunity employer. All recruitment, hiring, training, compensation, benefits, discipline, and other terms and conditions of employment will be based upon an individuals’ qualifications regardless of race, religion, color, sex, gender identity, sexual orientation, national origin, ancestry, military service, marital status, pregnancy, age, protected medical condition, genetic information, disability or any other category protected by federal, state or local law.
+… more
+
+Benefits found in job post
+
+401(k)
+
+Set alert for similar jobs
+
+Software Engineer, Ontario, California, United States
+
+Off
+Based on LinkedIn data. Excludes subsidiaries.
+
+2
+
+Candidates
+
+We’re waiting on more data to deliver Competitive intelligence
+
+Once there are 3 or more candidates for this job, we will show how you compare to the competition.
+
+Exclusive Job Seeker Insights about Origence
+Powered by Bing
+
+Company focus areas
+
+• Fraud Protection Integration: Enhance fraud detection and prevention capabilities by integrating AI-powered solutions into the loan application process. This aims to protect financial institutions from rising threats without compromising decisioning speed or member experience.
+
+...more
+
+Sources: zest.ai +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 450% increase in job openings over the past year, indicating a major focus on expanding technical capabilities and innovation. Increased focus on finance: The 'Finance' department has experienced a 21% increase in headcount and a 150% increase in job openings over the past three months, suggesting a strategic emphasis on financial management and planning. Expansion in IT: The 'Information Technology' department has shown a 200% increase in job openings over the past three months, highlighting a push towards enhancing IT infrastructure and support. Growth in customer support: The 'Customer Success and Support' department has seen a 75% increase in headcount over the past year, indicating a commitment to improving customer service and satisfaction.
+… more
+
+The latest hiring trend
+
+518
+
+Total employees
+
+12%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+250
+500
+750
+
+Median employee tenure: 4.3 years
+
+Origence hires candidates from some of these companies and schools
+
+Origence hired 1 person from University of Southern California. See all
+
+Competitors
+
+Origence operates in a highly competitive fintech lending landscape, focusing on providing end-to-end lending solutions with a strong emphasis on automation and efficiency. The company primarily targets credit unions and banks, helping them streamline their lending processes and improve productivity. Competitors like nCino, Finastra, and Newgen offer similar solutions, driving innovation and efficiency in the lending industry. The market is characterized by rapid technological advancements and a shift towards digital lending platforms.
+… more
+
+Sources: ableplatform.io +2 more
+
+Show Premium Insights
+About the company
+
+Origence
+
+40,673 followers
+
+Follow
+
+Software Development
+
+ • 
+
+501-1000 employees
+
+ • 
+
+518 on LinkedIn
+
+End-to-end lending solutions that deliver innovation, efficiency, and better experiences. 
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Firmware Audio Engineer
+
+Polaro
+
+San Mateo, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 6:02 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+LLM Engineer
+
+Prana Tree
+
+Chicago, IL (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 6:29 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Founding Full Stack Engineer
+
+Topify.ai
+
+San Francisco, CA (On-site)
+
+3 school alumni work here
+
+Posted on January 23, 2026, 12:36 AM
+17 hours ago
+
+ · 
+
+ Easy Apply
+
+Back End Developer, Shopify
+
+PIVOT | Shopify Plus Agency Partner
+
+Mission Viejo, CA (Hybrid)
+
+Posted on January 23, 2026, 2:33 PM
+3 hours ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Engineer Audio (Verified job)
+Artificial Intelligence Engineer Audio 
+
+Stuut
+
+San Francisco Bay Area (On-site)
+
+Vision, 401(k)
+
+Posted on January 22, 2026, 1:16 PM
+1 day ago
+
+Full Stack Software Engineer
+
+Basic Capital
+
+New York, NY (On-site)
+
+Posted on January 22, 2026, 3:35 PM
+1 day ago
+
+System Engineer
+
+Sonit Systems, LLC
+
+Archbold, OH (On-site)
+
+Medical, 401(k)
+
+Posted on January 23, 2026, 6:41 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+Infrastructure Engineer - St. Louis Only (Verified job)
+Infrastructure Engineer - St. Louis Only 
+
+Lemonaid Health
+
+St Louis, MO (On-site)
+
+$75K/yr
+
+ • 
+
+Medical, Vision, Dental, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 12:34 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Robotics Firmware Engineer
+
+Zenblen
+
+Chicago, IL (On-site)
+
+Posted on January 22, 2026, 9:16 AM
+1 day ago
+
+Forward Deployed Engineer
+
+Empromptu.ai
+
+San Francisco Bay Area (Remote)
+
+$100K/yr - $150K/yr
+
+You’d be a top applicant
+
+Posted on January 23, 2026, 12:44 PM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+Staff Software Engineer (Verified job)
+Staff Software Engineer 
+
+Trellis
+
+United States (Remote)
+
+$220K/yr
+
+ • 
+
+7 benefits
+
+1 school alumni works here
+
+Posted on January 22, 2026, 1:24 PM
+1 day ago
+
+Frontend Engineer
+
+Malachyte
+
+New York City Metropolitan Area (Hybrid)
+
+$140K/yr - $160K/yr
+
+ • 
+
+Medical, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 8:47 AM
+9 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

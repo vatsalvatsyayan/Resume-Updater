@@ -1,0 +1,125 @@
+About the job
+
+About Neuroscale
+
+Neuroscale is building the AI recruiting operating system, one unified platform for your entire talent organization, from first touch to hired. Arbi eliminates fragmented workflows, integrates directly with your ATS, and orchestrates AI agents for sourcing, outreach, screening, and candidate intelligence end-to-end. By combining reasoning-optimized models with deep workflow automation, Arbi helps talent teams win more top candidates with dramatically less friction.
+
+
+
+
+We’re backed by top operators and investors, and we’re growing fast. Our momentum is further fueled by blue-chip partners and programs, including the NVIDIA Inception Program, the HPE Unleash AI Program, and our active DoD SBIR Phase II award and contract. These partnerships accelerate our technical roadmap, strengthen our go-to-market credibility, and give us access to a powerful ecosystem of resources and customers.
+
+
+
+
+We’re now hiring our Founding Growth Hacker to build our acquisition engine from 0→1 and establish Arbi as the category-defining AI recruiting OS.
+
+
+
+
+The Role
+
+As our Founding Growth Hacker, you will own Neuroscale’s full acquisition and activation motion — experiments, channels, funnels, analytics, paid social, and early PLG loops. You’ll operate as a hybrid of growth marketer, technical hacker, and product strategist, working directly alongside the founders to build a scalable, repeatable, multi-channel growth engine.
+
+
+
+
+You will lead the charge on crafting our narrative, driving top-of-funnel demand, accelerating trial-to-paid conversion, and building systems that compound. You will be foundational in establishing Neuroscale as the default AI recruiting platform. You will have ownership over defining:
+
+
+
+
+Acquisition & Experimentation
+
+
+
+
+Build and run high-velocity growth experiments across funnels, onboarding, landing pages, and outbound systems
+Own paid acquisition across LinkedIn, Meta, X, TikTok, YouTube, and Google Search/Display/Video
+Design and execute creative/ads that convert — hooks, short-form video, static, messaging, motion
+Stand up and optimize multi-channel campaigns, retargeting, and PLG loops
+Manage rapid iteration cycles to validate channels, audiences, and storytelling angles
+Instrument funnels across trial → activation → conversion and uncover friction points
+
+
+
+
+Technical Growth & Automation
+
+
+
+
+Build automations and systems across Attio, UnifyGTM, Dock, Zapier/Make, and custom scripts
+Create scrapers, enrichment flows, and outbound machines to unlock novel growth channels
+Stand up microsites, pages, and conversion flows without heavy engineering dependencies
+Build AI-driven workflows for lead enrichment, routing, and personalization
+Architect scalable attribution, UTM standards, funnel instrumentation, and experimentation frameworks
+
+
+
+
+Product-Led Growth (PLG)
+
+
+
+
+Partner with Product to design activation triggers, viral loops, and onboarding flows that reduce time-to-value
+Influence product surfaces that drive adoption, retention, and self-serve conversion
+Analyze usage data to identify high-leverage opportunities across activation, expansion, and retention
+Build lifecycle automation (email, in-app, sequences) to drive consistent engagement
+
+
+
+
+Brand, Content & Creative
+
+
+
+
+Shape our top-of-funnel voice across social, communities, and broader market conversations
+Create high-impact content: short-form video, ads, landing pages, case studies, templates, and playbooks
+Develop compelling narratives and product explainers using Dock and other GTM tools
+Turn customer signals into stories that build credibility and inbound momentum
+Build a growth-driven content engine across LinkedIn, X, YouTube, and emerging channels
+
+
+
+
+Who You Are:‎
+2+ years of growth, performance marketing, or technical growth hacking experience
+Proven ability to run experiments that deliver measurable lift and accelerate acquisition
+Strong hands-on experience launching paid campaigns across LinkedIn, Meta, X, TikTok, YouTube, and Google
+Technical enough to build automations, scripts, scrapes, APIs, and no-code systems
+Deep understanding of funnel math, attribution, and experimentation frameworks
+Practitioner-level skill in landing pages, creative, copywriting, and conversion optimization
+Comfortable operating with <5 person GTM teams and high ambiguity
+Hungry, resourceful, and motivated by building from zero at a category-defining AI company
+
+
+
+
+Nice-to-haves:‎
+Experience in HR tech, ATS ecosystems, recruiting tech, or B2B SaaS
+Strong short-form content creation skills
+Familiarity with Attio, UnifyGTM, Dock, or modern growth/GTM stacks
+Background in PLG or self-serve SaaS growth motions
+Experience at early-stage startups (Seed → Series A)
+
+
+
+
+Compensation:‎
+$100K–$150K base salary, dependent on experience
+Performance-based bonuses or variable tied to acquisition milestones
+Health benefits: medical, dental, and vision
+Unlimited PTO & High Ownership Environment
+Meaningful early-stage equity
+Generous Relocation Assistance if applicable
+Opportunity to scale into Head of Growth as the team expands
+
+
+
+
+Equal Opportunity:‎
+
+Neuroscale is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We welcome applicants from all backgrounds, identities, and walks of life, including but not limited to race, gender, age, religion, sexual orientation, and disability status.

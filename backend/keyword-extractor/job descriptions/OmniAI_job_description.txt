@@ -1,0 +1,53 @@
+About the job
+
+Engineering at Omni\ We’re building the AI-powered infrastructure layer for small business lending. Helping banks and fintechs automate the messy work of collecting documents, filling out financial models, and doing public research on millions of SMBs across the country.
+
+There are 34 million small businesses in the U.S., and every one of them needs capital. We’re making it radically easier for lenders to serve them. At Omni we run everything from initial application, third party data aggregation, OCR and financial data extraction, and continuous borrower communication.
+
+You can see a demo of the product here: https://finovate.com/videos/finovatefall-2025-omniai/
+
+This role is on site in San Francisco. No exceptions.
+
+What you’ll work on
+
+There’s a Lot That Goes Into Commercial Lending, And We’re Tackling Every Step Of The Process. Some Of The Core Concepts Will Be
+
+
+Structuring messy PDFs into clean, machine-readable data across every type of business document imaginable. We’ve spent more than a year building incredibly high accuracy OCR pipelines (including building a major open source library: https://github.com/getomni-ai/zerox)
+Aggregating millions of unstructured data points from 50+ government and public data sources (UCC filings, liens, licenses, tax records, etc.) into usable intelligence for lenders. As well as using third party data (credit bureaus, KYC, AML).
+Designing AI workflows that combine OCR, LLMs, and rule-based systems into predictable, production-ready outputs. And learning how to build Human AI interfaces that are intuitive (i.e. HIL, model feedback, supervision, reporting).
+Building real-time financial models to underwrite SMBs faster and more accurately.
+Creating internal tools for sourcing, labeling, and generating massive training datasets (see: Infinite PDF Generator)
+
+
+We’re still early! You’ll have a massive impact on product direction, architecture, and engineering culture.
+
+Tech Stack
+
+We primarily use **Node, TypeScript, React/Next.js, Postgres, Docker, and K8.**\ We integrate with external systems like Salesforce, Hubspot, nCino, and several bank specific core systems (Jack Henry, Fiserv, etc.). This role also requires willingness to occasionally get your hands dirty with some esoteric banking tech. We’re talking SOAP APIs, SFTP servers, and the occasional fax machine API.
+
+On the AI side, we mainly interface with OpenAI and Gemini models. Customers can deploy Omni either via cloud or VPC, so familiarity with containerization and DevOps is valuable.
+
+Great Perks + Benefits
+
+Competitive Pay & Equity: Attractive salary and meaningful equity packages
+
+Health & Wellness: Medical, dental, and vision coverage for you and your family
+
+Flexible Time Off: Unlimited PTO and paid holidays
+
+Daily Lunch: Team meals provided
+
+Real Impact: Own and ship features you believe in.
+
+About The Interview
+
+Phone Screen\ Take 30 minutes to chat with one of the founders. Learn a bit about your interests, and share what we’re working on at Omni. We are looking for people with a strong interest in startups, and would love to hear about prior startup experience. Also really interested in seeing any open source work.
+
+Architecture Interview\ A 1 hour call with both founders where we design a hypothetical feature. There’s no coding involved. Instead we’ll discuss a new feature, and do a collaborative walk though of the architecture required. We want to think about everything from database design to UI.
+
+Onsite\ You’ll Spend The Day Working With Us At Our SF Office. Meals Will Be Covered, As Well As Any Travel And Accommodation. We’ll Spend The Day Building Out An MVP Of The Feature We Planned Out During The Architecture Interview. You'll Be Using Your Own Computer, And Using Whatever Language/environment You Are Most Comfortable With. By The End Of The Day We Are Expecting Two Things
+
+
+Fully functioning code. A few bugs are expected, but the core use case should be solved.
+A great demo. We want to see how clearly you can pitch your finished solution.

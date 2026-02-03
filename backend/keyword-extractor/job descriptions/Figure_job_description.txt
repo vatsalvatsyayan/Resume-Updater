@@ -1,0 +1,522 @@
+Figure
+
+Software Engineer - Exchange 
+
+United States · 1 hour ago · 75 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+$103K/yr - $128.7K/yr
+Remote
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+About Figure
+
+Figure (NASDAQ: FIGR) is transforming capital markets through blockchain. We’re proving that blockchain isn’t just theory - it’s powering real products used by hundreds of thousands of consumers and institutions.
+
+By combining blockchain’s transparency and efficiency with AI-driven automation, we’ve reimagined how loans are originated, funded, and traded in secondary markets. From faster processing times to lower costs and reduced bias, our technology is helping borrowers, investors, and financial institutions achieve better outcomes.
+
+Together with our 170+ partners, we’ve originated over $17 billion in home equity loans (HELOCs) on our blockchain-native platform, making Figure the largest non-bank provider of home equity financing in the U.S. Figure’s ecosystem also includes YLDS, an SEC-registered yield-bearing stablecoin that operates as a tokenized money market fund, and several other products and platforms that are reshaping consumer finance and capital markets.
+
+We’re proud to be recognized as one of Forbes’ Most Innovative Fintech Startups in 2025 and Fast Company’s Most Innovative Companies in Finance and Personal Finance.
+
+About The Role
+
+Figure is excited to be growing our businesses and creating new teams. We are looking for curious, innovative, and collaborative team members. Engineering is at the heart of the action, building out our blockchain protocol and direct-to-consumer products that will transform the financial services industry. Everything is developed from scratch, and every engineer has a significant impact on the team and the company's growth.
+
+The XX team at Figure is responsible for all software development once a loan application is cleared for funding. Systems include cash movement, loan validation, loan servicing, loan sales, and all blockchain interactions.
+
+What You’ll Do
+
+
+Drive innovative tech solutions adhering to iterative principles
+Originate, champion, and execute on new ideas for projects
+Collaborate with project leads and other software engineers across multiple teams
+Work on software solutions that will transform the consumer lending and blockchain space
+Be a leader, use your voice, apply your tech skills to solve real-world problems
+
+
+
+What We Look For
+
+
+BS/BA degree, Computer Science major preferred
+2+ years post-graduation engineering/development experience in a fast-paced, agile environment
+Proficiency in Java or Kotlin, JVM-based programming
+Team player with a positive attitude
+Ability to succeed in a startup environment
+Ability to drive a project from concept to release
+Proficiency in Continuous Integration (CI) and Continuous Deployment (CD)
+Familiarity with Iterative Software Development. “If it’s not in production, we aren’t iterating.”
+
+
+
+Salary
+
+
+Compensation Range: $102,960-$128,700/yr
+25% annual bonus target, paid quarterly 
+Company equity in the form of RSUs
+This is the compensation range for the United States, actual compensation may vary based on individual candidate experience, location, or evolving business needs
+
+
+
+Benefits
+
+
+Comprehensive health, vision, and dental insurance with 100% employer-paid premiums for employees and their dependents on select plans
+Company HSA, FSA, Dependent Care, 401k, and commuter benefits
+Employer-funded life and disability insurance coverage
+11 Observed Holidays & PTO plan
+Up to 12 weeks paid family leave
+Continuing education reimbursement
+
+
+
+Depending on your residential location certain laws might regulate the way Figure manages applicant data. California Residents, please review our California Employee and General Workforce Privacy Notice for further information. By submitting your application, you are agreeing and acknowledging that you have read and understand the above notice.
+
+Figure will not sponsor work visas for this position. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.
+
+
+… more
+
+Benefits found in job post
+
+Dental insurance, 401(k), Commuter benefits, Disability insurance
+
+Set alert for similar jobs
+
+Software Engineer, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+75
+
+total
+
+75
+
+in the past day
+
+Candidate seniority level
+
+83% Entry level candidates
+
+8% Senior level candidates
+
+1% Manager level candidates
+
+Candidate education level
+
+68
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+29
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+2
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Figure
+Powered by Bing
+
+Company focus areas
+
+• Blockchain Integration: Enhance financial products and services by leveraging blockchain technology to improve transparency, security, and efficiency. Figure Technologies uses the Provenance Blockchain for products like home equity lines of credit.
+
+...more
+
+Sources: vtrader.io +1 more
+
+Hiring & headcount
+
+Significant growth in Sales: The 'Sales' department has seen a 76% increase in headcount over the past year, indicating a major push to expand sales capabilities and market reach. Expansion in Finance and Accounting: The 'Finance' and 'Accounting' departments have grown by 26% and 36% respectively, suggesting a focus on strengthening financial operations and management. Increased focus on Customer Success and Support: With a 16% increase in headcount, the 'Customer Success and Support' department is expanding, highlighting an emphasis on improving customer satisfaction and retention. Engineering and Operations growth: The 'Engineering' and 'Operations' departments have increased by 10% and 15% respectively, indicating ongoing investments in product development and operational efficiency.
+… more
+
+The latest hiring trend
+
+557
+
+Total employees
+
+19%
+
+Company-wide
+
+2 year growth
+
+1%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+250
+500
+750
+
+Median employee tenure: 2.4 years
+
+Figure hires candidates from some of these companies and schools
+
+Figure hired 2 people from University of Southern California. See all
+
+Competitors
+
+Figure Technologies operates in a highly competitive fintech landscape, leveraging blockchain technology to streamline and expedite lending processes. The company faces competition from other fintech firms like SoFi, LendingClub, and Upstart, which also offer innovative lending solutions. Figure's unique value proposition lies in its ability to fund home equity loans significantly faster than the industry average, positioning it as a disruptive force in the market. However, the company must navigate challenges such as regulatory scrutiny, macroeconomic volatility, and the rapidly evolving crypto landscape to maintain its competitive edge.
+… more
+
+Sources: economictimes.indiatimes.com +3 more
+
+Show Premium Insights
+About the company
+
+Figure
+
+25,178 followers
+
+Follow
+
+Financial Services
+
+ • 
+
+501-1000 employees
+
+ • 
+
+557 on LinkedIn
+
+Figure is transforming capital markets through blockchain. 
+
+Figure Lending LLC, is the largest non-bank provider of home equity lines of credit; our software has been used to originate more than $20B for 217k+ homeowners. Figure’s technology is embedded across a broad network of loan originators and capital markets buyers, and is used directly by homeowners in 49 states and Washington, DC. 
+
+We have offices in NYC, San Francisco, Reno, Charlotte, and Helena. Join us, we're hiring!  
+https://figure.com/careers
+
+Figure Technologies Solutions is responsible for this page.
+
+Figure Lending LLC dba Figure. 650 S. Tryon Street, 8th Floor, Charlotte, NC 28202. NMLS ID 1717824. For licensing information, go to www.nmlsconsumeraccess.org. Equal Housing Opportunity. Terms apply. Visit figure.com for details.
+
+Visit https://www.figure.com/licenses/ for the full list of Figure Lending LLC Mortgage State Licensing details.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Full-Stack Developer — AI Agent Platform for Financial Services (Google Cloud / Vertex AI)
+
+Insomniac Hedge Fund Guy
+
+United States (Remote)
+
+$60/hr - $70/hr
+
+Posted on January 4, 2026, 11:43 AM
+4 days ago
+
+Solutions Engineer (Verified job)
+Solutions Engineer 
+
+LeapXpert
+
+United States (Remote)
+
+Medical, Vision, Dental, 401(k)
+
+Posted on January 7, 2026, 2:20 PM
+1 day ago
+
+Software Engineer
+
+Mercor
+
+United States (Remote)
+
+$50/hr - $150/hr
+
+6 company alumni work here
+
+Posted on January 6, 2026, 10:55 PM
+1 day ago
+
+Junior Full-Stack Software Engineer - Business Manager (Verified job)
+Junior Full-Stack Software Engineer - Business Manager 
+
+Reddit, Inc.
+
+United States (Remote)
+
+$132.6K/yr - $185.6K/yr
+
+ • 
+
+Vision, 401(k)
+
+1 connection works here
+
+Posted on January 6, 2026, 5:40 PM
+2 days ago
+
+Software Developer (Verified job)
+Software Developer 
+
+Oracle
+
+United States (Remote)
+
+$73.7K/yr - $158.2K/yr
+
+ • 
+
+Vision, 401(k), +1 benefit
+
+30 connections work here
+
+Posted on January 6, 2026, 8:21 PM
+1 day ago
+
+Ruby on Rails Software Developer
+
+LogiFlow Services
+
+United States (Remote)
+
+401(k) benefit
+
+Posted on December 30, 2025, 9:26 AM
+1 week ago
+
+Software AI Engineer
+
+micro1
+
+United States (Remote)
+
+2 company alumni work here
+
+Posted on January 8, 2026, 3:55 AM
+15 hours ago
+
+Go To Market Engineer - GTME (AI Demand Generation)
+
+BlastPoint
+
+Pittsburgh, PA (Remote)
+
+$85K/yr - $130K/yr
+
+Posted on January 5, 2026, 3:39 PM
+3 days ago
+
+Full-Stack Software Engineer (Verified job)
+Full-Stack Software Engineer 
+
+LinkSquares
+
+United States (Remote)
+
+$110K/yr - $155K/yr
+
+ • 
+
+Vision, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 12:42 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer - C#/.Net
+
+Rithum
+
+United States (Remote)
+
+$75K/yr - $153K/yr
+
+ • 
+
+401(k), +1 benefit
+
+1 company alumni works here
+
+Posted on January 8, 2026, 2:18 AM
+17 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Identity Access Management (IAM) (Verified job)
+Software Engineer, Identity Access Management (IAM) 
+
+Zip
+
+San Francisco, CA (Remote)
+
+$150K/yr - $180K/yr
+
+ • 
+
+401(k), +1 benefit
+
+3 company alumni work here
+
+Posted on January 8, 2026, 7:18 PM
+7 minutes ago
+
+Senior Software Developer (Founding Team / Future CTO)
+
+IaxaI, Inc.
+
+United States (Remote)
+
+Posted on January 8, 2026, 4:52 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

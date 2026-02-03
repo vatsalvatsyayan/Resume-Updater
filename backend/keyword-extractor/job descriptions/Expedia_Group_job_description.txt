@@ -1,0 +1,63 @@
+About the job
+
+Expedia Group brands power global travel for everyone, everywhere. We design cutting-edge tech to make travel smoother and more memorable, and we create groundbreaking solutions for our partners. Our diverse, vibrant, and welcoming community is essential in driving our success.
+
+Why Join Us?
+
+To shape the future of travel, people must come first. Guided by our Values and Leadership Agreements, we foster an open culture where everyone belongs, differences are celebrated and know that when one of us wins, we all win.
+
+We provide a full benefits package, including exciting travel perks, generous time-off, parental leave, a flexible work model (with some pretty cool offices), and career development resources, all to fuel our employees' passion for travel and ensure a rewarding career journey. We’re building a more open world. Join us.
+
+Software Development Engineer I
+
+Introduction to the team
+
+Expedia Technology teams partner with our Product teams to create innovative products, services, and tools to deliver high-quality experiences for travelers, partners, and our employees. A singular technology platform powered by data and machine learning provides secure, differentiated, and personalized experiences that drive loyalty and traveler satisfaction.
+
+As a key member of Expedia's Checkout team, you will be responsible for ensuring the Checkout system is optimized for speed, availability, scalability, and reliability, even under extreme demand.
+
+To excel in this role, you will possess strong analytical and troubleshooting skills, proficiency in coding and systems design, and excellent interpersonal skills. You will be adept at tackling complex problems, collaborating with cross-functional teams, and adapting to new technologies in a dynamic and agile environment.
+
+As a Software Engineer at Expedia, you will have the opportunity to innovate on web applications used by millions of travelers worldwide, empowering them to plan, book, and experience unforgettable trips.
+
+In This Role, You Will
+
+
+Design and develop scalable solutions on the web tier and server-side using Java
+Write efficient and optimal front-end code utilizing JavaScript, CSS, and HTML
+Develop and maintain comprehensive unit tests and automated integration tests
+Investigate, debug, and resolve production-level issues in a timely and effective manner
+Collaborate with cross-functional team members in problem-solving, code reviews, and technical discussions
+Apply fundamental computer science concepts, including data structures, object-oriented programming, and algorithms
+Continuously learn from experienced engineers and seek opportunities to expand technical skills
+Provide clear and concise progress updates, taking ownership of assigned tasks and deliverables
+Participate in Agile methodologies and contribute to a dynamic, team-oriented development environment
+
+
+Experience And Qualifications
+
+
+A Bachelor's or Master's degree in Computer Science or a related field, or equivalent professional experience
+0-2 years of experience in software development, with a strong foundation in programming languages such as Java or Kotlin
+A solid understanding of server-side design patterns, version control systems, and development tools
+Excellent analytical, debugging, and problem-solving skills, with a basic knowledge of testing and software quality principles
+The ability to work effectively in a team environment, with a strong desire for continuous learning and growth
+
+
+The total cash range for this position in Seattle is $87,500.00 to $122,500.00. Employees in this role have the potential to increase their pay up to $140,000.00, which is the top of the range, based on ongoing, demonstrated, and sustained performance in the role.
+
+Starting pay for this role will vary based on multiple factors, including location, available budget, and an individual’s knowledge, skills, and experience. Pay ranges may be modified in the future.
+
+Expedia Group is proud to offer a wide range of benefits to support employees and their families, including medical/dental/vision, paid time off, and an Employee Assistance Program. To fuel each employee’s passion for travel, we offer a wellness & travel reimbursement, travel discounts, and an International Airlines Travel Agent (IATAN) membership. View our full list of benefits.
+
+Accommodation requests
+
+If you need assistance with any part of the application or recruiting process due to a disability, or other physical or mental health conditions, please reach out to our Recruiting Accommodations Team through the Accommodation Request.
+
+We are proud to be named as a Best Place to Work on Glassdoor in 2024 and be recognized for award-winning culture by organizations like Forbes, TIME, Disability:IN, and others.
+
+Expedia Group's family of brands includes: Brand Expedia®, Hotels.com®, Expedia® Partner Solutions, Vrbo®, trivago®, Orbitz®, Travelocity®, Hotwire®, Wotif®, ebookers®, CheapTickets®, Expedia Group™ Media Solutions, Expedia Local Expert®, CarRentals.com™, and Expedia Cruises™. © 2024 Expedia, Inc. All rights reserved. Trademarks and logos are the property of their respective owners. CST: 2029030-50
+
+Employment opportunities and job offers at Expedia Group will always come from Expedia Group’s Talent Acquisition and hiring teams. Never provide sensitive, personal information to someone unless you’re confident who the recipient is. Expedia Group does not extend job offers via email or any other messaging tools to individuals with whom we have not made prior contact. Our email domain is @expediagroup.com. The official website to find and apply for job openings at Expedia Group is careers.expediagroup.com/jobs.
+
+Expedia is committed to creating an inclusive work environment with a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. This employer participates in E-Verify. The employer will provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS) with information from each new employee's I-9 to confirm work authorization.

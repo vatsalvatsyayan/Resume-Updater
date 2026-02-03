@@ -1,0 +1,510 @@
+Coinbase
+
+Software Engineer, Backend - AI Tools DevX 
+
+United States · Reposted 9 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$152.4K/yr - $179.3K/yr
+Remote
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+Ready to be pushed beyond what you think you’re capable of?
+
+At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.
+
+To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.
+
+Our work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.
+
+While many roles at Coinbase are remote-first, we are not remote-only. In-person participation is required throughout the year. Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment. Attendance is expected and fully supported.
+
+ 
+
+The AI Tools team is dedicated to rapidly accelerating the adoption of AI and agentic workflows for engineers at Coinbase. We achieve this by delivering high-quality tools and foundational primitives that empower teams to automate their work and unlock significant productivity gains across the engineering lifecycle. Our goal is to transform successful AI experiments into enterprise-grade tools, making AI an indispensable partner for every engineer.
+
+What you'll do:
+Build cutting-edge infrastructure and tools that empower AI-driven developer workflows.
+Create and deploy autonomous AI agents that integrate effortlessly with essential dev tools like GitHub, Slack, Linear, and Figma.
+Collaborate across engineering, product, and design to ship AI products that 10x productivity and redefine developer experiences.
+Prototype swiftly, iterate rapidly, and optimize for real-world performance, scalability, and user delight.
+Package and deliver robust AI solutions through user-friendly SDKs, APIs, and intuitive interfaces.
+What we're looking for:
+Proficiency in Python, Go, or TypeScript/Node.
+Experience orchestrating AI agents and automating workflows.
+Familiarity with observability tools for AI/ML systems.
+Practical experience with Terraform, Kubernetes, and CI/CD processes.
+A knack for rapid prototyping and shipping robust, production-ready code.
+Nice to Haves:
+Shipped agentic workflows or built LLM-powered systems (Claude Code, LangChain, etc.).
+Contributed to open-source AI or agent frameworks.
+Integrated AI technologies into popular dev and collaboration tools.
+Startup or zero-to-one product experience.
+Deep understanding of reasoning, planning, and memory architectures in autonomous agents.
+
+Job #: GPBE04US-IN
+
+*Answers to crypto-related questions may be used to evaluate your onchain experience.
+
+ 
+
+Pay Transparency Notice: Depending on your work location, the target annual salary for this position can range as detailed below. Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k)).
+
+Pay Range: : $152,405 USD - $179,300 USD
+
+ 
+
+Please be advised that each candidate may submit a maximum of four applications within any 30-day period. We encourage you to carefully evaluate how your skills and interests align with Coinbase's roles before applying.
+
+Commitment to Equal Opportunity
+
+Coinbase is proud to be an Equal Opportunity Employer.  All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law.  For US applicants, you may view the Employee Rights and the Know Your Rights notices by clicking on their corresponding links. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law. 
+
+Coinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please contact us at accommodations[at]coinbase.com to let us know the nature of your request and your contact information.   For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).
+
+Global Data Privacy Notice for Job Candidates and Applicants
+
+Depending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required.
+
+AI Disclosure
+
+For select roles, Coinbase is piloting an AI tool based on machine learning technologies to conduct initial screening interviews to qualified applicants. The tool simulates realistic interview scenarios and engages in dynamic conversation. A human recruiter will review your interview responses, provided in the form of a voice recording and/or transcript, to assess them against the qualifications and characteristics outlined in the job description.  
+
+For select roles, Coinbase is also piloting an AI interview intelligence platform to transcribe and summarize interview notes, allowing our interviewers to fully focus on you as the candidate. 
+
+The above pilots are for testing purposes and Coinbase will not use AI to make decisions impacting employment. To request a reasonable accommodation due to disability, please contact accommodations[at]coinbase.com
+
+ 
+
+ 
+
+… more
+
+Set alert for similar jobs
+
+Software Engineer, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+665
+
+total
+
+39
+
+in the past day
+
+Candidate seniority level
+
+72% Entry level candidates
+
+13% Senior level candidates
+
+Candidate education level
+
+39
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+24
+
+%
+
+have a Master of Science
+
+
+13
+
+%
+
+have a Bachelor of Science
+
+
+24
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Coinbase
+Powered by Bing
+
+Company focus areas
+
+• Global Payment Solutions: Launch new global payment initiatives to enhance transaction handling for businesses, integrating Coinbase Commerce into Coinbase Business for a unified platform.
+
+...more
+
+Sources: gurufocus.com +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 26% increase in headcount, indicating a major focus on technological development and innovation. Expansion in legal and compliance: The 'Legal' department has grown by 42%, suggesting increased regulatory focus and compliance efforts. Increased focus on sales and marketing: The 'Sales' and 'Marketing' departments have grown by 35% and 39% respectively, highlighting a strategic push towards market expansion and customer acquisition. Growth in operations and administrative support: The 'Operations' and 'Administrative' departments have increased by 31% and 56% respectively, indicating a need for enhanced operational efficiency and support infrastructure.
+… more
+
+The latest hiring trend
+
+7,347
+
+Total employees
+
+60%
+
+Company-wide
+
+2 year growth
+
+29%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+5000
+10000
+
+Median employee tenure: 1.7 years
+
+Coinbase hires candidates from some of these companies and schools
+
+Coinbase hired 25 people from University of Southern California. See all
+
+Coinbase hired 354 people from University of Southern California. See all
+
+Competitors
+
+Coinbase Global, Inc. is navigating a complex and competitive landscape in the cryptocurrency exchange market. Despite its strong market position and institutional trust, it faces significant challenges from regulatory changes, market volatility, and increasing competition from other exchanges like Binance, eToro, and KuCoin. These competitors offer various advantages such as lower fees, global access, and unique trading features, which are attracting a diverse range of investors. Coinbase's strategic focus on regulatory compliance and institutional partnerships remains crucial for maintaining its competitive edge.
+… more
+
+Sources: investing.com +3 more
+
+Show Premium Insights
+About the company
+
+Coinbase
+
+1,344,779 followers
+
+Follow
+
+Financial Services
+
+ • 
+
+1001-5000 employees
+
+ • 
+
+7,347 on LinkedIn
+
+Founded in June of 2012, Coinbase is a digital currency wallet and platform where merchants and consumers can transact with new digital currencies like bitcoin, ethereum, and litecoin. Our vision is to bring more innovation, efficiency, and equality of opportunity to the world by building an open financial system. Our first step on that journey is making digital currency accessible and approachable for everyone. Two principles guide our efforts. First, be the most trusted company in our domain. Second, create user-focused products that are easier and more intuitive to use.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Enterprise App AI Trainer, $80-90/hour
+
+LinkedIn
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on December 21, 2025, 7:41 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Founding Engineer
+
+Tarly
+
+United States (Remote)
+
+$160K/yr - $220K/yr
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 3:39 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer - GPU Cloud
+
+SemiAnalysis
+
+United States (Remote)
+
+Posted on December 28, 2025, 11:12 AM
+3 weeks ago
+
+Software Developer - Chile
+
+Symphonic Distribution
+
+United States (Remote)
+
+3 school alumni work here
+
+Posted on January 14, 2026, 2:43 PM
+3 days ago
+
+Computer Vision & Agentic Systems Engineer
+
+Flowmentum, Inc.
+
+United States (Remote)
+
+$7,500/month - $11.5K/month
+
+Actively reviewing applicants
+
+Posted on December 15, 2025, 10:15 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+AI Backend Engineer - Data & Integration
+
+Digital Iron
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 11, 2026, 8:51 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Enterprise Solutions Engineer
+
+SBE Vision, Inc.
+
+United States (Remote)
+
+$120K/yr - $150K/yr + Bonus, Stock options
+
+ • 
+
+6 benefits
+
+Actively reviewing applicants
+
+Posted on September 9, 2025, 12:07 PM
+4 months ago
+
+ · 
+
+ Easy Apply
+
+Dev Team/CTO
+
+MailMend
+
+United States (Remote)
+
+$150K/yr - $220K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 6:42 AM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Salesforce & API Integration Specialist
+
+Sendblue
+
+New York, United States (Remote)
+
+Actively reviewing applicants
+
+Posted on November 4, 2025, 5:53 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Salesforce Developer
+
+Atlas Residential- Charlotte NC
+
+United States (Remote)
+
+$110K/yr - $120K/yr
+
+ • 
+
+Medical, 401(k)
+
+Actively reviewing applicants
+
+Posted on October 31, 2025, 2:21 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Forward Deployed Detection Engineer
+
+detections.ai
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 13, 2026, 2:12 PM
+4 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineering Specialist 1 (Verified job)
+Software Engineering Specialist 1 
+
+Crowe
+
+Costa Mesa, CA (Remote)
+
+$113K/yr - $267.5K/yr
+
+8 company alumni work here
+
+Posted on January 18, 2026, 2:03 AM
+12 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

@@ -1,0 +1,519 @@
+Toshiba Global Commerce Solutions
+
+Associate Software Engineer 
+
+Durham, NC · 1 day ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$65K/yr - $75K/yr
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Kristina Dawson
+
+• 3rd
+
+Information Technology and Services Professional
+
+School alum from University of Southern California
+
+Message
+About the job
+
+Note: Toshiba Global Commerce Solutions will not be providing visa sponsorship for this position now or in the future. Therefore, in order to be considered for this position, you must have the ability to work in the United States without a need for current or future visa sponsorship.
+
+
+Must be local to Raleigh/Durham, NC Area. This is a hybrid role at least 3 days a week in person. 
+
+
+Toshiba Global Commerce Solutions is seeking an Associate Software Support Engineer whose primary responsibility is resolving software defects using AI-driven development and analysis tooling. This role is designed for new Computer Science graduates who bring a strong quality mindset and can demonstrate effective use of AI to diagnose, fix, and validate defects in production software.
+
+This is not a traditional manual coding role. Code analysis, generation, and remediation are performed through AI-driven workflows, with the engineer responsible for correctness, validation, and quality outcomes.
+
+What You’ll Do
+
+
+Own software defects from intake through resolution using AI-driven tooling
+Use AI to analyze root cause, generate fixes, and validate solutions
+Verify fixes through testing and quality checks before closure
+Ensure defect resolutions meet quality, stability, and regression standards
+Clearly document defect causes, resolutions, and validation results
+
+
+How You’ll Be Measured
+
+
+Successful defect resolution rate
+Fix quality (low defect re-open and regression rates)
+Adherence to quality and validation standards
+
+
+Required Qualifications
+
+
+Bachelor’s degree in Computer Science or closely related field
+Demonstrated proficiency using AI-driven tools to resolve software defects
+Strong understanding of core software concepts (APIs, data flow, debugging fundamentals)
+High attention to detail and a strong sense of software quality
+Ability to follow structured processes and validate outcomes rigorously
+
+
+Nice to Have
+
+
+Exposure to testing frameworks or CI/CD pipelines
+Experience with defect tracking systems
+Academic or personal projects using AI-driven development workflows
+
+
+Why This Role
+
+
+Clear, outcome-based expectations focused on quality
+Hands-on experience with AI-driven software resolution from day one
+
+
+Strong foundation for growth into engineering, quality, or AI-centric development roles
+
+Toshiba Global Commerce Solutions is a dynamic billion-dollar global company based in Research Triangle Park, NC, providing retail store solutions to your favorite brands. Have you ever been in a hurry and made use of the self-checkout at Lowe's Foods, earned fuel rewards at Kroger, or just paid for purchases at retailers such as Walmart, Michaels, Carrefour, The Gap, Calvin Klein, Boots, Cencosud, BJ's, or Costco? These are just a few examples of our in-store solutions and impressive customer base that made us the world's installed market share leader.
+
+The nature of retail is changing quickly, so if you share our 'Together Commerce' vision of a seamless two-way, participatory shopping experience, let's get together to drive the new economy.
+
+Toshiba Global Commerce Solutions, Inc. offers a competitive salary and generous benefits package including the following:
+
+Compensation
+
+
+Base Salary Range: $65,000-$75,000
+The above annual salary range is a general guideline. Multiple factors are taken into consideration to arrive at the final annual salary to be offered to the selected candidate. Factors include, but are not limited to, the scope and responsibilities of the role, the selected candidate’s work experience, education and training, the work location as well as market and business considerations.
+Discretionary Bonus Plan: Eligible for up to 2% annual performance-based bonus (individual and company performance)
+Group health coverage (medical, dental, & vision)
+Employee Assistance Programs
+Pre-tax spending accounts
+401(k) plan (with company match)
+Company provided life insurance
+Pet Insurance
+Employee discounts
+Generous paid holiday schedule, paid vacation & sick/personal days
+
+
+Eeo
+
+Toshiba Global Commerce Solutions is an equal opportunity/affirmative action employer that evaluates qualified applicants without regard to age, ancestry, color, religious creed, disability, marital status, medical condition, genetic information, military or veteran status, national origin, race, sex, gender, gender identity, gender expression and sexual orientation or any other protected factor. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+
+Individuals who need a reasonable accommodation because of a disability for any part of the employment process should email benefits@toshibagcs.com to request an accommodation
+
+Diversity, Equity & Inclusion
+
+We at Toshiba Global Commerce Solutions firmly believe that our people are an integral part to the success of our customers. Furthermore, we're committed to Diversity, Equity, and Inclusion for all our people as highlighted by our 5 Core Principles (Create Outreach, Foster Belonging, Unleash Opportunity, Diverse Cultural Engagement and Culture of Transparency). We're passionate about our customers the retail industry and becoming a more responsible company as we help create a brighter future.
+… more
+
+Benefits found in job post
+
+401(k)
+
+Set alert for similar jobs
+
+Associate Software Engineer, Durham, North Carolina, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+1099
+
+total
+
+1099
+
+in the past day
+
+Candidate seniority level
+
+86% Entry level candidates
+
+6% Senior level candidates
+
+Candidate education level
+
+79
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+19
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Toshiba Global Commerce Solutions
+Powered by Bing
+
+Company focus areas
+
+• Retail Innovation: Showcase and develop the latest retail innovations to empower retailers in crafting unique customer journeys and achieving sustainable success.
+
+...more
+
+Sources: businesswire.com +1 more
+
+Hiring & headcount
+
+Focus on IT and Engineering: The 'Information Technology' department has seen an 82% increase in job openings over the last three months, and the 'Engineering' department has a 1% increase in headcount, indicating a strong focus on technological and engineering initiatives. Growth in Customer Success and Support: The 'Customer Success and Support' department has experienced a 400% increase in job openings over the last three months, suggesting a significant investment in customer service and support functions. Stability in Sales: The 'Sales' department has maintained a relatively stable headcount with a 1% increase over the year, indicating a steady focus on sales operations. Expansion in Program and Project Management: The 'Program and Project Management' department has seen a 75% increase in job openings over the last three months, reflecting a growing emphasis on project management and execution.
+… more
+
+The latest hiring trend
+
+2,509
+
+Total employees
+
+2%
+
+Company-wide
+
+2 year growth
+
+15%
+
+Engineering
+
+2 year growth
+
+Chart
+Chart with 25 data points.
+The chart has 1 X axis displaying Time. Data ranges from 2024-01-01 00:00:00 to 2026-01-01 00:00:00.
+The chart has 1 Y axis displaying values. Data ranges from 2443 to 2526.
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+2000
+4000
+End of interactive chart.
+
+Median employee tenure: 4.6 years
+
+Toshiba Global Commerce Solutions hires candidates from some of these companies and schools
+
+Toshiba Global Commerce Solutions hired 1 person from University of Southern California. See all
+
+Competitors
+
+Toshiba Global Commerce Solutions operates in a highly competitive retail technology market, focusing on point of sale systems, self-service kiosks, and integrated in-store solutions. The company leverages AI and modular technologies to enhance personalization and operational efficiency. Key competitors include NCR Corporation, Diebold Nixdorf, and Zebra Technologies, which also offer comprehensive retail automation and self-checkout solutions. Toshiba's strategic initiatives include partnerships and innovations in AI-driven retail technologies to maintain a competitive edge.
+… more
+
+Sources: fortunebusinessinsights.com +2 more
+
+Show Premium Insights
+About the company
+
+Toshiba Global Commerce Solutions
+
+68,311 followers
+
+Follow
+
+Technology, Information and Internet
+
+ • 
+
+1001-5000 employees
+
+ • 
+
+2,510 on LinkedIn
+
+Toshiba Global Commerce Solutions is the global market share leader in retail store technology. As retail’s first choice for integrated in-store solutions, our innovative commerce technology enhances customer engagement, transforms in-store experience, and accelerates digital transformation. Together, with a global team of dedicated business partners, we advance the future of retail. 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Associate Software Engineer (New College Grad 2026) (Verified job)
+Associate Software Engineer (New College Grad 2026) 
+
+Solace
+
+Redwood City, CA (On-site)
+
+1 company alumni works here
+
+Posted on January 14, 2026, 8:28 PM
+2 weeks ago
+
+AI/ML Engineer
+
+Tissue Connect Systems
+
+New York, NY (Hybrid)
+
+Actively reviewing applicants
+
+Posted on December 8, 2025, 3:02 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer – Matching and Scheduling Optimization
+
+Sage Care
+
+Palo Alto, CA (Hybrid)
+
+1 school alumni works here
+
+Posted on December 4, 2025, 10:19 AM
+2 months ago
+
+Entry Level Software Developer
+
+Property Matrix
+
+Los Angeles, CA (On-site)
+
+401(k) benefit
+
+Posted on December 26, 2025, 12:58 PM
+1 month ago
+
+Backend Software Engineer
+
+Onyx Odds
+
+New York, NY (On-site)
+
+$170K/yr - $250K/yr
+
+1 school alumni works here
+
+Posted on January 17, 2026, 1:15 PM
+2 weeks ago
+
+Software Engineer
+
+InsightFinder AI
+
+Raleigh-Durham-Chapel Hill Area (On-site)
+
+Actively reviewing applicants
+
+Posted on December 14, 2025, 8:10 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Backend Infrastructure Engineer
+
+Conduit
+
+San Francisco, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 31, 2025, 12:29 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+BetterBrain
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 12:26 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Application Developer ($60,000 - $100,000 Annually DOE)
+
+ELM Utility Services
+
+Missoula, MT (On-site)
+
+401(k) benefit
+
+Posted on January 12, 2026, 11:41 AM
+3 weeks ago
+
+Software Engineer
+
+Sweet Iced Tea Labs
+
+San Antonio, TX (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 10:45 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+.NET CMS Web Developer
+
+Grey Ghost Studio, Inc
+
+Beaverton, OR (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 28, 2026, 7:44 AM
+5 days ago
+
+ · 
+
+ Easy Apply
+
+Solutions Engineer
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$80K/yr - $100K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 2:05 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

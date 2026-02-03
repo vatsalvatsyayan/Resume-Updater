@@ -1,0 +1,477 @@
+Alibaba Cloud
+
+Software Engineer-Seattle 
+
+Seattle, WA · 10 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$156K/yr - $256.8K/yr
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+In Alibaba Cloud, we provide the fundamental Cloud technology and infrastructure to help merchants, brands and other businesses that provide products, services and digital content to leverage the power of the Internet to engage with their users and customers. Our team is tasked to build the core components of Alibaba cloud storage. We have created a planetary scale distributed systems that handles hundreds of billions of requests per day and stores multiple exabytes of data. We are constantly delivering the next killer feature and tackling interesting challenges in technologies such as big-data, Cloud Native, and etc. We provide reliable, highly scalable and highly performing distributed file system services on which our users build their mission critical services.
+
+We are seeking a highly skilled and innovative High-Performance File System Development Engineer to join our team. You will play a crucial role in building next-generation file systems designed to support cutting-edge applications. You will be involved in core design, development, and optimization, tackling critical challenges such as massive data storage, high-speed data access, and distributed consistency.
+
+Key Responsibilities
+
+1）Participate in the architectural design and core module development of high-performance file systems, with a strong focus on optimizing performance for data intensive workloads.
+
+2）Conduct performance analysis and tuning, resolving bottlenecks related to high concurrency, low latency, and high throughput.
+
+3）Design and implement efficient data storage, access, and management mechanisms, optimizing I/O paths for maximum efficiency.
+
+4）Contribute to the development of distributed file systems, addressing challenges related to data consistency, fault tolerance, and scalability.
+
+5）Collaborate closely with product teams to understand business requirements and deliver innovative technical solutions.
+
+6）Engage in technical research and innovation, exploring new storage technologies and architectures.
+
+Job Requirements
+
+Minimum qualification:
+
+1）Proficiency in C/C++ programming, with a strong foundation in data structures, algorithms, network programming, and multi-threaded programming.
+
+2）Solid understanding of Linux operating system principles, with experience in kernel development and debugging preferred.
+
+3）Strong problem-solving and analytical skills, with the ability to quickly identify and resolve complex technical issues.
+
+4）Excellent communication and teamwork skills, with the ability to collaborate effectively with team members.
+
+5）Strong passion for technology and innovation, with a willingness to embrace challenges and explore new technologies.
+
+6）Honest, diligent, and rigorous work ethic.
+
+7）Familiarity with Python or other scripting languages.
+
+Preferred Qualifications
+
+1）Experience in cloud infrastructure development, with a strong understanding of distributed storage and computing technologies.
+
+2）Deep understanding of the internals of open-source systems such as Linux, HBase, Cassandra, Hadoop, and Kubernetes.
+
+3）Experience in distributed computing environments such as MPI, Parameter Server, TensorFlow, Caffe, and PyTorch.
+
+4）Experience developing with Paxos, Raft, and other fault-tolerant protocols.
+
+5）Keen interest in emerging technologies, with a demonstrated ability to generate new ideas and innovations.
+
+The pay range for this position at commencement of employment is expected to be between $156,000/year and $256,800/year. However, base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience.
+
+If hired, employee will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.
+
+
+
+Set alert for similar jobs
+
+Software Engineer, Seattle, Washington, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+329
+
+total
+
+329
+
+in the past day
+
+Candidate seniority level
+
+87% Entry level candidates
+
+8% Senior level candidates
+
+Candidate education level
+
+90
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+9
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Alibaba Cloud
+Powered by Bing
+
+Company focus areas
+
+• AI and Cloud Integration: Developing world-class AI models and building a globally competitive AI-enabled cloud infrastructure. This integration of 'AI + Cloud' is positioned as the key growth engine for the future.
+
+...more
+
+Sources: alibabagroup.com +1 more
+
+Hiring & headcount
+
+Focus on Information Technology: The 'Information Technology' department has seen a 5% increase in headcount over the past year, indicating a significant investment in IT infrastructure and capabilities. Growth in Sales and Business Development: Both 'Sales' and 'Business Development' departments have increased by 5% and 2% respectively, suggesting a strategic push towards expanding market reach and driving revenue growth. Expansion in Program and Project Management: The 'Program and Project Management' department has experienced a 10% increase in headcount, highlighting a focus on managing and executing new projects and initiatives. Increased Investment in Customer Success and Support: The 'Customer Success and Support' department has grown by 9%, reflecting an emphasis on enhancing customer satisfaction and retention.
+… more
+
+The latest hiring trend
+
+4,784
+
+Total employees
+
+8%
+
+Company-wide
+
+2 year growth
+
+17%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+2500
+5000
+7500
+
+Median employee tenure: 6.8 years
+
+Alibaba Cloud hires candidates from some of these companies and schools
+
+Alibaba Cloud hired 1 person from University of Southern California. See all
+
+Alibaba Cloud hired 17 people from University of Southern California. See all
+
+Competitors
+
+Alibaba Cloud Computing is a dominant player in the Asia-Pacific cloud market, leveraging its extensive data center network and advanced AI-driven cloud products. It faces stiff competition from global giants like Amazon Web Services, Microsoft Azure, and Google Cloud. Alibaba Cloud's strategic focus includes significant investments in AI and cloud infrastructure, aiming to support Chinese enterprises in expanding their global presence. Despite U.S.-China tech tensions, Alibaba continues to innovate with domestic alternatives to maintain its competitive edge.
+… more
+
+Sources: global.chinadaily.com.cn +3 more
+
+Show Premium Insights
+About the company
+
+Alibaba Cloud
+
+279,338 followers
+
+Follow
+
+IT System Custom Software Development
+
+ • 
+
+10001+ employees
+
+ • 
+
+4,784 on LinkedIn
+
+Founded in 2009, Alibaba Cloud is a leading cloud computing and artificial intelligence company. Leveraging its proprietary Apsara Cloud operating system, Alibaba Cloud offers a comprehensive suite of cloud services based on a three-tiered architecture of Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS) and Model-as-a-Service (MaaS) to customers worldwide. Alibaba Cloud is the largest provider of public cloud services in China and Asia Pacific. 
+
+With its large scale and strong foundation in IaaS and PaaS infrastructure, Alibaba Cloud provides enterprises with high-performance and low-cost computing resources, and platform services for large-scale model training, fine-tuning, and inference. Alibaba Cloud aspires to become the most open cloud computing company in the AI era. Alibaba Cloud’s proprietary LLM Qwen is one of the world’s leading LLMs, and has open-sourced Qwens of different sizes with multimodalities, supporting more enterprise customers to realize their AI-driven innovation. 
+
+Follow us:
+Twitter: www.twitter.com/alibaba_cloud
+Facebook: https://www.facebook.com/alibabacloud/
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Founding Engineer
+
+A4Assist
+
+San Francisco, CA (On-site)
+
+$150K/yr - $300K/yr
+
+ • 
+
+Vision, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 19, 2026, 10:07 AM
+12 minutes ago
+
+ · 
+
+ Easy Apply
+
+Backend Infrastructure Engineer
+
+Envoy AI
+
+San Francisco, CA (On-site)
+
+$160K/yr - $185K/yr
+
+Posted on January 16, 2026, 1:24 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Python Software Engineer
+
+BrickRed Systems
+
+New York, United States (On-site)
+
+Posted on January 19, 2026, 10:11 AM
+8 minutes ago
+
+ · 
+
+ Easy Apply
+
+AI / ML Engineering Dallas Associate (Verified job)
+AI / ML Engineering Dallas Associate 
+
+Goldman Sachs
+
+Dallas, TX
+
+1 connection works here
+
+Posted on January 17, 2026, 4:25 AM
+2 days ago
+
+Python Software Engineer (Verified job)
+Python Software Engineer 
+
+Alvarez and Marsal
+
+Chicago, IL
+
+$70/hr - $90/hr
+
+8 company alumni work here
+
+Posted on January 16, 2026, 6:39 PM
+2 days ago
+
+Associate AI Software Engineer (Verified job)
+Associate AI Software Engineer 
+
+Center for Diagnostic Imaging (CDI)
+
+St Louis Park, MN
+
+$65K/yr - $100K/yr
+
+3 school alumni work here
+
+Posted on January 16, 2026, 2:35 PM
+2 days ago
+
+Back End Developer (Verified job)
+Back End Developer 
+
+IBM
+
+Rochester, MN (On-site)
+
+1 connection works here
+
+Posted on January 17, 2026, 3:57 AM
+2 days ago
+
+Fullstack Software Engineer (Verified job)
+Fullstack Software Engineer 
+
+Cloudflare, Inc.
+
+Austin, TX (Hybrid)
+
+1 connection works here
+
+Posted on January 16, 2026, 4:54 PM
+2 days ago
+
+Entry Level AI Software Engineer (Verified job)
+Entry Level AI Software Engineer 
+
+IBM
+
+Research Park, CA (Hybrid)
+
+1 connection works here
+
+Posted on January 17, 2026, 3:57 AM
+2 days ago
+
+Front-End Engineer (Verified job)
+Front-End Engineer 
+
+NVIDIA
+
+Santa Clara, CA
+
+$136K/yr - $218.5K/yr
+
+5 connections work here
+
+Posted on January 16, 2026, 6:53 PM
+2 days ago
+
+Frontend Developer (React)
+
+Medley Networks Inc
+
+San Diego Metropolitan Area (On-site)
+
+$10K/month - $11K/month
+
+ • 
+
+3 benefits
+
+Posted on January 16, 2026, 2:25 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Full Stack (Verified job)
+Software Engineer, Full Stack 
+
+Sift
+
+San Francisco, CA (Hybrid)
+
+$150K/yr - $200K/yr
+
+1 company alumni works here
+
+Posted on January 19, 2026, 2:41 AM
+7 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

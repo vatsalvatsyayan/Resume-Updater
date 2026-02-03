@@ -1,0 +1,72 @@
+About the job
+
+Title: Software Engineer / Location: New York, NY (in-person)
+
+
+
+
+Compensation: $130-160K / 0.25 - 0.5% equity
+
+
+
+
+Keep Reading If You:
+
+Want to join a highly technical team working at the cutting-edge on exciting problems (large-scale entity resolution, web-based AI systems, natural-language search over a structured database).
+Want your ideas to turn into production code, helping real users every day.
+
+
+
+
+What We Do: DonorAtlas is building the AI layer for people data. Today, we’re focused on the fundraising industry, where our software empowers organizations to efficiently find and research donors and HNW individuals. Our users are people who want to make the world a better place. In the long run, we’re building the best dataset of people ever created, and the first system that uses AI for contextual entity resolution at scale.
+
+
+
+
+We raised $3M last year, with a seed round led by Audacious Ventures and 1984.
+
+
+
+
+What You’ll Work On
+
+Identity Resolution at Scale: How do we efficiently scale a system to make trillions of accurate record comparisons? How can we make the most accurate probabilistic model ever created for whether two records are the same person?
+Structured Web Data: How do we use web data, analyzed and structured by LLMs, to enhance accuracy of our identity resolution? When should we trust our probability models vs the LLM’s opinion?
+Graph Architecture: How can we structure our people graph to minimize read time for the DonorAtlas application and write time for frequent data updates?
+Recommendations & Mutual Connections: How do we allow users to manage their donor network, and instantly find the best path for an introduction to any other specific donor, through this network?
+Natural-language Search: How can we allow users to search through the database in English? How do we intuitively and efficiently allow complex user queries like aggregations and boolean logic? (“Donors in NYC who’ve given mostly to small nonprofits, and >$5k to cancer research since 2023”)
+
+
+
+
+What We’re Looking For
+
+Real Experience: 1.5-3 years of experience in software engineering
+Mathematical Background: Strong foundation in mathematics and probability, and a knack for thinking about difficult problems
+Programming Skills: Especially in Python
+Builder Mindset: You’ve built things from scratch and tackled problems in domains in which you had little experience. We’d love to see some things you’ve built yourself throughout the interview process
+
+
+
+
+Our Hiring Process
+
+Tech Screen: 10-15 minute technical screen with one of our engineers
+Engineering Interview: 30-minute interview with the CTO where you’ll start to solve an engineering problem
+System Design Task: 1 hour interview, where you’ll think through a system design problem and a probability question
+One-Day Paid Trial (Final Round): Spend one day working in our NYC office, getting a feel for our team and how we work, and showing us how you ideate, implement, and polish a small feature. We’ll pay you for your time, accommodations, food, and travel
+
+
+
+
+Benefits
+
+Great medical, dental, and vision coverage
+Meals (and lots of bagels) provided in the office
+Equity in a fast-growing, young AI tech startup
+Unlimited PTO
+
+
+
+
+How to Apply: Send an email to aaron@donoratlas.com (include your IDE of choice in the subject line)

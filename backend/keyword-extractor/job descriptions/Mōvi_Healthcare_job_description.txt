@@ -1,0 +1,481 @@
+Mōvi Healthcare
+
+Software Engineer
+
+Charleston, SC · 7 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$110K/yr - $140K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Meet the hiring team
+
+David Dabney 
+
+• 3rd
+
+CTO @ Movi Healthcare
+
+Job poster
+
+Message
+About the job
+
+What is movi?
+
+We’re still here, can you believe it? What started in 2017 as a way for the skilled nursing market to order transportation has expanded to health systems, PACE, internal fleets and more. Our platform has evolved into so much more and is scaling rapidly. It’s been eight years and we are still a small team with the need to expand by two or three.
+
+
+
+
+
+
+
+The current positions we are looking to fill are
+
+ALL THINGS AI!!
+Prompt Engineers
+Engineer Prompters
+AI and LLM Pontificators
+Software Engineers
+*Boopski Boops
+Beep-to-the-bops
+
+
+
+
+To be eligible for this role, you must be authorized to work in the United States without requiring employer sponsorship. We’d really like to find a local hire in Charleston 🌴 🏖️ but the right hire, particularly a west coaster, would certainly be considered.
+
+
+
+
+Desired Experience
+
+Typescript
+Node.js
+Angular
+Nx builds and monorepos
+MongoDB (or other NoSQL)Relational databases
+RESTful API design and development
+Jest, Cypress, TDD
+Storybook
+ECS, SQS, S3, Docker, Linux/UNIX, CI/CD Tools exposure
+Excellent problem solving, creative thinking and self-motivation skills
+Communicate effectively with both technical and non-technical people
+Associates or B.S Electrical Engineering, Computer Science, Information Technology or equivalent required…or you didn’t waste money on school but have a lot of real world experience.
+
+
+
+
+What helps you STAND OUT
+
+You can make us laugh
+🐝 your own keeper. Take the baton and run with it, but also know when to ask for help and don’t end up in a 🐇 hole
+No smiles, all business
+Attention to detail
+Understanding sarcasm
+Previous healthcare and HIPAA experience
+You like database queries…even Mongo aggregates 😜
+Archiving & Reporting
+Nuanced experience in;
+ Route Optimization/Transportation
+ Medical system integration
+ Insurance/Medical billing
+ FHIR and SMART on FHIR
+No matter where/how you apply you must send us an email to jobs+dev@movihealthcare.com with a subject that contains your preference between the word “beep” or “boop”
+
+
+
+
+Life at Mōvī:
+
+Generous Vacation
+100% employer paid Medical, Dental, Vision. Like really 100% not just employee.
+401K
+Flexible Hours
+Charleston SC – beaches, great restaurants and friendly city
+Office on Upper King in the Industrious co-working space
+Post startup with the growth and feel of a startup
+We pay well…let’s discuss what it’ll take to get you to come aboard! ⛵
+
+
+
+
+Day 1 Goal:
+
+You make your first code commit
+After that, you’re off to the races 🏇
+
+
+
+
+
+
+
+Send resumes to jobs+dev@movihealthcare.com
+
+
+
+
+* We are only hiring software engineers…the AI stuff was a joke. Yes, there is a place for it but it’s not the end all be all and we take patient privacy very seriously. With great power comes great responsibility and slapping AI on a healthcare product to increase your multiple is not what we are about. We need SEs that know how to use AI efficiently, safely, wisely and all the otherlys. If the right Beep-to-the-bop comes along we may consider that hire but are really looking for SEs.
+
+… more
+
+Benefits found in job post
+
+401(k), Medical insurance, Vision insurance, Dental insurance
+
+Set alert for similar jobs
+
+Software Engineer, Charleston, South Carolina, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+109
+
+total
+
+109
+
+in the past day
+
+Candidate seniority level
+
+84% Entry level candidates
+
+10% Senior level candidates
+
+1% CXO level candidates
+
+Candidate education level
+
+87
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+10
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+
+There’s not enough quality data on this company just yet
+
+Once there are 30 complete member profiles from this company, we’ll be able to show you the company’s growth and hiring trends
+
+About the company
+
+Mōvi Healthcare
+
+835 followers
+
+Follow
+
+Software Development
+
+ • 
+
+2-10 employees
+
+ • 
+
+10 on LinkedIn
+
+Mōvi Healthcare is a software company that helps healthcare organizations manage all aspects of the medical transportation process. Mōvi works with health systems and senior care facilities to take control of their transportation operations and bring visibility to their business lines. Improve throughput, reduce cost, alleviate burdens on staff, and improve patient experiences — all in one streamlined platform.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Software Engineer Intern
+
+Pulsewave
+
+San Francisco Bay Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 17, 2026, 5:54 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Forward Deployed AI Engineer-Palantir Foundry
+
+Echos
+
+New York, NY (Hybrid)
+
+$100K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on January 17, 2026, 2:12 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Engineer
+
+Onyx Odds
+
+New York, NY (On-site)
+
+1 school alumni works here
+
+Posted on January 17, 2026, 1:07 PM
+2 days ago
+
+Software Engineer
+
+KloudStax
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 10:31 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Research Engineer (Verified job)
+Artificial Intelligence Research Engineer 
+
+Company.ai
+
+San Francisco Bay Area (On-site)
+
+You’d be a top applicant
+
+Posted on January 19, 2026, 2:32 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer Intern
+
+Workhelio
+
+United States (Remote)
+
+$30/hr
+
+Actively reviewing applicants
+
+Posted on January 18, 2026, 8:32 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Time & Attendance / Payroll Developer   :: Remote
+
+TrueCode Inc
+
+United States (Remote)
+
+Posted on January 19, 2026, 2:30 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+AI Lead Engineer
+
+Mobiz Inc.
+
+United States (Remote)
+
+Posted on January 19, 2026, 12:04 PM
+4 hours ago
+
+QA Engineer - Trading Platforms
+
+MyFundedFutures
+
+Dallas, TX (Remote)
+
+Actively reviewing applicants
+
+Posted on January 17, 2026, 10:56 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer - Integration Specialist
+
+Corporate Central Credit Union
+
+United States (Remote)
+
+Posted on January 18, 2026, 6:48 AM
+1 day ago
+
+Claude Code Expert
+
+CustomGPT.ai
+
+Needham, MA (On-site)
+
+$140K/yr - $170K/yr
+
+Actively reviewing applicants
+
+Posted on January 18, 2026, 5:29 PM
+23 hours ago
+
+ · 
+
+ Easy Apply
+
+Junior Full Stack Engineer
+
+Mentor Talent Acquisition
+
+New York, United States (On-site)
+
+$100K/yr - $170K/yr
+
+Actively reviewing applicants
+
+Posted on January 19, 2026, 5:07 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

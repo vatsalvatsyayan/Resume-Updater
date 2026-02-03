@@ -1,0 +1,27 @@
+About the job
+
+We are looking for a Software Engineer (Fresh Grads) at a YC backed ConstructionTech Startup. You must be a world-class engineer who loves simplifying complex systems, unifying fragmented data, and building high-scale backend systems.
+
+
+
+
+Role responsibilities
+
+Unification: we’re unifying dozens-to-hundreds of fragmented systems under a single standard that we define. Our unification covers data objects, data models, authentication, account-linking UX, and features like filters and pagination. When designing any new feature, we have to do it in a scalable way. For example, when adding filters, we have to research each system we support (and plan to support) and create a generic, system-agnostic solution.
+On-prem: we’re connecting with many types of on-prem systems (SQL-based, DLL-based, API-based), many built 20-40 years ago. We provide tremendous value to customers allowing them to interface with these systems in a secure, fast, reliable way, as if they’re modern, cloud-based products. We need to support real-time communication and webhooks when they don’t exist (e.g., using web-sockets).
+Scale & speed: we’re handling millions of API requests per day, and growing daily. For our products that we power with our own API (e.g. Analytics), we need to store and retrieve large amounts of data in an efficient way, building elegant caching layers to reduce latency. We ship code daily and iterate quickly based on actual feedback from paying customers (they share tons!).
+Operational excellence: we’re creating a reliable API layer on top of many old systems that don’t have APIs. It’s like building a skyscraper on quicksand, enforced by SLAs. We need to innovate in expanding the depth and breadth of our integrations while simultaneously increasing our development velocity. We need to be very creative in how to continually test our code and integrations, creating scalable testing frameworks that can catch edge cases and bugs across 1k+ endpoints.
+Mix of back-end and front-end: we’re building front-end apps that dog-food our own APIs (e.g. Sync, Analytics). This helps us build world-class APIs because we suffer any pain present in our API. We’re building both the lego blocks and the higher-level lego models: we see what kinds of APIs our SaaS customers want, then also look at the kinds of API niceties we want for our own applications (like a caching layer, advanced filtering) and implement a combination of the two.
+Variety: without knowing, you might assume adding a new integration is low-ambiguity and routine. But each integration we launch is special, completely different and posing unique challenges. This requires researching that system and its nuances in great depth before building on top of it. It’s part engineering, part archeology.
+
+
+
+
+Who you are:
+
+0 - 1 years of experience back- end/full- stack software engineer. Must be able to work independently without much guidance. 
+Familiarity with cloud infrastructure (e. g. AWS, GCP, Azure etc)
+Recent experience at small (Seed/Series A/Series B/Series C) tech startup. 
+Undergrad CS degree from a top 30 undergrad school in US or Canada
+Self- motivated, high ownership, low ego; desire to work on a fast- paced, intense, fun team. Excited to be our next hire; passion for building a world- class engineering culture
+Pumped to work in- person in SF 5 days per week.

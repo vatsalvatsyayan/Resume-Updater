@@ -1,0 +1,60 @@
+About the job
+
+Disney Entertainment and ESPN Product & Technology
+
+Technology is at the heart of Disney’s past, present, and future. Disney Entertainment and ESPN Product & Technology is a global organization of engineers, product developers, designers, technologists, data scientists, and more – all working to build and advance the technological backbone for Disney’s media business globally.
+
+The team marries technology with creativity to build world-class products, enhance storytelling, and drive velocity, innovation, and scalability for our businesses. We are Storytellers and Innovators. Creators and Builders. Entertainers and Engineers. We work with every part of The Walt Disney Company’s media portfolio to advance the technological foundation and consumer media touch points serving millions of people around the world.
+
+We are specifically part of Product Engineering. This is a unified team responsible for the engineering of Disney Entertainment & ESPN digital and streaming products and platforms. This includes product engineering, media engineering, quality assurance, engineering behind personalization, commerce, lifecycle, and identity.
+
+Here are a few reasons why we think you’d love working here:
+
+
+
+Building the future of Disney’s media: Our Technologists are designing and building the products and platforms that will power our media, advertising, and distribution businesses for years to come.
+Reach, Scale & Impact: More than ever, Disney’s technology and products serve as a signature doorway for fans' connections with the company’s brands and stories. Disney+. Hulu. ESPN. ABC. ABC News…and many more. These products and brands – and the unmatched stories, storytellers, and events they carry – matter to millions of people globally.
+Innovation: We develop and implement groundbreaking products and techniques that shape industry norms and solve complex and distinctive technical problems.
+
+
+
+Job Summary
+
+Disney’s Android team is seeking a Software Engineer who is excited to build apps enjoyed by millions around the world. You will be building scalable, elegant solutions for the Disney+ Android application across a wide array of devices including phones, tablets, and TVs. Our highly collaborative group works in tandem with many cross-functional teams. We value pristine communication skills, both written and verbal, as well as a bias for action. We are incredibly invested in maintaining high code quality standards with unit tests, automated tests, modern libraries, and a Kotlin codebase. We strive to build the best Live and video-on-demand (VOD) applications in the world, and we look forward to hearing more about your skills and how they can help us achieve this lofty goal.
+
+Responsibilities And Duties Of The Role
+
+As Software Engineer working at Disney, you have some Android experience, and you are ready for more. The learning curve of contributing to a large project with a huge impact excites you, and your resilience will help you grow into a strong developer. You are eager to be coached and are receptive to feedback. You are equally comfortable chiming in on meetings and code reviews, giving a valuable perspective from an Software Engineer’s lens.
+
+Basic Qualifications
+
+
+
+Quality communication skills who can collaborate well across teams
+Comfortable with Git basics
+Coachable and receptive to constructive feedback
+
+
+
+Preferred Qualifications
+
+
+
+1+ years of production experience with the Android SDK
+Experience using common Android libraries
+Experience with unit testing
+Familiar with architectural patterns (MVI/MVVM or equivalent)
+Some experience with Reactive Programming or Dependency Injection
+Experience with Kotlin, Java, Android SDK, Dependency Injection, Gradle, Databases, Reactive paradigms, coroutines
+
+
+
+Required Education
+
+
+
+Bachelor’s degree in Computer Science or comparable field of study, and/or equivalent work experience
+
+
+
+The hiring range for this position in Glendale, CA is $95,300-$127,800. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job-related knowledge, skills, and experience among other factors. A bonus and/or long-term incentive units may be provided as part of the compensation package, in addition to the full range of medical, financial, and/or other benefits, dependent on the level and position offered.

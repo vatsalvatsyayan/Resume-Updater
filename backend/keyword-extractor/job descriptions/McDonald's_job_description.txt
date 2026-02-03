@@ -1,0 +1,106 @@
+About the job
+
+Company Description: 
+
+McDonald’s growth strategy, Accelerating the Arches, encompasses all aspects of our business as the leading global omni-channel restaurant brand. As the consumer landscape shifts we are using our competitive advantages to further strengthen our brand. One of our core growth strategies is to Double Down on the 3Ds (Delivery, Digital and Drive Thru). McDonald’s will accelerate technology innovation so 65M+ customers a day will experience a fast, easy experience, whether at one of our 25,000 and growing Drive thrus, through McDelivery, dine-in or takeaway. 
+
+McDonald’s Global Technology is here to power tomorrow’s feel-good moments. 
+
+That’s why you’ll find us at the forefront of transformative technology, exploring new and innovative ways to serve our millions of customers and spread happiness one delicious Hot Fudge Sundae-dipped fry at a time. Using AI, robotics and emerging tech, we’re digitizing the Golden Arches. Combine that with our unparalleled global scale, and we’re reshaping all areas of the business, industry and every community that is home to a McDonald’s restaurant. We face complex tech challenges every day. But that’s where our diverse and talented teams come in. They’re made up of the best and brightest from all over the globe, and they thrive in the space where feel-good meets fast-paced. 
+
+Check out the McDonald’s Global Technology Technical Blog to learn how technology and our global team are directly enabling the Accelerating the Arches strategy. 
+
+ 
+
+ Department Overview 
+
+McDonald’s evolving Accelerating the Arches growth strategy puts our customers and people first, leveraging our competitive advantages to strengthen our brand. We are recognized on lists like Fortune’s Most Admired Companies and Fast Company’s Most Innovative Companies.
+
+ 
+
+Doubling Down on the 4Ds (Delivery, Digital, Drive Thru, and Development)
+
+ 
+
+Our growth pillars emphasize the important role technology plays as the leading global omni-channel restaurant brand. Technology enables the organization through digital innovation, improving the customer, crew, and employee experience every day.
+
+ 
+
+Global Technology forging the way
+
+ 
+
+Leading the digitization of our business is the Technology organization—made up of intrapreneurs who build industry-defining tech using the latest innovations and platforms, like AI and edge computing. At McDonald’s, you’ll solve technology innovation challenges at scale and work across global teams who are always hungry for a challenge. Bonus points: you’ll see your family and friends use the tech you build at their favorite McD restaurant.
+
+ 
+
+Check out the Global Technology Technical Blog to learn how technology is directly enabling the Accelerating the Arches strategy.
+
+ 
+
+ 
+
+ Duties 
+
+As a Software Engineer I (C#/.NET) on our Trust and Safety Engineering team, you will collaborate with the Sr Manager, Chapter Lead and Tech Lead, in addition to product managers and architects to build secure, performant, and mission critical fraud detection microservices. This is a phenomenal opportunity to continue to evolve and improve the global trust and safety platform at the world’s largest restaurant company!Responsibilities
+
+ 
+
+Contribute to all aspects of the agile development life cycle including design, development, documentation, testing and operations.
+
+ 
+
+Design, implement, test, deploy and maintain innovative software solutions to transform service performance, adaptability, cost, and security.
+
+ 
+
+Use software engineering proven practices to ensure a high standard of quality for all work.
+
+ 
+
+Participate in efforts to drive elimination of technical debt and continuous improvement in delivery speed, quality, value, and applied innovation.
+
+ Qualifications 
+Bachelor’s degree in computer science or related field or equivalent years of experience.
+Knowledge of SOLID principal, Design Patterns.
+Strong knowledge of software development tools such as Git, GitHub, Jira, Confluence, IntelliJ or equivalent.
+Proven knowledge of Computer Science fundamentals (object-oriented design, data structures and algorithms).
+Strong verbal and written communication skills in English.
+Proven leadership abilities in an engineering environment in driving operational precision and best practices.Highly quantitative with great judgment and passion for building a great customer experience.
+ 
+
+Preferred Qualifications:
+
+ 
+Experience with JFrog, Jenkings.
+Experience with Cloud Platforms such as AWS or GCP.
+Experience with .Net.
+ Compensation 
+
+Bonus Eligible: Yes
+
+ 
+
+Benefits Eligible: Yes
+
+ Salary Range 
+
+The expected salary range for this role is $84,051 - $105,064 per year
+ 
+The above represents the expected salary range for this job requisition. Ultimately, in determining your pay, we may also consider your experience, and other job-related factors.
+
+ 
+
+ 
+
+Additional Information: 
+
+Benefits eligible: This position offers health and welfare benefits, a 401(k) plan, adoption assistance program, educational assistance program, flexible ways of working, and time off policies (including sick leave, parental leave, and vacation/PTO). Eligibility requirements apply to some benefits and may depend on job classification and length of employment. 
+
+Bonus eligible: This position is eligible for a bonus, calculated based on individual and company performance. 
+
+McDonald’s is an equal opportunity employer committed to the diversity of our workforce. We promote an inclusive work environment that creates feel-good moments for everyone. McDonald’s provides reasonable accommodations to qualified individuals with disabilities as part of the application or hiring process or to perform the essential functions of their job. If you need assistance accessing or reading this job posting or otherwise feel you need an accommodation during the application or hiring process, please contact mcdhrbenefits@us.mcd.com. Reasonable accommodations will be determined on a case-by-case basis. 
+
+McDonald’s provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to sex, sex stereotyping, pregnancy (including pregnancy, childbirth, and medical conditions related to pregnancy, childbirth, or breastfeeding), race, color, religion, ancestry or national origin, age, disability status, medical condition, marital status, sexual orientation, gender, gender identity, gender expression, transgender status, protected military or veteran status, citizenship status, genetic information, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. 
+
+Nothing in this job posting or description should be construed as an offer or guarantee of employment.

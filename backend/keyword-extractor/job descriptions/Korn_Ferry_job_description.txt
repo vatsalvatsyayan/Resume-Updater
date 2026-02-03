@@ -1,0 +1,46 @@
+About the job
+
+We have partnered with our client in their search for a Core Python Developer for the Tampa area.
+
+Responsibilities:
+
+PSI team is developing an autonomous workflow engine to handle payment investigation inquiries. This is meant to eventually replace the legacy system currently in place.
+Seeking Python developers who can trace lines of code they are writing, properly design the code structure considering how everything will integrate together, and understand the flow of execution.
+expected to participate in standups/scrum ceremonies.
+Individual contributor
+Working proficiency in a portion of software engineering disciplines and demonstrates understanding of overall software skills including business analysis, development, testing,
+deployment, maintenance and improvement of software
+
+
+Skills Required: 
+Postgres SQL
+Python
+AWS
+Proficient in application development skills for more than one technology as well as multiple design techniques
+Working proficiency in development toolset to design, develop, test, deploy, maintain and improve software
+Strong understanding of Agile methodologies with ability to work in at least one of the common frameworks
+Strong understanding of techniques such as Continuous Integration, Continuous Delivery, Test Driven Development, Cloud Development, application resiliency and security
+Proficiency in one or more general purpose programming languages
+ 
+Education & Work Experience: 
+2+ years of experience
+Bachelor's degree in related field
+ 
+ 
+Title: Core Python Developer
+Location: Tampa, FL
+Client Industry: Fintech
+Reference ID: 1682721
+
+
+ 
+
+
+
+
+About Korn Ferry 
+
+
+
+
+Korn Ferry unleashes potential in people, teams, and organizations. We work with our clients to design optimal organization structures, roles, and responsibilities. We help them hire the right people and advise them on how to reward and motivate their workforce while developing professionals as they navigate and advance their careers. To learn more, please visit Korn Ferry at www.Kornferry.com
