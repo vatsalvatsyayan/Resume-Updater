@@ -1,13 +1,13 @@
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import {
-  ArrowRight,
-  FileText,
   Sparkles,
   Target,
   Zap,
   CheckCircle2,
   Star,
+  LogIn,
+  UserPlus,
 } from 'lucide-react';
 import { Button } from '@/components/ui';
 import { Header } from '@/components/layout';
@@ -96,13 +96,15 @@ export function LandingPage() {
               {/* CTA Buttons */}
               <div className="flex flex-wrap gap-4">
                 <Link to="/profile">
-                  <Button size="lg" rightIcon={<ArrowRight className="w-5 h-5" />}>
-                    Build Your Profile
+                  <Button size="lg" leftIcon={<LogIn className="w-5 h-5" />}>
+                    Log In
                   </Button>
                 </Link>
-                <Button variant="outline" size="lg">
-                  See Examples
-                </Button>
+                <Link to="/profile">
+                  <Button variant="outline" size="lg" leftIcon={<UserPlus className="w-5 h-5" />}>
+                    Sign Up
+                  </Button>
+                </Link>
               </div>
 
               {/* Features */}
@@ -132,44 +134,65 @@ export function LandingPage() {
               initial={{ opacity: 0, x: 20 }}
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.6, delay: 0.2 }}
-              className="relative lg:pl-12"
+              className="relative lg:pl-12 hidden lg:block"
             >
               {/* Resume Preview Card */}
               <div className="relative">
                 <div className="absolute -inset-4 bg-gradient-to-r from-amber-200/50 via-slate-200/50 to-slate-300/50 rounded-3xl blur-2xl" />
-                <div className="relative bg-white rounded-2xl shadow-2xl border border-slate-200 p-8 overflow-hidden">
-                  {/* Header */}
-                  <div className="flex items-center gap-4 mb-6 pb-6 border-b border-slate-100">
-                    <div className="w-16 h-16 rounded-xl bg-gradient-to-br from-slate-100 to-slate-200 flex items-center justify-center">
-                      <FileText className="w-8 h-8 text-slate-400" />
-                    </div>
-                    <div>
-                      <div className="h-4 w-32 bg-slate-200 rounded mb-2" />
-                      <div className="h-3 w-24 bg-slate-100 rounded" />
-                    </div>
+                <div className="relative bg-white rounded-2xl shadow-2xl border border-slate-200 p-6 overflow-hidden">
+                  {/* Resume Header */}
+                  <div className="text-center mb-4 pb-4 border-b border-slate-100">
+                    <h3 className="text-lg font-bold text-slate-900">Alex Johnson</h3>
+                    <p className="text-sm text-slate-500">Software Engineer</p>
+                    <p className="text-xs text-slate-400 mt-1">alex@email.com • San Francisco, CA</p>
                   </div>
 
-                  {/* Content Lines */}
-                  <div className="space-y-4">
-                    {[...Array(4)].map((_, i) => (
-                      <div key={i} className="space-y-2">
-                        <div className="h-3 w-20 bg-slate-200 rounded" />
-                        <div className="h-2 w-full bg-slate-100 rounded" />
-                        <div className="h-2 w-4/5 bg-slate-100 rounded" />
+                  {/* Experience Section */}
+                  <div className="mb-4">
+                    <h4 className="text-xs font-semibold text-slate-700 uppercase tracking-wide mb-2">Experience</h4>
+                    <div className="space-y-3">
+                      <div>
+                        <div className="flex justify-between items-start">
+                          <p className="text-sm font-medium text-slate-800">Senior Developer</p>
+                          <span className="text-xs text-slate-400">2022 - Present</span>
+                        </div>
+                        <p className="text-xs text-slate-500">Tech Company Inc.</p>
                       </div>
-                    ))}
+                      <div>
+                        <div className="flex justify-between items-start">
+                          <p className="text-sm font-medium text-slate-800">Full Stack Developer</p>
+                          <span className="text-xs text-slate-400">2020 - 2022</span>
+                        </div>
+                        <p className="text-xs text-slate-500">Startup Labs</p>
+                      </div>
+                    </div>
                   </div>
 
-                  {/* AI Badge */}
+                  {/* Skills Section */}
+                  <div>
+                    <h4 className="text-xs font-semibold text-slate-700 uppercase tracking-wide mb-2">Skills</h4>
+                    <div className="flex flex-wrap gap-1.5">
+                      {['React', 'TypeScript', 'Node.js', 'Python', 'AWS'].map((skill) => (
+                        <span
+                          key={skill}
+                          className="px-2 py-0.5 bg-slate-100 text-slate-600 text-xs rounded-md"
+                        >
+                          {skill}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+
+                  {/* Tailored Badge */}
                   <motion.div
                     initial={{ scale: 0 }}
                     animate={{ scale: 1 }}
                     transition={{ delay: 0.8, type: 'spring' }}
-                    className="absolute -right-3 -bottom-3 p-4 bg-slate-900 rounded-2xl shadow-xl"
+                    className="absolute -right-2 -bottom-2 px-3 py-2 bg-gradient-to-r from-amber-500 to-amber-400 rounded-xl shadow-lg"
                   >
-                    <div className="flex items-center gap-2 text-white">
-                      <Sparkles className="w-5 h-5 text-amber-400" />
-                      <span className="text-sm font-semibold">AI Optimized</span>
+                    <div className="flex items-center gap-1.5 text-slate-900">
+                      <Sparkles className="w-4 h-4" />
+                      <span className="text-xs font-semibold">Tailored</span>
                     </div>
                   </motion.div>
                 </div>
@@ -183,7 +206,7 @@ export function LandingPage() {
       <footer className="border-t border-slate-200 py-8 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <p className="text-center text-sm text-slate-500">
-            &copy; {new Date().getFullYear()} ResumeFlow. Built for ambitious professionals.
+            Built for students by students.
           </p>
         </div>
       </footer>

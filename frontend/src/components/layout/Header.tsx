@@ -1,14 +1,18 @@
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { FileText, Sparkles } from 'lucide-react';
+import { FileText, Plus } from 'lucide-react';
 import { cn } from '@/lib/cn';
 
 interface HeaderProps {
-  variant?: 'default' | 'minimal';
   className?: string;
+  onAddClick?: () => void;
 }
 
-export function Header({ variant = 'default', className }: HeaderProps) {
+export function Header({ className, onAddClick }: HeaderProps) {
+  const location = useLocation();
+  const isAppPage = location.pathname === '/profile' || location.pathname === '/applications';
+  const currentTab = location.pathname === '/applications' ? 'applications' : 'profile';
+
   return (
     <motion.header
       initial={{ opacity: 0, y: -20 }}
@@ -29,26 +33,48 @@ export function Header({ variant = 'default', className }: HeaderProps) {
                 <FileText className="w-5 h-5 text-white" />
               </div>
             </div>
-            <div className="flex flex-col">
-              <span className="text-lg font-bold text-slate-900 tracking-tight">
-                ResumeFlow
-              </span>
-              {variant === 'default' && (
-                <span className="text-[10px] text-slate-500 font-medium uppercase tracking-wider">
-                  Career Builder
-                </span>
-              )}
-            </div>
+            <span className="text-lg font-bold text-slate-900 tracking-tight">
+              ResuYOU 🥳
+            </span>
           </Link>
 
-          {/* Actions */}
-          {variant === 'default' && (
-            <div className="flex items-center gap-4">
-              <div className="hidden sm:flex items-center gap-2 px-3 py-1.5 bg-amber-50 rounded-full">
-                <Sparkles className="w-3.5 h-3.5 text-amber-500" />
-                <span className="text-xs font-medium text-amber-700">AI-Powered</span>
-              </div>
+          {/* Tab Navigation - shown on app pages */}
+          {isAppPage && (
+            <div className="flex items-center gap-1 bg-slate-100 p-1 rounded-xl">
+              <Link
+                to="/profile"
+                className={cn(
+                  'px-4 py-2 text-sm font-medium rounded-lg transition-all',
+                  currentTab === 'profile'
+                    ? 'bg-white text-slate-900 shadow-sm'
+                    : 'text-slate-600 hover:text-slate-900'
+                )}
+              >
+                User Profile
+              </Link>
+              <Link
+                to="/applications"
+                className={cn(
+                  'px-4 py-2 text-sm font-medium rounded-lg transition-all',
+                  currentTab === 'applications'
+                    ? 'bg-white text-slate-900 shadow-sm'
+                    : 'text-slate-600 hover:text-slate-900'
+                )}
+              >
+                Applications
+              </Link>
             </div>
+          )}
+
+
+          {/* Add button - shown on applications page */}
+          {location.pathname === '/applications' && onAddClick && (
+            <button
+              className="p-2 bg-slate-900 text-white rounded-xl hover:bg-slate-800 transition-colors"
+              onClick={onAddClick}
+            >
+              <Plus className="w-5 h-5" />
+            </button>
           )}
         </div>
       </div>
