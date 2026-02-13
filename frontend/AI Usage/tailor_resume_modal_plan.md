@@ -1,5 +1,7 @@
 # Tailor Resume Modal - Implementation Plan
 
+Author: Vatsal Vatsyayan
+
 ## Overview
 
 This document outlines the implementation plan for the "Tailor Resume Modal" feature. When users click the **+** button on the Applications page, a beautiful modal will open allowing them to input job details to tailor their resume for a specific position.

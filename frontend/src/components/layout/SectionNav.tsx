@@ -47,6 +47,58 @@ export function SectionNav({ className }: SectionNavProps) {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
+  // Scroll spy - detect which section is in view
+  useEffect(() => {
+    const observerOptions = {
+      root: null,
+      rootMargin: '-20% 0px -70% 0px',
+      threshold: 0,
+    };
+
+    const observerCallback: IntersectionObserverCallback = (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          const sectionId = entry.target.id as SectionId;
+          if (sections.some((s) => s.id === sectionId)) {
+            setCurrentSection(sectionId);
+          }
+        }
+      });
+    };
+
+    const observer = new IntersectionObserver(observerCallback, observerOptions);
+
+    sections.forEach((section) => {
+      const element = document.getElementById(section.id);
+      if (element) {
+        observer.observe(element);
+      }
+    });
+
+    // Handle bottom of page - activate last visible section
+    const handleScroll = () => {
+      const scrolledToBottom =
+        window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 100;
+      if (scrolledToBottom) {
+        // Find the last section that exists on the page
+        for (let i = sections.length - 1; i >= 0; i--) {
+          const element = document.getElementById(sections[i].id);
+          if (element) {
+            setCurrentSection(sections[i].id);
+            break;
+          }
+        }
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll, { passive: true });
+
+    return () => {
+      observer.disconnect();
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, [setCurrentSection]);
+
   const scrollToSection = (sectionId: SectionId) => {
     setCurrentSection(sectionId);
     const element = document.getElementById(sectionId);
@@ -87,9 +139,11 @@ export function SectionNav({ className }: SectionNavProps) {
             {progress}%
           </span>
         </div>
+      </div>
 
-        {/* Section Pills */}
-        <div className="flex gap-2 overflow-x-auto scrollbar-hide pb-1">
+      {/* Section Pills - full width scrollable */}
+      <div className="overflow-x-auto scrollbar-hide">
+        <div className="flex gap-2 pb-1 px-4 max-w-4xl mx-auto min-w-max">
           {sections.map((section) => {
             const Icon = iconMap[section.icon];
             const isActive = currentSection === section.id;
@@ -104,7 +158,7 @@ export function SectionNav({ className }: SectionNavProps) {
                 whileTap={{ scale: 0.98 }}
                 className={cn(
                   'relative flex items-center gap-2 px-4 py-2 rounded-full',
-                  'text-sm font-medium whitespace-nowrap',
+                  'text-sm font-medium whitespace-nowrap flex-shrink-0',
                   'transition-all duration-200',
                   'focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2',
                   isActive

@@ -1,7 +1,8 @@
 import { Link, useLocation } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { FileText, Plus } from 'lucide-react';
+import { FileText, Plus, LogIn, UserPlus } from 'lucide-react';
 import { cn } from '@/lib/cn';
+import { Button } from '@/components/ui';
 
 interface HeaderProps {
   className?: string;
@@ -66,6 +67,22 @@ export function Header({ className, onAddClick }: HeaderProps) {
             </div>
           )}
 
+
+          {/* Auth buttons - shown on landing page */}
+          {location.pathname === '/' && (
+            <div className="flex items-center gap-3">
+              <Link to="/profile">
+                <Button size="sm" leftIcon={<LogIn className="w-4 h-4" />}>
+                  Log In
+                </Button>
+              </Link>
+              <Link to="/profile">
+                <Button variant="outline" size="sm" leftIcon={<UserPlus className="w-4 h-4" />}>
+                  Sign Up
+                </Button>
+              </Link>
+            </div>
+          )}
 
           {/* Add button - shown on applications page */}
           {location.pathname === '/applications' && onAddClick && (

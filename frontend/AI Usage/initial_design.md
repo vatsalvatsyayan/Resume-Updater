@@ -1,5 +1,7 @@
 # ResuYOU - Initial Design Document
 
+Author: Vatsal Vatsyayan
+
 ## Overview
 
 This document outlines the redesign plan for transforming the current "ResumeFlow" application into "ResuYOU" based on the provided wireframe diagram. The redesign introduces a tabbed navigation system, an applications management feature, and resume preview/PDF generation capabilities.

@@ -93,7 +93,7 @@ npm run dev
 
 You should see:
 ```
-  VITE v5.x.x  ready in xxx ms
+  VITE v7.x.x  ready in xxx ms
 
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
@@ -125,17 +125,18 @@ curl http://localhost:8000/health
 
 | Category | Technology | Purpose |
 |----------|------------|---------|
-| Framework | React 18 | UI library |
+| Framework | React 19 | UI library |
 | Language | TypeScript | Type safety |
-| Build Tool | Vite | Fast dev server & bundler |
+| Build Tool | Vite 7 | Fast dev server & bundler |
 | Styling | Tailwind CSS v3.4 | Utility-first CSS |
 | Form Management | React Hook Form | Performant form state |
 | Validation | Zod | Schema validation |
 | State Management | Zustand | Global state (drafts, UI) |
+| UI Primitives | Radix UI | Accessible components (Dialog, Select, Checkbox, Tooltip) |
 | Animations | Framer Motion | Smooth transitions |
 | Icons | Lucide React | Modern icon set |
 | Notifications | Sonner | Toast messages |
-| Routing | React Router v6 | Client-side routing |
+| Routing | React Router v7 | Client-side routing |
 
 ## Project Structure
 
@@ -159,6 +160,10 @@ frontend/
 │   │   │   ├── EntryCard.tsx
 │   │   │   ├── DateRangeField.tsx
 │   │   │   └── index.ts
+│   │   ├── modals/          # Modal dialogs
+│   │   │   ├── Modal.tsx    # Base modal component (Radix UI)
+│   │   │   ├── TailorResumeModal.tsx  # Resume tailoring form
+│   │   │   └── index.ts
 │   │   ├── sections/        # Form section components
 │   │   │   ├── PersonalInfoSection.tsx
 │   │   │   ├── EducationSection.tsx
@@ -176,9 +181,10 @@ frontend/
 │   ├── pages/               # Page components
 │   │   ├── LandingPage.tsx
 │   │   ├── ProfileFormPage.tsx
+│   │   ├── ApplicationsPage.tsx  # Job applications tracker
 │   │   ├── SuccessPage.tsx
 │   │   └── index.ts
-│   ├── hooks/               # Custom React hooks
+│   ├── hooks/               # Custom React hooks (reserved)
 │   ├── stores/              # Zustand state stores
 │   │   ├── formStore.ts     # Form draft persistence
 │   │   └── uiStore.ts       # UI state management
@@ -189,12 +195,15 @@ frontend/
 │   │   └── cn.ts            # Tailwind class merger
 │   ├── types/               # TypeScript types
 │   │   └── form.types.ts    # Form data interfaces
-│   ├── config/              # Configuration
+│   ├── config/              # Configuration (reserved)
 │   ├── App.tsx              # Root component with routing
 │   ├── main.tsx             # Application entry point
 │   └── index.css            # Global styles & Tailwind
 ├── AI Usage/                # AI development documentation
-│   └── user_profile_form_plan.md
+│   ├── initial_design.md
+│   ├── user_profile_form_plan.md
+│   ├── tailor_resume_modal_plan.md
+│   └── ui_fixes_plan.md
 ├── tailwind.config.js       # Tailwind configuration
 ├── postcss.config.js        # PostCSS configuration
 ├── vite.config.ts           # Vite configuration
@@ -222,6 +231,7 @@ npm run lint         # Run ESLint
 |-------|------|-------------|
 | `/` | LandingPage | Home page with CTA |
 | `/profile` | ProfileFormPage | Main profile form (8 sections) |
+| `/applications` | ApplicationsPage | Job applications tracker with match scores |
 | `/success` | SuccessPage | Post-submission confirmation |
 
 ## Form Sections
@@ -453,6 +463,10 @@ If all checkboxes are checked, you're ready to develop!
 - **@hookform/resolvers** - Form validation integration
 - **zod** - Schema validation
 - **zustand** - State management
+- **@radix-ui/react-checkbox** - Accessible checkbox primitive
+- **@radix-ui/react-dialog** - Accessible modal dialog
+- **@radix-ui/react-select** - Accessible select dropdown
+- **@radix-ui/react-tooltip** - Accessible tooltips
 - **framer-motion** - Animations
 - **lucide-react** - Icons
 - **sonner** - Toast notifications

@@ -36,15 +36,15 @@ export const Input = forwardRef<HTMLInputElement, InputProps>(
             ref={ref}
             id={inputId}
             className={cn(
-              'w-full rounded-xl border bg-white px-4 py-3',
+              'w-full rounded-xl border bg-white py-3',
               'text-slate-900 placeholder:text-slate-400',
               'transition-all duration-200',
               'focus:outline-none focus:ring-2 focus:ring-offset-0',
               error
                 ? 'border-red-300 focus:border-red-500 focus:ring-red-200'
                 : 'border-slate-200 focus:border-slate-400 focus:ring-slate-200',
-              leftAddon && 'pl-11',
-              rightAddon && 'pr-11',
+              leftAddon ? 'pl-14' : 'pl-4',
+              rightAddon ? 'pr-11' : 'pr-4',
               className
             )}
             {...props}
