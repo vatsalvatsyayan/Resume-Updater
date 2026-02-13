@@ -30,7 +30,7 @@ export function ProfileFormPage() {
   const { isSubmitting, setIsSubmitting, setSubmitError } = useUIStore();
 
   const methods = useForm<ProfileFormData>({
-    // @ts-expect-error - zodResolver types are complex with nested schemas
+    // @ts-ignore - zodResolver types are complex with nested schemas
     resolver: zodResolver(profileFormSchema),
     defaultValues: defaultProfileFormData,
     mode: 'onBlur',
@@ -87,7 +87,7 @@ export function ProfileFormPage() {
 
         {/* Form */}
         <FormProvider {...methods}>
-          {/* @ts-expect-error - handleSubmit type inference issue */}
+          {/* @ts-ignore - handleSubmit type inference issue */}
           <form onSubmit={handleSubmit(onSubmit)} className="space-y-6">
             <PersonalInfoSection />
             <EducationSection />
