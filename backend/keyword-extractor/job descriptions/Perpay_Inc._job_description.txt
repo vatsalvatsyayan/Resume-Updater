@@ -1,0 +1,518 @@
+Perpay Inc.
+
+Software Engineer, New Grad 
+
+Philadelphia, PA · 1 day ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+On-site
+Internship
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Rohan Sama 
+
+• 3rd
+
+Software Engineer @ Perpay Inc.
+
+Recently hired
+
+Message
+About the job
+
+About Us:
+
+Perpay is a certified B Corp and Philadelphia’s most impactful growth-stage startup. We are driven by a mission to significantly improve the financial stability of everyday Americans. For the past decade, we have established strong product-market fit and a profitable, efficient operating model across a suite of products, positioning Perpay as the premier financial partner for consumers with subprime credit.
+
+With over 500,000 customers who have utilized more than $1 billion in spending power, we are at a pivotal moment. We are scaling our operations, building new offerings, and deepening our impact. We are looking for teammates eager to join us on this journey.
+
+Our venture partners include First Round Capital and L Catterton.
+
+Products we’ve built to make an impact:
+
+
+Perpay Marketplace: Combines interest-free payments and modern e-commerce to reduce cost of ownership and promote healthy repayment behavior. 
+Perpay+: Leverages Marketplace repayment history to help members monitor and build credit with all 3 credit bureaus. 
+Perpay Credit Card: Expands access to the flexibility and benefits of a World Mastercard by removing common barriers like high security deposits and low approval odds. 
+
+
+Our team thrives on in-person collaboration, operating from our unique center-city Philadelphia office. This comfortable "home away from home" space offers river views and fosters rapid product development, strong relationships, and career growth. The energy from achieving big wins is palpable here. While we primarily work in the office, we offer sensible flexibility for personal needs, such as sick children or urgent errands, and coordinate official remote weeks around major holidays. If you are passionate about a meaningful mission, collaboration, equity, and generous perks, Perpay is the best place to be in Philadelphia right now.
+
+About the Role:
+
+We are looking for motivated graduates to join our Software Engineering team in 2026! You’ll contribute to our codebase, test & release features into production, and collaborate with other teams like product, design, data science, analytics, and operations. The ideal candidate has software development internship experience and is enthusiastic about learning and growing! We're particularly interested in working with candidates excited about joining a mission-driven startup. On our team, you’ll sharpen your skills, learn new tools alongside other new graduates, and learn from experienced engineers. Plus, our team organizes events and social gatherings outside of work hours. We believe having a fun and engaging work environment is essential to fostering a positive company culture and creating a strong foundation for career growth.
+
+Much of our team is fullstack, so we look for team members excited to learn new technologies and work across all stacks, even if it’s not something you’ve done before! Our tech stack: Javascript, React, React Native, Redux, Python, Django, Kubernetes, AWS, Docker, Terraform, and more.
+
+Our greatest strength is our people, and we’d love for you to be one of them!
+
+Responsibilities:
+
+
+Develop, test, and release features for our customer-facing and internal platforms alongside the engineering team
+Write clean, efficient, and maintainable code
+Collaborate cross-functionally to develop efficient and user-friendly solutions to support the complex needs of our business
+Actively participate in design reviews, code reviews, and discussions to improve our software architecture and implement efficient processes within our engineering team
+
+
+What You’ll Bring:
+
+
+Currently pursuing a Bachelor’s degree or higher or a recent graduate studying Computer Science, Mathematics, or a related technical field 
+1 to 2 previous Software Engineering internships with a focus on fullstack software development
+Experience with at least one backend application framework such as Django or Flask
+Experience with frontend technologies such as React, Angular, or Vue.js
+Knowledge of RESTful API design and integration
+Experience with Python or another dynamically typed language
+A strong focus on writing and deploying clear, readable, testable code
+Ability to pick up new technologies quickly, with software engineering fundamentals being valued more than familiarity with specific tools or languages
+Eagerness to learn, grow, and seek feedback from team members
+Strong communication skills
+
+
+Even if you don't check all the boxes, please apply if interested. You might be exactly what we're looking for!
+
+What We’ll Bring to Full-time Team Members:
+
+
+Meaningful compensation and equity
+Premium medical benefits (fully paid base plan, and very reasonable premium for the buy-up option)
+4% employer 401k match
+Unlimited PTO policy
+ Remote weeks around major holidays + extra holiday on weekends like MDW and LDW
+High quality catered lunch by local chefs, 4 days / week
+Gym subsidy
+Paid cell phone + plan
+Student loan repayment program
+Relocation assistance
+Generous team member discounts
+
+
+This is not a remote opportunity; it is 100% onsite () () ()
+
+Perpay is proud to be an equal opportunity employer. We value diversity in all its forms and are committed to creating an inclusive environment. We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, sex (including pregnancy), marital status, political affiliation, age, veteran status, disability status or other non-merit factor. Please contact us at careers@perpay.com to request accommodation.
+
+
+… more
+
+Benefits found in job post
+
+401(k)
+
+Set alert for similar jobs
+
+Software Engineer, Philadelphia, Pennsylvania, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+515
+
+total
+
+515
+
+in the past day
+
+Candidate seniority level
+
+73% Entry level candidates
+
+9% Senior level candidates
+
+Candidate education level
+
+76
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+21
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+2
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Perpay Inc.
+Powered by Bing
+
+Company focus areas
+
+• Credit Building: Help working Americans with non-prime credit scores build credit through automatic payments from their paychecks.
+
+...more
+
+Sources: morningstar.com +1 more
+
+Hiring & headcount
+
+Focus on engineering: The 'Engineering' department has seen a 50% increase in job openings over the past year, indicating a significant investment in technical capabilities and product development. Growth in finance: The 'Finance' department has experienced a 33% increase in job openings over the past year, suggesting an emphasis on financial management and possibly expansion in financial operations. Expansion in business development and IT: The 'Business Development' and 'Information Technology' departments have grown by 25% and 33% respectively, highlighting a strategic focus on business growth and technological infrastructure. Fluctuations in headcount: The overall employee count has shown variability with notable increases and decreases, such as a 10% rise in June 2024 and a 7% drop in August 2024, indicating dynamic workforce adjustments possibly in response to market conditions or internal restructuring.
+… more
+
+The latest hiring trend
+
+104
+
+Total employees
+
+24%
+
+Company-wide
+
+2 year growth
+
+58%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+50
+100
+150
+
+Median employee tenure: 2.7 years
+
+Competitors
+
+Perpay operates in the competitive Buy Now, Pay Later (BNPL) market, offering a unique approach by linking payments directly to customers' paychecks. This model helps customers manage their finances better by automatically deducting installments from their paychecks. As the only credit-building B Corp in the U.S., Perpay differentiates itself by focusing on credit improvement for its users. The BNPL market is growing rapidly, with major competitors like Klarna, Affirm, and Afterpay providing flexible payment options without hard credit checks, targeting a wide range of consumers looking for convenient financing solutions.
+… more
+
+Sources: rankred.com +2 more
+
+Show Premium Insights
+About the company
+
+Perpay Inc.
+
+4,685 followers
+
+Follow
+
+Financial Services
+
+ • 
+
+51-200 employees
+
+ • 
+
+104 on LinkedIn
+
+About Us:
+We believe everyone deserves a chance to improve their financial future. We’re dedicated to building simple and inclusive financial products that help our members create healthy habits and achieve economic stability.
+
+The Perpay team is a motivated group of creative problem solvers who love getting things done and making an impact. Located in Center City, Philadelphia, our one-of-a-kind space promotes a collaborative work environment, unites our team, and feels like a home away from home. As a certified B Corp, Perpay is committed to building a mission-driven culture that balances purpose and performance.
+
+We’re hiring and would love for you to join us! Check out our careers page to learn more.
+
+Some things we’re excited about:
+     - $500 million in spending power used by our members
+     - Increasing members’ credit by 32 points (on average) within the first 3 months
+     - Backed by First Round Capital and JP Morgan
+
+Products we’ve built to make an impact:
+     - Perpay Marketplace: Combines interest-free payments and modern e-commerce to reduce cost of ownership and promote healthy repayment behavior.
+     - Perpay+: Leverages Marketplace repayment history to help members monitor and build credit with all 3 credit bureaus.
+     - Perpay Credit Card: Expands access to the flexibility and benefits of a World Mastercard by removing common barriers like high security deposits and low approval odds.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Firmware Audio Engineer
+
+Polaro
+
+San Mateo, CA (On-site)
+
+You’d be a top applicant
+
+Posted on January 22, 2026, 6:02 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+iOS Developer
+
+Pulsewave
+
+San Francisco Bay Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 10:38 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Founding Engineer, Applied AI Lead
+
+Equi
+
+New York, NY (Hybrid)
+
+Posted on January 23, 2026, 2:49 PM
+1 day ago
+
+Founding Engineer
+
+Reval
+
+Los Angeles Metropolitan Area (On-site)
+
+You’d be a top applicant
+
+Posted on January 23, 2026, 2:10 PM
+1 day ago
+
+Technical Co Founder (CTO)
+
+Nomad
+
+United States (Remote)
+
+$1/yr - $2/yr
+
+You’d be a top applicant
+
+Posted on January 22, 2026, 3:56 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Founding Full Stack Engineer
+
+Topify.ai
+
+San Francisco, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 12:36 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Founding Research Engineer
+
+Agentrys
+
+Santa Clara, CA (Hybrid)
+
+You’d be a top applicant
+
+Posted on January 22, 2026, 3:20 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer, Managed Sync
+
+Paragon
+
+Los Angeles, CA (Remote)
+
+$170K/yr - $215K/yr + Stock options
+
+You’d be a top applicant
+
+Posted on January 22, 2026, 4:21 PM
+2 days ago
+
+Software Engineer
+
+CheckRx
+
+San Diego, CA (On-site)
+
+$80K/yr - $160K/yr
+
+You’d be a top applicant
+
+Posted on January 23, 2026, 9:28 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+CS Intern: Apply Tech Skills to PE & SaaS Ventures
+
+EvidentABA
+
+Chicago, IL (On-site)
+
+$15/hr - $18/hr
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 10:53 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+G2M Insights
+
+Denver, CO (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 11:50 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer - Backend
+
+Attention
+
+New York, NY (On-site)
+
+Vision benefit
+
+1 company alumni works here
+
+Posted on January 23, 2026, 9:40 AM
+1 day ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

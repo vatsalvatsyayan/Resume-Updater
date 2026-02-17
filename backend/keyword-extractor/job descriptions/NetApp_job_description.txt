@@ -1,0 +1,524 @@
+NetApp
+
+NetApp Emerging Talent - Entry Level Software Engineer (Systems) 
+
+San Jose, CA · 3 hours ago · 96 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$101.2K/yr - $150.7K/yr
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+About NetApp
+
+NetApp is the intelligent data infrastructure company, turning a world of disruption into opportunity for every customer. No matter the data type, workload or environment, we help our customers identify and realize new business possibilities. And it all starts with our people.
+
+If this sounds like something you want to be part of, NetApp is the place for you. You can help bring new ideas to life, approaching each challenge with fresh eyes. Of course, you won't be doing it alone. At NetApp, we're all about asking for help when we need it, collaborating with others, and partnering across the organization - and beyond.
+
+Job Summary
+
+Are you ready to kickstart your career in software engineering? NetApp is seeking Entry Level Software Engineers to join our team and contribute to the development and design of innovative features for our flagship storage operating system, ONTAP.
+
+About ONTAP: ONTAP is a robust and feature-rich platform known for its advanced data management capabilities. It delivers significant value to our customers and supports mission-critical applications worldwide. As a Software Engineer, you will be part of a talented team responsible for developing, testing, and debugging distributed software that powers NetApp’s cloud, hybrid-cloud, and on-premises solutions.
+
+This entry level technical position is perfect for individuals who are systems-focused, creative, team-oriented, technologically savvy, eager to learn, and driven to produce results.
+
+Essential Functions:
+
+Collaborate with the team on projects involving new feature development, sustaining efforts, and handling engineering escalations
+
+Participate in all phases of the product development cycle: from definition and design to implementation, debugging, testing, and early customer support
+
+Work closely with peer team members and other teams such as QA, Systemic Test Engineering, and other dependent engineering teams to understand customer use cases, deliver solutions, and integrate valuable insights into the team's work
+
+Solve technical issues collaboratively with other engineers
+
+Job Requirements
+
+
+Familiarity with the design and development of system software 
+Hands-on experience with C/C++ is required 
+Knowledge of Unix/Linux System Programming and Multithreaded programming 
+Experience in the Storage Domain is a plus 
+Strong conceptual understanding of OS internals 
+Expertise in algorithms, data structures, and multi-threaded programming is essential 
+Commitment to sound software engineering practices and a passion for quality 
+Proven track record of meeting tight deadlines without sacrificing quality 
+Strong communication skills, both written and oral, targeted at a wide variety of internal and external audiences 
+Ability to understand customer deployment scenarios and experience in collaborating with peer teams outside of engineering 
+
+
+
+Additional Details:  
+
+
+Experience Info: If you have a Bachelor's degree and more than 2 years of relevant experience, excluding internships, or a Master's Degree DO NOT apply to this role. Instead, please apply to Job ID: 133202.
+Job Posting Info: This is a pipeline position that will be opened on a recurring basis and used to fill roles aligned with the required skill sets  
+Program Dates: These are full-time roles with a start date in early 2026. Recruiting efforts will be ongoing until specific teams find an ideal match.  
+
+
+
+Timeline:    
+
+
+Applications open: January 2026
+Applications close: This application will close in early March 2026 
+Interviews: will occur on an as needed basis  
+
+
+
+Education & Experience
+
+Typically requires a Bachelor of Science Degree in Electrical Engineering or Computer Science with no relevant industry experience; or equivalent relevant experience
+
+Compensation:
+
+The target salary range for this position is 101,150 - 150,700 USD. The salary offered will be determined by the candidate's location, qualifications, experience, and education and may be outside of this range. Final compensation packages are competitive and in line with industry standards, reflecting a variety of factors, and include a comprehensive benefits package. This may cover Health Insurance, Life Insurance, Retirement or Pension Plans, Paid Time Off (PTO), various Leave options, Performance-Based Incentives, employee stock purchase plan, and/or restricted stocks (RSU’s), with all offerings subject to regional variations and governed by local laws, regulations, and company policies. Benefits may vary by country and region, and further details will be provided as part of the recruitment process.
+
+At NetApp, we embrace a hybrid working environment designed to strengthen connection, collaboration, and culture for all employees. This means that most roles will have some level of in-office and/or in-person expectations, which will be shared during the recruitment process.
+
+Equal Opportunity Employer:
+
+NetApp is firmly committed to Equal Employment Opportunity (EEO) and to compliance with all federal, state and local laws that prohibit employment discrimination based on age, race, color, gender, sexual orientation, gender identity, national origin, religion, disability or genetic information, pregnancy, protected veteran status, and any other protected classification.
+
+Why NetApp?
+
+We are all about helping customers turn challenges into business opportunity. It starts with bringing new thinking to age-old problems, like how to use data most effectively to run better - but also to innovate. We tailor our approach to the customer's unique needs with a combination of fresh thinking and proven approaches.
+
+We enable a healthy work-life balance. Our volunteer time off program is best in class, offering employees 40 hours of paid time per year to volunteer with their favorite organizations. We provide comprehensive medical, dental, wellness, and vision plans for you and your family. We offer educational assistance, legal services, and access to discounts. Finally, we provide financial savings programs to help you plan for your future.
+
+If you want to help us build knowledge and solve big problems, let's talk.
+… more
+
+Benefits found in job post
+
+Medical insurance
+
+Set alert for similar jobs
+
+Software Engineer, San Jose, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+96
+
+total
+
+96
+
+in the past day
+
+Candidate seniority level
+
+74% Entry level candidates
+
+4% Senior level candidates
+
+Candidate education level
+
+63
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+34
+
+%
+
+have a Bachelor's Degree
+
+
+3
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about NetApp
+Powered by Bing
+
+Company focus areas
+
+• Hybrid and Multi-Cloud Integration: NetApp focuses on integrating hybrid and multi-cloud environments to help customers modernize legacy systems, enhance resilience against ransomware, and develop scalable, high-performance data pipelines for AI workloads.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Focus on engineering: The 'Engineering' department has seen a 1% increase in headcount, indicating a continued investment in technical and product development capabilities. Reduction in sales and IT: The 'Sales' and 'Information Technology' departments have experienced a 9% and 7% decrease in headcount respectively, suggesting a potential shift in strategic priorities or efficiency improvements in these areas. Growth in business development: The 'Business Development' department has grown by 3%, highlighting an emphasis on expanding market opportunities and strategic partnerships. Overall headcount stability: Despite fluctuations in specific departments, the overall headcount has remained relatively stable with a slight decrease of 4%, indicating a balanced approach to workforce management.
+… more
+
+The latest hiring trend
+
+12,644
+
+Total employees
+
+3%
+
+Company-wide
+
+2 year growth
+
+1%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+10000
+20000
+
+Median employee tenure: 6.8 years
+
+NetApp hires candidates from some of these companies and schools
+
+NetApp hired 4 people from University of Southern California. See all
+
+NetApp hired 38 people from University of Southern California. See all
+
+Competitors
+
+NetApp operates in a highly competitive data infrastructure industry, facing significant competition from both traditional storage vendors and emerging cloud-native solutions. The company differentiates itself with a strong focus on hybrid and multi-cloud data management, AI-driven data infrastructure, and comprehensive data services across on-premises and cloud environments. NetApp's strategic emphasis on AI readiness and cybersecurity, along with its robust data visualization and infrastructure monitoring capabilities, positions it well against competitors.
+… more
+
+Sources: gist.github.com +3 more
+
+Show Premium Insights
+About the company
+
+NetApp
+
+756,077 followers
+
+Follow
+
+Software Development
+
+ • 
+
+10001+ employees
+
+ • 
+
+12,644 on LinkedIn
+
+Build an intelligent data infrastructure with NetApp that brings it all together — a smarter way to let data thrive. Any application, any data, anywhere.
+
+Commitments
+
+Environmental sustainability
+
+Everything we do is to better serve our customers and the world we live in, and that requires us to reduce our global operational carbon footprint, and to help customers manage their data so that they can achieve their sustainability goals. Sustainability is part of our DNA. Top priorities from our 2022 materiality assessment include energy management and greenhouse gas (GHG) emissions reductions, especially in our value chain. We recognize the impact that data storage has on our environment, and together with customers and suppliers, we can make changes today that will reduce our collective environmental impact.
+… more
+
+Learn more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Robotics Field Applications Engineer
+
+Breaker
+
+Austin, TX (On-site)
+
+Posted on January 15, 2026, 2:24 PM
+1 hour ago
+
+Embedded Software Engineer (C/C# .NET)
+
+ADMET
+
+Norwood, MA (On-site)
+
+$100K/yr - $120K/yr
+
+ • 
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 2:15 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer - Competitive (Verified job)
+Software Engineer - Competitive 
+
+Hudl
+
+United States (Remote)
+
+$93K/yr - $155K/yr
+
+ • 
+
+Medical benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 3:23 PM
+11 minutes ago
+
+Associate Software Engineer
+
+Cabana
+
+New York City Metropolitan Area (On-site)
+
+$140K/yr - $170K/yr
+
+ • 
+
+4 benefits
+
+Actively reviewing applicants
+
+Posted on January 14, 2026, 5:14 PM
+22 hours ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer - Generalist (Verified job)
+Senior Software Engineer - Generalist 
+
+MagicCube, Inc.
+
+San Francisco Bay Area (Hybrid)
+
+4 benefits
+
+Posted on January 13, 2026, 6:17 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Infrastructure
+
+Scaled Cognition
+
+San Jose, CA (Hybrid)
+
+$130K/yr - $350K/yr
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 7:08 AM
+8 hours ago
+
+ · 
+
+ Easy Apply
+
+Frontend Engineer | Series B AI Startup
+
+Day One Partners
+
+San Francisco Bay Area (On-site)
+
+$140K/yr - $290K/yr
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 2:13 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Junior Full Stack Engineer
+
+Mentor Talent Acquisition
+
+New York, United States (On-site)
+
+$100K/yr - $170K/yr
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 9:42 AM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+Junior Software Engineer
+
+RemoteHunter
+
+United States (Remote)
+
+Posted on January 15, 2026, 1:26 PM
+2 hours ago
+
+Software Engineer
+
+RemoteHunter
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 15, 2026, 11:52 AM
+3 hours ago
+
+Software Engineer
+
+Helic & Co.
+
+United States (Remote)
+
+Posted on January 15, 2026, 6:44 AM
+8 hours ago
+
+ · 
+
+ Easy Apply
+
+	 Application Developer  (Verified job)
+ Application Developer 
+
+4Liberty, Inc.
+
+San Diego, CA (Hybrid)
+
+$100K/yr - $130K/yr
+
+1 school alumni works here
+
+Posted on January 15, 2026, 2:02 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

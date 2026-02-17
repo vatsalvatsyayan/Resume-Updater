@@ -1,0 +1,46 @@
+About the job
+
+Overview
+
+
+
+
+vLex is a global legal intelligence platform that provides legal professionals with access to the most extensive collection of legal and regulatory information in the world, all on one award-winning and unique platform. We develop cutting-edge technology, including artificial intelligence and data analytics, to help millions of users access the most relevant and accurate information.
+
+
+
+
+Our customers include the world’s largest law firms and corporations, legal professionals, academics, and government agencies in over 70 countries. We provide case law, litigation data, legislation, books, journals and legal news, and build intelligent software to streamline legal services.
+
+
+
+
+The Role: Software Engineer
+
+
+
+
+We’re looking for software engineers excited to develop the next generation of legal technology. Our projects range from building the most sophisticated NLP and AI technology in the legal market, to architecting robust data pipelines and designing innovative tools that help lawyers work faster, better, and more effectively.
+
+
+
+
+The right candidates are not just able to write well-designed, well-commented, and well-tested software, but are also curious about the legal system that underpins our work. The law is a demanding field; strong candidates will have respect for its importance and a determination to push through the hard technical problems the law presents.
+
+
+
+
+Responsibilities include:
+
+
+
+
+Working across the complete NLP/AI stack to implement new features and improve the existing capabilities.
+Writing and maintaining reliable code.
+Performing data analysis and exploration.
+Collaborating with product teams to deliver the best products for our customers.
+Seeing projects through from conception to finished product.
+
+ 
+
+Candidates should have a good academic background with a college degree in Computer Science or a related field and 1+ years of experience in software development.

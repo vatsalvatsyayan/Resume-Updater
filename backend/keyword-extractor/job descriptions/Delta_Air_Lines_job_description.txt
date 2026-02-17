@@ -1,0 +1,525 @@
+Delta Air Lines
+
+Associate Software Development Engineer 
+
+Atlanta, GA · 6 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+How You'll Help Us Keep Climbing (Overview & Key Responsibilities)
+
+The Business and Operations Analytics Team specializes in delivering high-impact analytics solutions by harnessing data from diverse customer interaction points—web, mobile, call centers, and airport operations. The team ensures that business metrics are timely, accurate, and actionable.
+
+As an Associate Software Engineer, you will be responsible for developing, testing, and maintaining software applications using Python. You will work closely with senior engineers and other team members to design and implement cloud-based solutions on AWS using Lambdas and API gateway. This is an excellent opportunity for a recent graduate or someone with limited professional experience to grow their skills in a supportive and collaborative environment.
+
+Core Capabilities
+
+Responsibilities include, but are not limited to:
+
+
+Real-Time & Near-Real-Time Metrics
+Design and maintain pipelines that capture and process operational and customer data with minimal latency.
+Enable proactive monitoring and rapid response to business trends and anomalies.
+Data Harvesting & Integration
+Develop and maintain custom Python-based frameworks for scalable data ingestion and transformation.
+Leverage Microsoft Fabric for orchestrating and managing data workflows across the enterprise.
+Application Development
+Build internal customer-facing applications using AngularJS for responsive and intuitive user interfaces.
+Implement backend services using Python-based AWS Lambdas and API Gateway, ensuring scalability and performance.
+Data Storage & Management
+Use PostgreSQL for operational data storage and transactional workloads.
+Employ Teradata for enterprise-scale analytics, historical data analysis, and reporting.
+Business Intelligence & Reporting
+Design and publish Power BI dashboards to visualize key business metrics.
+Provide stakeholders with interactive, self-service reporting tools to support strategic and operational decisions.
+ Collaborate with cross-functional teams to define, design, and ship new features.
+ Automate deployment, monitoring, and management of cloud applications.
+
+
+Team Culture
+
+
+Collaborative: Works closely with business units, IT, and analytics teams to align solutions with strategic goals.
+Innovative: Embraces modern cloud-native architectures and automation.
+Customer-Centric: Prioritizes usability, reliability, and performance in all solutions.
+
+What You Need To Succeed (Minimum Qualifications)
+
+
+Consistently prioritizes safety and security of self, others, and personal data. 
+Embraces diverse people, thinking, and styles. 
+Possesses a high school diploma, GED, or high school equivalency. 
+Is at least 18 years of age and has authorization to work in the United States.
+
+
+1+ years of experience in software development, with a focus on cloud technologies.Understanding of software development lifecycle (SDLC).Basic understanding of AWS services and cloud computing concepts.Languages & Frameworks: Python, AngularJSCloud & APIs: AWS Lambda, API GatewayData Platforms: Microsoft Fabric, PostgreSQL, TeradataBI Tools: Power BICustom Tools: Proprietary Python frameworks for data harvesting and processingKnowledge of CI/CD pipelines and tools like Jenkins, GitLab, or AWS CodePipeline.Excellent problem-solving skills and attention to detail.Strong communication and collaboration skills.Open to receiving constructive feedback and continuously improving skills and performance based on insights from peers and supervisors.Execute with a Sense of Urgency
+
+What Will Give You a Competitive Edge (Preferred Qualifications)
+
+
+ Bachelors Degree in Computer Science, Information Systems or related technical field is preferred.
+ Experience in D3 PowerBI Development
+ Experience with microservices and serverless computing.
+ Experience coding in React is a plus
+ Understanding of networking and security principles in cloud environments
+
+
+Benefits And Perks To Help You Keep Climbing
+
+Our culture is rooted in a shared dedication to living our values – Care, Integrity, Resilience and Servant Leadership – every day, in everything we do. At Delta, our people are our success. At the heart of what we offer is our focus on Sharing Success with Delta employees. Exploring a career at Delta gives you a chance to see the world while earning great compensation and benefits to help you keep climbing along the way:
+
+
+Competitive salary, industry-leading proﬁt sharing program, and performance incentives
+401(k) with generous company contributions up to 9%
+New hires are eligible for up to 2-weeks of vacation. This is earned for use in the following vacation year (April 1 – March 31)
+In addition to vacation, new hires are eligible for up to 56 hours of paid personal time within a 12-month period
+10 paid holidays per calendar year
+Birthing parents are eligible for 12-weeks of paid maternity/parental leave
+Non-birthing parents are eligible for 2-weeks of paid parental leave
+Comprehensive health beneﬁts including medical, dental, vision, short/long term disability and life insurance beneﬁts
+Family care assistance through fertility support, surrogacy and adoption assistance, lactation support, subsidized back-up care, and programs that help with loved ones in all stages
+Holistic Wellbeing programs to support physical, emotional, social, and financial health, including access to an employee assistance program offering support for you and anyone in your household, free financial coaching, and extensive resources supporting mental health
+Domestic and International space-available flight privileges for employees and eligible family members
+Career development programs to achieve your long-term career goals
+World-wide partnerships to engage in community service and innovative goals created to focus on sustainability and reducing our carbon footprint
+Business Resource Groups created to connect employees with common interests to promote inclusion, provide perspective and help implement strategies
+Recognition rewards and awards through the platform Unstoppable Together
+Access to over 500 discounts, specialty savings and voluntary benefits through Deltaperks such as car and hotel rentals and auto, home, and pet insurance, legal services, and childcare
+… more
+
+Benefits found in job post
+
+401(k), Disability insurance
+
+Set alert for similar jobs
+
+Associate Software Engineer, Atlanta, Georgia, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+454
+
+total
+
+454
+
+in the past day
+
+Candidate seniority level
+
+79% Entry level candidates
+
+9% Senior level candidates
+
+Candidate education level
+
+76
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+23
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Delta Air Lines
+Powered by Bing
+
+Company focus areas
+
+• Revenue Growth: Delta Air Lines aims to increase its operating revenue by expanding capacity and leveraging strong demand for domestic and international travel, particularly for premium products. In 2024, the company saw a 6% increase in operating revenue driven by these factors.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Significant growth in administrative and education functions: The 'Administrative' and 'Education' departments have seen an 8% and 13% increase in employee percentage difference, respectively, indicating a focus on strengthening administrative support and educational initiatives. Expansion in business development and military services: The 'Business Development' and 'Military and Protective Services' departments have grown by 7% and 10%, respectively, suggesting new initiatives in business expansion and security measures. Increased focus on arts and design: The 'Arts and Design' department has experienced a 12% increase in headcount, highlighting a potential emphasis on creative and design projects. Growth in community and social services: The 'Community and Social Services' department has seen a 15% increase, indicating a significant investment in community engagement and social responsibility programs.
+… more
+
+The latest hiring trend
+
+79,687
+
+Total employees
+
+12%
+
+Company-wide
+
+2 year growth
+
+17%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+50000
+100000
+
+Median employee tenure: 7.3 years
+
+Delta Air Lines hires candidates from some of these companies and schools
+
+Delta Air Lines hired 8 people from University of Southern California. See all
+
+Delta Air Lines hired 121 people from University of Southern California. See all
+
+Competitors
+
+Delta Air Lines operates in a highly competitive landscape, facing significant competition from other major U.S. carriers such as American Airlines, United Airlines, and Southwest Airlines. Delta differentiates itself through a focus on premium services, customer loyalty programs, and extensive international networks. The airline's strategic initiatives include leveraging technology for personalized customer experiences, maintaining cost efficiency, and expanding its global reach.
+… more
+
+Sources: rivalsense.co +3 more
+
+Show Premium Insights
+About the company
+
+Delta Air Lines
+
+1,649,695 followers
+
+Follow
+
+Airlines and Aviation
+
+ • 
+
+10001+ employees
+
+ • 
+
+79,687 on LinkedIn
+
+Delta Air Lines (NYSE: DAL) is the U.S. global airline leader in safety, innovation, reliability and customer experience. Powered by our employees around the world, Delta has for a decade led the airline industry in operational excellence while maintaining our reputation for award-winning customer service.
+
+With our mission of connecting the people and cultures of the globe, Delta strives to foster understanding across a diverse world and serve as a force for social good.
+
+
+… more
+
+Commitments
+
+Diversity, equity, and inclusion
+
+We actively seek diversity, boldly pursue equity, and consciously promote inclusion to create a sense of belonging for all people.  
+
+Our commitment to promoting diversity, equity, and inclusion can be found in all aspects of our business. We have put in place a number of initiatives to ensure that our customers, employees, and communities are respected and included. Some initiatives include a diverse group of partnerships with organizations like OneTen, Unlock Potential, and City of Refuge. We have also implemented a number of programs to recruit and retain diverse talent, such as our skills-first mindset that focuses on capabilities, competencies, and relevant experiences. With our mission of connecting the people and cultures of the globe, we strive to foster understanding across a diverse world and serve as a force for social good. 
+… more
+
+Environmental sustainability
+
+We embed sustainability in everything we do. Elevating Delta's world-class performance and service means our focus includes connecting people to a more sustainable future of travel. 
+
+We’ve made a commitment to eliminate our climate impact from flying by evolving how we fly, what we fly, and the fuel we use to power our fleet. We are aiming to reduce our carbon emissions by 50% by 2050 and have launched a first-of-its-kind airline innovation lab to accelerate research, design and testing for a more sustainable future of air travel. We also work with our partners and suppliers to reduce their environmental impact, and we are all committed to educating and engaging our employees and customers about sustainability. 
+
+Despite challenges, we have already achieved significant results, like reducing single-use onboard plastics by nearly 5 million pounds annually. We also saved 10 million gallons of fuel in 2022 while planning for an additional 10 million gallons in savings annually, thanks to the work of Delta's Carbon Council. This work not only serves us today but helps ensure future generations of Delta people can connect the world for our customers and communities. 
+… more
+
+Career growth and learning
+
+We are committed to providing career growth and learning opportunities for our employees. We offer a variety of learning and development experiences and resources to help employees reach their career goals. These programs include proficient onboarding, mentorship programs, self-paced online training courses, and tuition reimbursement for job-related courses. We also offer leadership development programs, professional development seminars, and other career-enhancing activities. Additionally, we provide multiple opportunities for interested employees to receive career advice and tips to help employees find the right job for them. We believe some of the best talent is already here at Delta Air Lines. We want to help empower our employees to reach their full potential and achieve success in their chosen career paths. 
+… more
+
+Learn more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Frontend / Full Stack Engineer, Video Generation Agent
+
+Utopai Studios
+
+Sunnyvale, CA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 12, 2026, 5:42 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Frontend / Fullstack Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:55 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Contract Software Engineer (Verified job)
+Contract Software Engineer 
+
+VantageScore Solutions®
+
+San Francisco Bay Area (Hybrid)
+
+$70/hr - $80/hr
+
+Actively reviewing applicants
+
+Posted on November 10, 2025, 11:49 AM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Member of Technical Staff
+
+Plato
+
+San Francisco Bay Area (On-site)
+
+$140K/yr - $250K/yr
+
+Posted on October 6, 2025, 10:34 AM
+3 months ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer (Agentic AI) | New York
+
+Lyzr AI
+
+New York City Metropolitan Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 5:49 AM
+4 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (AI)
+
+Medra
+
+San Francisco, CA (On-site)
+
+Medical, Dental, 401(k)
+
+Posted on December 12, 2025, 11:58 AM
+1 month ago
+
+Backend Software Engineer – Matching and Scheduling Optimization
+
+Sage Care
+
+Palo Alto, CA (Hybrid)
+
+1 school alumni works here
+
+Posted on December 4, 2025, 10:19 AM
+1 month ago
+
+Associate Software Engineer (New College Grad 2026) (Verified job)
+Associate Software Engineer (New College Grad 2026) 
+
+Solace
+
+Redwood City, CA (On-site)
+
+1 company alumni works here
+
+Posted on January 14, 2026, 8:28 PM
+5 days ago
+
+Founding Software Engineer
+
+Unsiloed AI (YC F25)
+
+San Francisco Bay Area (On-site)
+
+Posted on December 21, 2025, 9:52 PM
+1 month ago
+
+Machine Learning Engineer
+
+Fuchsia Services, Inc
+
+Dallas-Fort Worth Metroplex (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 19, 2026, 11:21 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Startup Software Engineer
+
+Storytime
+
+New York City Metropolitan Area (On-site)
+
+Posted on December 9, 2025, 10:32 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+GolfForever
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on November 11, 2025, 12:41 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

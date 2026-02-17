@@ -1,0 +1,524 @@
+Cambridge Mobile Telematics
+
+Software Engineer, Full Stack
+
+Cambridge, MA · 4 hours ago · Over 100 people clicked apply
+
+Responses managed off LinkedIn
+
+$116.1K/yr - $145.1K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+Cambridge Mobile Telematics (CMT) is the world’s largest telematics service provider. Its mission is to make the world’s roads and drivers safer. The company’s AI-driven platform, DriveWell Fusion®, gathers sensor data from millions of IoT devices — including smartphones, proprietary Tags, connected vehicles, dashcams, and third-party devices — and fuses them with contextual data to create a unified view of vehicle and driver behavior. Auto insurers, automakers, commercial mobility companies, and the public sector use insights from CMT’s platform to power risk assessment, safety, claims, and driver improvement programs. Headquartered in Cambridge, MA, with offices in Budapest, Chennai, Seattle, Tokyo, and Zagreb, CMT measures and protects tens of millions of drivers across the world every day.
+
+CMT is looking for a collaborative, customer-committed, and creative Software Engineer II, Full Stack who wants to join us in making roads safer by making drivers better!
+
+Responsibilities
+
+
+Solve complex problems and transform them into business solutions in collaboration with team members
+Analyze and translate business and functional specifications and change requests into technical specifications suitable for implementation
+Able to independently transform complex technical requirements into smaller implementable pieces; able to implement performant software solutions that are maintainable, scalable, reliable and testable
+Participate in code and design reviews
+Participate in the hiring process
+Train and guide junior developers on proper software development procedures and methods
+Follow company defined development and operational standards and processes
+Provide on-call support during business critical emergency scenarios. Support and troubleshoot production issues as needed
+Complete any additional tasks as they arise
+
+
+Qualifications
+
+
+Bachelor’s degree or equivalent years of experience and/or certification in a technical field or equivalent years of experience and/or certification
+2+ years of relevant working experience
+Experience developing native mobile applications and proven experience as a Full Stack developer or similar role
+Experience designing or developing Restful APIs or web services
+Knowledge of a backend development language like Python
+Comfortable working with AWS services
+EC2, S3, Lambda, SNS, SQS, RDS (Postgres), NoSQL
+Understanding of Agile development methodologies (specifically SCRUM)
+Excellent communication and collaboration skills
+Customer obsessed, demonstrates initiative, has a learning mindset, takes ownership
+Proven ability to deliver results
+An analytical mindset
+
+
+Compensation And Benefits
+
+
+ Fair and competitive salary based on skills and experience, and annual performance bonus
+Equity may be awarded in the form of Restricted Stock Units (RSUs)
+Medical, Dental, Vision and Life Insurance, matching 401k, short-term & long-term disability and parental leave
+Unlimited Paid Time Off including vacation, sick days & public holidays
+Flexible scheduling and work from home policy depending on role and responsibilities
+
+
+Base Salary Range
+
+
+The base salary range for this position is: $116,100 to $145,100. This range is specifically for Cambridge, MA
+
+
+Additional Perks
+
+
+ Feel great working to improve road safety around the world!
+Join one of our many employee resource groups including Black, AAPI, LGBTQIA+, Women, Book Club and Health & Wellness
+Extensive wellness, education and employee assistance programs
+CMT will do all that is possible to support our employees and create a positive and inclusive work environment for all!
+
+
+Commitment To Diversity And Inclusion
+
+At CMT, we believe the best ideas come from a mix of backgrounds and perspectives. 
+
+We are an equal-opportunity employer committed to creating a workplace and culture where everyone feels valued, respected, and empowered to bring their unique talents and perspectives. Diversity is essential to our success, and we actively seek candidates from all backgrounds to join our growing team. 
+
+We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status or disability state. CMT is headquartered in Cambridge, MA. To learn more, visit www.cmtelematics.com and follow us on X @cmtelematics.
+… more
+
+Benefits found in job post
+
+401(k)
+
+Set alert for similar jobs
+
+Software Engineer, Cambridge, Massachusetts, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+268
+
+total
+
+268
+
+in the past day
+
+Candidate seniority level
+
+90% Entry level candidates
+
+5% Senior level candidates
+
+Candidate education level
+
+91
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+8
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Cambridge Mobile Telematics
+Powered by Bing
+
+Company focus areas
+
+• Enhancing road safety: Cambridge Mobile Telematics aims to make roads and drivers safer through its AI-driven platform, DriveWell Fusion®, which proactively identifies and reduces driving risk.
+
+...more
+
+Sources: coverager.com +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 42% increase in job openings over the past year, indicating a major focus on expanding technical capabilities and product development. Fluctuations in headcount: The overall employee count has experienced notable changes, with a peak increase of 6% in June 2024 and a subsequent decrease of 5% in August 2024, suggesting dynamic workforce adjustments possibly due to project-based needs or restructuring. Focus on business development and marketing: The 'Business Development' and 'Marketing' departments have shown increases of 13% and 15% in employee count respectively, highlighting efforts to drive growth and market presence. Reduction in sales and customer support: The 'Sales' and 'Customer Success and Support' departments have seen decreases of 24% and 10% in employee count respectively, which may indicate a shift in strategy or efficiency improvements in these areas.
+… more
+
+The latest hiring trend
+
+471
+
+Total employees
+
+1%
+
+Company-wide
+
+2 year growth
+
+22%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+250
+500
+750
+
+Median employee tenure: 3.8 years
+
+Cambridge Mobile Telematics hires candidates from some of these companies and schools
+
+Cambridge Mobile Telematics hired 3 people from University of Southern California. See all
+
+Competitors
+
+Cambridge Mobile Telematics (CMT) is a leading player in the telematics industry, providing advanced data monitoring solutions for the auto insurance sector. The company leverages its DriveWell platform to analyze sensor data from IoT devices, offering insights for risk assessment, safety, claims, and driver behavior. CMT faces competition from companies like Lytx, Mobileye, and MiX Telematics, which also offer telematics solutions for fleet management, driver safety, and vehicle tracking. CMT's strategic focus includes technological innovation, expansion into new markets, and maintaining its leadership in insurance telematics and connected car technology.
+… more
+
+Sources: verifiedmarketresearch.com +2 more
+
+Show Premium Insights
+About the company
+
+Cambridge Mobile Telematics
+
+15,847 followers
+
+Follow
+
+Software Development
+
+ • 
+
+201-500 employees
+
+ • 
+
+471 on LinkedIn
+
+Cambridge Mobile Telematics (CMT) is the world’s largest telematics service provider. Its mission is to make the world’s roads and drivers safer. The company’s AI-driven platform, DriveWell Fusion®, proactively identifies and reduces driving risk, leading to fewer crashes and injuries, making mobility safer. To date, CMT’s technology has helped prevent over 80,000 crashes and protected more than 43,000 people from serious injuries worldwide. CMT partners with insurers, automakers, commercial mobility companies, and the public sector to measure risk, detect crashes, provide life-saving assistance, and streamline claims. Headquartered in Cambridge, MA, CMT operates globally with offices in Budapest, Chennai, Seattle, Tokyo, and Zagreb.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Embedded Software Engineer (C/C# .NET)
+
+ADMET
+
+Norwood, MA (On-site)
+
+$100K/yr - $120K/yr
+
+ • 
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 2:15 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Entry level Software Developer
+
+mthree
+
+Quincy, MA (Hybrid)
+
+$64.6K/yr
+
+ • 
+
+3 benefits
+
+2 school alumni work here
+
+Posted on January 15, 2026, 3:21 PM
+7 minutes ago
+
+Software Engineer - Competitive (Verified job)
+Software Engineer - Competitive 
+
+Hudl
+
+United States (Remote)
+
+$93K/yr - $155K/yr
+
+ • 
+
+Medical benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 3:23 PM
+6 minutes ago
+
+Associate Software Engineer
+
+Cabana
+
+New York City Metropolitan Area (On-site)
+
+$140K/yr - $170K/yr
+
+ • 
+
+4 benefits
+
+Actively reviewing applicants
+
+Posted on January 14, 2026, 5:14 PM
+22 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Infrastructure
+
+Scaled Cognition
+
+San Jose, CA (Hybrid)
+
+$130K/yr - $350K/yr
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 7:08 AM
+8 hours ago
+
+ · 
+
+ Easy Apply
+
+Frontend Engineer | Series B AI Startup
+
+Day One Partners
+
+San Francisco Bay Area (On-site)
+
+$140K/yr - $290K/yr
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 2:13 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Junior Full Stack Engineer
+
+Mentor Talent Acquisition
+
+New York, United States (On-site)
+
+$100K/yr - $170K/yr
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 9:42 AM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+Valon
+
+San Francisco, CA (On-site)
+
+$140K/yr - $200K/yr
+
+ • 
+
+1 benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:37 AM
+12 hours ago
+
+Software Engineer - Early Career (USA)
+
+Trexquant Investment LP
+
+New York City Metropolitan Area (On-site)
+
+$130K/yr - $175K/yr
+
+ • 
+
+Vision, +1 benefit
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 4:20 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+Junior Software Engineer
+
+RemoteHunter
+
+United States (Remote)
+
+Posted on January 15, 2026, 1:26 PM
+2 hours ago
+
+Software Engineer
+
+RemoteHunter
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 15, 2026, 11:52 AM
+3 hours ago
+
+Software Engineer
+
+Helic & Co.
+
+United States (Remote)
+
+Posted on January 15, 2026, 6:44 AM
+8 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

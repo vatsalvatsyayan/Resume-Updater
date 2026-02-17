@@ -1,0 +1,486 @@
+Pattern Data
+
+Software Engineer I 
+
+United States · 6 hours ago · Over 100 people clicked apply
+
+Responses managed off LinkedIn
+
+$100K/yr - $115K/yr
+Remote
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Lane Jones 
+
+• 3rd
+
+Client Strategy Leader @ Pattern Data | MBA Candidate @ USC Marshall School of Business
+
+School alum from University of Southern California
+
+Message
+About the job
+
+Who We Are
+
+The Pattern Data platform was created for the rapid analysis of millions of medical records. Fueled by AI, our platform efficiently reviews and categorizes documents in minutes, significantly reducing validation time by highlighting pertinent information crucial for litigation in medical analysis and personal injury cases. Our platform has been successfully implemented in major national settlements to process, adjudicate, and value claims.
+
+We transform terabytes of unstructured data into real-time, indexed medical and legal knowledge bases. Our document processing pipeline is the industry’s fastest and uses Scala on AWS. We accomplish this at scale using the following core stack of technologies:
+
+
+Scala, TypeScript, PostgresQL, GraphQL, Elasticsearch, AWS
+
+
+
+At Pattern, our team is built on a foundation of collaborative ownership, visionary problem-solving, customer-centric solutions, and authenticity. We’re looking for an entry-level Software Engineer to join our growing team.
+
+What You’ll Do
+
+As a Software Engineer at Pattern Data, you will:
+
+
+Learn from the best - work alongside our Senior Engineers and CTO in the design, development and maintenance of our document processing systems and user-facing applications
+Proactively tackle assigned tasks and projects, ensuring timely completion on deliverables
+Develop front-end components using React and Typescript
+Support back-end development using Scala
+Be a pioneer in the legaltech industry. You’ll collaborate with our product, analytics, and engineering teams to build well-designed and scalable solutions that meet the needs of our users
+Write clean, maintainable, and well-tested code 
+
+
+
+What You’ll Bring
+
+
+Bachelor’s degree in Computer Science, a related technical discipline, or related practical experience
+Project experience working fullstack; internship experience on a small team is a plus
+Curiosity to solve deep problems with strong attention to detail
+Unafraid to ask questions - you’re an excellent communicator with strong collaboration skills
+Eagerness and quick to learn and adapt to new technologies and tools
+
+
+
+Ready to meet us?
+
+Please apply directly through our website or Linkedin. We are excited to hear from you!
+
+Pay Transparency Disclosure
+
+The estimated base salary range for this role is $100,000-$115,000 per year, plus bonus and benefits.
+
+At Pattern Data, our compensation philosophy is built around fairness, transparency, and market alignment. Base salary represents just one part of our total compensation package, which also includes performance-based incentives, comprehensive benefits, and other rewards.
+
+Final compensation will be determined based on several factors, including skills, experience, qualifications, geographical location and internal equity across the team.
+
+We understand that exceptional candidates bring unique backgrounds and strengths. If the scope of the role changes during the hiring process, we’ll update and communicate any adjusted range accordingly.
+
+Pattern Data is committed to pay equity and to maintaining competitive, transparent compensation practices across all roles and teams.
+… more
+
+Set alert for similar jobs
+
+Software Engineer, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+543
+
+total
+
+543
+
+in the past day
+
+Candidate seniority level
+
+80% Entry level candidates
+
+9% Senior level candidates
+
+1% Manager level candidates
+
+Candidate education level
+
+62
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+35
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Pattern Data
+Powered by Bing
+
+The latest hiring trend
+
+42
+
+Total employees
+
+91%
+
+Company-wide
+
+2 year growth
+
+100%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+0
+25
+50
+
+Median employee tenure: 1.1 years
+
+Pattern Data hires candidates from some of these companies and schools
+
+Pattern Data hired 1 person from University of Southern California. See all
+
+Pattern Data hired 1 person from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+Pattern Data
+
+9,049 followers
+
+Follow
+
+Software Development
+
+ • 
+
+11-50 employees
+
+ • 
+
+42 on LinkedIn
+
+Pattern Data helps law firms and settlement administrators resolve mass tort cases faster, more accurately, and with greater confidence. Our platform connects every stage of litigation—from screening and development through settlement—so teams can manage complex dockets with clarity and precision.
+
+Pattern replaces manual, fragmented workflows with structured data, automation, and real-time insights. Firms identify stronger cases earlier, close evidentiary gaps, and generate compliant settlement submissions with less effort and greater transparency.
+
+Trusted across 30+ litigations and more than 1 million cases, Pattern Data delivers clarity, speed, and confidence in every mass tort.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Enterprise App AI Trainer, $80-90/hour
+
+LinkedIn
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on December 21, 2025, 7:41 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Forward Deployed Engineer (Verified job)
+Forward Deployed Engineer 
+
+Lorikeet
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on December 19, 2025, 6:21 AM
+1 week ago
+
+Software Engineer - C#/.Net
+
+Rithum
+
+Detroit Metropolitan Area (Remote)
+
+401(k), +1 benefit
+
+1 company alumni works here
+
+Posted on December 17, 2025, 4:37 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Product Engineer (AI & Data Focus)
+
+CloudSort
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on December 17, 2025, 8:42 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Intern/New Grad Software Engineer
+
+Anima
+
+United States (Remote)
+
+Posted on December 26, 2025, 4:16 AM
+3 days ago
+
+Full Stack Engineer (Verified job)
+Full Stack Engineer 
+
+Reforge
+
+United States (Remote)
+
+$130K/yr - $170K/yr
+
+ • 
+
+401(k) benefit
+
+4 school alumni work here
+
+Posted on December 23, 2025, 3:49 AM
+6 days ago
+
+Software Engineer - C#/.Net
+
+Rithum
+
+Chicago, IL (Remote)
+
+401(k), +1 benefit
+
+1 company alumni works here
+
+Posted on December 17, 2025, 4:37 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+Carrot Fertility
+
+United States (Remote)
+
+$120K/yr - $150K/yr
+
+2 school alumni work here
+
+Posted on December 22, 2025, 2:22 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer - C#/.Net
+
+Rithum
+
+Dallas, TX (Remote)
+
+401(k), +1 benefit
+
+1 company alumni works here
+
+Posted on December 17, 2025, 4:37 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer - C#/.Net
+
+Rithum
+
+Raleigh, NC (Remote)
+
+401(k), +1 benefit
+
+1 company alumni works here
+
+Posted on December 17, 2025, 4:37 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer (Verified job)
+Backend Software Engineer 
+
+ATLASSIAN
+
+Mountain View, CA (Remote)
+
+$133.2K/yr - $192.7K/yr
+
+1 connection works here
+
+Posted on December 17, 2025, 2:02 AM
+1 week ago
+
+Chief AI Scientist
+
+Astera Holdings
+
+New York, United States (Remote)
+
+$100K/yr - $1M/yr + Bonus, Stock, Stock options
+
+Actively reviewing applicants
+
+Posted on December 15, 2025, 9:28 AM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2025
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

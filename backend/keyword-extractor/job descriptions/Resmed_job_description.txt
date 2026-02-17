@@ -1,0 +1,554 @@
+Resmed
+
+Associate Engineer,Cloud Development 
+
+San Diego, CA · 21 hours ago · Over 100 people clicked apply
+
+Responses managed off LinkedIn
+
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+We’re looking for an Associate AWS Developer to join our engineering team in delivering cutting-edge digital health experiences that scale globally. You’ll contribute to full-stack solutions using modern technologies in a collaborative, agile environment, helping build applications that directly improve the lives of patients and healthcare providers.
+
+You’re a curious problem-solver who’s early in your career and eager to learn. You bring enthusiasm, ownership, and foundational technical skills, and you’re excited to grow alongside a team of passionate engineers committed to innovation and excellence.
+
+What You’ll Do:
+
+
+
+Implement and maintain features in software applications that are reliable, scalable, and secure, with guidance from more senior engineers.
+Collaborate with engineers, product managers, designers, and architects to help define and implement solutions that meet user and business needs.
+Contribute to system design discussions and learn how to make technical decisions in cloud-based, serverless environments.
+Write clean, maintainable, and well-tested code, following team standards and best practices.
+Participate in code reviews, pair programming, and knowledge sharing to both learn and contribute.
+Help investigate, troubleshoot, and fix software defects and basic performance issues.
+Support the continuous improvement of development processes and delivery pipelines by giving feedback and trying new tools and practices.
+
+
+
+What You Bring:
+
+
+
+0–2 years of professional software development experience (internships, projects, or relevant coursework welcome).
+Experience with Python and a basic understanding of object-oriented design and clean code principles.
+Some exposure to AWS services (e.g., Lambda, API Gateway, DynamoDB, S3) and an interest in deepening your cloud and serverless skills.
+Interest in or familiarity with infrastructure-as-code tools (e.g., Terraform, CloudFormation, CDK).
+Basic understanding of RESTful APIs and web application concepts; familiarity with authentication/authorization (e.g., OAuth2, JWT) is a plus.
+Familiarity with JavaScript/TypeScript and modern front-end frameworks (e.g., React, Angular) is a plus, but not required.
+Basic knowledge of databases (either relational or NoSQL) and comfort learning new data technologies.
+Exposure to or interest in DevOps practices, including CI/CD pipelines, Git, Docker, and monitoring/logging tools (e.g., CloudWatch, Datadog).
+Understanding of fundamental software testing concepts (e.g., unit and integration tests); exposure to end-to-end testing tools (e.g., Cypress) is a plus.
+Comfortable working in agile development environments and using collaboration tools like Jira, Confluence, and GitHub (or similar).
+A collaborative mindset, strong communication skills, and eagerness to learn, ask questions, and grow with mentorship.
+A degree in Computer Science, Software Engineering, or a related field, or equivalent practical experience (bootcamps, self-taught, or projects).
+
+
+
+Joining us is more than saying “yes” to making the world a healthier place. It’s discovering a career that’s challenging, supportive and inspiring. Where a culture driven by excellence helps you not only meet your goals, but also create new ones. We focus on creating a diverse and inclusive culture, encouraging individual expression in the workplace and thrive on the innovative ideas this generates. If this sounds like the workplace for you, apply now! We commit to respond to every applicant.
+… more
+
+Set alert for similar jobs
+
+Cloud Engineer, San Diego, California, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+305
+
+total
+
+305
+
+in the past day
+
+Candidate seniority level
+
+79% Entry level candidates
+
+6% Senior level candidates
+
+1% Director level candidates
+
+Candidate education level
+
+77
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+22
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Resmed
+Powered by Bing
+
+Company focus areas
+
+• Innovation and Product Development: ResMed is committed to ongoing investment in research and development, spending $331.3 million in fiscal year 2025 to develop and commercialize new, innovative products and solutions that improve patient outcomes and create efficiencies for customers.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Expanding business development: The 'Business Development' department has seen a 10% increase in employee count, indicating a strong focus on growth and new market opportunities. Growing engineering and operations: Both 'Engineering' and 'Operations' departments have experienced an 8% increase in headcount, suggesting significant investment in product development and operational efficiency. Increasing focus on marketing and research: The 'Marketing' and 'Research' departments have grown by 9%, highlighting an emphasis on market presence and innovation. Rising job openings in human resources: The 'Human Resources' department has seen a 750% increase in job openings over the past year, indicating a major initiative to strengthen internal capabilities and support overall company growth.
+… more
+
+The latest hiring trend
+
+8,667
+
+Total employees
+
+13%
+
+Company-wide
+
+2 year growth
+
+14%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+5000
+10000
+
+Median employee tenure: 4.2 years
+
+Resmed hires candidates from some of these companies and schools
+
+Resmed hired 5 people from University of Southern California. See all
+
+Resmed hired 30 people from University of Southern California. See all
+
+Competitors
+
+ResMed operates in a highly competitive landscape within the medical device and digital health sectors, focusing on sleep apnea and respiratory disorders. The company emphasizes digital health innovation, integrating cloud-based compliance tools and AI analytics to enhance patient adherence and outcomes. Strategic acquisitions, such as VirtuOx, bolster its capabilities in home diagnostics and care, positioning ResMed favorably against competitors like Philips Respironics, BMC Medical, and ProSomnus.
+… more
+
+Sources: verifiedmarketresearch.com +3 more
+
+Show Premium Insights
+About the company
+
+Resmed
+
+243,399 followers
+
+Follow
+
+Medical Equipment Manufacturing
+
+ • 
+
+5001-10000 employees
+
+ • 
+
+6,920 on LinkedIn
+
+We believe shaping a better world starts with better sleep and breathing, which is why we pioneer innovative solutions to help millions of people in more than 140 countries around the world live happier, healthier lives. Our AI-powered digital health solutions, cloud-connected devices and intelligent software make home healthcare more personalized, accessible and effective.
+… more
+
+Commitments
+
+Work-life balance
+
+At Resmed we know the importance of work/life balance and believe in supporting our people and families with flexible working arrangements that prioritize wellbeing and belonging, while driving growth and innovation.
+
+We understand that working flexibly means different things to different people and keep this front of mind when it comes to talking about how, when and where our team work most effectively together to ensure our people and business thrive.
+
+We encourage open dialogue around requests for flexibility as it can take many forms and we also recognise that certain flexibility arrangements will not always work for all roles given the different scope of our operational needs.
+
+What we do know is that a flexible approach builds a greater level of trust, empowerment and feeling valued. In our experience it leads to better engagement, increased commitment and higher performance and productivity. We also know that it enables a better balance and quality of life. That is why, at ResMed, flexibility is core to our approach and charter. We have a passion and enthusiasm for enabling the use of flexible work arrangements so our team can work appropriately and where they work best.
+… more
+
+Diversity, equity, and inclusion
+
+At Resmed, our commitment to fostering belonging is woven into the fabric of our day-to-day activities. Everything we do is influenced by our desire for all team members to feel heard, valued and accepted – to feel included. This informs all of our interactions, communications, hiring practices, policies and decisions. We work hard to create a safe and inclusive environment that values diversity.
+… more
+
+Environmental sustainability
+
+At Resmed we are always striving to reduce our environmental footprint throughout our business operations and supply chain. We are committed to working with our employees, suppliers and customers to:
+ - Eliminate unnecessary waste in all our systems & processes.
+- Minimize our pollution, especially our non-biodegradable waste to landfill process
+- Design and develop products with reduced impact on the environment throughout their lifecycle
+- Increasing our employees' awareness of the environmental impacts of their decisions and actions
+- Monitor our environmental performance and collaborate with employees, suppliers, customers, and regulatory bodies to make continual improvements
+- Fulfill our compliance obligations including applicable federal, state and local laws and regulations, as well as relevant international programs aimed at reducing harmful pollutants
+
+While we have made pleasing progress, we know there is still much more to be done to meet our customers and our own aspirations. To learn more about our environmental performance, visit our ESG (Environmental Social Governance) Report.
+
+… more
+
+Social impact
+
+Giving back to communities where we work and live.
+
+With this ambition embedded in our company DNA, everything we do as an organisation is led by our mission to help the world breathe better and live healthy lives. We let this philosophy drive our business as well as our efforts in Corporate Social Responsibility.
+
+We have protocols in place to support employees in volunteering for community causes and initiatives and we can usually match donations to causes that our employees care about.
+
+We know that environmental care is a priority for communities and employees alike and wherever we are working we set ourselves high standards in our work practices to better protect and conserve natural resources.
+… more
+
+Learn more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Embedded Software Engineer (C/C# .NET)
+
+ADMET
+
+Norwood, MA (On-site)
+
+$100K/yr - $120K/yr
+
+ • 
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 2:15 PM
+23 minutes ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:48 AM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Staff Software Engineer
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$160K/yr - $200K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 2:55 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer, Data Science (Verified job)
+Full Stack Engineer, Data Science 
+
+The Carlyle Group
+
+New York, NY (Hybrid)
+
+$200K/yr - $220K/yr
+
+ • 
+
+Medical benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:28 PM
+10 minutes ago
+
+Software Engineer - New Grad
+
+Valon
+
+New York, NY (Hybrid)
+
+$130K/yr - $155K/yr
+
+ • 
+
+401(k), +1 benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:37 AM
+12 hours ago
+
+Senior Platform Engineer
+
+Infocusp Innovations
+
+Mountain View, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 28, 2025, 10:12 PM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Cloud Engineer (Verified job)
+Cloud Engineer 
+
+Harrison Clarke
+
+San Francisco Bay Area (On-site)
+
+$250K/yr - $350K/yr
+
+ • 
+
+12 benefits
+
+Actively reviewing applicants
+
+Posted on January 12, 2026, 12:28 PM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Solutions Engineer (Verified job)
+Solutions Engineer 
+
+Cisco
+
+Boston, MA (On-site)
+
+$197.6K/yr - $249.5K/yr
+
+ • 
+
+Vision, 401(k), +1 benefit
+
+84 company alumni work here
+
+Posted on January 12, 2026, 11:41 AM
+3 days ago
+
+Software Engineer
+
+Hyra
+
+United States (Remote)
+
+$128.2K/yr - $226K/yr
+
+ • 
+
+401(k) benefit
+
+You’d be a top applicant
+
+Posted on January 15, 2026, 2:33 PM
+5 minutes ago
+
+Senior Platform Engineer
+
+ResilienX
+
+Syracuse, NY (Hybrid)
+
+$135K/yr - $165K/yr
+
+ • 
+
+Vision, 401(k), +1 benefit
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 2:14 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Solutions Engineer (Verified job)
+Solutions Engineer 
+
+Cisco
+
+New York, NY (On-site)
+
+$223K/yr - $287.2K/yr
+
+ • 
+
+Vision, 401(k), +1 benefit
+
+84 company alumni work here
+
+Posted on January 13, 2026, 11:52 AM
+2 days ago
+
+Software Engineer, Infrastructure
+
+Scaled Cognition
+
+San Jose, CA (Hybrid)
+
+$130K/yr - $350K/yr
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 7:08 AM
+7 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

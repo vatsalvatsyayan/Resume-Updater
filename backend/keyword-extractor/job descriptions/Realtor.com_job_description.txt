@@ -1,0 +1,58 @@
+About the job
+
+Recognized as the No. 1 site trusted by real estate professionals, Realtor.com® has been at the forefront of online real estate for over 25 years, connecting buyers, sellers, and renters with trusted insights and expert guidance to find their perfect home. Through its robust suite of tools, Realtor.com® not only makes a significant impact on the real estate industry at large, but for consumers, navigating the biggest purchase they will make in their life, by providing a user experience that is easy to use, easy to understand, and most of all, easy to make decisions.
+
+Join us on our mission to empower more people to find their way home by breaking barriers to entry, making the right connections, and building confidence through expert guidance.
+
+ 
+
+We’re seeking a Software Engineer to help advance our data quality and governance capabilities across the organization. If you’re passionate about building systems that support better data, enjoy collaborating with a variety of stakeholders, and are excited to learn and grow in the data space this role is for you.
+
+Your initial focus will go beyond optimizing tracking and consumption of clickstream data. You’ll contribute to developing scalable tools and frameworks that enable data quality measurement across multiple domains. These tools will help ensure data owners across the company can define and monitor the quality of their datasets while our team supports them in surfacing issues and driving accountability.
+
+You’ll work closely with data owners, their stewards, and cross-functional teams to improve the visibility, trustworthiness, and usability of our data. This work is foundational to improving decision-making and unlocking more value from data across the organization.
+
+ 
+
+What you’ll do:
+
+Contribute to the development of tools that measure and surface data quality signals across multiple domains, helping teams detect anomalies and improve trust in their data.
+Support the implementation of scalable systems that allow data owners and stewards to define, monitor, and take ownership of the quality of their datasets.
+Partner with cross-functional teams, including data stewards and domain owners, to operationalize data quality and governance standards across the organization.
+Build integrations and instrumentation that improve transparency into data lineage, integrity, and reliability.
+Participate in engineering rituals such as design reviews, code reviews, and team documentation to promote shared learning and clarity.
+Write maintainable, test-driven code using modern languages and frameworks with guidance and support from senior engineers.
+Engage in continuous learning and bring a growth mindset to working across diverse data problems and technical stacks.
+
+ 
+
+What we’re looking for:
+
+Bachelor’s degree in Computer Science/Engineering or related field, Master’s degree a plus.
+A software engineer with 3+ years of experience building backend systems or data-centric applications, ideally in environments where data quality, observability, or governance is a focus.
+Strong problem-solving skills and the ability to follow through on technical tasks with some guidance.
+Proficiency in writing reliable, testable code in one or more objected-oriented languages.
+Passion in delivering MVP without sacrificing quality.
+Solid understanding of SQL, data modeling, and working with structured and semi-structured data.
+Experience with Typescript or JavaScript and one or more of the following languages: Python, Java, Kotlin, or a comparable object-oriented language.
+Familiarity with cloud platforms (e.g. AWS, GCP) and interest in building scalable data infrastructure.
+Curiosity about data governance practices eager to learn how data lineage, ownership, and quality can be operationalized across large organizations.
+Willingness to collaborate with cross-functional partners such as data owners, product managers, and analysts to support the adoption of data quality frameworks.
+ How We Work:We balance creativity and innovation on a foundation of in-person collaboration. Our employees work three days in our Austin headquarters where they have the opportunity to collaborate in-person, adding richness to our culture and knitting us closer together. How We Reward You:Realtor.com® is committed to investing in the health and wellbeing of our employees and their families. Our benefits programs include, but are not limited to:
+Inclusive and Competitive medical, Rx, dental, and vision coverage
+Family forming benefits
+13 Paid Holidays
+Flexible Time Off
+8 hours of paid Volunteer Time off
+Immediate eligibility into Company 401(k) plan with 3.5% company match
+Tuition Reimbursement program for degreed and non-degreed programs
+1:1 personalized Financial Planning Sessions
+Student Debt Retirement Savings Match program
+Free snacks and refreshments in each office location
+ 
+
+Do the best work of your life at Realtor.com®
+
+Here, you’ll partner with a diverse team of experts as you use leading-edge tech to empower everyone to meet a crucial goal: finding their way home. And you’ll find your way home too. People are our foundation—the core that drives us passionately forward. At Realtor.com®, you’ll bring your full self to work as you innovate with speed, serve our consumers, and champion your teammates. In return, we’ll provide you with a warm, welcoming, and inclusive culture; intellectual challenges; and the development opportunities you need to grow.
+
+Diversity is important to us, therefore, Realtor.com® is an Equal Opportunity Employer regardless of age, color, national origin, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, marital status, status as a disabled veteran and/or veteran of the Vietnam Era or any other characteristic protected by federal, state or local law. In addition, Realtor.com® will provide reasonable accommodations for otherwise qualified disabled individuals.

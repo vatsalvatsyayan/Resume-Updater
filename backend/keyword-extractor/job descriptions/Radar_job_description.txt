@@ -1,0 +1,96 @@
+About the job
+
+About The Role
+
+We're looking for Backend Product Engineers to extend the core Radar platform. Our daily traffic is 1 Billion API calls / day (15,000 requests / second) so you will be operating at scale. This role can either be in our NYC HQ or remote in the US.
+
+How We Work
+
+Most of our engineering team are former technical co-founders or former Radar interns from schools like Waterloo and CMU. Most engineers at Radar fit one of two molds, technically: either Staff level expertise in one stack, or "Multi-Stack" at any level. We say "Multi-Stack" because "Full-Stack" has the connotation of "Frontend and Backend", but Radar Engineers might also work on Mobile or Data engineering. Not that you need to be an expert in all of those, but a desire to learn, jump around to different stacks, and get things done is the important part.
+
+We care a lot about shipping fast and talking to customers. We're committed to our product vision of full-stack location infrastructure, but we also know that customer feedback is a treasure map to gold. Even though Slack is the brain of our company, working together in-person in our NYC HQ is the fastest way for us to get things done. We meet on Mondays to plan out work for the week in small groups and use Linear for planning. All projects are run by an Engineering lead, an executive and a Go-to-Market lead. Engineers figure out what to build, talk to customers, talk to prospects, help close them, get them live and make them successful.
+
+One of our most important company values is "Walk a mile," as in walking a mile in the customer's shoes, but also as in literally walking a mile, getting up from your desk and developing a deep understanding of how location services behave in the real world. To us, a week is a long time, and we expect to ship big things every week.
+
+The Stack
+
+The API layer is a Node.js TypeScript app.
+
+Our main backend service is a geospatial database written in Rust that we call HorizonDB.
+
+We use MongoDB, S3/Athena, Redis, and Airflow.
+
+Everything is deployed to AWS via Kubernetes on EKS using Terraform .
+
+Most engineers are in the on-call rotation.
+
+We sponsor OpenStreetMaps, MapLibre, and OpenAddresses.
+
+The Hiring Process
+
+After a call with our CTO, we'll do several technical Zoom calls: code screen, coding round, and system design round. If those go well we'll invite you to our NYC HQ for a final round interview. You'll meet one of our co-founders, someone from outside engineering, and meet more people from Radar. We'll go into more depth about how we work to see if there is a match.
+
+What You’ll Do
+
+
+Work on core Radar products using TypeScript, Rust, Python and Scala
+Work on features across the backend API layer and offline pipelines
+Have your work power 1 Billion API calls / day
+Talk to Radar customers and prospects, hear their feedback, incorporate it into your work and make them successful
+
+
+You Should
+
+
+Think of yourself as a generalist engineer first, not tied to any particular stack
+Are interested in talking to customers or prospects and making them successful
+Are deeply curious about how things work, and have the tenacity to sit with hard problems and power through them
+
+
+Bonus Points If You
+
+
+Are a former technical co-founder
+Have worked on a high throughput, high growth SaaS application
+Have worked on geospatial infrastructure
+
+
+You’ll Work With
+
+
+Nick Patrick, Co-Founder and CEO
+Tim Julien, CTO
+Our customers and prospects
+Our Customer Success, Sales Engineering, and Sales teams
+
+
+About Us
+
+Radar is location infrastructure for every product and service. Companies like Vercel, Panera, and T-Mobile use Radar's geofencing SDKs and maps APIs to power location-based experiences across hundreds of millions of devices worldwide.
+
+Founded in 2016, Radar is headquartered in New York, NY. Radar has raised $85.5M from leading venture capital firms including Accel and Insight Partners.
+
+Benefits & Perks
+
+
+Competitive compensation package, stock option grants, and a 401(k) plan with 4% employer match
+Medical, dental, and vision plans with 100% premiums covered, 12 weeks of paid parental leave, flexible spending accounts (FSAs), and more
+Unlimited PTO
+Fully stocked kitchen and weekly catered breakfast/lunch at our NYC office
+CitiBike and Wellhub (Gympass) memberships
+Monthly happy hours and team events
+
+
+Benefits offering details will be provided if a candidate receives an offer. Benefits may also vary by location.
+
+Compensation
+
+For candidates based in the United States, the base salary range for this full-time position is between $200,000 - $300,000/year with an opportunity for performance bonuses and incentives.
+
+In addition to cash compensation, Radar offers full-time employees stock option grants under its equity plan. This is a meaningful ownership stake in the company we provide to our employees as we build a category-defining company.
+
+Our salary ranges are determined by role, level, and location. The range displayed on this job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Your exact offer may vary based on market location, job-related skills, experience, and relevant education or training.
+
+We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace.
+
+Compensation Range: $200K - $300K

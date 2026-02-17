@@ -1,0 +1,85 @@
+About the job
+
+Are you ready to help shape the digital future of a leading global staffing agency? Aquent is seeking a Full-Stack Web Engineer who thrives on building robust, user-centric web applications. You’ll be part of a collaborative technology group that powers innovation across internal operations, empowers talent, and enhances the client experience.
+
+In this role, you’ll work across the full software development lifecycle—from conceptual design to deployment and ongoing optimization. You’ll collaborate closely with cross-functional teams in product, design, research, QA, and project management to develop scalable, secure, and impactful digital solutions.
+
+If you’re passionate about building full-stack web solutions, contributing to a culture of continuous improvement, and making meaningful impact through technology, this is your opportunity to thrive.
+
+What You’ll Be Doing
+
+
+Participate in Agile planning sessions, design reviews, and team retrospectives. 
+Contribute to the architecture and development of scalable web applications. 
+Design and implement end-user features across the full stack: database, server-side, and front-end. 
+Maintain and optimize existing web applications; identify and resolve bugs efficiently. 
+Ensure robust data structures and integrity through thoughtful schema design and migrations. 
+Build secure integrations with third-party services and APIs. 
+Apply secure coding practices and stay informed of web security best practices. 
+Conduct peer code reviews and contribute to version control systems (Git). 
+Manage and update user stories/tasks in project management tools. 
+Collaborate with QA and support teams to debug and resolve issues. 
+Implement automated tests to maintain software quality and reliability. 
+Demonstrate new features and gather feedback from stakeholders. 
+
+
+What You’ll Bring
+
+Technical Expertise
+
+
+Experience building and consuming REST APIs. 
+Familiarity with templating frameworks (e.g., JSP, Thymeleaf). 
+Understanding of MVC and SOA architectural patterns. 
+Strong JavaScript skills and experience with front-end frameworks (e.g., Angular, jQuery). 
+Solid grasp of HTML5, CSS/LESS/SASS, and AJAX patterns. 
+Proficiency in working with JSON, XML, and HTTP protocols. 
+Hands-on experience with source control systems (e.g., Git). 
+Familiarity with code quality tools and continuous integration pipelines. 
+
+
+Personal Attributes
+
+
+Collaborative mindset and strong team orientation. 
+Excellent written and verbal communication skills. 
+Commitment to learning, growth, and process improvement. 
+Curiosity, initiative, and a holistic approach to problem-solving. 
+
+
+Education & Experience
+
+
+Formal training or self-directed learning in full-stack web development. 
+Proven ability to build meaningful, scalable web applications—whether through work experience, internships, or personal projects. 
+
+
+Why Aquent?
+
+
+Work with a supportive and innovative technology team in a company recognized for redefining the future of work. 
+Join a mission-driven organization that values inclusivity, collaboration, and continuous learning. 
+Enjoy the flexibility of a fully remote role with a healthy work-life balance. 
+
+
+Client Description
+
+WHY AQUENT? WHAT WE OFFER …
+
+
+Remote first work environment – equipment provided + internet reimbursement
+Work/life balance: we say it, we mean it
+Generous benefits package:medical, vision and dental benefits, generous 401(k), FSA, tuition reimbursement, and more
+An unusually generous and flexible vacation – AKA unlimited PTO
+Free use of our Hawaii and Florida beach houses
+Individualistic approach: we encourage a personal touch to your work; we don’t believe in a “one-size-fits-all” approach
+Industry reputation: we are the world’s largest creative staffing firm
+
+
+About Aquent
+
+Aquent is the leading global work solutions company helping guide businesses toward the talent, technology, and services they need to excel. From specialty recruiting and talent experience to creative strategy and project management, Aquent is making the future of work better for everyone. Its brands include Aquent Talent, Aquent Studios, Aquent RoboHead, Aquent Scout, Aquent Employer of Record, and Aquent Gymnasium. To learn more, visit aquent.com.
+
+Aquent is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics.
+
+If you require an ADA reasonable accommodation to complete a job application, pre-employment testing, or a job interview or to otherwise participate in the hiring process, please contact Carolyn Sarante, Director of Employee Relations at csarante@aquent.com or Lucas Manzaneres, Employment Relations Specialist, at lmanzaneres@aquent.com.

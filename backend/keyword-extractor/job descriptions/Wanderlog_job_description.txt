@@ -1,0 +1,445 @@
+Wanderlog
+
+Full-Stack Software Engineer (New graduates: United States)
+
+United States · 2 hours ago · 97 people clicked apply
+
+Responses managed off LinkedIn
+
+$70K/yr - $100K/yr
+Remote
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+About the job
+
+Warning: if you’re outside of the Americas timezones, unfortunately, we’re only hiring for engineers with at least some timezone overlap.
+
+Wanderlog helps make leisure travel easier. We believe that travel makes the world better, and are building tools that lower the bar to it. Our core product, built starting 2019, is a travel planning app (we’re the top-ranked trip planner on iOS and Android), but we’re also helping travelers book hotels (without hidden fees), providing them with information (through various pages on e.g., best attractions, restaurants, etc.), and more.
+
+Our founders are twin brothers. Peter worked as an engineer at Stripe and a consultant at McKinsey, and Harry as a product manager at Google. We’re an engineering and product-driven team: the founders studied computer science at Yale, and have built successful, bootstrapped travel companies (BookWithMatrix and All the Flight Deals) with products people love before starting Wanderlog.
+
+We now serve millions of travelers a month, and are a team of 6, including 5 engineers hailing from Yale, University of Toronto, UCLA, and more; and 1 designer. We’re a self-sustaining, default-alive startup.
+
+We also love traveling. Whether it’s a short hop to Austin, Seattle, or New Orleans; or a longer jaunt to Australia, Hawaii, or Banff National Park (all places the team’s traveled to in the past year!), travel broadens our horizons, builds empathy, and challenges us to grow. We’re working to bring these experiences to more of the world.
+
+What You’ll Do
+
+As an engineer, you’ll be responsible for owning portions of the product. You’ll be expected to:
+
+
+Build new features on our website and mobile app. (Our stack is Javascript (Typescript): modern React on the web, React Native on mobile, and Node.js/Express on the server.)
+Design and decide what to build based on what would help travelers and drive growth. You won’t be handed a spec; you’ll be coming up with it!
+Build data pipelines to crawl, process, and synthesize data from various sources around the web.
+Write tests and and build out engineering infrastructure. Our code is fully typed (Typescript) and tested.
+Debug and fix bugs and scale the infrastructure as it grows.
+Review code written by other engineers.
+Be fast and nimble: figure out the best way to build new features at lowest cost in time and future technical debt.
+
+
+This position is a full-time role reporting to the cofounders at Wanderlog.
+
+What You Might Work On
+
+
+New, user-friendly hotel booking interfaces that make finding a place to stay easier.
+AI-powered tools that read articles and watch videos for you and summarize the places they mention.
+Improvements to our React Native mobile app so that it runs faster on slower Android phones.
+A Chrome extension to let travelers quickly compare possible places to visit, airfares, and hotels.
+Better invite and collaboration tools to encourage people using Wanderlog to get more friends to join them.
+A better profile page that lets travelers on Wanderlog show off where they’ve been, see how many people they’ve helped, and follow other friends and their trips.
+
+
+You May Be a Good Fit If You
+
+
+Are a Javascript developer comfortable with React and/or React Native.
+Are a product person: you’ve built products end-to-end before, and really care about the people who use them.
+Are comfortable with picking up various technologies for the task at hand. We quickly evaluate libraries and tools that could help our product, and variously use Redis, Elasticsearch, and Python as needed too.
+Are entrepreneurial: excited about joining a small, high-growth team and talking to users, doing product and design, and wearing a variety of hats.
+Love travel and believe in it as a positive force personally and for the world.
+
+
+What’s it like to work here?
+
+We’re an engineering and product-heavy team. Travel’s something everyone does, and we love using the tools we build. A typical week’s work involves talking to users, prioritizing tasks in Sheets, designing on Figma, and building and shipping them continuously.
+
+Our values include putting travelers first, owning the product end-to-end, treating teammates with respect, and moving fast by being smart about what we build and how we build it.
+
+We believe in work fitting in with your life. We love travel and believe it rejuvenates us and makes us better people, and have twice annual travel offsites where the goal is to enjoy visiting a new place and collaborate more closely with the team in person.
+
+Our hiring process
+
+We’ll first have you do 2 short rounds of asynchronous programming challenges, including one with a virtual interviewer. After that, we’ll have a coding interview where you work on a quick program on your laptop in your preferred language with one of the founders, followed by a half-day final-round virtual onsite via video call.
+
+Founders
+
+Peter Xu and Harry Yu are twin brothers. Peter shuttled between Los Angeles, Houston, New York, Tokyo, and Hong Kong as a consultant at McKinsey before settling down at Stripe as a full-stack engineer, where he worked closely with support teams to build tools that made support agents’ work more productive.
+
+Harry worked at Google as a product manager on Hotel Search, Chrome, and finally Google Assistant for the past three, where he was one of the early PMs on the team.
+
+Before building Wanderlog, they had built Coursetable (featured in the New York Times) and travel sites All the Flight Deals (a flight deals aggregator) and BookWithMatrix (a power-traveler flight search tool). The founders are now glad to have been working on Wanderlog for 6 years, and are excited to make travelers’ lives easier!
+… more
+
+Set alert for similar jobs
+
+Full Stack Engineer, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+97
+
+total
+
+97
+
+in the past day
+
+Candidate seniority level
+
+76% Entry level candidates
+
+11% Senior level candidates
+
+1% CXO level candidates
+
+Candidate education level
+
+69
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+31
+
+%
+
+have a Bachelor's Degree
+
+There’s not enough quality data on this company just yet
+
+Once there are 30 complete member profiles from this company, we’ll be able to show you the company’s growth and hiring trends
+
+About the company
+
+Wanderlog
+
+6,135 followers
+
+Follow
+
+Travel Arrangements
+
+ • 
+
+2-10 employees
+
+ • 
+
+13 on LinkedIn
+
+Wanderlog is the easiest way to plan and enjoy travel. Build your itinerary, collaborate with friends, organize your reservations, and navigate your trip with help from hundred of blogs, guides, and maps. Plus, document past trips and share your knowledge with friends by building your own guides to your favorite places.
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Product Engineer (Software)
+
+Automotus
+
+United States (Remote)
+
+$140K/yr - $180K/yr
+
+ • 
+
+6 benefits
+
+1 school alumni works here
+
+Posted on November 7, 2025, 10:10 AM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer (Verified job)
+Full Stack Engineer 
+
+SentiLink
+
+San Francisco, CA (Remote)
+
+$145K/yr - $205K/yr
+
+ • 
+
+Medical, 401(k)
+
+2 school alumni work here
+
+Posted on January 3, 2026, 3:55 AM
+2 days ago
+
+Full Stack Engineer (Verified job)
+Full Stack Engineer 
+
+SentiLink
+
+Chicago, IL (Remote)
+
+$145K/yr - $205K/yr
+
+ • 
+
+Medical, 401(k)
+
+2 school alumni work here
+
+Posted on January 3, 2026, 3:54 AM
+2 days ago
+
+Full Stack Engineer (Verified job)
+Full Stack Engineer 
+
+SentiLink
+
+Los Angeles, CA (Remote)
+
+$145K/yr - $205K/yr
+
+ • 
+
+Medical, 401(k)
+
+2 school alumni work here
+
+Posted on January 3, 2026, 3:54 AM
+2 days ago
+
+Full Stack Engineer (Verified job)
+Full Stack Engineer 
+
+SentiLink
+
+Austin, TX (Remote)
+
+$145K/yr - $205K/yr
+
+ • 
+
+Medical, 401(k)
+
+2 school alumni work here
+
+Posted on January 3, 2026, 3:53 AM
+2 days ago
+
+Full Stack Engineer (Verified job)
+Full Stack Engineer 
+
+Reforge
+
+United States (Remote)
+
+$130K/yr - $170K/yr
+
+ • 
+
+401(k) benefit
+
+4 school alumni work here
+
+Posted on December 23, 2025, 3:49 AM
+1 week ago
+
+Backend Software Engineer (Verified job)
+Backend Software Engineer 
+
+ATLASSIAN
+
+Seattle, WA (Remote)
+
+$133.2K/yr - $192.7K/yr
+
+1 connection works here
+
+Posted on December 17, 2025, 2:02 AM
+2 weeks ago
+
+Full Stack Engineer (Verified job)
+Full Stack Engineer 
+
+Miro
+
+Austin, TX (Remote)
+
+8 school alumni work here
+
+Posted on December 30, 2025, 6:16 AM
+6 days ago
+
+Software Engineer, Backend (Verified job)
+Software Engineer, Backend 
+
+Motive
+
+San Francisco, CA (Remote)
+
+$140K/yr - $171K/yr
+
+ • 
+
+401(k), +1 benefit
+
+1 company alumni works here
+
+Posted on January 3, 2026, 3:07 AM
+2 days ago
+
+Full Stack Engineer (Verified job)
+Full Stack Engineer 
+
+SentiLink
+
+Seattle, WA (Remote)
+
+$145K/yr - $205K/yr
+
+ • 
+
+Medical, 401(k)
+
+2 school alumni work here
+
+Posted on January 3, 2026, 3:56 AM
+2 days ago
+
+Member of Technical Staff, Blockchain (Backend Engineer) (Verified job)
+Member of Technical Staff, Blockchain (Backend Engineer) 
+
+Anchorage Digital
+
+United States (Remote)
+
+3 school alumni work here
+
+Posted on January 5, 2026, 3:41 AM
+17 hours ago
+
+Software Engineer (Verified job)
+Software Engineer 
+
+Unity Technologies
+
+Greater Seattle Area (Remote)
+
+$104.5K/yr - $156.7K/yr
+
+6 company alumni work here
+
+Posted on January 3, 2026, 2:12 AM
+2 days ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

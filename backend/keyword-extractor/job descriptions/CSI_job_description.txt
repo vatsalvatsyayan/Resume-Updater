@@ -1,0 +1,61 @@
+About the job
+
+Job Description
+
+Visa Sponsorship: We are unable to offer visa sponsorship for this position. Applicants must be authorized to work in the United States without the need for sponsorship now or in the future. 
+
+Summary
+
+Are you passionate about security, authentication protocols, and building highly secure systems that make a real impact? Join our growing IAM Team at a mission-driven SaaS organization powering community banks across the country. We’re building modern, secure, and scalable identity systems to serve institutions that form the backbone of local economies.
+
+Key Responsibilities
+
+
+Design, code, test, and debug high-quality software focused on IAM services
+Own large-scale projects and product rollouts
+Maintain and document program changes in CSI’s core applications
+Solve complex programming challenges with creativity and precision
+Enforce coding standards and contribute to architectural decisions
+Champion Agile, CI/CD, and modern development practices
+Mentor junior engineers and foster team growth
+Investigate issues and drive thoughtful, secure solutions
+
+
+Qualifications
+
+
+Bachelor’s degree in computer science, Engineering, or related field
+Advanced degrees or certifications in relevant technologies are a plus
+Proficient in C#, .NET Core / .NET 8+ for API and middleware development
+Strong experience with OAuth 2.0, OpenID Connect, and SAML
+Solid understanding of token-based authentication flows (PKCE, Client Credentials, Refresh Tokens)
+Familiar with federated identity providers like Azure AD, Okta, etc.
+Deep knowledge of web security best practices (CORS, CSRF, XSS)
+Experienced with ASP.NET Core middleware and custom auth handlers
+Comfortable in Agile/Scrum environments and CI/CD pipelines
+Skilled in Git-based workflows and automated deployments
+Bonus: Experience with Duende IdentityServer or IdentityServer4
+
+
+Technical Stack
+
+Our environment includes C#, .NET Core / .NET 8+, ASP.NET, and REST APIs on the backend. For identity protocols, we use OAuth 2.0, OpenID Connect, and SAML. We integrate with providers like Azure AD and Okta, and leverage Duende IdentityServer for federated identity. Security practices include PKCE, CSRF, CORS, and claims-based identity. Our DevOps workflow is built around Git, CI/CD pipelines, and automated deployments, all within an Agile framework.
+
+Why Join Us?
+
+
+Build secure, scalable systems supporting hundreds of community-focused institutions
+Collaborate with a supportive, experienced team that values mentorship and innovation
+Contribute to a mission-driven organization making a real difference in banking technology
+Enjoy a remote-friendly culture with strong work/life balance and a modern tech stack
+
+
+As a forward-thinking software provider, Computer Services, Inc. (CSI) helps community and regional banks solve their customers’ needs through open and flexible technologies. In addition to its award-winning core banking platform, these include the latest in lending, digital banking, payments, financial crime prevention and cybersecurity. Building on its nearly 60-year track record of personalized service, CSI is shaping the future of banking and empowering its customers to rival their competition. For more information about CSI, visit www.csiweb.com
+
+CSI provides rewarding and challenging career opportunities for our employees. When determining your pay, we consider various factors such as your skills, qualifications, experience and location. Along with a competitive salary, this position includes eligibility for incentive awards based on both individual and business performance. We also offer a comprehensive range of benefits. To learn more about our benefits, visit: Benefits Summary
+
+CSI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, physical and mental disability, marital status, veteran status, or any other characteristic protected by applicable law. If you need an accommodation during the recruitment process, please email us at recruiter@csiweb.com and we will work with you to meet your accessibility needs.
+
+For applicants residing in California, please read Privacy Notice for California Residents | CSI (csiweb.com)
+
+Visa Sponsorship: We are unable to offer visa sponsorship for this position. Applicants must be authorized to work in the United States without the need for sponsorship now or in the future.

@@ -1,0 +1,68 @@
+About the job
+
+Yahoo serves as a trusted guide for hundreds of millions of people globally, helping them achieve their goals online through our portfolio of iconic products. For advertisers, Yahoo Advertising offers omnichannel solutions and powerful data to engage with our brands and deliver results.
+
+A Little About Us
+
+It takes powerful technology to connect our brands and partners with an audience of hundreds of millions of people. We reach nearly 900 million people worldwide, bringing them closer to what they love—from finance and sports to shopping, gaming, and news—with the trusted products, content, and technology that fuel their day.
+
+The Media Platform organization supports all Yahoo verticals by developing and maintaining backend systems and APIs that deliver scalable, reliable, and secure experiences to our users. Our teams focus on building shared services and data platforms that power Yahoo’s consumer products and content delivery at massive scale.
+
+A Lot About You
+
+We’re looking for an early-career Software Development Engineer I to join our backend engineering group. You’ll help build distributed systems and APIs that drive Yahoo’s content and personalization platforms. This role is ideal for engineers who enjoy learning modern backend architecture, contributing to real-world production systems, and growing their expertise in cloud-based and data-driven technologies.
+
+We’re also looking for candidates excited about the intersection of backend engineering and artificial intelligence. You’ll have opportunities to integrate AI capabilities into services, experiment with emerging tools, and work with teams exploring how generative AI and machine learning can improve product performance, scalability, and user experience.
+
+Responsibilities
+
+
+Design, implement, and test backend services and APIs with scalability and reliability in mind.
+Participate in code and design reviews to learn best practices for clarity, performance, and maintainability.
+Contribute to technical design documents and architectural discussions, including creating UML diagrams and other visual artifacts that communicate design intent and system interactions.
+Collaborate with engineers, product managers, and designers to deliver high-quality features and improvements.
+Work with and experiment on emerging AI technologies, tools, and systems to improve development efficiency, enhance product capabilities, and drive innovation across the platform.
+Research, prototype, and evaluate emerging technologies—such as generative AI, automation frameworks, and intelligent tooling—to inform future platform evolution and guide adoption strategies, to advance platform capabilities and improve developer productivity.
+Contribute to monitoring, debugging, and operational health of production services under senior guidance.
+Follow secure development practices and participate in CI/CD, observability, and documentation workflows.
+Grow your technical skills through mentorship, peer collaboration, and exposure to large-scale systems.
+
+
+Qualifications
+
+
+Bachelor’s degree in Computer Science, Software Engineering, or related technical field, or equivalent practical experience.
+1–3 years of professional experience in software development (including internships or equivalent experience).
+Hands-on experience coding in Java plus one of the following: TypeScript/Node.js, Python, Kotlin, or Go.
+Understanding of REST or GraphQL APIs and foundational distributed systems concepts.
+Familiarity with Git, CI/CD pipelines, and cloud environments (AWS, GCP, or similar).
+Clear communication skills and a willingness to learn from feedback.
+Experience or coursework in applied AI or machine learning concepts—such as integrating AI MCP/APIs, leveraging cloud-based AI services, or building data-driven features—is a plus.
+
+
+Preferred Skills
+
+
+Expertise or strong interest in generative AI technologies and large language models (LLMs) for improving development efficiency and product functionality.
+Experience building backend services using frameworks such as Spring Boot, Apollo Server, or Flask.
+Familiarity with GraphQL federation, API gateways, or caching strategies.
+Exposure to containerization and orchestration (Docker, Kubernetes, ECS).
+Understanding of observability tools (OpenTelemetry, Grafana, Chronosphere) and basic performance tuning.
+Awareness of secure service-to-service patterns (mTLS, JWT) and input validation.
+
+
+Yahoo Engineering Culture
+
+Engineers at Yahoo grow through curiosity, craftsmanship, and collaboration. As a Software Engineer, you’ll contribute with guidance, focus on code quality, and develop the skills needed to deliver reliable software at scale. We value attention to detail, a growth mindset, and teamwork that leads to great execution.
+
+The material job duties and responsibilities of this role include those listed above as well as adhering to Yahoo policies; exercising sound judgment; working effectively, safely and inclusively with others; exhibiting trustworthiness and meeting expectations; and safeguarding business operations and brand integrity.
+
+At Yahoo, we offer flexible hybrid work options that our employees love! While most roles don’t require regular office attendance, you may occasionally be asked to attend in-person events or team sessions. You’ll always get notice to make arrangements. Your recruiter will let you know if a specific job requires regular attendance at a Yahoo office or facility. If you have any questions about how this applies to the role, just ask the recruiter!
+
+Yahoo is proud to be an equal opportunity workplace. All qualified applicants will receive consideration for employment without regard to, and will not be discriminated against based on age, race, gender, color, religion, national origin, sexual orientation, gender identity, veteran status, disability or any other protected category. Yahoo will consider for employment qualified applicants with criminal histories in a manner consistent with applicable law. Yahoo is dedicated to providing an accessible environment for all candidates during the application process and for employees during their employment. If you need accessibility assistance and/or a reasonable accommodation due to a disability, please submit a request via the Accommodation Request Form (www.yahooinc.com/careers/contact-us.html) or call +1.866.772.3182. Requests and calls received for non-disability related issues, such as following up on an application, will not receive a response.
+
+We believe that a diverse and inclusive workplace strengthens Yahoo and deepens our relationships. When you support everyone to be their best selves, they spark discovery, innovation and creativity. Among other efforts, our 11 employee resource groups (ERGs) enhance a culture of belonging with programs, events and fellowship that help educate, support and create a workplace where all feel welcome.
+
+The compensation for this position ranges from $88,500.00 - $184,375.00/yr and will vary depending on factors such as your location, skills and experience.The compensation package may also include incentive compensation opportunities in the form of discretionary annual bonus or commissions. Our comprehensive benefits include healthcare, a great 401k, backup childcare, education stipends and much (much) more.
+
+Currently work for Yahoo? Please apply on our internal career site.

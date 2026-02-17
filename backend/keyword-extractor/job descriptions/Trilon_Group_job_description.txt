@@ -1,0 +1,51 @@
+About the job
+
+Department: Corporate/Administrative
+
+Location: Remote- USA 
+
+
+
+Description
+
+We are seeking a skilled and creative AI Solutions Engineer to join our technology team and lead the development of AI-powered solutions that support Trilon’s highest priority use cases. This role will be responsible for designing, building, and deploying AI agents, custom GPTs, machine learning models, and automation workflows that augment our people, improve efficiency, and unlock new capabilities across our family of companies. 
+
+As a hands-on technical expert, the AI Solutions Engineer will partner closely with our data, application, and business teams to bring intelligent solutions from idea to impact. You will play a central role in shaping how AI is implemented at Trilon, from early prototypes to production-ready tools, while also contributing to enterprise-wide standards, frameworks, and reusable assets.
+
+What You'll Do:
+
+
+AI Solution Development
+Design and build AI agents using LLMs (e.g., OpenAI, Azure, Claude, AWS), vector databases, and orchestration frameworks (e.g., LangChain, Semantic Kernel, or custom stacks).
+Develop and deploy custom GPTs and copilots tailored to Trilon’s business needs, leveraging internal data and APIs securely.
+Create and fine-tune ML models or integrate existing models for tasks such as classification, prediction, summarization, extraction, or recommendation using RAG.
+Integration & Enablement
+Integrate AI capabilities into business applications, workflows, or data pipelines using Microsoft Azure, Power Platform, SharePoint, Teams, or custom front ends.
+Collaborate with data engineering teams to ensure proper data ingestion, transformation, and access patterns for AI use cases.
+Build scalable APIs and tools to operationalize and monitor AI solutions.
+Experimentation & Innovation
+Rapidly prototype AI solutions, test multiple approaches, and iterate based on business feedback.
+Stay current with advancements in AI and machine learning to bring innovative ideas to the organization.
+Governance & Security
+Ensure AI solutions are developed responsibly, with appropriate controls around data privacy, usage limits, and ethical guardrails.
+Contribute to Trilon’s growing repository of reusable AI components, prompts, and templates.
+Documentation & Collaboration
+Document models, prompts, architecture, dependencies, and deployment procedures clearly.
+Work closely with the AI Program Manager, enterprise architects, and business leads to align development efforts with strategic goals.
+
+
+
+What You'll Need:
+
+
+Bachelor or Masters Degree in Computer Science, Data Science, AI/ML, or related field.
+Demonstrated success in designing and deploying AI/ML applications with expertise in LLMs, prompt engineering, embeddings, and orchestration frameworks
+Strong skills in Python (preferred) or JavaScript, with experience building scalable APIs and backend systems.
+Familiarity with Azure OpenAI and cloud services; experience integrating AI with Power Platform, SharePoint, or Teams is a plus.
+Knowledge of MLOps, version control, and model monitoring best practices.
+
+
+
+Why Join Trilon?
+
+Trilon Group is a family of infrastructure-focused firms that share a common goal of delivering innovative, client-centered engineering solutions to address the evolving needs of communities. With over 5,500 employees and more than $1.3 billion in revenue and backlog, Trilon Group emphasizes collaboration, career development, and accelerated growth to create impactful change across the infrastructure landscape. Trilon is the fastest growing company in the AEC industry and combined would rank as the equivalent of #21 on the ENR Top 500.

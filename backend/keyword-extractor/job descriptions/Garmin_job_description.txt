@@ -1,0 +1,37 @@
+About the job
+
+Overview
+
+We are seeking a full-time Software Engineer 1 on the fitness team in our Cary, NC location. In this role, you will be responsible for building upon existing software solutions to develop basic software for Garmin products and/or applications.
+
+Essential Functions
+
+
+Performs new product and/or application software design and development as well as maintenance activities for products and/or applications already in production using C, C++, C#, Java, assembly language, or other selected languages
+Troubleshoots basic issue reports, reproduces issues, evaluates technical cause and implements and tests software solutions
+Identifies and resolves defects of basic scope using proper engineering tools and techniques such as debuggers, emulators, simulators, and logic analyzers
+Applies design standards and procedures using appropriate engineering tools to document and implement basic designs in an organized manner
+
+
+
+Basic Qualifications
+
+
+Bachelor’s Degree in Computer Science, Electrical Engineering, Computer Engineering, Software Engineering, Aerospace Engineering, Math, Physics or related field OR an equivalent combination of education and experience
+Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)
+Demonstrated knowledge, education, experience and/or training necessary to develop basic software in C, C++, C#, Java, assembly language, or other selected languages
+
+
+
+Desired Qualifications
+
+
+Outstanding academics (cumulative GPA greater than or equal to 3.5)
+Experience developing python
+Previous work or internship experience in design, particularly for consumer products
+
+
+
+Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran’s status, age or disability.
+
+This position is eligible for Garmin's benefit program. Details can be found here: Garmin Benefits

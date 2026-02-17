@@ -1,0 +1,66 @@
+About the job
+
+About Artisan
+
+At Artisan, we’re building real AI employees - not copilots, not assistants, but autonomous teammates.
+
+Our first, Ava, is an AI BDR. She finds and researches leads, writes emails in customers’ tone of voice, runs outbound sequences, self-optimizes, and manages email deliverability infrastructure. She learns, adapts, and improves over time - just like a human would.
+
+Human team members use Artisan as their primary working platform, replacing a sprawling stack of sales tools, and have Artisans working alongside them.
+
+We went through Y Combinator (W24) and have raised $35M+ from top investors. We’re at $7M+ ARR, with hundreds of customers including Remote, Quora, and SumUp. We’re currently working on Ava 2.0, pushing the boundaries of what an AI employee can do. And we're hiring.
+
+Your Mission
+
+This isn’t a maintenance gig. You’ll design, build, and scale the backend that powers AI employees. Expect to:
+
+
+Build resilient, scalable services : Architect and implement backend systems and APIs that handle high-throughput AI requests with precision.
+Own end-to-end delivery : From design to deployment, you’ll shepherd features into production rapidly, with quality and ownership.
+Work cross-functionally : Partner with product, design, and AI teams to ensure backend decisions serve real user workflows.
+Use AI as a coworker : Directly collaborate with AI coding agents like Claude Code, leveraging them to boost your productivity and quality.
+Maintain engineering rigor : Champion testing, observability, deployment pipelines, and reliability best practices from day one.
+Drive long-term scalability : Iteratively improve architecture, manage technical debt, and optimize for scale as we grow.
+
+
+What You Bring
+
+
+2+ years of backend engineering experience in high-growth environments, preferably early-stage or Series B.
+Strong experience building scalable, data-intensive services with modern APIs and robust infrastructure.
+Proficiency with cloud-native tools - containers, orchestration (e.g., Kubernetes), monitoring, CI/CD.
+Deep understanding of distributed systems, APIs, reliability, performance, and database systems (SQL + NoSQL).
+Experience with modern stacks - TypeScript/Node preferred, but equivalent backend stacks are welcome.
+Demonstrated track record of ownership - leading parts of systems independently and shipping with impact.
+Excellent communication, clarity in articulating architecture to technical and non-technical stakeholders.
+
+
+What Makes This Role Stand Out
+
+
+End-to-end ownership : You’re not just doing the “ticket”; you own feature delivery. Build systems that support intelligent, autonomous AI teammates.
+Scalable, reliable systems : Backend must handle growth and complexity. High-throughput pipelines serving AI agents across many customers.
+Hands-on infrastructure work : Jump in on deployment, monitoring, tuning. You're shaping the platform that automates itself (AI agents included).
+Collaborative, multidisciplinary environment : Work closely with product, design, ops. Work alongside AI engineers and product partners to define what AI employees can do.
+Balance innovation and technical debt : Iterate quickly while maintaining system health. Ship fast but sustainably - your engine powers AI teammates in production.
+
+
+Why Artisan is the Next Career-Defining Move
+
+
+You’ll be building the infrastructure that powers AI employees - an entirely new product category.
+Real equity upside and compensation aligned with high expectations and high impact.
+High-velocity environment: release often, learn fast, iterate week over week.
+Mission-driven: reshape how businesses scale by putting AI on the front lines.
+
+
+Details
+
+
+Role: Engineering
+Eng type: Backend
+Job type: Full-time
+Experience: 2+ years
+Location: San Francisco or NYC (in-person)
+Remote: In rare circumstances
+US visas: Will sponsor

@@ -1,0 +1,42 @@
+About the job
+
+Voleon is a technology company that applies state-of-the-art AI and machine learning techniques to real-world problems in finance. For nearly two decades, we have led our industry and worked at the frontier of applying AI/ML to investment management. We have become a multibillion-dollar asset manager, and we have ambitious goals for the future.
+
+Your colleagues will include internationally recognized experts in artificial intelligence and machine learning research as well as highly experienced finance and technology professionals. The people who shape our company come from other backgrounds, including concert music performances, humanitarian aid, opera singing, sports writing, and BMX racing. You will be part of a team that loves to succeed together.
+
+In addition to our enriching and collegial working environment, we offer highly competitive compensation and benefits packages, technology talks by our experts, a beautiful modern office, daily catered lunches, and more.
+
+As a Software Engineer, you will play a key role in designing and implementing scalable, high-performance software solutions that drive our trading and research platforms. You will engage deeply with both the technical and business aspects of our operations, working alongside traders, quantitative researchers, and other engineers to create scalable, efficient, and resilient solutions. You'll have the opportunity to tackle challenging technical problems while directly impacting the success and evolution of our trading strategies in a highly dynamic and competitive industry.
+
+Responsibilities
+
+
+Lead and collaborate in diverse and engaging software work, which includes areas such as trading infrastructure, computing and data processing, flexible pipelines for model development, and more
+Design, develop, and maintain robust software that support our trading strategies and research initiatives
+Proactively engage in complex projects from start to finish, which includes gathering project requirements, translating them into a rational software design, reasoning effectively about supporting or dependent technologies, and communicating effectively with teammates
+Collaborate closely with Senior Software Engineers and benefit from mentorship and coaching
+
+
+Requirements
+
+
+Experience developing in a Linux environment with a focus on performance, concurrency, and correctness using languages such as Python, R, Java, Go, and C/C++
+Demonstrated excellence in backend engineering via work with databases, large-scale data processing, highly available services
+Demonstrated ability to design, develop, and deploy a back-end application given design specs
+Excellent interpersonal and communication skills, with the ability to work effectively in cross-functional teams
+Familiarity with modern deployment and build tooling, such as Kubernetes, Bazel, etc. (preferred)
+Bachelor’s degree in computer science or a related technical field (Graduating class of 2026)
+Authorization to work in the United States
+
+
+The base salary range for this position is $160,000 to $170,000 in the location(s) of this posting. Individual salaries are determined through a variety of factors, including, but not limited to, education, experience, knowledge, skills, and geography. Base salary does not include other forms of total compensation such as bonus compensation and other benefits. Our benefits package includes medical, dental and vision coverage, life and AD&D insurance, 20 days of paid time off, 9 sick days, and a 401(k) plan with a company match.
+
+“Friends of Voleon” Candidate Referral Program
+
+If you have a great candidate in mind for this role and would like to have the potential to earn $7,500 - $15,000 if your referred candidate is successfully hired and employed by The Voleon Group, please use this form to submit your referral. For more details regarding eligibility, terms and conditions please make sure to review the Voleon Referral Bonus Program .
+
+Equal Opportunity Employer
+
+The Voleon Group is an Equal Opportunity employer. Applicants are considered without regard to race, color, religion, creed, national origin, age, sex, gender, marital status, sexual orientation and identity, genetic information, veteran status, citizenship, or any other factors prohibited by local, state, or federal law.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

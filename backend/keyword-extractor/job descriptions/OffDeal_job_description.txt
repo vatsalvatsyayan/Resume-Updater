@@ -1,0 +1,54 @@
+About the job
+
+OffDeal is the world’s first AI-native investment bank for small businesses. Instead of selling AI to Goldman Sachs, we’re building what Goldman itself would have looked like if it launched in 2025.
+
+Wall Street's playbook works well, but only for billion-dollar deals - it breaks where most businesses actually exist. Traditional firms run oversized teams on outdated software, making smaller M&A transactions uneconomical. This leaves millions of small business owners with nowhere to turn for the most important sale of their lives… Until now.
+
+Our engineers built software to automate 80%+ of analyst work with AI, so our in-house bankers can focus where it counts - on earning owners’ trust and closing deals.
+
+We recently closed a $12M Series A ($17M in total funding) from Radical Ventures and Y Combinator and are scaling really fast. In less than a year, our team has already launched over 30 sell-side M&A transactions and has delivered numerous life-changing exits to our clients - and we’re just getting started.
+
+Read more about our story:
+
+
+https://www.ft.com/content/9daf5c7e-e301-4b7d-809a-ff9fb336bdbc
+https://www.cnbc.com/video/2025/08/04/wall-streets-new-ai-era-offdeal-ceo-on-using-ai-to-disrupt-investment-banking.html
+https://www.fullydistributed.co/p/the-bull-case-for-an-ai-native-investment
+
+
+The Role
+
+As a Full Stack Engineer, you'll work directly with the CTO and the investment banking team to build the AI-native platform that empowers our investment bankers to be 10x more productive.
+
+Your work will directly impact how $10 trillion worth of small businesses change hands over the coming decade.
+
+What You'll Do
+
+
+Collaborate with our in-house investment bankers to own 0 to 1 projects, from ideation to deployment
+Build across the entire stack, in our 100% TypeScript (i.e. ReactJS + NodeJS) codebase
+Work with the latest AI tech, from on our in-house AI agents to complex recommendation and search algorithms
+
+
+We’re Looking for Someone Who Has / Is a…
+
+
+Proficiency in TypeScript, React, and Node.js with experience building full-stack applications
+Bachelor's degree in Computer Science, Software Engineering, or related technical field
+Previous software engineering experience through internships, co-ops, or professional roles
+Comfort in ambiguous and unstructured startup work environments
+Willingness to work in-person at our NYC office, 5 days a week
+
+
+Why Join OffDeal
+
+
+We only hire best-in-class engineers, and are offering compensation to reflect it
+Top-tier benefits, including medical, dental, vision, and unlimited PTO
+Perks like free food, Equinox membership, and NYC relocation allowance
+Work with bleeding edge AI on a modern codebase
+Opportunity to be a foundational team member at a well-funded, high-growth startup
+Be part of a mission to shape the future of small business ownership and to promote American entrepreneurship
+
+
+Compensation Range: $140K - $180K

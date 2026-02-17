@@ -1,0 +1,70 @@
+About the job
+
+Why Numeric
+
+Every business relies on accounting. Yet most software in the space was built in the early 2000s — clunky, slow, and far behind the curve on AI. Today, accountants are facing a growing, unsolved data problem as a consequence of complexity, data, and system fragmentation — and they lack the tools to solve it. The problems are real, hard, and increasingly urgent. But they’re solvable.
+
+Enter Numeric — the modern financial data platform for accounting and finance. Weaving together data, workflows, and AI-first solutions, we’re empowering accounting teams to achieve verifiable, detailed financial data faster and make business decisions with greater confidence.
+
+We have strong product market fit and a growing base of customers who love our product — including Anthropic, Plaid, Brex, Betterment, and many more. We’re backed by top-tier investors including Menlo Ventures, IVP, Founders Fund, and 8VC, along with founders and executives from Ramp, Segment, and other category-defining companies.
+
+About The Role
+
+As an engineer at Numeric, you will own end-to-end execution of product execution as well as inform product strategy and direction. We look for bright, fast builders with strong fundamentals and a focus on helping our users and solving the right problems.
+
+What you might work on
+
+Developing our financial data platform, consisting of:
+
+
+A synchronization and transformation system which drives the unified data model behind our reporting, analytics, etc. 
+The reporting experience, in which end-users can flexibly define highly-structured projections of financials to be saved as reports and integrated into their workflows. Reports are traceable and composable, allowing users to drill down to the underlying transaction-level details and more. 
+
+
+Expanding and scaling the automation layer:
+
+
+Our generalizable subledger offering allows users to drop a contract file and let us do the rest. We automate the full cycle accounting treatment, in which we:
+Parse source documentation and extract information needed to produce the accounting treatment and inputs
+Project change over time, including handling new events and unanticipated changes on the timeline
+Synchronize to and from external accounting systems, yielding end-to-end automation of the accounting workflow
+Transaction monitoring to detect, flag, and resolve anomalies & bad data, preventing downstream headaches and errors. 
+
+
+A new transactional foundation:
+
+
+Our platform to connect and automate the graph of a company's assets and activities, opening the door to greater automation and insight into the activities of the organization. 
+and much more!
+
+
+Requirements
+
+
+Computer science or other technical degree
+2+ Internships or other working experience in software engineering
+
+
+How we work
+
+This role is in person in San Francisco or New York (in office by default but with flexibility to manage your schedule as you see fit).
+
+We strongly believe we will only be successful if everyone on the team is anchored in our following set of core principles:
+
+
+Brick by Brick: To win, our team needs to show up and execute in each domain every day. 
+Love the Game: We focus on the craft and a deep sense of giving a f*ck. We’re building a company full of people who are equally engaged and motivated. 
+SALY: We refuse to accept “Same As Last Year.” For too long, accounting and finance systems have reflected outdated processes instead of reimagining what’s possible. We’re driven by a first-principles approach to building better solutions. 
+Own the Outcome: We own our results. We typically hire builders and give them large mandates with high-trust. Engineers are responsible not just for code, but for ensuring the product is solving the end problems of the users. 
+Earn the right: We’re impatient to deliver results. We relentlessly iterate, measure, and improve. Every day is an opportunity to beat our prior best, raising the bar for the value we deliver to customers. E Pluribus Unum-eric. 
+
+
+The engineering team here is a high-ownership, fast-paced, customer-focused group. We believe the best company is the one with the best ICs, and we’ve built a culture in which engineers have substantial decision-making power and input into product strategy and planning.
+
+Our engineers meet with users both to understand their needs as well as to build empathy, and every member of the team is expected to build a deep understanding of the domain, our product, and our users.
+
+We ship early & often. We are constantly raising the bar. We believe great product & engineering come both from a desire to win and also from a love for the game. We work in person and seek to maximize the environment where we do great work together.
+
+Read some of our thoughts on engineering and company-building here.
+
+Compensation Range: $125K - $175K

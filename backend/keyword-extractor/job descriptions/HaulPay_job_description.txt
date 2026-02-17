@@ -1,0 +1,34 @@
+About the job
+
+Why work for us?
+
+A division of Dakota Financial, HaulPay works at the junction of transportation and financial technology: We enable small and medium-sized companies in the transportation industry to work more effectively. We help them by improving their cash flow, automating the mundane and eliminating financial stress. 
+We are the only financial platform to incorporate fraud mitigation, credit management, payment automation and innovative financial services for logistics in one easy to use app and API.
+We are an agile, customer-focused, and collaborative organization where your contributions count. We are running an essential service for thousands of small and independent client companies.
+Our technology is responsible for processing tens of thousands of financial transactions every month. With transaction volume growing rapidly, we need a team of great engineers to support that growth.
+
+
+
+
+Qualifications & Experience
+
+A detailed-oriented, quality-minded Full-Stack Software Engineer.
+Likes to work with other engineers to ensure that work products follow best practices, meet technical requirements and achieve high quality standards.
+Thrives in a creative, communicative, fast-paced, and collaborative environment.
+Tests everything you reasonably can test, and leave the code cleaner than you found it.
+Consistently great to work with, and contributes to our open and collaborative environment.
+Experience with Python, Django, Celery, and PostgreSQL on the backend, and with Typescript and React on the frontend essential.
+Experience with Docker, Kubernetes, AWS, and general DevOps practices (continuous integration/continuous delivery, infrastructure as code, automated testing, monitoring/observability) a plus.
+A degree in computer science a plus.
+Experience with SaaS solutions for financial transaction processing, accounting, and/or commercial transportation a plus.
+
+
+
+
+Compensation / Benefits / Location / Working Arrangements
+
+Salary range is $85-145k, commensurate with experience.
+Full medical, dental, vision and life insurance.
+401k with up to 4% employee matching, gym and entertainment benefits.
+Flexible PTO policy, and we encourage our team to enjoy their personal time and unplug.
+Based in Long Beach, California but work remotely most of the time. We have an in-office day every week to meet face-to-face, do a lot of whiteboarding, and have lunch together for team members who reside in the area.

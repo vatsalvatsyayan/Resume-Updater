@@ -1,0 +1,23 @@
+About the job
+
+At CVS Health, we’re building a world of health around every consumer and surrounding ourselves with dedicated colleagues who are passionate about transforming health care.
+
+As the nation’s leading health solutions company, we reach millions of Americans through our local presence, digital channels and more than 300,000 purpose-driven colleagues – caring for people where, when and how they choose in a way that is uniquely more connected, more convenient and more compassionate. And we do it all with heart, each and every day.
+
+Position Summary: CVS Pharmacy, Inc., a CVS Health company, is hiring for the following role in Woonsocket, RI Software Development Engineer to Design and develop software applications and platforms to support digital strategies and solutions. Duties include: analyze user needs and develop software solutions to meet business requirements; determine feasibility of solutions design and prepare technical design documentation; upgrade existing software applications and/or systems to improve functionality and features with a focus on performance, reliability, and maintainability; write and review high quality code and perform unit and/or automation testing; develop and deploy application components and support unit testing and bug fixes; participate in AGILE Scrum meetings and/or CI/CD; support applications, systems, and databases used to process prescriptions, claims, and related healthcare activities; and collaborate with cross-functional teams on applications development, technical requirements, code review, project deliverables, quality assurance, and software development best practices. Telecommuting available. Multiple positions.
+
+
+ Requirements: Master’s degree (or foreign equivalent) in Computer Science, Computer Engineering, Information Technology, Engineering, or a related field and two (2) years of experience in the job offered or related occupation. Requires two (2) years of experience in each of the following: CI/CD, Jenkins, GIT, or DevOps; Agile methodologies or SAFe Software Development Principles; JIRA, Rally, or Confluence; Software development lifecycle (SDLC); Domain support for healthcare or retail organization; Healthcare data management processes and techniques, including data standards, interoperability, and proper data privacy; Writing application code and deploying to production; Developing backend services, performing code reviews, and collaborating with peers on software development solutions; Relational database concepts; and Software development best practices.
+
+
+Pay Range: $109512.00/year to $140000.00/year.
+
+This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. This position also includes an award target in the company’s equity award program.
+
+In addition to your compensation, enjoy the rewards of an organization that puts our heart into caring for our colleagues and our communities. The Company offers a full range of medical, dental, and vision benefits. Eligible employees may enroll in the Company’s 401(k) retirement savings plan, and an Employee Stock Purchase Plan is also available for eligible employees. The Company provides a fully-paid term life insurance plan to eligible employees, and short-term and long term disability benefits. CVS Health also offers numerous well-being programs, education assistance, free development courses, a CVS store discount, and discount programs with participating partners. As for time off, Company employees enjoy Paid Time Off (“PTO”) or vacation pay, as well as paid holidays throughout the calendar year. Number of paid holidays, sick time and other time off are provided consistent with relevant state law and Company policies.
+
+For more detailed information on available benefits, please visit https://jobs.cvshealth.com/us/en/benefits
+
+This job does not have an application deadline, as CVS Health accepts applications on an ongoing basis.
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.

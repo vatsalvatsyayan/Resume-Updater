@@ -1,0 +1,88 @@
+About the job
+
+MongoDB’s mission is to empower innovators to create, transform, and disrupt industries by unleashing the power of software and data. We enable organizations of all sizes to easily build, scale, and run modern applications by helping them modernize legacy workloads, embrace innovation, and unleash AI. Our industry-leading developer data platform, MongoDB Atlas, is the only globally distributed, multi-cloud database and is available in more than 115 regions across AWS, Google Cloud, and Microsoft Azure. Atlas allows customers to build and run applications anywhere—on premises, or across cloud providers. With offices worldwide and over 175,000 new developers signing up to use MongoDB every month, it’s no wonder that leading organizations, like Samsung and Toyota, trust MongoDB to build next-generation, AI-powered applications.
+
+We're looking for a Software Engineer with a strong background in computer science fundamentals and systems design to join our engineering team. In this role, you will play a key part in building and optimizing the underlying data structures, algorithms, and database interactions that power our generative AI platform and code generation tools. This involves crafting sophisticated orchestration layers, robust integration points, and high-performance data systems that seamlessly connect and leverage advanced AI capabilities for code generation. While our immediate focus is on this domain, this role emphasizes strong foundational engineering principles that apply broadly to complex, high-performance systems. Deep prior experience with AI models or machine learning is not a requirement; your strong grasp of core computer science is what matters most, and you'll be given ample time and resources to build expertise in the AI domain. You will work on critical components that ensure the scalability, efficiency, and reliability of our services, collaborating closely with AI researchers and other engineers to translate complex requirements into robust technical solutions.
+
+As a Software Engineer on our team, you'll be hands-on with implementation and problem-solving, working with engineers across experience levels to build a robust, scalable system. The focus is on performance, correctness, and architectural excellence in a rapidly evolving, data-intensive environment.
+
+Many organizations have built up large estates of legacy applications. Lack of scalability and resilience, long development times, operating costs, and inability to run on the cloud are common issues with these applications. To address these issues, organizations are engaging in large transformational Application Modernization programs. MongoDB is recognized as the developer data platform of choice for transactional systems that provide the best scalability, resiliency, and developer experience in the cloud and on-premises. Organizations continuously migrate workloads from these legacy applications to new platforms, often based on microservices, using MongoDB.
+
+Such transformations are very time-intensive and often risky. MongoDB is bolstering its team by creating tools that guide customers in transitioning their applications from relational databases to MongoDB. As businesses evolve their application development frameworks, they're increasingly drawn to the versatility of the document model. The Application Modernization team, already instrumental in this area, aids developers in making the shift from relational databases to MongoDB via Relational Migrator. Now, they're broadening their toolkit and are keen on modernizing code using a mix of AI and traditional text processing.
+
+This role can be based out of our MongoDB offices or remotely in the US and Canada.
+
+What You'll Do
+
+
+Implement and optimize high-performance data structures and algorithms for core components of our generative AI orchestration platform
+Design and develop efficient data pipelines and storage solutions for AI model integration and output processing
+Collaborate with AI researchers and machine learning engineers to understand data needs
+Identify and address performance bottlenecks and architectural challenges in our systems, particularly within data flow and orchestration
+Contribute to platform features like data versioning, efficient data retrieval, and ensuring data integrity for AI-generated code and related metadata
+Participate in code reviews, design discussions, and contribute to the overall technical direction of the team
+Work to develop robust and efficient backend services that orchestrate AI functionalities
+
+
+Who You Are
+
+
+2+ years of engineering experience in backend systems, distributed systems, or core platform development
+Strong foundation in data structures and algorithms, with experience applying them to solve problems
+Proficiency in one or several of Java, Rust, C/C++, and/or Python, with a strong understanding of systems-level programming, memory management, and performance tuning
+Experience working on backend systems, with an understanding of system availability and performance
+Ability to diagnose and troubleshoot technical issues in production environments
+Excellent problem-solving skills and the ability to work effectively in a fast-paced, collaborative environment
+Proven ability to collaborate across disciplines and experience levels, from researchers to junior engineers
+Proficiency with SQL (preferably Oracle), including querying, schema design, and database optimization
+You have a strong desire to understand complex problem spaces and own solutions
+
+
+Nice to Have
+
+
+Familiarity with cloud-native distributed systems (e.g., Kubernetes, Kafka)
+Experience with NoSQL databases and understanding of their trade-offs is great, but not required. We'll teach you NoSQL
+Contributions to relevant open-source projects
+
+
+Success Measures
+
+Within the first three months, you will have:
+
+
+Familiarise yourself with the MongoDB database and aggregation language
+Familiarise yourself with the problem space and the domain
+Set up software development infrastructure (tech stack, build tools, etc) to enable development using the relevant tech stacks
+Started collaborating with your peers and contributed to code reviews
+
+
+Within six months, you will have:
+
+
+Worked on and delivered a complex code generation feature in the product
+Contributed to and helped deliver a few product releases
+Reviewed and contributed to scope and technical design documents
+
+
+Within 12 months, you will have:
+
+
+Consistently delivered features and bug fixes across our tech stack
+Helped recruit and interview new members of the team
+Collaborated with other teams at MongoDB
+
+
+To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it’s like to work at MongoDB, and help us make an impact on the world!
+
+MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.
+
+MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+Req ID: 425570
+
+MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.
+
+MongoDB’s base salary range for this role in the U.S. is:
+
+$101,000—$257,000 USD

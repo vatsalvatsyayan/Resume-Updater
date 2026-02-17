@@ -1,0 +1,46 @@
+About the job
+
+As the global leader in high-speed connectivity, Ciena is committed to a people-first approach. Our teams enjoy a culture focused on prioritizing a flexible work environment that empowers individual growth, well-being, and belonging. We’re a technology company that leads with our humanity—driving our business priorities alongside meaningful social, community, and societal impact.
+
+How You Will Contribute
+
+As a Software Developer in a dynamic team environment, you will push the boundaries of what is possible in optical network solutions. You will contribute to projects that play critical roles in our network solutions and help build upon our innovative technology. You will also challenge yourself and others by bringing fresh ideas to new challenges and leading by example.
+
+
+You will play a key role in crafting, developing, testing, deploying, maintaining, and improving software.
+You will be accountable for managing individual project priorities, assignments, and timelines.
+You will participate in the full software development lifecycle, collaborating with multi-functional teams of developers, UX designers, quality assurance teams & release managers.
+
+
+The Must Haves
+
+
+Bachelor’s degree in Electrical/Computer Engineering, Computer Science or a related field coupled with a proven track record in software development.
+Demonstrated ability to develop with one or more of the following programming languages - C, C++ or Python.
+Experience working with Linux-based developer tools and debugging environment such as GNU, GCC, GDB, Insight.
+Knowledge of development tools such as Git, JIRA, Yocto, Docker, Bitbucket, Confluence.
+Familiarity with CI frameworks such as Jenkins, Grafana, Kubernetes.
+
+
+Assets
+
+
+Proven experience developing software embedded solutions engineered for performance and reliability on multi-processor, highly concurrent systems.
+Real-time OS and embedded systems
+Agile development methodologies
+Messaging interfaces Netconf, REST/HTTP, gRPC
+YANG modeling language and toolchains
+Automation and Test
+
+
+Pay ranges at Ciena are designed to accommodate variations in knowledge, skills, experience, market conditions, and locations, reflecting our diverse products, industries, and lines of business. Please note that the pay range information provided in this posting pertains specifically to the primary location, which is the top location listed in case multiple locations are available.
+
+Non-Sales employees may be eligible for a discretionary incentive bonus, while Sales employees may be eligible for a sales commission. In addition to competitive compensation, Ciena offers a comprehensive benefits package, including medical, dental, and vision plans, participation in 401(K) (USA) & DCPP (Canada) with company matching, Employee Stock Purchase Program (ESPP), Employee Assistance Program (EAP), company-paid holidays, paid sick leave, and vacation time. We also comply with all applicable laws regarding Paid Family Leave and other leaves of absence.
+
+Not ready to apply? Join our Talent Community to get relevant job alerts straight to your inbox.
+
+At Ciena, we are committed to building and fostering an environment in which our employees feel respected, valued, and heard. Ciena values the diversity of its workforce and respects its employees as individuals. We do not tolerate any form of discrimination.
+
+Ciena is an Equal Opportunity Employer, including disability and protected veteran status.
+
+If contacted in relation to a job opportunity, please advise Ciena of any accommodation measures you may require.

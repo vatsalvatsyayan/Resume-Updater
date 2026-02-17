@@ -1,0 +1,502 @@
+Veeam Software
+
+Frontend Developer, VDC 
+
+United States · 42 minutes ago · 24 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+Remote
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+Veeam, the #1 global market leader in data resilience, believes businesses should control all their data whenever and wherever they need it. Veeam provides data resilience through data backup, data recovery, data portability, data security, and data intelligence. Based in Seattle, Veeam protects over 550,000 customers worldwide who trust Veeam to keep their businesses running. Join us as we move forward together, growing, learning, and making a real impact for some of the world’s biggest brands. The future of data resilience is here - go fearlessly forward with us.
+
+About The Role
+
+Veeam Data Cloud is a software as a service (SaaS) offering for backup and recovery and data resiliency. It is a simple, flexible and powerful service that is built on top of Veeam’s industry leading technology. This job description is for a frontend engineer on the VDC team, located in the United States.
+
+What You’ll Do
+
+
+Design and development of highly responsive user interface components for web applications using React. 
+Test and troubleshoot web applications. Design and maintain unit test and end-to-end test frameworks. 
+Build reusable components and front-end libraries for future use. 
+Collaborate with other engineering teams to discuss requirements, design and implementation. 
+
+
+What you'll bring
+
+
+Experience with React, JavaScript, TypeScript, HTML and CSS. 
+Strong computer science fundamentals (data structures and algorithms). 
+You are passionate about code quality, extensibility, coding standards, testing, and automation. 
+You are impact and result-driven and biased towards execution. 
+BS, MS or Ph.D. in Computer Science, Computer Engineering, or equivalent industry experience. 
+
+
+Bonus Skills
+
+
+Experience with database and/or storage systems – especially in the public cloud 
+Experience with Azure Cloud 
+Experience with Microsoft 365 
+Experience with Salesforce 
+
+
+What You'll Get
+
+
+Unlimited paid time off, 12 paid holidays, plus 4 extra global VeeaMe Days for self-care and 24 paid volunteer hours annually through Veeam Cares
+Paid parental leave: 8 weeks for all parents, 16 weeks for birthing parents
+Medical, dental, and vision coverage starting on your first day
+Mental health support, therapy sessions, and digital wellness tools via our Employee Assistance Program
+401(k) retirement plan with company matching contributions
+Fertility, adoption, and surrogacy support through Maven, plus paid volunteer time
+AirVet: 24/7 virtual veterinary care at no cost
+Legal services, identity protection, and supplemental health insurance options
+Tax-advantaged spending accounts for healthcare, dependent care, and commuting
+Opportunities to learn and grow through on-demand libraries (LinkedIn Learning, O’Reilly), mentoring, workshops, and learning events like our annual Global Day of Learning
+
+
+Compensation Transparency
+
+Veeam is committed to pay transparency and equitable compensation. For this role, the compensation range below reflects the expected total target compensation (TTC), inclusive of base pay and a competitive performance-based bonus. For roles with a commission plan, the compensation range represents On Target Earnings (OTE), which includes base salary plus variable commission. When determining compensation, Veeam takes into consideration factors such as experience, education, skills, and geographic zone. Offers are typically made below the midpoint of the range.
+
+In addition to compensation, Veeam provides a comprehensive benefits package, including health coverage, retirement plans, and unlimited time off.
+
+U.S. Geographic Zones & Compensation Ranges (TTC / OTE)
+
+Zone 1: San Francisco Bay Area, New York City Boroughs
+
+$237,800—$441,500 USD
+
+Zone 2: Washington, California (excluding San Francisco Bay Area)
+
+$218,000—$404,700 USD
+
+Zone 3: Texas, Illinois, North Carolina, Colorado, Massachusetts, Pennsylvania, Virginia, Oregon, Nevada, Hawaii, New York (excluding NYC boroughs); Sales roles located in Georgia, Ohio, and Arizona
+
+$198,100—$367,900 USD
+
+Zone 4: All other US locations
+
+$172,400—$320,100 USD
+
+Veeam Software is an equal opportunity employer and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept confidential.
+
+Please note that any personal data collected from you during the recruitment process will be processed in accordance with our Recruiting Privacy Notice.
+
+The Privacy Notice sets out the basis on which the personal data collected from you, or that you provide to us, will be processed by us in connection with our recruitment processes.
+
+By applying for this position, you consent to the processing of your personal data in accordance with our Recruiting Privacy Notice.
+
+By submitting your application, you acknowledge that the information provided in your job application and any supporting documents is complete and accurate to the best of your knowledge. Any misrepresentation, omission, or falsification of information may result in disqualification from consideration for employment or, if discovered after employment begins, termination of employment.
+
+
+
+
+… more
+
+Benefits found in job post
+
+401(k), Medical insurance
+
+Set alert for similar jobs
+
+Frontend Developer, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+24
+
+total
+
+24
+
+in the past day
+
+Candidate seniority level
+
+63% Entry level candidates
+
+25% Senior level candidates
+
+Candidate education level
+
+76
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+24
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about Veeam Software
+Powered by Bing
+
+Company focus areas
+
+• Strategic Partnerships: Expand strategic partnerships to enhance data resilience and backup solutions. Veeam has deepened its partnership with HPE to deliver superior data resiliency and recovery solutions.
+
+...more
+
+Sources: veeam.com +1 more
+
+Hiring & headcount
+
+Significant growth in the Engineering department: The company has increased its Engineering headcount by 22% over the past year, indicating a strong focus on product development and innovation. Expansion in Sales: The Sales department has grown by 9% in the past year, suggesting an emphasis on increasing market reach and revenue generation. Increased focus on Human Resources: With a 21% increase in HR headcount, the company is likely investing in talent acquisition and employee development to support its growth. Notable rise in Finance and Administrative roles: Both departments have seen significant increases of 27% and 28% respectively, indicating a bolstering of financial management and administrative support to sustain the company's expansion.
+… more
+
+The latest hiring trend
+
+6,733
+
+Total employees
+
+22%
+
+Company-wide
+
+2 year growth
+
+52%
+
+Engineering
+
+2 year growth
+
+Loading chart...
+
+Median employee tenure: 3.6 years
+
+Veeam Software hires candidates from some of these companies and schools
+
+Veeam Software hired 1 person from University of Southern California. See all
+
+Veeam Software hired 11 people from University of Southern California. See all
+
+Competitors
+
+Veeam Software Corporation is a leading player in the data resilience and backup market, consistently recognized as a leader in the Gartner Magic Quadrant for Backup & Data Protection Platforms. The company has strengthened its position through strategic acquisitions, such as Securiti AI, and partnerships with major technology firms like HPE. Veeam faces competition from other major companies in the data protection and recovery solutions market, including Commvault, Dell Technologies, and IBM. These competitors offer a range of solutions that challenge Veeam's market share by providing diverse features and targeting various customer needs.
+… more
+
+Sources: mordorintelligence.com +2 more
+
+Show Premium Insights
+About the company
+
+Veeam Software
+
+443,729 followers
+
+Follow
+
+Software Development
+
+ • 
+
+5001-10000 employees
+
+ • 
+
+6,730 on LinkedIn
+
+Welcome to Veeam’s LinkedIn page. Follow us here for company news, product updates, events and more. 
+
+With Veeam, the trusted data and safe AI company, your data is understood, secured, and resilient so you can unleash it to accelerate safe AI at scale.  Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, including 82% of the Fortune 500. 
+
+Accelerate Safe AI at Scale. 
+
+Learn more at veeam.com or follow Veeam on X @veeam. 
+Learn more at www.veeam.com or follow Veeam on X @veeam.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Founding iOS Developer
+
+crtd labs
+
+San Francisco Bay Area (Remote)
+
+$100K/yr - $140K/yr
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 3:13 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Product Engineer (Software)
+
+Automotus
+
+United States (Remote)
+
+$140K/yr - $180K/yr
+
+ • 
+
+6 benefits
+
+1 school alumni works here
+
+Posted on November 7, 2025, 10:10 AM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+eTrigue Corp.
+
+San Jose, CA (Remote)
+
+Posted on January 20, 2026, 7:43 PM
+6 days ago
+
+Software Developer - Chile (Verified job)
+Software Developer - Chile 
+
+Symphonic Distribution
+
+United States (Remote)
+
+3 school alumni work here
+
+Posted on January 14, 2026, 2:43 PM
+1 week ago
+
+Python Engineer - Compliance Quality (100% Remote)
+
+Blue Ocean Technologies, LLC
+
+United States (Remote)
+
+5 benefits
+
+Actively reviewing applicants
+
+Posted on October 24, 2025, 8:24 AM
+3 months ago
+
+ · 
+
+ Easy Apply
+
+Full-stack Python React Web Application Developer
+
+Grantd
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on December 30, 2025, 7:11 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Senior AI Engineer (Verified job)
+Senior AI Engineer 
+
+RENFROE®
+
+United States (Remote)
+
+Posted on January 6, 2026, 7:07 AM
+3 weeks ago
+
+Back End Developer
+
+Naologic
+
+United States (Remote)
+
+$75K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on December 8, 2025, 11:18 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer - Full Stack (Verified job)
+Software Engineer - Full Stack 
+
+TCI (Teachers'​ Curriculum Institute)
+
+United States (Remote)
+
+$96K/yr - $145K/yr
+
+ • 
+
+401(k) benefit
+
+1 school alumni works here
+
+Posted on November 24, 2025, 3:52 PM
+2 months ago
+
+Software Engineer
+
+Flex
+
+United States (Remote)
+
+1 school alumni works here
+
+Posted on September 4, 2025, 3:26 PM
+5 months ago
+
+Full Stack Engineer
+
+Endeavor Flow
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on November 12, 2025, 6:28 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Back End Developer
+
+SafeHill
+
+United States (Remote)
+
+Posted on November 1, 2025, 1:10 AM
+3 months ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

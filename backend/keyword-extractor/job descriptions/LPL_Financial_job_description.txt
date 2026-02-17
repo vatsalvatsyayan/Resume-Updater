@@ -1,0 +1,109 @@
+About the job
+
+What if you could build a career where ambition meets innovation? At LPL Financial, we empower professionals to shape their success while helping clients pursue their financial goals with confidence. What if you could have access to cutting-edge resources, a collaborative environment, and the freedom to make an impact?
+
+As the nation's largest independent broker-dealer firm and a member of the Fortune 500, we're swiftly evolving into a high-performance fintech organization. Joining us as a technologist puts you at the heart of this transformation. With locations in Austin, Charlotte, and San Diego, our team of dedicated professionals supports financial advisors in enhancing their clients' financial futures. Your work will revolutionize our support for financial advisors and make a difference to millions of lives. If you're ready to take the next step, discover what’s possible with LPL Financial.
+
+Job Overview:
+
+Our Infrastructure and Operations (I&O) teams at LPL Financial designs, builds, and maintains the technology systems that power the company. This includes everything from cloud platforms and data centers to networks and enterprise applications. Their job is to make sure these systems are secure, scalable, and always available. They use automation, monitoring tools, and incident response strategies to keep things running smoothly and support continuous software delivery with minimal downtime.
+
+If you're starting your career in tech, I&O offers a great opportunity to work with large-scale systems and modern tools. You might help build infrastructure using code, optimize cloud services, monitor system performance, or support platform engineering projects. These roles give you hands-on experience with tools like AWS, Kubernetes, CI/CD pipelines, and more—while making a real impact on the reliability and performance of LPL’s technology.
+
+This position would like the ideal candidate to be local to the Fort Mill and San Diego offices functioning off a hybrid schedule at the manager’s discretion.
+
+Opportunities:
+
+
+As an Infrastructure Platform Engineer, you’ll work with both production and non-production systems across cloud and on-prem environments. You’ll use software engineering principles to automate tasks, improve system reliability and scalability, and solve technical problems before they affect users. You’ll be responsible for the infrastructure that supports key products, making sure it’s secure, resilient, and aligned with business needs. This role is ideal for someone who enjoys building and maintaining systems using tools like Terraform, monitoring platforms, and cloud services.
+ As a Tech Support Analyst, your main job is to help LPL employees with their IT needs—whether that’s fixing issues, answering questions, or helping them get set up with new tools. You’ll communicate across channels like phone, chat, and email to resolve problems quickly and professionally. You’ll also support broader IT initiatives, like onboarding new hires, encouraging adoption of new technologies, and helping build a knowledge base that will support future automation and AI-driven support. It’s a great role for someone who enjoys problem-solving and working directly with users.
+As a Systems Engineer, you’ll manage cloud and on-prem systems that support LPL’s technology platforms. You’ll take an engineering-first approach to operations—automating workflows, improving performance, and ensuring systems are secure and resilient. You’ll be responsible for identifying and fixing issues, deploying infrastructure using code, and optimizing how systems run. This role is a great fit for someone who wants to work on distributed systems, cloud-native architectures, and enterprise-scale infrastructure.
+
+
+
+What are we looking for?
+
+We’re looking for strong collaborators who deliver exceptional client experiences and thrive in fast-paced, team-oriented environments. Our ideal candidates pursue greatness, act with integrity, and are driven to help our clients succeed. We value those who embrace creativity, continuous improvement, and contribute to a culture where we win together and create and share joy in our work.
+
+Requirements:
+
+
+Bachelor's Degree or advanced degree in Computer Science, or related field required
+Classroom experience directly related to your preferred role
+Experiences such as an internship, hackathon, research project or related experience
+Demonstrated proactive approach to problem solving and task completion, taking ownership of assignments
+
+
+
+Core Competencies:
+
+
+Proficient organizational and communication skills, both oral and written
+Demonstrated time management skills
+Strong intellectual curiosity and willingness to embrace change and quickly learn new technologies and frameworks as the software landscape evolves
+
+
+
+Preferences:
+
+
+Good understanding of at least one programming language (i.e C++ or Java)
+Good understanding of networking technology (i.e. Routers, Switches)
+Basic understanding of cloud concepts (i.e AWS, Azure or GCP)
+Ability to work independently and collaborate with team
+
+
+
+Please note: In order to be eligible, candidates must have an expected graduation date between May 2025 and June 2026
+
+Disclaimer for international students:
+
+
+Positions offered are for full time work at 40 hours per week
+Please consult your Designated School Official to confirm your ability prior to applying
+You will be responsible for obtaining the appropriate documentation required to work in the United States.
+
+
+
+Pay Range: 
+
+$40.87-$45.18/hour
+
+The hourly amount is dependent on a number of factors, including the applicant’s skill, experience, and work location.
+
+Pay Range: 
+
+Actual base salary varies based on factors, including but not limited to, relevant skill, prior experience, education, base salary of internal peers, demonstrated performance, and geographic location. Additionally, LPL Total Rewards package is highly competitive, designed to support your success at work, at home, and at play – such as 401K matching, health benefits, employee stock options, paid time off, volunteer time off, and more. Your recruiter will be happy to discuss all that LPL has to offer!
+
+Company Overview:
+
+LPL Financial Holdings Inc. (Nasdaq: LPLA) is among the fastest growing wealth management firms in the U.S. As a leader in the financial advisor-mediated marketplace. LPL supports over 29,000 financial advisors and the wealth-management practices of 1,100 financial institution, servicing and custodying approximately $1.9 trillion in brokerage and advisory assets on behalf of approximately 7 million Americans. The firm provides a wide range of advisor affiliation models, investment solutions, fintech tools and practice management services, ensuring that advisors and institutions have the flexibility to choose the business model, services, and technology resources they need to run thriving businesses.
+
+At LPL, independence means that advisors and institution leaders have the freedom they deserve to choose the business model, services, and technology resources that allow them to run a thriving business. They have the flexibility to do business their way. And they have the freedom to manage their client relationships, because they know their clients best. Simply put, we take care of our advisors and institutions, so they can take care of their clients.
+
+For further information about LPL, please visit www.lpl.com.
+
+Join LPL Financial: Where Your Potential Meets Opportunity
+
+At LPL Financial, we believe that everyone deserves objective financial guidance. As the nation’s leading independent broker-dealer, we offer an integrated platform of cutting-edge technology, brokerage, and investment advisor services.
+
+Why LPL?
+
+
+Innovative Environment: We foster creativity and growth, providing a supportive and responsive leadership team. Learn more about our leadership team here!
+Limitless Career Potential: Your career at LPL has no limits, only amazing potential. Learn more about our careers here!
+Unified Mission: We are one team on one mission—taking care of our advisors so they can take care of their clients. Learn more about our mission and values here!
+Impactful Work: Our size is just right for you to make a real impact. Learn more here!
+Commitment to Equality: We support workplace equality and embrace diverse perspectives and backgrounds. Learn more here!
+Community Focus: We care for our communities and encourage our employees to do the same. Learn more here!
+Benefits and Total Rewards: Our Total Rewards package goes beyond just compensation and insurance. It includes a mix of traditional and unique benefits, perks, and resources designed to enhance your life both at work and at home. Learn more here!
+
+
+
+Join the LPL team and help us make a difference by turning life’s aspirations into financial realities. Please log in or create an account to apply to this position. Principals only. EOE.
+
+Information on Interviews:
+
+LPL will only communicate with a job applicant directly from an @lplfinancial.com email address and will never conduct an interview online or in a chatroom forum. During an interview, LPL will not request any form of payment from the applicant, or information regarding an applicant’s bank or credit card. Should you have any questions regarding the application process, please contact LPL’s Human Resources Solutions Center at (855) 575-6947.
+
+EAC1.22.25

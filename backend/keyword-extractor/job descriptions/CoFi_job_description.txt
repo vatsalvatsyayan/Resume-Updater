@@ -1,0 +1,471 @@
+CoFi
+
+Full Stack Software Engineer
+
+Pleasant Grove, UT · 3 hours ago · 76 applicants
+
+Promoted by hirer · Company review time is typically 1 week
+
+On-site
+Full-time
+Easy Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Meet the hiring team
+
+Jacob Gallegos 
+
+• 3rd
+
+Startup | React | Dotnet
+
+Job poster
+
+Message
+About the job
+
+Full-Stack Software Developer
+
+Experience Level: Mid-Level (2–4 years)
+
+About CoFi
+
+CoFi is a fintech company transforming how construction lending and payments work. We build software that helps lenders, builders, and contractors manage the complex financial workflows of construction projects—from loan origination through draw management and payments. Our platform simplifies processes that have traditionally been manual, paper-heavy, and error-prone.
+
+About the Role
+
+We're looking for a Full-Stack Developer to help us build and scale our construction finance platform. You'll work across the stack—crafting intuitive interfaces for lenders and contractors while developing the robust backend systems that handle loan workflows, payment processing, and document management. This is an opportunity to solve real problems in an industry that's ripe for modernization.
+
+What You'll Do
+Build React interfaces that make complex lending workflows feel simple for users
+Develop and maintain backend services and APIs using C# and .NET
+Work on features across our platform including loan origination, draw management, and payment systems
+Participate in system design discussions, helping shape how we architect solutions for financial workflows
+Integrate with third-party services for banking, identity verification, and document processing
+Write secure, reliable code—financial software demands a high bar for quality
+Collaborate with product and design to understand the needs of lenders, builders, and contractors
+What We're Looking For
+
+Required
+
+2–4 years of professional experience building full-stack web applications
+Strong proficiency with React, including hooks, state management, and component design
+Solid experience with C# and .NET for backend development
+Understanding of RESTful API design and implementation
+Experience with relational databases (SQL Server, PostgreSQL, or similar)
+Ability to reason about system design and make pragmatic architectural decisions
+Attention to detail—accuracy matters when you're building financial software
+
+Nice to Have
+
+Experience with Google Cloud Platform services
+Familiarity with Kubernetes and containerized deployments
+Background in fintech, lending, payments, or other regulated industries
+Experience integrating with banking or payment APIs (Plaid, Dwolla, or similar)
+Exposure to document processing or workflow automation
+What You Bring
+Comfort navigating complex business domains and translating requirements into software
+A collaborative mindset and clear communication skills
+Ownership over your work and pride in shipping reliable features
+Curiosity about construction finance—you don't need to be an expert, but you're eager to learn how the industry works
+
+
+
+
+Visa Sponsorship Not Available: We are unable to provide visa sponsorship for this role. Applicants must have the necessary work authorization without the need for sponsorship now or in the future.
+… more
+
+Requirements added by the job poster
+
+• Working in an onsite setting
+
+• Authorized to work in the United States
+
+• No need for visa sponsorship
+
+Set alert for similar jobs
+
+Full Stack Engineer, Pleasant Grove, Utah, United States
+
+Off
+See how you compare to other applicants
+Based on LinkedIn data. Excludes subsidiaries.
+Applicants for this job
+
+76
+
+Applicants
+
+76
+
+Applicants in the past day
+
+Applicant seniority level
+
+84% Entry level people applied for this job
+
+7% Senior level people applied for this job
+
+1% Director level people applied for this job
+
+Applicant education level
+
+77
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+21
+
+%
+
+have a Bachelor's Degree
+
+
+3
+
+%
+
+have an Associate's Degree
+Exclusive Job Seeker Insights about CoFi
+Powered by Bing
+
+The latest hiring trend
+
+52
+
+Total employees
+
+6%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+25
+50
+75
+
+Median employee tenure: 3 years
+
+Show Premium Insights
+About the company
+
+CoFi
+
+2,211 followers
+
+Follow
+
+Financial Services
+
+ • 
+
+11-50 employees
+
+ • 
+
+52 on LinkedIn
+
+CoFi is a specialized construction lender with over 30+ years of experience
+in both lending and construction. Our financing is backed by a proprietary
+payment software platform to expedite cash flow to the job site, including
+utilizing digital certified inspections and lien waiver management, so you
+can control speed of payment.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Full Stack Engineer
+
+Arclane Technologies
+
+San Francisco Bay Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 11:39 AM
+5 days ago
+
+ · 
+
+ Easy Apply
+
+Founding Fullstack Engineer
+
+Jampack Labs
+
+New York, NY (Hybrid)
+
+$160K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 3:41 PM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Mobile Developer
+
+CodeCraftMD, Inc
+
+Atlanta Metropolitan Area (On-site)
+
+Posted on November 1, 2025, 6:17 PM
+3 months ago
+
+ · 
+
+ Easy Apply
+
+Distributed Systems Software Engineer
+
+Stealth AI CyberSecurity Startup
+
+Brooklyn, NY (On-site)
+
+$180K/yr - $250K/yr
+
+You’d be a top applicant
+
+Posted on December 19, 2025, 11:00 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Founding iOS Developer
+
+crtd labs
+
+San Francisco Bay Area (Remote)
+
+$100K/yr - $140K/yr
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 3:13 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Engineer
+
+Onyx Odds
+
+New York, NY (On-site)
+
+1 school alumni works here
+
+Posted on January 17, 2026, 1:07 PM
+1 week ago
+
+Artificial Intelligence Research Engineer
+
+Company.ai
+
+San Francisco Bay Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 19, 2026, 2:32 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Associate Software Engineer (New College Grad 2026) (Verified job)
+Associate Software Engineer (New College Grad 2026) 
+
+Solace
+
+Redwood City, CA (On-site)
+
+1 company alumni works here
+
+Posted on January 14, 2026, 8:28 PM
+1 week ago
+
+Application Developer ($60,000 - $100,000 Annually DOE)
+
+ELM Utility Services
+
+Missoula, MT (On-site)
+
+401(k) benefit
+
+Posted on January 12, 2026, 11:41 AM
+2 weeks ago
+
+Backend Engineer (Python)
+
+Preffect
+
+San Francisco, CA (Hybrid)
+
+$170K/yr
+
+ • 
+
+Medical, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 18, 2026, 6:27 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, AI Agent
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$140K/yr - $180K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 3:05 PM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer
+
+Onyx Odds
+
+New York, NY (On-site)
+
+$170K/yr - $250K/yr
+
+1 school alumni works here
+
+Posted on January 17, 2026, 1:15 PM
+1 week ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

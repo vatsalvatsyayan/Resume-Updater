@@ -1,0 +1,54 @@
+About the job
+
+About Broccoli AI
+
+Broccoli is building the AI operating system for the $500B home services market. We deploy intelligent AI agents at the front lines of HVAC, roofing, and other trades businesses to answer calls, engage customers, book jobs, and ensure every lead is captured.
+
+Backed by top VCs, we closed a $25M Series A and are scaling fast. We work with leading PE-backed home services platforms and plan to 5x headcount in 2026, creating a rare opportunity to join early and have outsized impact.
+
+Why Join Us
+
+
+Make an Impact Early: Launch real features within your first few weeks that get used by real businesses. 
+Define a Category: Help shape how AI employees run the $600B home services market. 
+Speed Matters: We move fast—shipping in weeks, not quarters. 
+Grow with the Best: Learn directly from experienced founders and engineers who’ve built and scaled successful startups before. 
+Collaborative, High-Energy Environment: Work in-office with a small, mission-driven team building world-class AI. 
+
+
+What You’ll Do
+
+
+Build and maintain components of our AI agent platform, internal tools, and backend systems
+Develop and test APIs and integrations with external platforms like ServiceTitan
+Participate in the full product cycle: idea → prototype → production
+Improve agent intelligence and voice performance in real time
+Collaborate with senior engineers to deliver high-impact features and maintain code quality
+
+
+What We’re Looking For
+
+
+1+ year of experience as a software engineer (backend, frontend, or full-stack)
+Strong understanding of software fundamentals (data structures, APIs, version control, etc.)
+Excitement to learn fast and contribute across the stack
+Thrive in a fast-paced, startup-like environment where ownership and initiative matter
+Excellent communication and teamwork skills
+
+
+Bonus Points If You Have:
+
+
+Experience with AI tools, real-time systems, or telephony
+Exposure to frameworks like Node.js, Python, or TypeScript
+Familiarity with LLMs or interest in AI development
+
+
+Perks
+
+
+Top-of-market salary + meaningful equity
+Build cutting-edge AI that helps real people daily
+Beautiful office in South Park, San Francisco
+High-trust, ambitious team, led by repeat founders
+On-site collaboration 6 days/week—we believe the best ideas happen in person

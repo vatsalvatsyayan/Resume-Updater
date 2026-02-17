@@ -1,0 +1,72 @@
+About the job
+
+Crusoe's mission is to accelerate the abundance of energy and intelligence. We’re crafting the engine that powers a world where people can create ambitiously with AI — without sacrificing scale, speed, or sustainability.
+
+Be a part of the AI revolution with sustainable technology at Crusoe. Here, you'll drive meaningful innovation, make a tangible impact, and join a team that’s setting the pace for responsible, transformative cloud infrastructure.
+
+About This Role:
+
+Join an organization where you'll have the opportunity to make a real impact from day one. We are looking for motivated and talented individuals ready to take on meaningful projects and solve challenging problems. You'll receive dedicated mentorship from industry experts, giving you the hands-on experience and professional growth opportunities needed to launch your career.
+
+You’ll join a growing, diverse, and mission-driven team building a new cloud infrastructure from the ground up and work at the forefront of distributed system technologies. You’ll have the opportunity to work on a range of projects across our platform that enables innovation in computationally intensive fields including artificial intelligence, graphics rendering and computational biology.
+
+You’ll collaborate with other engineers to build and maintain scalable and highly available fault-tolerant distributed systems at scale, build products and tools from the ground up that will be used by customers around the world, triage bugs and solve issues in production, and work with product owners and other stakeholders to iterate on new features.
+
+This role is based in our Sunnyvale or San Francisco offices and requires on-site presence five days a week.
+
+What You'll Be Working On:
+
+
+Building Scalable Systems: Build and maintain scalable, highly available, and fault-tolerant distributed systems.
+Developing New Features: Design and implement new features and products from the ground up that will be used by our customers around the world.
+Troubleshooting and Support: Triage bugs and solve complex issues in a production environment.
+Collaborating and Communicating: Collaborate with other engineers and cross-functional partners to develop new features and iterate on existing products.
+Driving Innovation: Contribute to strategic discussions and improve internal processes to help shape the future of our technology and products.
+
+
+
+What You'll Bring to the Team:
+
+
+Educational Background: You hold a Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field, with graduation between Fall 2024 and the present.
+Programming: You are familiar with coding in a language such as Python, Java, C++, JavaScript, Rust, Go, etc.
+Foundational Knowledge: You have a strong understanding of computer science fundamentals, including data structures and algorithm design.
+Collaborative Mindset: You are a proactive communicator who enjoys working closely with a team to solve challenging problems.
+Problem-Solving Skills: You have a curious and analytical mindset with a talent for troubleshooting and optimizing complex systems.
+
+
+
+Bonus Points:
+
+
+Experience contributing to open source projects.
+Experience with writing automated tests.
+Familiarity with backend REST gateway APIs.
+
+
+
+Benefits:
+
+
+Industry competitive pay
+Restricted Stock Units in a fast growing, well-funded technology company
+Health insurance package options that include HDHP and PPO, vision, and dental for you and your dependents
+Employer contributions to HSA accounts
+Paid Parental Leave
+Paid life insurance, short-term and long-term disability
+Teladoc
+401(k) with a 100% match up to 4% of salary
+Generous paid time off and holiday schedule
+Cell phone reimbursement
+Tuition reimbursement
+Subscription to the Calm app
+MetLife Legal
+Company paid commuter benefit; $300 per month
+
+
+
+Compensation:
+
+The salary for this role is $132,000. Restricted Stock Units are included in all offers. Compensation to be determined by the applicant’s education, experience, knowledge, skills, and abilities, as well as internal equity and alignment with market data.
+
+Crusoe is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, disability, genetic information, pregnancy, citizenship, marital status, sex/gender, sexual preference/ orientation, gender identity, age, veteran status, national origin, or any other status protected by law or regulation.

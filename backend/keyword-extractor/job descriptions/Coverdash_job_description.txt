@@ -1,0 +1,54 @@
+About the job
+
+About Coverdash:
+
+We are a Series A insurtech startup backed by several world class VCs and angels including NYCA Partners (Acorns, Revolut, Gemini), Bling Capital (Lyft, Square, Instacart), and Expansion VC (Postmates, AngelList, Lemonade). You can read about us here in Tech Crunch and here in Business Insider!
+
+We're a rapidly growing, cutting-edge insurtech agency revolutionizing the insurance landscape for startups and small businesses nationwide. We offer business owners the convenience of instantly comparing quotes from 30+ top insurers and seamlessly purchasing insurance online. Through our innovative embedded technology, Coverdash empowers partners such as banks, lenders, and SaaS providers to effortlessly integrate end-to-end insurance solutions with just a single line of code. Join a team that has broken the record for the number of embedded partners within all of fintech, amassing over 100 partnerships since inception. Take the next step in your career with Coverdash and be part of reshaping the future of business insurance!
+
+Headquartered in the heart of NYC, our rapidly growing team is a smart, dynamic, and fun-loving group privileged to be collaborating with some of the world’s most innovative embedded partners.
+
+About the Role:
+
+As a Software Engineer, you’ll help establish technical standards and drive our overall technical architecture and engineering practices. You will also work on the team’s hardest problems by building high-quality, architecturally sound systems. The ideal candidate can translate business needs into workable technology solutions.
+
+You will be working on building the software that powers our Quoting Engine, User Dashboard servicing API’s, Internal Agency Management tools, current and future integrations with various 3rd party API’s, and our complex internal relational database.
+
+We are looking for someone who can thrive in a fast-paced startup environment. Our NYC-based dev team is lean and hyper efficient. You should feel comfortable quickly creating prototyped software in a reliable manner.
+
+What You Bring:
+
+
+0-2 years of professional software development experience in a similar role
+One or more object-oriented languages (e.g., Java, C++, Python) (Preferably Java)
+Building micro services and familiar with Spring architecture
+Distributed service-oriented architecture
+Comfort integrating with complex 3rd party API’s
+Comfort working with complex Data Models/relational databases (preferably PostgreSQL)
+Highly available and highly scalable systems
+Managing multiple deployed environments across a range of platforms (Windows, Linux)
+Automated deployment tools such as CI/CD pipelines, Docker, etc
+Taking a project from scoping requirements through actual launch of the project
+
+
+Basic Qualifications:
+
+
+Bachelor’s Degree in Computer Science or related field or equivalent work experience
+Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+
+
+What We Offer:
+
+
+Strong & Competitive Compensation Package ($90,000-$120,000)
+Meaningful Equity Stake
+Company-Provided Laptop
+Medical, Dental, and Vision Insurance
+Responsible Paid Time Off Policy
+An opportunity to completely redefine and reshape the future of business insurance
+
+
+Powered by JazzHR
+
+VpDDQfyzOf

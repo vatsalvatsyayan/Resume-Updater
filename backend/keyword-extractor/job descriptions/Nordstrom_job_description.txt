@@ -1,0 +1,65 @@
+About the job
+
+At Nordstrom, we're building the next generation of in-store selling tools to support exceptional customer service across more than 350 locations. Our POS+ team is focused on delivering fast, secure, and modern point-of-sale experiences. We're reimagining retail transactions through a scalable platform powered by a React front end and a Java/Spring Boot backend, hosted in AWS and integrated with store hardware and cloud-native services.
+
+We're looking for an Engineer 1 to join our full-stack engineering team to help develop and support the suite of POS+ applications used daily by store teams. You'll work collaboratively using technologies like React, Java, Spring Boot, AWS, Kafka, and Kubernetes, contributing to critical in-store workflows from login to receipts. This is a hands-on engineering role with mentorship and support from senior engineers, offering the opportunity to build reliable and performant software used at scale.
+
+What You'll Do...
+
+
+Build, test, and support web applications and APIs that are stable, maintainable, and secure.
+Write clean, well-documented code using React and Java following engineering best practices.
+To ensure software quality and reliability, contribute to test automation (unit, integration, and end-to-end).
+Learn and apply cloud-native development patterns (AWS, containers, CI/CD pipelines).
+Participate in code reviews, design discussions, and collaborative development with other engineers.
+Investigate and troubleshoot issues, optimize system performance, and support store operations when needed.
+Rotate through on-call responsibilities for production support.
+
+
+What We're Looking For...
+
+
+Bachelor's or master's degree in computer science, Engineering, or equivalent practical experience (required).
+Some hands-on coding experience in internships, academic projects, or personal development with React, Java, and JavaScript.
+Familiarity with modern front-end development frameworks and workflows (React, Redux) is a plus.
+Strong desire to learn full-stack development and work across front-end, backend, and cloud services.
+Interest in building real-world software that directly impacts store teams and customers.
+
+
+Join us if you're excited to be part of a high-impact, collaborative engineering team modernizing the future of retail experiences—starting at the register.
+
+We’ve got you covered…
+
+Benefits
+
+Our employees are our most important asset and that’s reflected in our benefits. Nordstrom is proud to offer a variety of benefits to support employees and their families, including:
+
+
+Medical/Vision, Dental, Retirement and Paid Time Away
+Life Insurance and Disability
+Merchandise Discount and EAP Resources
+
+
+A few more important points...
+
+The job posting highlights the most critical responsibilities and requirements of the job. It’s not all-inclusive. There may be additional duties, responsibilities and qualifications for this job.
+
+Nordstrom conducts background checks and considers qualified applicants with criminal histories in a manner consistent with all legal requirements.
+
+Applicants with disabilities who require assistance or accommodation should contact the nearest Nordstrom location, which can be identified at www.nordstrom.com.
+
+Please be mindful that there may be legal notices and requirements related to this job posting that are specific to your state. Review the Career Site FAQ’s for relevant information and guidelines.
+
+© 2022 Nordstrom, Inc
+
+Current Nordstrom employees: To apply, log into Workday, click the Careers button and then click Find Jobs.
+
+Pay Range Details
+
+The pay range(s) below has been provided in compliance with state specific laws. Pay ranges may be different for other locations.
+
+Pay offers are dependent on the location, as well as job-related knowledge, skills, and experience.
+
+$104,500.00 - $162,500.00 Annual
+
+This position may be eligible for performance-based incentives/bonuses. Benefits include 401k, medical/vision/dental/life/disability insurance options, PTO accruals, Holidays, and more. Eligibility requirements may apply based on location, job level, classification, and length of employment. Learn more in the Nordstrom Benefits Overview by copying and pasting the following URL into your browser: https://careers.nordstrom.com/pdfs/Ben_Overview_15_Full_Time_ES-US.pdf

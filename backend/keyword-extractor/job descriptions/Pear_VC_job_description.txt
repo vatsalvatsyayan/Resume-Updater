@@ -1,0 +1,61 @@
+About the job
+This job is sourced from a job board. Learn More
+
+Backend Software Engineer – AI Applications
+
+San Francisco Bay Area | Hybrid (3 days onsite, 2 remote)
+
+About TrueMeter
+
+The U.S. power grid wasn’t built for the AI era.
+
+Data centers are exploding in demand, renewables are lagging, and businesses are stuck with utility bills that grow faster than inflation.
+
+TrueMeter is fixing that. We’re building the AI Energy Agent that becomes the default way any business pays for power — consolidating messy, multi-utility bills into a single and cheaper subscription.
+
+We launched our MVP in May 2024. Since then, we’ve onboarded millions of dollars in energy spend from major brands. We’re seed-stage, backed by top Silicon Valley investors, and moving fast.
+
+If you love building AI-powered systems from scratch and want to work on something that actually matters for the planet, keep reading.
+
+The Role
+
+We’re hiring a Backend Software Engineer (AI Applications) who thrives in early-stage chaos — someone who can go from an idea or prototype to a working system in days, not months.
+
+You’ll build the backend that powers our AI Energy Agent: LLM-driven systems that read, structure, and reason about energy data. You’ll integrate with dozens of utility APIs, orchestrate data pipelines, and develop services that make AI truly useful in production.
+
+You’ll work directly with the co-founder/CTO and other engineers, designing backend systems that scale from 10 customers to 10,000 — and you’ll do it fast, with ownership, and with pride.
+
+What You’ll Build
+
+
+AI-Driven Backends: Build production systems that connect LLMs and coding agents with our data and product APIs.
+Service Architecture: Design and deploy fast, secure microservices in Python (and optionally TypeScript).
+Data Integration: Build reliable connectors to energy company portals and public data sources.
+Infra for Intelligence: Help design the backend infrastructure that lets AI agents read, reason, and act autonomously across our data stack.
+Performance & Scale: Own systems that need to run 24/7 — low latency, high reliability.
+Observability & Tooling: Ship CI/CD pipelines, logs, and metrics to keep everything visible and maintainable.
+Collaboration: Work with customer success/sales teams to translate messy real-world problems into clean technical abstractions.
+
+
+Who You Are
+
+
+1+ year of experience building production backends or full-stack systems (Python, GCP or AWS infrastructure).
+AI-native mindset — excited to integrate LLMs and tools like LangChain, OpenAI APIs, or custom agents into real systems.
+Rapid prototyper — can turn an idea into a running system quickly and iterate based on feedback.
+Clear communicator — able to explain complex systems to both technical and business teams.
+Independent executor — scopes work, executes, and delivers without handholding.
+Startup-ready — understands things break, priorities shift, and that’s what makes it fun.
+Impact-driven — connects code directly to customer outcomes and business metrics.
+Ambitious — you care deeply about impact and are willing to put in the work to want to help build something big.
+
+
+Bonus points if you’ve built production systems involving energy, fintech, or automation.
+
+Why Join TrueMeter
+
+Because you’ll get to build the AI backbone of the energy economy — at a time when both AI and energy are being reinvented.
+
+You’ll work directly with Stanford alum founders and an elite set of engineers who ship fast, think deeply, and care about doing things that matter. You’ll see your code go from prototype to production in days — and know that it’s helping real businesses save money and reduce emissions.
+
+This is a from-scratch, high-ownership, high-impact role. If you want to help redefine how the physical world runs on AI, this is your shot.

@@ -1,0 +1,85 @@
+About the job
+
+Employee Applicant Privacy Notice
+
+Who We Are
+
+Shape a brighter financial future with us.
+
+Together with our members, we’re changing the way people think about and interact with personal finance.
+
+We’re a next-generation financial services company and national bank using innovative, mobile-first technology to help our millions of members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront. We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. Join us to invest in yourself, your career, and the financial world.
+
+The Role
+
+We are seeking a Backend Engineer to play a pivotal role in our SoFi Money product architecture transformation, focusing on the evolution of our banking core and the implementation of enhanced account structures, including readiness for new products. We are working hard to design a future looking framework, with the aim to scale our customer base, continue to delight existing customers, and disrupt the banking industry. You’ll be working within a highly collaborative environment where planning and executing through a unified campaign lens is essential due to the complexity and interdependencies of these initiatives.
+
+At SoFi, we pride ourselves on the collaboration between Product, Design and Engineering and so you will be involved in the entire product lifecycle, from ideation through building, deploying and continual improvement and evolution - and you’ll be working with an all-star team of talented engineers.
+
+What You’ll Do
+
+
+Participate in shaping the technical architecture of our banking products
+Participate in fixing bugs and raising our operational excellence bar
+Deliver highly available and scalable services in a production environment
+Working in a fast-moving, highly collaborative environment across multiple offices and teams
+Providing input on new initiatives and technological advancements
+Learn about new technologies, tools and processes that will build your skill set and help shape your career
+
+
+What You’ll Need
+
+
+You will have graduated and your highest level of education is only a Bachelor’s Degree in Computer Science or related major (Spring 2025 New Grads or within 1 year of graduation)
+You are available to start working immediately in October 2025
+Previous intern experience with software engineering is required
+No more than 12 months of professional full-time work experience (excluding internships and research assistant roles)
+Reside in the United States and attend a university in the US
+Proficient in Java, Kotlin, Spring Boot, Microservices, AWS, and DynamoDB/PostgreSQL.
+Experience with modern OOP languages, Java frameworks, REST APIs, and relational/NoSQL databases
+Strong knowledge of object-oriented programming best practices
+Strong sense of responsibility; driving a project from inception to completion
+Willingness to roll up your sleeves, collaborate with others and get stuff done
+Affinity for solving problems and shipping impactful features, not polishing perfect code or architecture
+Experience working in a collaborative coding environment, refining designs together, working through code reviews and managing pull requests
+Strong communication and technical leadership skills
+Desire to mentor and help others improve their skills
+
+
+Nice To Have
+
+
+Proven track record of building highly-scalable REST APIs
+Experience with workflow orchestration systems, such as Temporal.io
+Prior experience deploying applications using Docker and Kubernetes
+Practical knowledge of CI/CD pipelines (gradle, git, automated testing and deployments)
+History of working with a cloud-based microservice architecture and distributed service communication
+
+
+Why You'll Love Working Here
+
+> Internship Benefits: View Link
+
+> Full Time University Grad Benefits: View Link
+
+Internship Highlights Include
+
+In addition to a unique and challenging professional experience, interns will also receive perks such as invites to Member events, and more!
+
+
+Personalized Mentorship Program
+Fully stocked kitchen (snacks & drinks)
+Access to senior leadership, including round tables with executives across all functions of SoFi
+
+
+SoFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion (including religious dress and grooming practices), sex (including pregnancy, childbirth and related medical conditions, breastfeeding, and conditions related to breastfeeding), gender, gender identity, gender expression, national origin, ancestry, age (40 or over), physical or medical disability, medical condition, marital status, registered domestic partner status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable state or federal law.
+
+The Company hires the best qualified candidate for the job, without regard to protected characteristics.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+New York applicants: Notice of Employee Rights
+
+SoFi is committed to an inclusive culture. As part of this commitment, SoFi offers reasonable accommodations to candidates with physical or mental disabilities. If you need accommodations to participate in the job application or interview process, please let your recruiter know or email accommodations@sofi.com.
+
+Due to insurance coverage issues, we are unable to accommodate remote work from Hawaii or Alaska at this time.

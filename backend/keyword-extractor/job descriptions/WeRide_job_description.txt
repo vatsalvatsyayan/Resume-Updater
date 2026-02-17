@@ -1,0 +1,49 @@
+About the job
+This job is sourced from a job board. Learn More
+
+Established in 2017, WeRide (NASDAQ: WRD) is a leading global commercial-stage company that develops autonomous driving technologies from Level 2 to Level 4. WeRide is the only tech company in the world that holds driverless permits in China, the UAE, Singapore and the US, conducting autonomous driving R&D, tests and operations in over 30 cities of 10 countries around the world. WeRide has operated a self-driving fleet for more than 2,200 days.What you will do:
+
+
+Build real-time, in-vehicle systems that ensure the AV operates safely and efficiently in its environment. 
+ Develop a high-performance, highly reliable data transport framework, and enhance the logging infrastructure to support robust data collection.
+ Develop a real-time communication service framework between embedded devices and the host computer, enhancing the real-time troubleshooting capabilities of the in-vehicle system.
+Develop cloud-based and backend systems that support the AV fleet, as well as creating intelligent tools for our developers. 
+ Design and develop new features to continuously optimize computational performance, and create tools to assist other teams by proactively informing developers of potential performance issues.
+ Build services and infrastructure bridging machine learning and distributed systems, while evaluating database-related changes submitted by other engineers or community contributors.
+ Work closely with other engineering teams, and business groups to develop comprehensive end-to-end solutions.
+Optimize for efficient model deployment, enhance the machine learning workflow, build and support large-scale model evaluation systems. 
+ Develop high-performance GPU/CPU kernels by utilizing low-level hardware features and knowledge of performance characteristics.
+ Build model conversion, evaluation, and management system.
+ Develop and sustain scalable and high-performance infrastructure for training, optimizing, and deploying machine learning models.
+Work with multiple algorithm teams and optimize efficient algorithms for self-driving vehicles
+
+
+Qualifications
+
+
+Pursuing a BS/MS degree in Computer Science, Software Engineering, Mathematics, or a related technical field, or equivalent practical experience, with an expected graduation date between December 2024 and June 2025.
+Proficient in C++ and/or Python, Java, Go with knowledge of its latest features.
+Have good programming practices, adhere to coding standards, and follow test-driven development.
+Strong analytical and problem-solving skills.
+Excellent communication, and cross-functional team collaboration abilities. 
+Passion for innovation in the autonomous vehicle industry.
+
+
+Bonus Points
+
+
+Experience with field robotics and systems design
+Experience with distributed systems, possesses design and debugging skills for complex system software, familiar with common design patterns and architectural trade-offs
+Familiar with OS kernel and low-level system and computer architecture understanding
+Familiar with GPU architecture
+
+
+$120,000 - $165,000 a yearYour base pay is one part of your total compensation package. For this position, the reasonably expected pay range is between $120,000 - $165,000 for the level at which this job has been scoped. Your base pay will depend on several factors, including your experience, qualifications, education, location, and skills. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for an annual performance bonus, equity, and a competitive benefits package.What Happens Next:
+
+We’ll take a few weeks to review all applications. If we’d like to move forward with you, we’ll reach out to arrange the next steps, which may include an online assessment, a call with a recruiter, and 4-5 interviews with your future colleagues to better inform our decision.
+
+During the interview process, we aim to learn more about your skills, experiences, and motivators. Many of our questions will focus on understanding how you might operate here at WeRide. Please note that, due to the high volume of applications we receive, we’re unable to offer individual feedback during the interview process.
+
+We recognize that interviewing for a new role is significant, and we appreciate you considering WeRide as the next step in your career. Our Recruiting Team is here to support you throughout the interview process. Come join us and apply today!
+
+WeRide.ai offers competitive salary depending on the experience. Employee benefits include:Premium Medical, Dental and Vision Plan (No cost from employees or their families)Free Daily Breakfast, Lunch and DinnerPaid vacations and holidays401K plan

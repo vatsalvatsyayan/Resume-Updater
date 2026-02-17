@@ -1,0 +1,449 @@
+Air Apps
+
+Backend Engineer
+
+San Francisco, CA · 19 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+About the job
+
+About Air Apps
+
+At Air Apps, we believe in thinking bigger—and moving faster. We’re a family-founded company on a mission to create the world’s first AI-powered Personal & Entrepreneurial Resource Planner (PRP), and we need your passion and ambition to help us change how people plan, work, and live. Born in Lisbon, Portugal in 2018—and now with offices in both Lisbon and San Francisco—we’ve remained self-funded while reaching over 100 million downloads worldwide.
+
+Our long-term focus drives us to challenge the status quo every day, pushing the boundaries of AI-driven solutions that truly make a difference. Here, you’ll be a creative force, shaping products that empower people across the globe.
+
+Join us on this journey to redefine resource management—and change lives along the way.
+
+The Role
+
+As a Backend Software Engineer, you will be responsible for designing, building, and maintaining the server-side components of our applications. You will collaborate closely with product managers, frontend developers, and other cross-functional teams to deliver robust and scalable backend services that power critical features and support rapid growth.
+
+Please note that this post serves the purpose of enhancing our talent pool while we prepare to launch the official job. As soon as it gets posted we will get in touch with you.
+
+Responsibilities
+
+
+Architect and Develop Services: Design, implement, and maintain RESTful and/or GraphQL APIs, microservices, and server-side logic to support a variety of products and platforms.
+Database Management: Collaborate on schema design, query optimization, and data modeling to ensure efficient, reliable data storage and retrieval.
+System Scalability and Performance: Develop solutions that scale to millions of users, optimizing code for throughput, latency, and cost-effectiveness.
+Security and Compliance: Implement security best practices (authentication, authorization, encryption) and ensure compliance with relevant data protection and privacy laws.
+Testing and Quality Assurance: Write and maintain unit, integration, and end-to-end tests, and participate in code reviews to uphold code quality standards.
+Monitoring and Maintenance: Set up monitoring, logging, and alerting systems; troubleshoot production issues to ensure high availability and minimal downtime.
+
+
+Requirements
+
+
+Education & Experience: Bachelor’s degree in Computer Science or related field, or equivalent practical experience.
+Core Skills: Proficiency in one or more backend languages (e.g., Java, Go, Python, Ruby), experience with frameworks (e.g., Spring Boot, Django, Express.js), and expertise with relational and/or NoSQL databases.
+Architecture & Tools: Solid understanding of distributed systems, microservices, and cloud infrastructure (AWS, GCP, or Azure).
+Soft Skills: Analytical and problem-solving mindset, effective communication skills, and a collaborative approach to teamwork.
+
+
+What benefits do we offer?
+
+
+Apple hardware ecosystem for work.
+Annual Bonus.
+Medical Insurance (including vision & dental).
+Disability insurance - short and long-term.
+401k up to 4% contribution.
+Air Conference – an opportunity to meet the team, collaborate, and grow together.
+Transportation budget
+Free meals at the hub
+Gym membership
+
+
+Diversity & Inclusion
+
+At Air Apps, we are committed to fostering a diverse, inclusive, and equitable workplace. We enthusiastically welcome applicants from all backgrounds, experiences, and perspectives. We celebrate diversity in all its forms and believe that varied voices and experiences make us stronger.
+
+Application Disclaimer
+
+At Air Apps, we value transparency and integrity in our hiring process. Applicants must submit their own work without any AI-generated assistance. Any use of AI in application materials, assessments, or interviews will result in disqualification.
+… more
+
+Benefits found in job post
+
+401(k), Medical insurance, Disability insurance
+
+Set alert for similar jobs
+
+Back End Developer, San Francisco, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+122
+
+total
+
+122
+
+in the past day
+
+Candidate seniority level
+
+75% Entry level candidates
+
+11% Senior level candidates
+
+Candidate education level
+
+79
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+21
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about Air Apps
+Powered by Bing
+
+The latest hiring trend
+
+49
+
+Total employees
+
+11%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+25
+50
+75
+
+Median employee tenure: 1.3 years
+
+Show Premium Insights
+About the company
+
+Air Apps
+
+93,635 followers
+
+Follow
+
+Technology, Information and Internet
+
+ • 
+
+51-200 employees
+
+ • 
+
+49 on LinkedIn
+
+We're dedicated to leveraging mobile apps to drive positive change and enhance people's lives. Our mission is to provide innovative tools that empower users to overcome challenges and achieve their goals effortlessly, simplifying their daily routines and making their lives easier.
+
+As a leading mobile app developer and publisher, we offer a diverse portfolio of over 30 apps across the Fitness, Productivity, Creative, and Learning categories. With a cumulative total of 3 million monthly downloads and a remarkable 100 million downloads worldwide, our apps resonate with users globally.
+
+Born in Lisbon, Portugal, in 2018, and now with offices in both Lisbon and San Francisco, we value flexibility and individuality, fostering a culture where diverse perspectives thrive. Our culturally diverse team ensures inclusivity and creativity in every facet of app development.
+
+At the core of our values is a dedication to user well-being and community collaboration. Through our AI-first approach, we're actively shaping the future of mobile technology, prioritizing excellence in user experience.
+
+Join us on our journey to make a meaningful impact and inspire individuals worldwide to unleash their full potential with our transformative mobile apps.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Software Engineer
+
+Tensormesh
+
+San Francisco, CA (On-site)
+
+Vision, 401(k)
+
+Actively reviewing applicants
+
+Posted on October 23, 2025, 11:38 AM
+3 months ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer – Matching and Scheduling Optimization
+
+Sage Care
+
+Palo Alto, CA (Hybrid)
+
+1 school alumni works here
+
+Posted on December 4, 2025, 10:19 AM
+1 month ago
+
+Full Stack Engineer - Agentic AI
+
+Homekey
+
+Palo Alto, CA (On-site)
+
+You’d be a top applicant
+
+Posted on November 6, 2025, 9:43 AM
+2 months ago
+
+Founding Fullstack Engineer
+
+Jampack Labs
+
+New York, NY (Hybrid)
+
+$160K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 3:41 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Growth Engineer
+
+Ello (We're hiring!)
+
+San Francisco Bay Area (On-site)
+
+$150K/yr - $200K/yr
+
+You’d be a top applicant
+
+Posted on November 3, 2025, 8:23 AM
+2 months ago
+
+Frontend / Fullstack Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:55 AM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Forward Deployed Engineer
+
+CollectWise
+
+New York, NY (On-site)
+
+$150K/yr - $190K/yr
+
+Actively reviewing applicants
+
+Posted on November 10, 2025, 10:44 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Associate Software Engineer (New College Grad 2026) (Verified job)
+Associate Software Engineer (New College Grad 2026) 
+
+Solace
+
+Redwood City, CA (On-site)
+
+2 school alumni work here
+
+Posted on January 14, 2026, 8:28 PM
+3 days ago
+
+Backend Software Engineer, AI Applications
+
+TrueMeter
+
+San Francisco Bay Area (On-site)
+
+Posted on December 2, 2025, 10:53 AM
+1 month ago
+
+Generative AI Backend Engineer
+
+Abacus.AI
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on November 20, 2025, 10:44 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Engineer
+
+Medra 
+
+San Francisco, CA (On-site)
+
+Medical, Dental, 401(k)
+
+Posted on September 10, 2025, 12:13 PM
+4 months ago
+
+Full Stack Engineer (Verified job)
+Full Stack Engineer 
+
+Consensus
+
+San Francisco Bay Area (Hybrid)
+
+$160K/yr - $230K/yr + Stock options
+
+ • 
+
+6 benefits
+
+Actively reviewing applicants
+
+Posted on November 21, 2025, 2:50 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

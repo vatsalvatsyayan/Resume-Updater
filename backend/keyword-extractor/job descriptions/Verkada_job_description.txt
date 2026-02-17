@@ -1,0 +1,76 @@
+About the job
+
+Who We Are
+
+Designed with simplicity in mind, Verkada's six product lines — video security cameras, access control, environmental sensors, alarms, workplace, and intercoms — provide unparalleled building security through an integrated, cloud-based software platform. Over 33,500 organizations, including 96 companies in the Fortune 500, across 93 countries worldwide trust Verkada as their physical security layer for easier management, intelligent control, and scalable deployments. Founded in 2016 with more than $700M in funding raised to-date, Verkada has expanded rapidly with 15 offices and 2,200+ full-time employees.
+
+About The Role
+
+We are looking for software engineers who thrive in a high growth environment working alongside teammates to launch products and features that will be utilized by customers across the globe. As part of the Software Engineering team, you’ll have ownership of one or more projects on various product or platform facing teams. You will work across the full software stack and collaborate cross functionally to build the latest iterations of Verkada’s flagship software, enabling our best-in-class security systems.
+
+We are committed to a thriving in-office culture. This role requires that you be on-site at our HQ in San Mateo, CA.
+
+What You'll Do
+
+
+Build scalable distributed systems capable of handling high traffic from 100s of thousands of devices deployed around the world
+Work with high concurrency key-value storage systems (Redis, DynamoDB)
+Work with Postgres relational databases
+Work with logging and message passing technologies like Kafka and SQS
+Deploy services via Terraform and Kubernetes
+Develop large scale systems to interact with and configure products remotely
+Define and improve low-latency, high-throughput, high-reliability microservice architectures
+Design and develop features incorporating cutting edge computer vision
+Design clean APIs and implement them using Python and/or Go
+
+
+What You Bring
+
+
+BS/MS in Computer Science or similar technical field of study
+Internship experience developing and launching products
+Working knowledge of Python and/or Go
+Comfortable working in an agile team software development environment
+Familiarity with REST APIs, ability to read python server code a plus
+Must be willing and able to work onsite five days per week
+
+
+US Employee Benefits
+
+Verkada is committed to fostering a workplace environment that prioritizes the holistic health and wellbeing of our employees and their families by offering comprehensive wellness perks, benefits, and resources. Our benefits and perks programs include, but are not limited to:
+
+
+Healthcare programs that can be tailored to meet the personal health and financial well-being needs - Premiums are 100% covered for the employee under at least one plan and 80% for family premiums under all plans
+Nationwide medical, vision and dental coverage
+Health Saving Account (HSA) with annual employer contributions and Flexible Spending Account (FSA) with tax saving options
+Expanded mental health support
+Paid parental leave policy & fertility benefits
+Time off to relax and recharge through our paid holidays, firmwide extended holidays, flexible PTO and personal sick time
+Professional development stipend
+Fertility Stipend
+Wellness/fitness benefits
+Healthy lunches provided daily
+Commuter benefits
+
+
+Additional Information
+
+
+We do sponsor and take over sponsorship of employment visas for this role. If we make you an offer, we will make every reasonable effort to get you a visa. 
+
+
+Annual Pay Range
+
+At Verkada, we want to attract and retain the best employees, and compensate them in a way that appropriately and fairly values their individual contribution to the company. With that in mind, we carefully consider a number of factors to determine the appropriate starting pay for an employee, including their primary work location and an assessment of a candidate's skills and experience, as well as market demands and internal parity. A Verkada employee may be eligible for additional forms of compensation, depending on their role, including sales incentives, discretionary bonuses, and/or equity in the company in the form of restricted stock units (RSUs)
+
+Below is the annual on-target earnings (OTE) range for full-time employees for this position, comprised of base compensation and commissions (if applicable).
+
+Estimated Annual Pay Range
+
+$125,000—$140,000 USD
+
+Verkada Is An Equal Opportunity Employer
+
+As an equal opportunity employer, Verkada is committed to providing employment opportunities to all individuals. All applicants for positions at Verkada will be treated without regard to race, color, ethnicity, religion, sex, gender, gender identity and expression, sexual orientation, national origin, disability, age, marital status, veteran status, pregnancy, or any other basis prohibited by applicable law.
+
+Your application will be handled in accordance with our Candidate Privacy Policy.

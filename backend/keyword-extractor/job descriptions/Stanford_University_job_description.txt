@@ -1,0 +1,119 @@
+About the job
+
+Job Purpose
+
+Are you an AI/GenAI engineer who loves shipping real systems? Join Stanford’s Enterprise Technology team to design, implement, and support AI solutions across university use cases. In this role, you’ll work hands-on to implement LLM/RAG services, integrate with enterprise platforms (ServiceNow, Salesforce, Oracle Financials, etc.), and follow strong MLOps/SDLC practices. You’ll prototype, harden, and ship features—partnering closely with product, security, infrastructure, and application teams.
+
+This is an applied engineering role (not research). You’ll learn rapidly, contribute code daily, write clear docs, and develop strong habits in quality, governance, and cost/latency optimization.
+
+Core Duties
+
+
+AI/ML System Implementation & Integration: Assess user needs and requirements, 
+Turn requirements and tickets into well-engineered components (data prep, pipelines, vector stores, prompts/agents, evaluation hooks). 
+Application & Agent Development: Build, maintain, and update programs like LLM-based agents/services that securely call enterprise tools (ServiceNow, Salesforce, Oracle, etc.) using approved APIs and tool-calling frameworks. Create lightweight internal SDKs/utilities where needed. 
+RAG & Search Enablement: Configure and optimize RAG workflows (chunking, embeddings, metadata filters) and integrate with existing search/vector infrastructure—escalating architecture changes to designated architects. 
+MLOps & SDLC Practices: Contribute tests, CI/CD pipelines, telemetry, and prompt/model versioning; participate in code reviews and release activities across dev/test/prod; follow team software development methodology. 
+Governance, Security & Compliance: Apply established guardrails (PII redaction, policy checks, access controls/minimum-privilege). Document decisions and known risks. 
+Metrics & Reporting: Create programs to meet reporting and analysis needs; instrument services with KPIs (latency, cost, accuracy/quality) and build lightweight dashboards. (Deep BI/reporting not primary. 
+Documentation & Communication: Write clear technical docs (APIs, workflows, runbooks), user stories, and acceptance criteria. Support and sometimes lead UAT/test activities, user stories, and acceptance criteria; design and implement user and operations training programs; document changes in software for end users. Support and sometimes lead UAT/test activities. 
+Collaboration & Mentorship: Participate in working sessions with stakeholders; receive and give code review feedback; pair program with senior engineers; proactively upskill on platforms and frameworks.
+
+
+
+Education & Experience
+
+Bachelor's degree and three years of relevant experience or a combination of education and relevant experience.
+
+Required Knowledge, Skills, And Abilities
+
+
+Agent/Agentic Framework Experience: Built and shipped at least one production LLM agent or agentic workflow using frameworks such as LangGraph, LangChain, CrewAI/AutoGen, Google Agent Builder/Vertex AI Agents (or equivalent). Able to explain tool selection, orchestration logic, and post‑deployment support. 
+Proven Delivery: Implemented 1+ AI/ML projects and 1+ GenAI/LLM projects in production, with operational support (monitoring, tuning, incident response). Projects should serve sizable user populations and demonstrate measurable efficiency gains. 
+Strong understanding of AI/ML concepts (LLMs/transformers and classical ML) and experience designing, developing, testing, and deploying AI-driven applications. 
+Programming Expertise: Proficient in Python; familiarity with Node.js/TypeScript/React and RESTful APIs; ability to read/extend existing codebases. 
+Vector & Search Basics: Worked with at least one vector/search tech (e.g., Pinecone, OpenSearch/Elasticsearch, FAISS, Milvus) and basic embedding workflows. 
+Experience with cloud AI stacks (e.g., Google Vertex AI, AWS Bedrock, Azure OpenAI) and vector/search technologies (Pinecone, Elastic/OpenSearch, FAISS, Milvus, etc.). 
+Thorough understanding of SDLC, MLOps, and quality control practices. 
+Ability to define/solve logical & technical problems for highly technical applications; strong problem-solving and systematic troubleshooting skills. 
+Excellent communication, listening, negotiation, and conflict resolution skills; ability to bridge functional and technical resources.
+
+
+
+Desired Knowledge, Skills, And Abilities
+
+
+MLOps Tooling: MLflow, Kubeflow, Vertex Pipelines, SageMaker Pipelines; LangSmith/PromptLayer/Weights & Biases. 
+Open Source Savvy: Experience working with, customizing, and improving open-source solutions; comfortable contributing fixes/features upstream. 
+Rapid Tech Adoption: Demonstrated ability to pick up a new technology/framework quickly and deliver production value with it. 
+GenAI Frameworks: LangChain, LlamaIndex, DSPy, Haystack, LangGraph, Agent Engine, Google ADK, AWS AgentCore, CrewAI/AutoGen. 
+Security & Governance: Implementing AI guardrails, red-teaming, policy enforcement frameworks. 
+Enterprise Integrations: ServiceNow ,Salesforce, Oracle Financials or others. 
+UI Development: React/Next.js/Tailwind for internal tools. 
+Prompt engineering at scale: Structured prompts (JSON/function-calling), templates, version control; automated/offline & online evals (rubrics, hallucination/bias checks, A/B tests, golden sets). 
+Parameter‑efficient fine‑tuning (LoRA/QLoRA/adapters), supervised instruction tuning; hosting open‑weight models (Llama/Mistral/Qwen) with vLLM/TGI/Ollama. 
+Safety/guardrails frameworks (Guardrails.ai, NeMo Guardrails, Azure/AWS safety filters) and jailbreak/drift detection. 
+Hybrid search & reranking (BM25+dense, Cohere/Voyage/Jina rerankers), synthetic data generation, provenance/watermarking. 
+Telemetry & governance: prompt/model drift monitoring, policy‑as‑code, audit logging, red‑teaming playbooks.
+
+
+
+Certifications and Licenses
+
+
+Nice to have (not required): Google/AWS/Azure AI/ML certifications or a demonstrable portfolio (GitHub, write-ups, demos) of applied AI work.
+
+
+
+Physical Requirements*:
+
+
+Constantly perform desk-based computer tasks. 
+Frequently sit, grasp lightly/fine manipulation. 
+Occasionally stand/walk, writing by hand. 
+Rarely use a telephone, lift/carry/push/pull objects that weigh up to 10 pounds.
+ Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of the job.
+
+
+
+Working Conditions
+
+
+May work extended hours, evenings, and weekends.
+
+
+
+Work Standards
+
+
+Interpersonal Skills: Demonstrates the ability to work well with Stanford colleagues and clients and with external organizations. 
+Promote Culture of Safety: Demonstrates commitment to personal responsibility and value for safety; communicates safety concerns; uses and promotes safe behaviors based on training and lessons learned. 
+Subject to and expected to stay in sync with all applicable University policies and procedures, including but not limited to the personnel policies and other policies found in Stanford's Administrative Guide, http://adminguide.stanford.edu.
+
+
+
+The expected pay range for this position is $113,148 to $137,516 per annum.
+
+Stanford University provides pay ranges representing its good faith estimate of what the university reasonably expects to pay for a position. The pay offered to a selected candidate will be determined based on factors such as (but not limited to) the scope and responsibilities of the position, the qualifications of the selected candidate, departmental budget availability, internal equity, geographic location and external market pay for comparable jobs.
+
+At Stanford University, base pay represents only one aspect of the comprehensive rewards package. The Cardinal at Work website (https://cardinalatwork.stanford.edu/benefits-rewards) provides detailed information on Stanford’s extensive range of benefits and rewards offered to employees. Specifics about the rewards package for this position may be discussed during the hiring process.
+
+Why Stanford Is For You
+
+Stanford University has revolutionized the way we live and enrich the world. Supporting this mission is our diverse and dedicated 17,000 staff. We seek talent driven to impact the future of our legacy. Our culture and unique perks empower you with:
+
+
+Freedom to grow. We offer career development programs, tuition reimbursement, or audit a course. Join a TedTalk, film screening, or listen to a renowned author or global leader speak. 
+A caring culture. We provide superb retirement plans, generous time-off, and family care resources. 
+A healthier you. Climb our rock wall, or choose from hundreds of health or fitness classes at our world-class exercise facilities. We also provide excellent health care benefits. 
+Discovery and fun. Stroll through historic sculptures, trails, and museums. 
+Enviable resources. Enjoy free commuter programs, ridesharing incentives, discounts, and more. 
+Redwood City. Our new Stanford Redwood City campus, opened in 2019, will be the workplace for approximately 2,700 staff, including University IT, whose jobs are important to supporting the University’s mission. The campus will offer amenities such as onsite cafes and a dining pavilion, a high-end fitness facility with an outdoor pool, and a childcare center for Stanford families.
+
+
+
+The job duties listed are typical examples of work performed by positions in this job classification and are not designed to contain or be interpreted as a comprehensive inventory of all duties, tasks, and responsibilities. Specific duties and responsibilities may vary depending on department or program needs without changing the general nature and scope of the job or level of responsibility. Employees may also perform other duties as assigned.
+
+Consistent with its obligations under the law, the University will provide reasonable accommodations to applicants and employees with disabilities. Applicants requiring a reasonable accommodation for any part of the application or hiring process should contact Stanford University Human Resources by submitting a contact form.
+
+Stanford is an equal employment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law.

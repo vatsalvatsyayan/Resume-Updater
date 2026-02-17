@@ -1,0 +1,30 @@
+About the job
+
+Role Description
+At Northslope, we believe in giving early-career engineers the opportunity to make immediate, tangible impact. As a Forward Deployed Software Engineer at Northslope, you will be responsible for helping our customers solve their most valuable problems, working closely with users to conceive, architect, build, and maintain applications that make a measurable impact on their business. Day to day, you’ll understand a customer’s most critical objectives and build operationalized workflows on their enterprise data that end users actually use to make change within the business. You’ll iterate quickly, build from scratch, and help organizations transform their operations at uncommon speed.
+This is not a typical new grad role. You won’t be stuck maintaining legacy code or working on backend services no one sees. Instead, you’ll partner closely with customer users, understand their real-world problems, and ship end-to-end applications that improve business outcomes. Think of it as business strategy meets engineering — fast-paced, high-impact, and deeply collaborative.
+What We Look For
+
+An obsession with helping your customer win, even when it goes beyond the original “scope”. You eat hard customer problems for breakfast and take pride in delivering solutions that actually drive value.
+Strong analytical abilities and problem-solving aptitude. You love breaking down complex problems and building end-to-end solutions that actually work.
+Proficiency in coding fundamentals.
+Ability to work independently and own outcomes autonomously. You'll always have support, but we're looking for teammates who want to be in the driver's seat and fully own their work.
+Strong ability to collaborate with internal and external teammates with varying levels of technical proficiency. We embed with our customers and join their teams, you'll need both technical and people skills to succeed.
+Willingness to travel as-needed for client implementation work. Every project is different, but typically projects involve travel 10-33% of the time.
+Enthusiasm for working hybrid-in-person at our London and New York offices and onsite with our customers.
+Engineering degree, preferred in Computer Science or related field. 2025 or 2026 Graduates.
+
+Company Description
+Northslope builds custom products for ambitious organizations that are reinventing their industries - from the largest fortune 500 companies and governments to the smallest startups. We solve our customers' most mission-critical problems with unmatched velocity, bringing their disparate enterprise data into operator-centered workflows that move atoms in the real world and change how people approach their work each day.
+We build our products on the Palantir Foundry & AIP platform, the world's first Enterprise Operating system. We focus on enterprise-wide data integration, practical deployment of ML and LLM solutions, and deep understanding of operator's pain points. We build ironman suits for operators, so they can better achieve their mission and deliver more value to the bottom line.
+At Northslope, we're built different. Traditional professional services companies are designed for years-long, cookie-cutter projects that stay the same day in and day out. We take pride in being more like a product startup than a traditional services firm. We value velocity, ingenuity, and grit, and we relentlessly focus on delivering tangible outcomes for our customers.
+We also have fun. We get to work on big, hard problems, in a fast-paced environment, alongside sharp teammates who help us continuously grow and delight in one another's successes. We offer full benefits and all the perks you'd expect of a modern tech startup, and are a distributed global team with hubs in London, New York, and Denver.
+Our Principles
+
+Only Valuable Problems: Not every problem is worth solving. We work on the projects that will significantly improve our customers' bottom lines.
+Outcomes, Not Activity: We create value, not extract it. We focus on our business impact, not racking up billable hours.
+Forward Deployed Engineering: We never build in a vacuum. We go to the heart of the problem and build alongside our users.
+Expand the Possible: AIP & Foundry are powerful. We keep our eyes on the horizon to spot new opportunities for value on the platform.
+
+At Northslope, you'll get to build software that solves mission-critical problems at large customers across a variety of industries, alongside a team of sharp, high-horsepower, caring people who want to win. If you're looking for a fast-paced, high-growth environment and an opportunity to work on a wide array of big problems, we'd love to chat.
+Northslope is committed to building a strong, diverse team. We believe teams with a diversity of lived experience, background, and perspectives create better outcomes for our customers and are just more enjoyable to be part of. We are committed to creating and living a culture of diversity, equity, and inclusion throughout our work. We do not discriminate on the basis of race, national origin, religion, disability, pregnancy, age, military status, marital status, genetic characteristics or information, gender, gender identity, gender variance, or sexual orientation.

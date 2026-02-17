@@ -1,0 +1,63 @@
+About the job
+
+Software Engineer (New Grad/Entry-Level)
+
+Full-time | On-site 
+
+Location: San Francisco, CA
+
+We are a rapidly growing, cash-flow positive technology company modernizing a $12 trillion global industry. We are seeking a world-class Software Engineer to join our team, focusing on simplifying complex systems, unifying fragmented data, and building high-scale backend infrastructure. This is a unique opportunity to join an early-stage company with de-risked fundamentals and high impact potential.
+
+This role involves tackling massive technical challenges by connecting and unifying disparate, legacy software systems. You will build the foundational infrastructure and user-facing applications that automate core industry workflows, providing tremendous value to customers.
+
+Role Responsibilities:
+
+
+Develop and maintain high-scale backend systems that handle millions of API requests daily, focusing on performance, reliability, and speed
+Unify fragmented systems by defining a single, scalable standard for data models, authentication, and features like filtering and pagination across dozens of integrations
+Innovate solutions for connecting with legacy, on-premise systems (SQL-based, DLL-based, API-based) to provide secure, fast, and reliable cloud-based access, often requiring creative approaches like building real-time communication layers (e.g., using WebSockets) where native APIs do not exist
+Build full-stack applications (including front-end UIs) that "dog-food" our own APIs, ensuring the highest level of API quality and performance
+Focus on Operational Excellence, creating a reliable API layer on top of inherently unstable legacy systems, enforced by strict SLAs
+Work across the technical stack, utilizing Postgres, Redis, and AWS infrastructure (CDK, EC2)
+Contribute to a culture of constant iteration, shipping code daily based on direct customer feedback
+
+
+Requirements
+
+
+We are looking for an ambitious, independent engineer who thrives in a fast-paced, high-ownership environment
+0 - 1 years of post-graduation experience as a Backend or Full-Stack Software Engineer. This is an ideal role for a high-potential new graduate
+Must be able to work independently and take full ownership of tasks with minimal supervision or guidance
+Experience or strong familiarity with our core Tech Stack: Redis, Postgres, and AWS (CDK, EC2)
+Strong desire to simplify complex technical problems and unify fragmented data sets
+Commitment to high-velocity development and iterative product building based on customer needs
+
+
+Work Policy:
+
+
+This is a fully on-site position in San Francisco, CA, requiring attendance 5 days a week
+Visa Sponsorship is available for qualified US and CAN candidates (including TN, OPT, and H1B Transfer)
+
+
+Benefits
+
+Join an experienced founding team with a strong track record (acquired by Amazon) and a company that has strategically eliminated key risks while maintaining high growth upside.
+
+
+Competitive Compensation: Base salary between $130,000 - $160,000
+Significant Early Equity: Own a meaningful stake with equity ranging from 0.05% - 0.20%
+Health & Wellness: We cover 90% of your healthcare costs with several plan options
+401k: Generous matching—we match 100% of your contributions, up to 4% of your annual salary
+Relocation Support: Sizable relocation bonus for candidates moving to the Bay Area
+Daily Meals: DoorDash stipend for dinner, plus a fully stocked kitchen with snacks and drinks
+On-site Amenities: Access to an on-site gym including Peloton, squat racks, and more
+
+
+Due to the high volume of applications we anticipate, we regret that we are unable to provide individual feedback to all candidates. If you do not hear back from us within 4 weeks of your application, please assume that you have not been successful on this occasion. We genuinely appreciate your interest and wish you the best in your job search.
+
+Commitment to Equality and Accessibility:
+
+At MLabs, we are committed to offer equal opportunities to all candidates. We ensure no discrimination, accessible job adverts, and providing information in accessible formats. Our goal is to foster a diverse, inclusive workplace with equal opportunities for all. If you need any reasonable adjustments during any part of the hiring process or you would like to see the job-advert in an accessible format please let us know at the earliest opportunity by emailing human-resources@mlabs.city.
+
+MLabs Ltd collects and processes the personal information you provide such as your contact details, work history, resume, and other relevant data for recruitment purposes only. This information is managed securely in accordance with MLabs Ltd's Privacy Policy and Information Security Policy, and in compliance with applicable data protection laws. Your data may be shared only with clients and trusted partners where necessary for recruitment purposes. You may request the deletion of your data or withdraw your consent at any time by contacting legal@mlabs.city.

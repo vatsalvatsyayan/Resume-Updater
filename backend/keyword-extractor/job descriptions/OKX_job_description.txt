@@ -1,0 +1,73 @@
+About the job
+
+Who We Are
+
+At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom.
+
+OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe and reliable, backed by our Proof of Reserves.
+
+Across our multiple offices globally, we are united by our core principles: We Before Me, Do the Right Thing, and Get Things Done. These shared values drive our culture, shape our processes, and foster a friendly, rewarding, and diverse environment for every OK-er.
+
+OKX is part of OKG, a group that brings the value of Blockchain to users around the world, through our leading products OKX, OKX Wallet, OKLink and more.
+
+About OKX Graduate Program (Supernova)
+
+The Supernova Program is a 3-year Career Accelerator Program that aims to fast-track, high performing graduates into technical experts and future leaders mainly in the fields of Product Engineering, Product Management, and Product Design. We firmly believe in the power of the new era. Join us to achieve your narrative around crypto.
+
+As a graduate Backend Software Engineer, you'll have the opportunity to develop cutting-edge technology across our platforms to facilitate seamless and flawless digital asset transactions for our global customers. You will work cross-functionally with design, product, and other engineering teams to identify customer needs, and ship high-quality new features through fast iterations. This is also an opportunity to learn the full life cycle of crypto platforms including pro/retail trading, asset management, and wallet.
+
+What You’ll Be Doing
+
+
+Be part of the global engineering team to design and develop cutting-edge crypto-linked products on the platform. Deliver customized solutions with performance, scalability and continuous integration in mind while maintaining overall architecture consistency.
+Be a problem solver to build high availability, high performance distributed service. Strive for optimization and maximize user satisfaction in a time-critical manner.
+Partner closely with Design, Product and Marketing teams, drive rapid innovation by turning design ideas into quality features that scale to millions of users. Communicate effectively to peers, cross-functions and leadership on project deliverables.
+Stay on top of industry trends, and evaluate new solutions to address our unique and fast-growing business needs. Prototype ideas quickly using cutting edge technologies.
+Maintain high-quality technical documentation. Uphold technology best practices and code reviews with peers. Improve efficiency in cross-office/time zone collaboration.
+Quickly ramp up AI development tools and apply them effectively in daily work to deliver features and improve efficiency (e.g., cursor, code copilots, prompt engineering, automation).
+
+
+
+What We Look For In You
+
+
+Bachelors in Computer Science, Technology, Engineering, Mathematics, related technical disciplines, or self-taught enthusiasts.
+Possess a relevant tech stack skillset for the respective specialisation — Java/SpringBoot/SpringCloud, Python, microservice/API development, JavaScript, relational databases, data structures and algorithms — and be familiar with common middleware such as MySQL, Redis and Kafka.
+Passionate about the latest technology. Curious to learn all aspects of trading products in financial and crypto markets, including spot, future, swap, options, and structured products.
+Analytical with positive problem-solving mindset, A pro-active team player that embodies a growth mindset, flexible and comfortable in navigating ambiguity with a global mindset.
+Experience in practicing automated testing and continuous integration.
+
+
+
+Nice to Haves
+
+
+Experience in internship/ freelance projects, designed and developed micro-service programs, or capability for cross-browser development.
+Comfortable with the cloud-based Linux environment. Knowledgeable in multi-threading and distributed architecture. Understanding of mainstream messaging frameworks, including Kafka. Or familiar with daily developing tools such as git,grafna,jira, etc.
+Curious and excited about crypto/block chain industry.
+
+
+
+Perks & Benefits
+
+
+Competitive compensation package 
+L&D programs and Education subsidy for employees' growth and development 
+Various team building programs and company events 
+Wellness and meal allowances 
+Comprehensive healthcare schemes for employees and dependants 
+More that we love to tell you along the process! 
+
+
+
+OKX Statement
+
+OKX is committed to equal employment opportunities regardless of race, color, genetic information, creed, religion, sex, sexual orientation, gender identity, lawful alien status, national origin, age, marital status, and non-job related physical or mental disability, or protected veteran status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+
+The salary range for this position is $125,000 - $155,000.
+The salary offered depends on a variety of factors, including job-related knowledge, skills, experience, and market location. In addition to the salary, a performance bonus and long-term incentives may be provided as part of the compensation package, as well as a full range of medical, financial, and/or other benefits, dependent on the position offered. Applicants should apply via OKX internal or external careers site.
+
+
+
+Information collected and processed as part of the recruitment process of any job application you choose to submit is subject to OKX's Candidate Privacy Notice.

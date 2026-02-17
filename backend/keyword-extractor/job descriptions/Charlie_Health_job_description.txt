@@ -1,0 +1,69 @@
+About the job
+
+Why Charlie Health?
+
+Millions of people across the country are navigating mental health conditions, substance use disorders, and eating disorders, but too often, they’re met with barriers to care. From limited local options and long wait times to treatment that lacks personalization, behavioral healthcare can leave people feeling unseen and unsupported.
+
+Charlie Health exists to change that. Our mission is to connect the world to life-saving behavioral health treatment. We deliver personalized, virtual care rooted in connection—between clients and clinicians, care teams, loved ones, and the communities that support them. By focusing on people with complex needs, we’re expanding access to meaningful care and driving better outcomes from the comfort of home.
+
+As a rapidly growing organization, we're reaching more communities every day and building a team that’s redefining what behavioral health treatment can look like. If you're ready to use your skills to drive lasting change and help more people access the care they deserve, we’d love to meet you.
+
+About The Role
+
+Charlie Health leads the nation in high-acuity virtual behavioral care, having delivered life-saving treatment to more than 100,000 clients nationwide. Our Therapist Success team builds the platform that powers the care itself, helping therapists deliver consistent, high-quality treatment every day.
+
+You’ll create tools that give our therapists the right information at the right time. From organizing a client’s full care history to surfacing dynamic summaries and playbooks for each session, your work will help clinicians prepare, document, and make better decisions in real time. The systems you build will bring structure to complex clinical data, strengthen quality across our network, and ultimately make our care more effective.
+
+If you care about building tools that empower therapists to focus on care, not clicks, this is the team for you.
+
+Responsibilities
+
+
+Develop and deliver high quality, performant, maintainable features that drive meaningful business value using our core technology stack: React, Python, and PostgreSQL.
+Partner with teammates across the organization to understand our business. Leverage that understanding to drive data modeling discussions and decisions.
+Be an owner. Collaborate with product and design to iterate to top notch product solutions.
+Identify bottlenecks and implement improvements to engineering processes, tools, and procedures. We’re early and the expectation of folks joining at this stage is that you’ll play a huge part in setting and improving how we work.
+Promote a culture of collaboration and learning across engineering, product, and design team via mentoring, documentation, presentations, or other knowledge sharing methods.
+Ensure our clients can always access the care they need by participating in our on-call rotation
+
+
+Requirements
+
+
+Professional experience developing user facing web or mobile applications that deliver meaningful business value.
+Hands on production experience with an application programming language, preferably Python.
+Ability to break down ambiguous problems into smaller parts with tractable solutions.
+Growth mindset and a sense of humor. You welcome feedback and when you stumble you get back up. You adapt quickly in a fast-paced environment and you enjoy fostering an environment that prioritizes fun, learning, and growth.
+2+ years experience as an engineer
+Please note: candidates located within 75 minutes' commuting distance of our NYC office are expected to come to office 4 days/week
+
+
+Charlie Health does not provide visa sponsorship.
+
+Benefits
+
+Charlie Health is pleased to offer comprehensive benefits to all full-time, exempt employees. Read more about our benefits here.
+
+Additional Information
+
+The total target cash compensation for this role will be between $155,000–$195,000 per year at the commencement of employment. Please note, pay will be determined on an individualized basis and will be impacted by location, experience, expertise, internal pay equity, and other relevant business considerations. Further, cash compensation is only part of the total compensation package, which, depending on the position, may include stock options and other Charlie Health-sponsored benefits.
+
+Our Values
+
+
+Connection: Care deeply & inspire hope.
+Congruence: Stay curious & heed the evidence.
+Commitment: Act with urgency & don’t give up.
+
+
+Please do not call our public clinical admissions line in regard to this or any other job posting.
+
+Please be cautious of potential recruitment fraud. If you are interested in exploring opportunities at Charlie Health, please go directly to our Careers Page: https://www.charliehealth.com/careers/current-openings. Charlie Health will never ask you to pay a fee or download software as part of the interview process with our company. In addition, Charlie Health will not ask for your personal banking information until you have signed an offer of employment and completed onboarding paperwork that is provided by our People Operations team. All communications with Charlie Health Talent and People Operations professionals will only be sent from @charliehealth.com email addresses. Legitimate emails will never originate from gmail.com, yahoo.com, or other commercial email services.
+
+Recruiting agencies, please do not submit unsolicited referrals for this or any open role. We have a roster of agencies with whom we partner, and we will not pay any fee associated with unsolicited referrals.
+
+At Charlie Health, we value being an Equal Opportunity Employer. We strive to cultivate an environment where individuals can be their authentic selves. Being an Equal Opportunity Employer means every member of our team feels as though they are supported and belong. We value diverse perspectives to help us provide essential mental health and substance use disorder treatments to all young people.
+
+Charlie Health applicants are assessed solely on their qualifications for the role, without regard to disability or need for accommodation.
+
+By submitting your application, you agree to receive SMS messages from Charlie Health regarding your application. Message and data rates may apply. Message frequency varies. You can reply STOP to opt out at any time. For help, reply HELP.

@@ -1,0 +1,157 @@
+{
+  "total_files_processed": 427,
+  "total_unique_terms": 791,
+  "extraction_date": "2026-02-02",
+  "top_20_terms": [
+    {
+      "term": "AI",
+      "count": 299,
+      "num_sources": 291
+    },
+    {
+      "term": "GO",
+      "count": 230,
+      "num_sources": 222
+    },
+    {
+      "term": "Python",
+      "count": 256,
+      "num_sources": 215
+    },
+    {
+      "term": "AD",
+      "count": 195,
+      "num_sources": 189
+    },
+    {
+      "term": "AWS",
+      "count": 157,
+      "num_sources": 147
+    },
+    {
+      "term": "IT",
+      "count": 164,
+      "num_sources": 145
+    },
+    {
+      "term": "JAVA",
+      "count": 161,
+      "num_sources": 136
+    },
+    {
+      "term": "REACT",
+      "count": 143,
+      "num_sources": 123
+    },
+    {
+      "term": "TypeScript",
+      "count": 127,
+      "num_sources": 112
+    },
+    {
+      "term": "JavaScript",
+      "count": 112,
+      "num_sources": 105
+    },
+    {
+      "term": "BackEnd",
+      "count": 106,
+      "num_sources": 105
+    },
+    {
+      "term": "SQL",
+      "count": 111,
+      "num_sources": 104
+    },
+    {
+      "term": "CI",
+      "count": 93,
+      "num_sources": 93
+    },
+    {
+      "term": "CD",
+      "count": 88,
+      "num_sources": 88
+    },
+    {
+      "term": "Kubernetes",
+      "count": 91,
+      "num_sources": 80
+    },
+    {
+      "term": "Code Reviews",
+      "count": 80,
+      "num_sources": 79
+    },
+    {
+      "term": "API",
+      "count": 78,
+      "num_sources": 77
+    },
+    {
+      "term": "GIT",
+      "count": 85,
+      "num_sources": 67
+    },
+    {
+      "term": "Docker",
+      "count": 84,
+      "num_sources": 67
+    },
+    {
+      "term": "ML",
+      "count": 67,
+      "num_sources": 67
+    }
+  ],
+  "terms_by_frequency_bucket": {
+    "50+": 26,
+    "20-49": 26,
+    "10-19": 31,
+    "5-9": 76,
+    "2-4": 182,
+    "1": 450
+  },
+  "companies_with_most_terms": [
+    {
+      "company": "Panasonic Avionics Corporation",
+      "term_count": 50
+    },
+    {
+      "company": "Labelbox",
+      "term_count": 43
+    },
+    {
+      "company": "Cast & Crew",
+      "term_count": 41
+    },
+    {
+      "company": "Undisclosed",
+      "term_count": 38
+    },
+    {
+      "company": "Prudential Financial",
+      "term_count": 36
+    },
+    {
+      "company": "Stanford University",
+      "term_count": 34
+    },
+    {
+      "company": "Resmed",
+      "term_count": 33
+    },
+    {
+      "company": "Winstead PC",
+      "term_count": 32
+    },
+    {
+      "company": "Cognizant",
+      "term_count": 32
+    },
+    {
+      "company": "Akamai Technologies",
+      "term_count": 31
+    }
+  ]
+}

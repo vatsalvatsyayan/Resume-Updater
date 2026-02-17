@@ -1,0 +1,61 @@
+About the job
+
+About Us
+
+At Picnic, we’re reinventing the way employees experience lunch at work. By partnering with top local restaurants and batching hundreds of orders, we make it easy for companies to offer high-quality, individually packed meals, without fees or tips. Our mission is to create a seamless, affordable, and joyful lunch experience that benefits both employees and employer
+
+Our engineering effort spans infrastructure, platforms, and product development, driving innovation and excellence. Whether optimizing systems, building tools for developers, or creating user-facing features, your work will have a direct impact on real-world problems.
+
+We are seeking Backend Engineers who are excited to contribute at all levels - whether you specialize in infrastructure, platform, or product-focused development.
+
+Check our tech blog to find out more about what we’re building.
+
+What You’ll Do
+
+As a Backend Engineer, you’ll design, implement, and optimize systems that power mission-critical applications. Your role will adapt to your strengths and interests, with opportunities to focus on Product:
+
+Engineer backend services that support customer-facing applications and deliver seamless user experiences.
+
+Core Responsibilities
+
+
+Architect and implement scalable backend systems and APIs.
+Ensure high system performance, reliability, and security.
+Collaborate with product managers, designers, and other engineers to deliver end-to-end solutions.
+Participate in code reviews, testing, and documentation to maintain high-quality standards.
+
+
+What We’re Looking For
+
+We value diversity of experience and are looking for individuals passionate about solving complex problems.
+
+Basic Qualifications
+
+
+Proficiency in backend programming languages like Java (Go is a plus)
+Familiarity with relational and/or NoSQL databases (e.g., PostgreSQL, MongoDB, Redis)
+Experience with cloud platforms like AWS, Google Cloud, or Azure
+Understanding of RESTful APIs, microservices, and distributed systems
+Strong debugging and problem-solving skills
+
+
+Preferred Qualifications
+
+
+Experience with containerization technologies like Docker and Kubernetes
+Knowledge of CI/CD pipelines and DevOps practices
+Exposure to large-scale data processing or event-driven architectures
+
+
+Why Join Us?
+
+
+Drive real impact: Be part of building the operational engine behind a fast-growing startup that’s redefining how work gets done.
+Work with purpose: Join a mission-driven team focused on making the workplace experience better for thousands of people.
+Career Growth: Opportunities for advancement across engineering tracks, from individual contributors to leadership roles.
+Exciting Projects: Contribute to products and systems used by millions worldwide.
+
+
+What Else You Need To Know
+
+This role is based in our Mountain View, CA, office. As a company driven by innovation and continuous change, close collaboration is essential. We’re constantly reimagining our industry, creating new products, and refining our processes, and we do our best work together. That’s why all of our office-based teams work onsite, five days a week.

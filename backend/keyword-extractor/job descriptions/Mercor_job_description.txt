@@ -1,0 +1,60 @@
+About the job
+
+About Mercor
+
+Mercor is training models that predict how well someone will perform on a job better than a human can. We use our platform to source, vet, and onboard expert contractors who help train AI models in a wide variety of domains. Our technology is so effective it’s used by all of the top 5 AI labs.
+
+We scaled from $1–500M in revenue run rate in the last 17 months, making us the fastest growing company in the world. Our growth is accelerating: 11% week-over-week in July, 18% in August, and 19% in September. The team is small, profitable, and growing as fast as we can hire exceptional people.
+
+About The Role
+
+As a Software Engineer at Mercor, you’ll join a small, product-driven engineering team building modern backend systems that power critical workflows for some of the most advanced AI companies in the world. You’ll own projects end-to-end, designing, building, and shipping production systems that directly impact customers. From day one you’ll write production-grade code, reason about systems holistically, and make decisions that tie directly to business outcomes. You’ll work closely with product and design, moving fast while upholding a high bar for code quality, scalability, and simplicity.
+
+At The End Of The Process, You’ll Be Team-matched To Where You Can Have The Most Impact, On One Of The Following
+
+
+Talent platform side – building next-generation tools that automate recruiting end-to-end, intelligently match candidates to roles, and power global hiring with seamless contracts and payments.
+Applied AI/human data side – partnering with top AI researchers from the AI labs like OpenAI, Anthropic, and Google to create post training datasets to improve foundational model capabilities.
+
+
+What You’ll Do
+
+
+Design and build scalable backend APIs, services, and infrastructure.
+Collaborate across the stack with product and design to ship features quickly.
+Write clean, maintainable code and contribute to documentation.
+Participate in code reviews, technical design discussions, and retros.
+Solve real-world customer problems under real-world constraints.
+Contribute to core systems that power training, evaluation, and scaling for leading AI labs.
+
+
+What We’re Looking For
+
+
+Strong coding fundamentals in at least one modern language (Python, Go, Rust, etc.).
+Understanding of data structures, algorithms, and distributed systems.
+Familiarity with APIs, SQL/NoSQL databases, and cloud platforms (AWS/GCP).
+Bias toward ownership, curiosity, and asking the right questions.
+Ability to break down ambiguity and ship simple solutions to complex problems.
+
+
+Why Mercor
+
+
+Impact: Your work powers how the world’s leading AI labs train and test their models.
+Learning: Get early insights into frontier model capabilities months before the market.
+Growth: Work on both infrastructure and research-adjacent projects with fast paths to ownership.
+
+
+Benefits
+
+
+Generous equity grant vested over 4 years
+A $20K relocation bonus (if moving to the Bay Area)
+A $10K housing bonus (if you live within 0.5 miles of our office)
+A $1K monthly stipend for meals
+Free Equinox membership
+Health insurance
+
+
+Compensation Range: $130K - $500K

@@ -1,0 +1,498 @@
+GovDash
+
+Software Engineer (Product)
+
+New York, NY · 42 minutes ago · 42 people clicked apply
+
+Responses managed off LinkedIn
+
+$160K/yr - $160K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Michael Kelly
+
+• 2nd
+
+Software Engineer | GovDash
+
+Recently hired
+
+Connect
+About the job
+
+GovDash helps businesses win and deliver government contracts that advance American interests.
+
+Our AI platform is a single, secure, workflow-driven system for the full contracting lifecycle, from opportunity discovery and capture through proposal execution, award, and post-award operations.
+
+In 2025 alone, GovDash customers won more than $5B in government contracts. We’ve raised $42M to move faster on product and scale GovDash nationwide.
+
+We are building the rails to do business with the government.
+
+GovDash is an AI company helping businesses find, win, and manage government contracts. Our platform automates business development, capture, proposal, and contract workflows end-to-end. This helps contractors grow faster and better serve government missions.
+
+Our small, talent-dense team includes engineers from Google, Lockheed Martin, and CACI, along with veteran proposal managers and capture leaders. This mix of AI talent and deep GovCon expertise uniquely positions us to redefine how contractors work.
+
+In just 12 months, GovDash has scaled to millions in ARR and become the platform of choice for contractors nationwide. We are now building an AI-first ERP for government contractors and, ultimately, the most powerful procurement platform ever created. Join us.
+
+About The Role
+
+We're hiring a Software Engineer (Product) to help build GovDash's core product experiences. This role is for engineers who enjoy working across the stack, owning product features end-to-end, and shipping high-quality software that customers rely on every day.
+
+You'll contribute to multiple product areas over time, building reusable systems, intuitive user interfaces, and reliable backend services that power mission‑critical workflows for government contractors. While teams may focus on different domains, this role is centered on full‑stack product development , customer impact, and strong engineering fundamentals.
+
+This role has a $160,000 base salary plus equity and is based in New York City.
+
+What You'll Do
+
+
+Design, build, and ship full‑stack product features using TypeScript across frontend and backend systems.
+Own projects end‑to‑end, from technical design through deployment, with a relentless focus on customer experience.
+Build intuitive interfaces and APIs that help users understand, guide, and trust AI‑powered workflows.
+Create systems that surface reasoning, highlight errors, emphasize citations, and track progress across complex documents.
+Improve system reliability, performance, and scalability as the platform grows.
+Continuously incorporate user feedback to refine features and deliver better customer outcomes.
+
+
+What We're Looking For
+
+
+Strong full‑stack development experience with TypeScript / Node.js.
+Comfort working across frontend and backend systems (React‑based UIs and service APIs).
+Strong CS fundamentals, sound architectural judgment, and experience scaling production systems.
+Product‑oriented mindset and an obsession with customer experience and usability.
+Self‑starter with an ownership mentality who thrives in a fast‑paced startup environment.
+Clear communicator who collaborates effectively across disciplines.
+
+
+Nice to Have
+
+
+Previous experience as a founder or engineer at a fast-growing startup.
+Experience building AI‑powered or LLM‑enabled product features.
+Experience with government contracting or public‑sector software.
+Experience with complex integrations and syncing with external systems.
+
+
+Engineers at GovDash Today
+
+
+Work with React (TypeScript), Node.js, Next.js, Temporal, and modern cloud infrastructure.
+Move with speed and urgency without sacrificing quality.
+Embrace hard problems and take pride in elegant solutions.
+Put themselves in the shoes of users to build thoughtful, trustworthy experiences.
+Value clear, frequent communication and strong team ownership.
+Feel deep accountability and enjoy building for the businesses we serve.
+
+
+You Might Thrive Here If You
+
+
+Enjoy owning product features from idea to production.
+Care deeply about customer experience and real‑world impact.
+Are excited to build software that helps organizations operate better and win more business.
+Care about America and her interests (non‑negotiable).
+
+
+Our Product Teams
+
+Engineers may work with one or more of the following teams over time:
+
+
+Capture Team
+Proposal Team
+Contract Team
+Platform Team
+Data Library Team
+… more
+
+Set alert for similar jobs
+
+Software Engineer, New York, New York, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+42
+
+total
+
+42
+
+in the past day
+
+Candidate seniority level
+
+83% Entry level candidates
+
+5% Senior level candidates
+
+Candidate education level
+
+66
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+34
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about GovDash
+Powered by Bing
+
+The latest hiring trend
+
+58
+
+Total employees
+
+1060%
+
+Company-wide
+
+2 year growth
+
+900%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+25
+50
+75
+
+Median employee tenure: 0.8 years
+
+Show Premium Insights
+About the company
+
+GovDash
+
+8,208 followers
+
+Follow
+
+Software Development
+
+ • 
+
+51-200 employees
+
+ • 
+
+58 on LinkedIn
+
+GovDash is an autonomous AI platform that assists government contractors with capture, proposal development, contract management & more—in one place.
+
+Using your verified past performance as the foundation, GovDash identifies opportunities, guides you through capture, builds compliance matrices, annotates outlines, writes proposals, and more.
+
+We've brought together a team of GovCon experts and world-class engineers from companies like Google, Amazon, and more to create the tools that GovCon has been waiting for. 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Founding Engineer
+
+Claims Concierge
+
+Atlanta Metropolitan Area (Hybrid)
+
+You’d be a top applicant
+
+Posted on January 26, 2026, 7:37 AM
+10 hours ago
+
+ · 
+
+ Easy Apply
+
+RUST Engineer
+
+CHADRICK Professional Services
+
+Plano, TX (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 26, 2026, 1:20 PM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+AI Project Administrator
+
+FrostLocker
+
+Boise, ID (On-site)
+
+$30/hr
+
+Posted on January 24, 2026, 2:24 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Software Development Engineer II
+
+Kognitiv Edge
+
+Minneapolis, MN (On-site)
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 25, 2026, 9:33 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Database System (All Levels)
+
+CelerData
+
+San Francisco Bay Area (Hybrid)
+
+Posted on January 26, 2026, 11:32 AM
+6 hours ago
+
+ · 
+
+ Easy Apply
+
+AI Solutions Engineer (Verified job)
+AI Solutions Engineer 
+
+CapCenter
+
+Richmond, VA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 24, 2026, 5:53 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+Raydar
+
+San Francisco Bay Area (On-site)
+
+$200K/yr - $320K/yr
+
+Posted on January 26, 2026, 5:13 PM
+54 minutes ago
+
+ · 
+
+ Easy Apply
+
+Junior React Developer
+
+First in Math®
+
+Easton, PA (Remote)
+
+$35/hr - $42/hr
+
+ • 
+
+Medical benefit
+
+Posted on January 26, 2026, 9:31 AM
+8 hours ago
+
+ · 
+
+ Easy Apply
+
+Quality Assurance Engineer
+
+Leostream Corporation
+
+Portland, OR (On-site)
+
+$85K/yr - $90K/yr
+
+ • 
+
+Vision benefit
+
+Posted on January 26, 2026, 1:38 PM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+Founding Engineer
+
+Isle of Monday
+
+New York, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on January 26, 2026, 7:31 AM
+10 hours ago
+
+ · 
+
+ Easy Apply
+
+Sr. Software Developer (Verified job)
+Sr. Software Developer 
+
+TopoDOT
+
+Orlando, FL (On-site)
+
+$150K/yr
+
+Posted on January 26, 2026, 11:24 AM
+6 hours ago
+
+ · 
+
+ Easy Apply
+
+Front-End Developer (UI/UX-Focused)
+
+CopperSmith®
+
+Minneapolis, MN (Hybrid)
+
+$90K/yr - $110K/yr
+
+Posted on January 26, 2026, 4:27 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

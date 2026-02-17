@@ -1,0 +1,47 @@
+About the job
+
+Tatari is on a mission to revolutionize TV advertising. We work with some of your favorite disruptor brands—like Calm, Vuori, Rocket Money, and hundreds more—to grow their business using linear and streaming TV ads. Our platform combines sophisticated media buying with proprietary analytics to turn TV advertising into an automated, digital-like experience. Our technology and services are pushing the industry forward, enabling businesses of any size to advertise on TV.
+
+Named one of the 16 Hottest Ad Tech Companies by Business Insider and Best Places to Work by Inc. Magazine, Tatari is experiencing rapid growth. Our executive team is comprised of former founders and senior leaders at fast-rising startups like Shazam, TrueCar, AdapTV, and LiveRail and larger, more established tech companies like Amazon, Google, Meta, Microsoft, and Yahoo.
+
+We are looking for Backend Engineers to join Tatari. As a Backend Engineer, you will play a key role in the evolution and scaling of our platform. You’ll participate in system architecture decisions, develop best practices, and ship high-quality code to production. At Tatari you are empowered to do your best work at a sustainable pace with a stellar group of smart, creative, and humble human beings. Come help us build a television first programmatic buying experience!
+
+Responsibilities:
+
+
+Write clean, concise application code in modern Python
+Participate in technical architecture discussions and peer code reviews
+Drive architectural changes such as enhanced data pipelines and scalable APIs
+Collaborate cross-departmentally to understand business needs and develop new product features
+
+
+Qualifications:
+
+
+3+ years developing software with object-oriented and/or functional programming languages - Python required
+2+ years building distributed systems at scale
+2+ years with a modern data stack (RDS, Databricks, Spark, Redshift, Kafka, Airflow,, lakehouse architectures, real-time databases, dbt, etc.)
+Deep SQL and data modeling expertise
+Nice to have: 
+Experience developing API frameworks (e.g. REST, gRPC, GraphQL)
+Interest in developing AI/ML-enabled features
+Experience enhancing development processes by leveraging agentic coding tools while maintaining a high bar for quality (e.g. Cursor)
+
+Benefits:
+
+
+Total compensation ($120,000-175,000/annually)
+Equity compensation
+Health insurance coverage for you and your dependents, with minimum contribution and buy-up plans
+Unlimited PTO and sick days
+Snacks, drinks, and catered lunches at the office
+Team building events 
+$1,000 annual continued education benefit
+$500 WFH reimbursement
+$150 Monthly work-related stipend
+FSA and commuter benefits
+Monthly Company Wellness Day Off
+Hybrid RTO of 2 days per week. THIS IS AN IN-OFFICE POSITION
+
+
+At Tatari, we believe in the importance of cultivating teams with diverse backgrounds and offering equal opportunities to all. We strive to create a welcoming, inclusive environment where every team member feels valued and diversity is celebrated.

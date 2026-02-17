@@ -1,0 +1,57 @@
+About the job
+
+Achieving our goals starts with supporting yours. Grow your career, access top-tier health and wellness benefits, build lasting connections with your team and our customers, and travel the world using our extensive route network.
+
+Come join us to create what’s next. Let’s define tomorrow, together.
+
+Description
+
+United's Digital Technology team is comprised of many talented individuals all working together with cutting-edge technology to build the best airline in the history of aviation. Our team designs, develops and maintains massively scaling technology solutions brought to life with innovative architectures, data analytics, and digital solutions.
+
+Job Overview And Responsibilities
+
+The Developer plays an important role in creating and maintaining the strategic partnership between business needs and technology delivery. The Developer's role is to plan, design, develop and launch efficient systems and solutions in support of core organizational functions. This individual will utilize effective communication, analytical, and problem-solving skills to help identify, communicate / resolve issues, opportunities, or problems to maximize the benefit of IT and Business investments. The Developer is experienced and self - sufficient in performing their responsibilities requiring little supervision, but general guidance and direction.
+
+
+Assists in design, develop and modify software applications/systems
+Collaborates with cross-functional teams to understand business requirements and deliver solutions
+Provides support to the software development leads (Ex: Senior Developer)
+Works on one or more moderate to complex projects
+Applies security code best practices throughout development cycle
+Contributes to software documentation and user manuals
+Complete comprehensive unit testing on all developed/enhanced software and supports deployment of software applications
+Participates in code reviews to ensure code adheres to standards
+Support and troubleshoot software systems as required, optimizing performance, resolving problems, and providing follow-up on all issues and solutions
+Stays up to date on the latest industry trends and technology
+
+
+Qualifications
+
+What’s needed to succeed (Minimum Qualifications):
+
+
+Bachelor's degree
+Computer science, software engineering, or related field.
+3+ years of related experience in Software Development
+Experience in .net, SQL server, and C# 
+Experience in design patterns and enterprise standards in application design and relational database design and development, and cloud technologies
+Proficient in a coding language and building back-end components
+
+
+What will help you propel from the pack (Preferred Qualifications):
+
+
+Experience and knowledge of ASP.NET, React, Bootstrap, Angular
+AI/ML automation experience
+Data analytics and Go Lang knowledge 
+
+
+The base pay range for this role is $87,780.00 to $119,680.00.
+
+The base salary range/hourly rate listed is dependent on job-related, factors such as experience, education, and skills. This position is also eligible for bonus and/or long-term incentive compensation awards.
+
+You may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges.
+
+United Airlines is an equal opportunity employer. United Airlines recruits, employs, trains, compensates and promotes regardless of race, religion, color, national origin, gender identity, sexual orientation, physical ability, age, veteran status and other protected status as required by applicable law. Equal Opportunity Employer - Minorities/Women/Veterans/Disabled/LGBT.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions. Please contact JobAccommodations@united.com to request accommodation.

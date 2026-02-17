@@ -1,0 +1,41 @@
+About the job
+
+Who We Are Looking For
+
+Nike is looking for an early-career software engineer eager to grow into a full-stack developer. You bring foundational knowledge of coding and architecture, with experience in small projects and a hunger to tackle complex systems. You’re curious, collaborative, and motivated by the impact your work can have on athletes and consumers. You value learning, embrace agile practices, and take ownership of quality through automated testing. You’re ready to contribute ideas, ask thoughtful questions, and evolve your skills in a dynamic environment.
+
+Key Qualifications
+
+
+Open to work in Beaverton, OR
+0–2 years of software engineering experience
+Bachelor’s degree in Computer Science or related field. Will accept any suitable combination of education, experience and training
+Strong technical and non-technical communication skills
+Ability to engage in architectural discussions and apply a learner’s mindset
+
+
+Preferred Technical Skills
+
+
+Languages: JavaScript, TypeScript, Python
+Frameworks: React, Express, Apollo
+Platforms: Docker, AWS, PostgreSQL
+
+
+What You’ll Work On
+
+You’ll help build and evolve technology experiences that power Nike’s innovation and sports science initiatives. From designing full-stack applications to collaborating on machine learning workflows, you’ll play a key role in creating athlete-facing solutions.
+
+Responsibilities
+
+
+Partner with senior engineers to design and implement scalable, secure applications
+Contribute to web UI development using modular, reactive frameworks
+Engage in architectural discussions and provide constructive feedback
+Practice DevOps principles for continuous integration and deployment
+Collaborate with cross-functional teams including designers, researchers, and data scientists
+Review peer code and share insights to strengthen team output
+Support the evolution of engineering environments and tools
+
+
+We offer a number of accommodations to complete our interview process including screen readers, sign language interpreters, accessible and single location for in-person interviews, closed captioning, and other reasonable modifications as needed. If you discover, as you navigate our application process, that you need assistance or an accommodation due to a disability, please complete the Candidate Accommodation Request Form.

@@ -1,0 +1,106 @@
+About the job
+
+Alternate Locations: Charlotte, NC (North Carolina); Fort Wayne, IN (Indiana); Greensboro, NC (North Carolina); Radnor, PA (Pennsylvania)
+
+ Work Arrangement:
+
+Hybrid : Employee will work 3 days a week in a Lincoln office
+
+Relocation assistance:  is not available for this opportunity.
+
+Requisition #: 74547
+
+The Role at a Glance
+
+Are you an Associate Software Engineer who is looking to work in an autonomous, modern technical environment with the flexibility to do so from the comfort of your own home? Do you value open communication and a culture that welcomes thoughtful opinions to solve complex technical problems? This is the opportunity for you.
+
+Background Details
+
+We are looking for an Associate Software Engineer to join an agile development team building a unique digital experience for our Retirement Planning Portfolio. This work ranges from enhancing existing capabilities with the utmost emphasis on the customer experience, to adding new features and functionality that our customers truly desire. All this while continuing to support and improve upon our CI/CD pipeline and cloud infrastructure (AWS). We strive to collaborate effectively with User Experience and Product Management to create industry leading solutions that will help our customers achieve financial security. Enter a versatile, fun and fast-paced environment, bring your passion for delivering innovative solutions, crafting engaging experiences, and delivering value!
+
+What You'll Be Doing
+
+
+Involved in the full lifecycle of web application development; from designing, building, testing, deploying, to monitoring
+Using HTML, CSS, JavaScript, TypeScript and Angular 2+ to build a modern frontend
+Leveraging Java, Kotlin and Spring Boot in building a reliable backend 
+Using tools such as Gitlab, SonarQube, Splunk, New Relic, and Confluence, to drive operations and collaboration
+Champion lean-Agile, DevOps principles and practices (e.g. CI/CD; you build it, you own it), and independent architecture, while supporting a culture of innovation and continuous learning
+
+
+What We’re Looking For
+
+Must-haves: 
+
+
+Bachelor's degree in Computer Science or equivalent work experience
+1-3+ years of experience in application development that directly aligns with the specific responsibilities for this position
+Experience with HTML, CSS, JavaScript, TypeScript, and Angular
+Experience with Java and Spring Boot
+Experience writing Unit Tests (e.g. Mockito, Junit, Karma Jasmine)
+Experience with microservice design (Service-Oriented Architecture) and RESTful web services
+Excellent communication, with demonstrated critical thinking and problem-solving skills
+
+
+Nice-to-haves:
+
+
+Amazon Web Services (AWS) knowledge, or other cloud service providers 
+Experience with ADA compliant web design 
+Familiarity with Continuous Integration/Delivery and DevOps
+Experience working with relational databases
+Experience working on fully dedicated agile teams
+
+
+Application Deadline
+
+Applications for this position will be accepted through October 30, 2025, subject to earlier closure due to applicant volume.
+
+What’s it like to work here?
+
+At Lincoln Financial, we love what we do. We make meaningful contributions each and every day to empower our customers to take charge of their lives. Working alongside dedicated and talented colleagues, we build fulfilling careers and stronger communities through a company that values our unique perspectives, insights and contributions and invests in programs that empower each of us to take charge of our own future.
+
+What’s in it for you:
+
+
+Clearly defined career tracks and job levels, along with associated behaviors for each of Lincoln's core values and leadership attributes
+Leadership development and virtual training opportunities
+PTO/parental leave
+Competitive 401K and employee benefits
+Free financial counseling, health coaching and employee assistance program
+Tuition assistance program
+Work arrangements that work for you
+Effective productivity/technology tools and training
+
+
+The pay range for this position is $53,500 - $96,300 with anticipated pay for new hires between the minimum and midpoint of the range and could vary above and below the listed range as permitted by applicable law. Pay is based on non-discriminatory factors including but not limited to work experience, education, location, licensure requirements, proficiency and qualifications required for the role. The base pay is just one component of Lincoln’s total rewards package for employees. In addition, the role may be eligible for the Annual Incentive Program, which is discretionary and based on the performance of the company, business unit and individual. Other rewards may include long-term incentives, sales incentives and Lincoln’s standard benefits package.
+
+About The Company
+
+Lincoln Financial (NYSE: LNC) helps people to confidently plan for their version of a successful future. We focus on identifying a clear path to financial security, with products including annuities, life insurance, group protection, and retirement plan services.
+
+With our 120-year track record of expertise and integrity, millions of customers trust our solutions and service to help put their goals in reach.
+
+Lincoln Financial Distributors, a broker-dealer, is the wholesale distribution organization of Lincoln Financial. Lincoln Financial is the marketing name for Lincoln Financial Corporation and its affiliates including The Lincoln National Life Insurance Company, Fort Wayne, IN, and Lincoln Life & Annuity Company of New York, Syracuse, NY. Lincoln Financial affiliates, their distributors, and their respective employees, representatives and/or insurance agents do not provide tax, accounting or legal advice.
+
+Lincoln is committed to creating a diverse and inclusive environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+Follow us on Facebook, X, LinkedIn, Instagram, and YouTube. For the latest company news, visit our newsroom.
+
+Be Aware of Fraudulent Recruiting Activities
+
+If you are interested in a career at Lincoln, we encourage you to review our current openings and apply on our website. Lincoln values the privacy and security of every applicant and urges all applicants to diligently protect their sensitive personal information from scams targeting job seekers. These scams can take many forms including fake employment applications, bogus interviews and falsified offer letters.
+
+Lincoln will not ask applicants to provide their social security numbers, date of birth, bank account information or other sensitive information in job applications. Additionally, our recruiters do not communicate with applicants through free e-mail accounts (Gmail, Yahoo, Hotmail) or conduct interviews utilizing video chat rooms. We will never ask applicants to provide payment during the hiring process or extend an offer without conducting a phone, live video or in-person interview. Please contact Lincoln's fraud team at fraudhotline@lfg.com if you encounter a recruiter or see a job opportunity that seems suspicious.
+
+Additional Information
+
+This position may be subject to Lincoln’s Political Contribution Policy. An offer of employment may be contingent upon disclosing to Lincoln the details of certain political contributions. Lincoln may decline to extend an offer or terminate employment for this role if it determines political contributions made could have an adverse impact on Lincoln’s current or future business interests, misrepresentations were made, or for failure to fully disclose applicable political contributions and or fundraising activities.
+
+Any unsolicited resumes or candidate profiles submitted through our web site or to personal e-mail accounts of employees of Lincoln Financial are considered property of Lincoln Financial and are not subject to payment of agency fees.
+
+Lincoln Financial is an Equal Opportunity employer and, as such, is committed in policy and practice to recruit, hire, compensate, train and promote, in all job classifications, without regard to race, color, religion, sex (including pregnancy), age, national origin, disability, sexual orientation, gender identity and expression, Veteran status, or genetic information. Applicants are evaluated on the basis of job qualifications. If you are a person with a disability that impedes your ability to express your interest for a position through our online application process, or require TTY/TDD assistance, contact us by calling 260-455-2558.
+
+This Employer Participates in E-Verify. See the E-Verify notices.
+
+Este Empleador Participa en E-Verify. Ver el E-Verify avisos.

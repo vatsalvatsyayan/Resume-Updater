@@ -1,0 +1,588 @@
+Ticketmaster
+
+Software Engineer I 
+
+Reston, VA · 3 hours ago · Over 100 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+Job Summary
+
+JOB DESCRIPTION – Software Engineer I
+
+Location: Reston, Virginia
+
+Division: Ticketmaster US
+
+Line Manager: Manager, Software Engineering
+
+Contract Terms: Permanent FTE, 40 hours per week
+
+Who are we?
+
+Ticketmaster, a proud division of Live Nation Entertainment, is the world's leading live event high tech ticketing company selling nearly 455 million tickets each year, supporting over 145,000 events and more than 12,000 clients in 21 countries worldwide. At Ticketmaster, we power the people who create culture through live events, connecting more passionate fans to those experiences than anyone else. We are innovators that embrace change and work hard to help others succeed. We believe in open communication and stress accountability, because fans and clients count on us every day. We strive for ease of use for our clients and fans while seeking out those who have a bias for action versus a desire for directives.
+
+Why Ticketmaster?
+
+A career at Ticketmaster will challenge and engage you. The pace here is fast, the atmosphere is fun and a passion for live events is a common thread that ties us together. As a global and growing business, we can truly offer a world of opportunities to expand your skills and develop your career. Visit any of our offices and you'll find a diverse mix of passionate employees, helping fans around the globe connect with the artists, teams and events they love. It truly is a unique and rewarding environment.
+
+The Team
+
+The Integration Team is part of a development organization that supports the Ticketmaster Archtics platform.
+
+ARCHTICS is the primary tool used by the NFL, NHL, NBA, and major event venues globally. It supports CRM/retention, marketing, renewals, invoice/payment processing, inventory control, and reporting, seeing more than $3.8B in transactions annually.
+
+The primary focus of the Integration Team is to support Ticketmaster clients (major sports teams and venues) as well as “Nexus” vendor partnerships by enhancing our B2B offerings, adding best-of-breed solution providers to Ticketmaster's product portfolio. This includes providing access to data through APIs, file-based delivery, and streaming as well as miscellaneous asks that other teams cannot fill.
+
+The Job
+
+Engineer I- Software Development
+
+Aid in the design, development and implementation of software code while participating in team activities and contributing to discussions. As a developer on a growing team, work collaboratively with the team to drive towards more modern technologies. Ticketmaster is at an exciting point in the company's history- we are still rapidly growing while simultaneously undergoing major initiatives to modernize key platforms. Archtics is one of the key, core platforms in the Ticketmaster tech stack.
+
+Engineers on our team are looking to provide new, more efficient ways to deliver data to our clients and partners. Most of our current technology is based on nightly file-based deliveries or API calls to/from client databases. Current reporting capabilities within Archtics, while broad in scope, are not as flexible as needed. To add stability to client systems and provide data in near-real time, more flexible solutions using data streaming technologies, off-platform data storage in AWS, and other approaches are being pursued. New, more customizable and flexible reporting tools that integrate into the existing Ticketmaster reporting portals are also being pursued and developed. Getting data to clients and customers faster and offering greater flexibility is our goal. Utilizing new, versatile and widely used technologies are the means of getting us there. Developers are offered wide flexibility in choosing these tools and products.
+
+Working closely with major sports teams and venues, our developers get the satisfaction of directly seeing the impact of the work they do- helping to get millions of fans into live events every day- they do this while getting the chance to investigate and implement cutting edge technologies.
+
+What You Will Be Doing
+
+
+Learning our processes and design principles by working closely with our senior and lead engineers
+Investigating and implanting new technologies to improve team efficiency and data delivery to our clients. This includes utilizing new streaming and data delivery technologies and cloud storage platforms.
+Implementing new technologies to better dynamically scale our infrastructure and make it easier to build and deploy code in a DevOps development model.
+Improving and implementing new tools to provide more security to our platforms while also providing more visibility into system health through improved monitoring and alerting tools and processes.
+Constantly seeking to improve team performance by investigating and implementing automation processes to remove toil wherever possible.
+Liase with development peers throughout the company- Our teams unique position allows us to connect with teams all over the world through our company
+After implementing new systems, closely monitor and evaluate them, looking for constant improvement.
+Closely interact with senior developers, management, Project Management, Product Management, Operations, and a wide variety of teams throughout the organization.
+
+
+What We Look For In Our Engineers
+
+
+Ownership. You feel ownership over everything you ship. You'd never call code "released" until you’re confident it’s correct.
+Passion. You pride yourself on efficient monitoring, strong documentation, and proper test coverage. You are excited to work in a modern tech stack, and you have demonstrable experience with diverse pool of technologies.
+A team player. You believe that you can achieve more on a team—that the whole is greater than the sum of its parts. You rely on others' candid feedback for continuous improvement.
+Ability to make an impact. You will work on a product used by more than 500 clients in major sports and entertainment venues across multiple countries.
+You seek new methods and tools to make great websites faster and better, both on the front-end and back-end.
+Interest in continuous learning: Exposure to latest & great technologies; onsite tech talks and trainings; attending tech conferences
+Collaboration. Partner with a diverse group of professionals with different skills & disciplines across the organization to achieve a common goal
+Write great code. You care about writing good code, design, performance and an outstanding user experience
+
+
+Qualifications
+
+Required:
+
+
+A minimum of a Bachelor’s degree in a technical discipline (CS, MS)
+Strong understanding of OOP programming and programming languages such as Java, Python
+Experience with open source development tools (Maven, Jenkins, GIT)
+Spring Boot (REST API development)
+SQL basics
+
+
+Familiarity With The Following a Plus
+
+
+REACT JS
+Backend technologies (Node JS, Mongo DB, Websockets)
+ELK Stack for logging
+Prometheus and Grafana for monitoring
+AWS (EC2, S3, Lambda and other serverless technologies)
+Terraform
+Linux OS
+Docker
+Kubernetes
+Worked with a CI/CD pipeline (DevOps)
+Agile development practices
+
+
+Benefits & Perks
+
+Through our ‘Taking Care of Our Own’ program, we provide benefits across six key pillars:
+
+
+HEALTH: Medical, vision, dental and mental health benefits for you and your family, with access to a health care concierge, and Flexible or Health Savings Accounts (FSA or HSA)
+YOURSELF: Free concert tickets, generous paid time off including paid holidays, sick time, and personal days
+WEALTH: 401(k) program with company match, stock reimbursement program
+FAMILY: New parent programs including caregiver leave and baby bonuses, plus fertility, adoption, foster, or surrogacy support
+CAREER: Career and skill development programs with School of Live, tuition reimbursement, and student loan repayment
+OTHERS: Volunteer time off, crowdfunding match
+
+
+LIFE AT TICKETMASTER
+
+We are proud to be a part of Live Nation Entertainment, the world’s largest live entertainment company.
+
+Our mission at Ticketmaster is to connect people around the world to the live events they love. Ticketmaster is the world’s largest ticket marketplace and the global market leader in live event ticketing products and services. Through official partnerships with thousands of venues, artists, sports teams, festivals, performing arts centers and theaters, Ticketmaster processes 550 million tickets per year across 35+ different countries.
+
+We do it all with an intense passion for Live and an inspiring and diverse culture driven by accessible leaders, attentive managers, and enthusiastic teams. If you’re passionate about live entertainment like we are, and you want to work at a company dedicated to helping millions of fans experience it, we want to hear from you.
+
+Our Work Is Guided By Our Values
+
+Reliability - Fans and clients count on us to power their live event experiences and we rely on each other to make it happen.
+
+Teamwork – While we celebrate individual achievements, we know have more success as a team.
+
+Integrity - We are committed to the highest moral and ethical standards on behalf of the countless partners and stakeholders we represent.
+
+Belonging - We are committed to building a culture in which all people can be their authentic selves, have an equal voice and opportunities to thrive.
+
+EQUAL EMPLOYMENT OPPORTUNITY
+
+We aspire to build teams that reflect and support the fans and artists we serve. Every day we aim to promote environments where everyone can be themselves, contribute fully, and thrive within our company and at our events. As a growing business we will encourage you to develop your professional and personal aspirations, enjoy new experiences, and learn from the talented people you will be working with.
+
+Ticketmaster strongly supports equal employment opportunity for all applicants regardless of age (40 and over), ancestry, color, religious creed (including religious dress and grooming practices), family and medical care leave or the denial of family and medical care leave, mental or physical disability (including HIV and AIDS), marital status, domestic partner status, medical condition (including cancer and genetic characteristics), genetic information, military and veteran status, political affiliation, national origin (including language use restrictions), citizenship, race, sex (including pregnancy, childbirth, breastfeeding and medical conditions related to pregnancy, childbirth or breastfeeding), gender, gender identity, and gender expression, sexual orientation, intersectionality, or any other basis protected by applicable federal, state or local law, rule, ordinance or regulation.
+
+We will consider qualified applicants with criminal histories in a manner consistent with the requirements of the Los Angeles Fair Chance Ordinance, San Francisco Fair Chance Ordinance and the California Fair Chance Act and consistent with other similar and / or applicable laws in other areas.
+
+We also afford equal employment opportunities to qualified individuals with a disability. For this reason, Ticketmaster will make reasonable accommodations for the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant consistent with its legal obligations to do so, including reasonable accommodations related to pregnancy in accordance with applicable local, state and / or federal law. As part of its commitment to make reasonable accommodations, Ticketmaster also wishes to participate in a timely, good faith, interactive process with a disabled applicant to determine effective reasonable accommodations, if any, which can be made in response to a request for accommodations. Applicants are invited to identify reasonable accommodations that can be made to assist them to perform the essential functions of the position they seek. Any applicant who requires an accommodation in order to perform the essential functions of the job should contact a Human Resources Representative to request the opportunity to participate in a timely interactive process. Ticketmaster will also provide reasonable religious accommodations on a case-by-case basis.
+
+HIRING PRACTICES
+
+The preceding job description has been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job.
+
+Ticketmaster recruitment policies are designed to place the most highly qualified persons available in a timely and efficient manner. Ticketmaster may pursue all avenues available, including promotion from within, employee referrals, outside advertising, employment agencies, internet recruiting, job fairs, college recruiting and search firms.
+… more
+
+Benefits found in job post
+
+401(k)
+
+Set alert for similar jobs
+
+Software Engineer, Reston, Virginia, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+418
+
+total
+
+418
+
+in the past day
+
+Candidate seniority level
+
+83% Entry level candidates
+
+7% Senior level candidates
+
+Candidate education level
+
+76
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+23
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Ticketmaster
+Powered by Bing
+
+Company focus areas
+
+• Expansion and Revitalization of Music Venues: Live Nation Entertainment is investing $1 billion to build and revitalize 18 live music venues across the United States, aiming to bring world-class live music experiences to smaller, underserved cities.
+
+...more
+
+Sources: expansionsolutionsmagazine.com +1 more
+
+Hiring & headcount
+
+Expanding business development: The 'Business Development' department has seen an 800% increase in job openings over the past year, indicating a major focus on expanding new business initiatives and partnerships. Growing sales team: The 'Sales' department has experienced a 167% increase in job openings over the past year, suggesting a strong emphasis on boosting sales efforts and revenue generation. Increasing focus on education: The 'Education' department has shown a 20% increase in headcount over the past year, highlighting a growing investment in educational programs and initiatives. Strengthening community and social services: The 'Community and Social Services' department has seen a 37% increase in headcount over the past year, indicating a significant push towards enhancing community engagement and social responsibility efforts.
+… more
+
+The latest hiring trend
+
+23,085
+
+Total employees
+
+15%
+
+Company-wide
+
+2 year growth
+
+50%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+10000
+20000
+30000
+
+Median employee tenure: 4.6 years
+
+Ticketmaster hires candidates from some of these companies and schools
+
+Ticketmaster hired 4 people from University of Southern California. See all
+
+Ticketmaster hired 26 people from University of Southern California. See all
+
+Competitors
+
+Live Nation Entertainment, through its subsidiary Ticketmaster, dominates the live events and ticketing industry with a significant market share. The company faces competition from other ticketing platforms like Eventbrite, StubHub, and SeatGeek. Innovations in digital experiences and transparency in pricing are key areas of focus as the industry evolves. Legal challenges and market criticisms regarding monopoly practices also shape the competitive landscape.
+… more
+
+Sources: sportico.com +3 more
+
+Show Premium Insights
+About the company
+
+Ticketmaster
+
+312,479 followers
+
+Follow
+
+Entertainment Providers
+
+ • 
+
+10001+ employees
+
+ • 
+
+5,042 on LinkedIn
+
+Ticketmaster gives millions of fans – worldwide – fair and easy access to the biggest and best in live entertainment. 
+
+Driven by innovation, unparalleled scalability, and unmatched support, we are the definitive leader in professional ticketing solutions. Over 12,000 artists, teams, and venues around the world trust us to power their amazing performances daily — with more than 500 million tickets sold each year. 
+
+We are a diverse team of 6,500+ global employees and a proud division of Live Nation Entertainment (NYSE: LYV), the world’s leading live entertainment company and an organization certified as a Great Place to Work®. Everything we do starts with our passion to dream, design, and deliver the unforgettable experience of live. Because we’re fans too — and live only happens once. 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Founding Software Engineer, Full Stack
+
+ALIGNMT AI
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 6, 2026, 10:29 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Programmer/Quantitative Developer
+
+Nipun Capital, L.P.
+
+Foster City, CA (On-site)
+
+$100K/yr - $120K/yr
+
+Actively reviewing applicants
+
+Posted on January 6, 2026, 12:30 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+We're Hiring! Backend Developer (Verified job)
+We're Hiring! Backend Developer 
+
+Hidonix Industries
+
+Santa Monica, CA (On-site)
+
+$90K/yr - $100K/yr
+
+1 company alumni works here
+
+Posted on January 6, 2026, 3:59 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Mid-level Full-Stack Software Engineer (.NET / React / SQL Server)
+
+Tassel
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 6, 2026, 9:58 AM
+1 day ago
+
+Software Engineer
+
+Haystack
+
+New York City Metropolitan Area (Hybrid)
+
+$260K/yr
+
+ • 
+
+Medical benefit
+
+Posted on January 7, 2026, 11:32 AM
+6 hours ago
+
+Back End Developer
+
+Novaflow (YC S25)
+
+San Francisco, CA (On-site)
+
+You’d be a top applicant
+
+Posted on January 7, 2026, 4:50 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Developer
+
+Valens Software LLC
+
+Kennesaw, GA (On-site)
+
+$80K/yr - $95K/yr
+
+ • 
+
+Vision, 401(k), +1 benefit
+
+Posted on January 7, 2026, 8:19 AM
+9 hours ago
+
+ · 
+
+ Easy Apply
+
+We're Hiring! Frontend developer (Verified job)
+We're Hiring! Frontend developer 
+
+Hidonix Industries
+
+Santa Monica, CA (On-site)
+
+$85K/yr - $95K/yr
+
+1 company alumni works here
+
+Posted on January 7, 2026, 4:21 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Developer (Verified job)
+Full Stack Developer 
+
+Sogeti
+
+Bellevue, WA (Hybrid)
+
+$125K/yr - $135K/yr
+
+ • 
+
+Medical, Vision, Dental, 401(k), +3 benefits
+
+3 school alumni work here
+
+Posted on January 7, 2026, 5:39 PM
+11 minutes ago
+
+Software Engineer
+
+Shinkei
+
+El Segundo, CA (On-site)
+
+$110K/yr - $160K/yr
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 12:46 PM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+Data Engineer
+
+Qloo
+
+New York, NY (Hybrid)
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 6, 2026, 11:17 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Blockchain Developer
+
+Shamrox Stox
+
+Mays Landing, NJ (On-site)
+
+You’d be a top applicant
+
+Posted on January 6, 2026, 7:35 PM
+22 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

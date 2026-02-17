@@ -1,0 +1,44 @@
+{
+  "categories": {
+    "Languages": [
+      "Bash", "C#", "C++", "COBOL", "CSS", "CSS3", "Dart", "ES6", "Elixir", "Go (Golang)", "GoLang", "Groovy", "HTML", "HTML5", "Haskell", "JAVA", "JS", "Java", "JavaScript", "Kotlin", "LESS", "LaTeX", "Objective-C", "PHP", "Perl", "PowerShell", "Python", "RUST", "Ruby", "SASS", "SQL", "Scala", "Shell", "Swift", "TypeScript", "VB", "VisualBasic", "XML", "XAML", "YAML"
+    ],
+    "AI_Machine_Learning": [
+      "AI/ML", "AgentCore", "Agentic AI", "AutoGen", "ChatGPT", "CodeGPT", "ComfyUI", "CustomGPT", "DeepQuery", "DeepSeek", "DocuGPT", "FlashAttention", "FlexGen", "GPT", "Generative AI", "GitHub Copilot", "LLM", "LangChain", "LangGraph", "LlamaIndex", "LoRA", "ML", "MLOps", "Machine Learning", "NLP", "NeMo", "NeMo Guardrails", "NumPy", "PromptLayer", "PyTorch", "RAG", "RedPajama", "SageMaker", "TensorFlow", "TensorFlow, Keras", "Vertex AI", "deep learning", "vLLM"
+    ],
+    "Cloud_Infrastructure": [
+      "AKS", "AWS", "Amazon Web Services", "Azure", "Azure Functions", "Cloud Computing", "Cloud PubSub", "CloudFormation", "CloudFront", "CloudWatch", "CodePipeline", "Containerization", "EC2", "ECS", "EKS", "GCP", "GCS", "GKE", "Google Cloud", "Google Cloud Platform", "IaaS", "IAM", "K8S", "Kubernetes", "PaaS", "SaaS", "Serverless", "Terraform", "VM", "VPC"
+    ],
+    "Databases": [
+      "BigTable", "ClickHouse", "CockroachDB", "CouchDB", "DynamoDB", "DuckDB", "ElasticSearch", "Hive", "InfluxDB", "JDBC", "MariaDB", "MongoDB", "MSSQL", "MySQL", "NoSQL", "ORM", "PostgreSQL", "Postgres", "RDS", "Redis", "Redshift", "SQL Server", "ScyllaDB", "StarRocks", "TiDB", "TileDB", "TimescaleDB"
+    ],
+    "Big_Data_Data_Engineering": [
+      "Airflow", "Apache", "Apache Iceberg", "Apache Kafka", "Apache Spark", "BigQuery", "DBT", "DataFrames", "ELT", "EMR", "ETL", "HDFS", "Hadoop", "KAFKA", "OLAP", "OLTP", "PowerBI", "PySpark", "SPARK", "Amazon QuickSight"
+    ],
+    "Backend_API_Middleware": [
+      "API", "ActiveMQ", "AppSync", "BackEnd", "Django", "Event-driven", "Express.js", "FastAPI", "Flask", "GraphQL", "IdentityServer", "JSON", "JWT", "Microservices", "NestJS", "Node", "Node.js", "OAuth2", "PubSub", "REST", "REST API", "RPC", "RabbitMQ", "SAML", "SNS", "SOAP", "SQS", "SSO", "Spring", "Spring Boot", "SpringBoot", "Web Services", "gRPC", "tRPC"
+    ],
+    "Frontend_Web": [
+      "Angular", "ChartJS", "DOM", "MapLibre", "MobX", "NPM", "Next.js", "NextJS", "PageSpeed", "PostHog", "REACT", "React", "React Native", "Redux", "RxJS", "SSR", "ThreeJS", "Vue", "Vue.js", "VueJS", "WebAssembly", "WebGL", "WebdriverIO", "Yarn", "jQuery"
+    ],
+    "DevOps_Tools": [
+      "Ansible", "AppSec", "ArgoCD", "AutoSys", "Azure DevOps", "BitWarden", "CI/CD", "CircleCI", "ClearCase", "ClickUp", "CodeSignal", "CyberSecurity", "DAG", "DevOps", "DevSecOps", "Docker", "GIT", "Git", "GitHub", "GitHub Actions", "GitLab", "GitLab CI", "Gradle", "Jira", "LeetCode", "PagerDuty", "SonarQube", "SVN", "TeamCity", "devOps"
+    ],
+    "Networking_Telecom": [
+      "CDN", "FreeSWITCH", "IP", "LAN", "SSL", "TCP", "TLS", "UDP", "VoIP", "WAN", "WebRTC", "WebSockets", "WiFi", "mTLS"
+    ],
+    "Systems_OS_Platforms": [
+      "CentOS", "Linux", "MacOS", "RedHat", "Win32", "iOS", "iPad", "iPhone"
+    ],
+    "Concepts_Architecture": [
+      "BDD", "Data Structures", "Distributed systems", "MVC", "MVVM", "OOP", "Object-Oriented Design", "PyTest", "TDD", "UML", "xUnit"
+    ],
+    "Specialized_Software_Industry": [
+      "ArcGIS", "AutoCAD", "CapCut", "CryoET", "DeFi", "EdTech", "IOT", "NetSuite", "Office.js", "PDF", "QuickBooks", "VR", "Visual Studio", "WordPress", "dApps", "eDiscovery", "iGaming", "industrial IoT", "web3"
+    ]
+  },
+  "metadata": {
+    "total_count": 302,
+    "description": "Categorized technical keywords from input list."
+  }
+}

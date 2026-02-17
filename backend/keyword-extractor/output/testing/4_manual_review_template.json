@@ -1,0 +1,4761 @@
+{
+  "instructions": "Assign each term to a category by filling in the 'category' field. Add new categories to the list as needed.",
+  "categories": [
+    "Programming Languages",
+    "Frameworks/Libraries",
+    "Databases",
+    "Cloud/Infrastructure",
+    "DevOps/Tools",
+    "Methodologies/Practices",
+    "Concepts/Domains",
+    "Uncategorized"
+  ],
+  "terms": [
+    {
+      "term": "AI",
+      "count": 299,
+      "num_sources": 291,
+      "category": ""
+    },
+    {
+      "term": "GO",
+      "count": 230,
+      "num_sources": 222,
+      "category": ""
+    },
+    {
+      "term": "Python",
+      "count": 256,
+      "num_sources": 215,
+      "category": ""
+    },
+    {
+      "term": "AD",
+      "count": 195,
+      "num_sources": 189,
+      "category": ""
+    },
+    {
+      "term": "AWS",
+      "count": 157,
+      "num_sources": 147,
+      "category": ""
+    },
+    {
+      "term": "IT",
+      "count": 164,
+      "num_sources": 145,
+      "category": ""
+    },
+    {
+      "term": "JAVA",
+      "count": 161,
+      "num_sources": 136,
+      "category": ""
+    },
+    {
+      "term": "REACT",
+      "count": 143,
+      "num_sources": 123,
+      "category": ""
+    },
+    {
+      "term": "TypeScript",
+      "count": 127,
+      "num_sources": 112,
+      "category": ""
+    },
+    {
+      "term": "JavaScript",
+      "count": 112,
+      "num_sources": 105,
+      "category": ""
+    },
+    {
+      "term": "BackEnd",
+      "count": 106,
+      "num_sources": 105,
+      "category": ""
+    },
+    {
+      "term": "SQL",
+      "count": 111,
+      "num_sources": 104,
+      "category": ""
+    },
+    {
+      "term": "CI",
+      "count": 93,
+      "num_sources": 93,
+      "category": ""
+    },
+    {
+      "term": "CD",
+      "count": 88,
+      "num_sources": 88,
+      "category": ""
+    },
+    {
+      "term": "Kubernetes",
+      "count": 91,
+      "num_sources": 80,
+      "category": ""
+    },
+    {
+      "term": "Code Reviews",
+      "count": 80,
+      "num_sources": 79,
+      "category": ""
+    },
+    {
+      "term": "API",
+      "count": 78,
+      "num_sources": 77,
+      "category": ""
+    },
+    {
+      "term": "GIT",
+      "count": 85,
+      "num_sources": 67,
+      "category": ""
+    },
+    {
+      "term": "Docker",
+      "count": 84,
+      "num_sources": 67,
+      "category": ""
+    },
+    {
+      "term": "ML",
+      "count": 67,
+      "num_sources": 67,
+      "category": ""
+    },
+    {
+      "term": "Azure",
+      "count": 66,
+      "num_sources": 65,
+      "category": ""
+    },
+    {
+      "term": "devOps",
+      "count": 60,
+      "num_sources": 59,
+      "category": ""
+    },
+    {
+      "term": "GCP",
+      "count": 57,
+      "num_sources": 56,
+      "category": ""
+    },
+    {
+      "term": "Data Structures",
+      "count": 66,
+      "num_sources": 52,
+      "category": ""
+    },
+    {
+      "term": "NoSQL",
+      "count": 54,
+      "num_sources": 52,
+      "category": ""
+    },
+    {
+      "term": "Node",
+      "count": 58,
+      "num_sources": 50,
+      "category": ""
+    },
+    {
+      "term": "Object-Oriented",
+      "count": 49,
+      "num_sources": 48,
+      "category": ""
+    },
+    {
+      "term": "Linux",
+      "count": 51,
+      "num_sources": 45,
+      "category": ""
+    },
+    {
+      "term": "LLM",
+      "count": 45,
+      "num_sources": 45,
+      "category": ""
+    },
+    {
+      "term": "Node.js",
+      "count": 45,
+      "num_sources": 45,
+      "category": ""
+    },
+    {
+      "term": "PostgreSQL",
+      "count": 48,
+      "num_sources": 42,
+      "category": ""
+    },
+    {
+      "term": "UI",
+      "count": 41,
+      "num_sources": 41,
+      "category": ""
+    },
+    {
+      "term": "SaaS",
+      "count": 41,
+      "num_sources": 40,
+      "category": ""
+    },
+    {
+      "term": "CI/CD Pipelines",
+      "count": 48,
+      "num_sources": 38,
+      "category": ""
+    },
+    {
+      "term": "distributed systems",
+      "count": 43,
+      "num_sources": 38,
+      "category": ""
+    },
+    {
+      "term": "Spring",
+      "count": 38,
+      "num_sources": 37,
+      "category": ""
+    },
+    {
+      "term": "REST",
+      "count": 37,
+      "num_sources": 36,
+      "category": ""
+    },
+    {
+      "term": "Angular",
+      "count": 34,
+      "num_sources": 31,
+      "category": ""
+    },
+    {
+      "term": "MySQL",
+      "count": 30,
+      "num_sources": 30,
+      "category": ""
+    },
+    {
+      "term": "iOS",
+      "count": 30,
+      "num_sources": 29,
+      "category": ""
+    },
+    {
+      "term": "Postgres",
+      "count": 29,
+      "num_sources": 29,
+      "category": ""
+    },
+    {
+      "term": "UX",
+      "count": 28,
+      "num_sources": 28,
+      "category": ""
+    },
+    {
+      "term": "KAFKA",
+      "count": 28,
+      "num_sources": 26,
+      "category": ""
+    },
+    {
+      "term": "GraphQL",
+      "count": 28,
+      "num_sources": 26,
+      "category": ""
+    },
+    {
+      "term": "CSS",
+      "count": 26,
+      "num_sources": 26,
+      "category": ""
+    },
+    {
+      "term": "HTML",
+      "count": 28,
+      "num_sources": 25,
+      "category": ""
+    },
+    {
+      "term": "Redis",
+      "count": 26,
+      "num_sources": 25,
+      "category": ""
+    },
+    {
+      "term": "Machine Learning",
+      "count": 28,
+      "num_sources": 23,
+      "category": ""
+    },
+    {
+      "term": "Terraform",
+      "count": 26,
+      "num_sources": 22,
+      "category": ""
+    },
+    {
+      "term": "GoLang",
+      "count": 24,
+      "num_sources": 22,
+      "category": ""
+    },
+    {
+      "term": "RUST",
+      "count": 22,
+      "num_sources": 21,
+      "category": ""
+    },
+    {
+      "term": "QA",
+      "count": 22,
+      "num_sources": 21,
+      "category": ""
+    },
+    {
+      "term": "Next.js",
+      "count": 19,
+      "num_sources": 19,
+      "category": ""
+    },
+    {
+      "term": "CoPilot",
+      "count": 18,
+      "num_sources": 18,
+      "category": ""
+    },
+    {
+      "term": "Google Cloud",
+      "count": 18,
+      "num_sources": 18,
+      "category": ""
+    },
+    {
+      "term": "Ruby",
+      "count": 18,
+      "num_sources": 17,
+      "category": ""
+    },
+    {
+      "term": "Version control systems",
+      "count": 17,
+      "num_sources": 15,
+      "category": ""
+    },
+    {
+      "term": "DynamoDB",
+      "count": 16,
+      "num_sources": 15,
+      "category": ""
+    },
+    {
+      "term": "Version Control",
+      "count": 15,
+      "num_sources": 15,
+      "category": ""
+    },
+    {
+      "term": "EC2",
+      "count": 28,
+      "num_sources": 14,
+      "category": ""
+    },
+    {
+      "term": "s3",
+      "count": 28,
+      "num_sources": 14,
+      "category": ""
+    },
+    {
+      "term": "CyberSecurity",
+      "count": 14,
+      "num_sources": 14,
+      "category": ""
+    },
+    {
+      "term": "RemoteHunter",
+      "count": 14,
+      "num_sources": 14,
+      "category": ""
+    },
+    {
+      "term": "OS",
+      "count": 14,
+      "num_sources": 14,
+      "category": ""
+    },
+    {
+      "term": "Django",
+      "count": 13,
+      "num_sources": 13,
+      "category": ""
+    },
+    {
+      "term": "LangChain",
+      "count": 16,
+      "num_sources": 12,
+      "category": ""
+    },
+    {
+      "term": "RAG",
+      "count": 14,
+      "num_sources": 12,
+      "category": ""
+    },
+    {
+      "term": "Continuous Integration",
+      "count": 14,
+      "num_sources": 12,
+      "category": ""
+    },
+    {
+      "term": "REST APIs",
+      "count": 14,
+      "num_sources": 12,
+      "category": ""
+    },
+    {
+      "term": "SPARK",
+      "count": 13,
+      "num_sources": 12,
+      "category": ""
+    },
+    {
+      "term": "gRPC",
+      "count": 12,
+      "num_sources": 12,
+      "category": ""
+    },
+    {
+      "term": "Spring Boot",
+      "count": 12,
+      "num_sources": 12,
+      "category": ""
+    },
+    {
+      "term": "B2B",
+      "count": 22,
+      "num_sources": 11,
+      "category": ""
+    },
+    {
+      "term": "Kotlin",
+      "count": 13,
+      "num_sources": 11,
+      "category": ""
+    },
+    {
+      "term": "Agentic AI",
+      "count": 11,
+      "num_sources": 11,
+      "category": ""
+    },
+    {
+      "term": "Vue",
+      "count": 11,
+      "num_sources": 11,
+      "category": ""
+    },
+    {
+      "term": "FastAPI",
+      "count": 11,
+      "num_sources": 11,
+      "category": ""
+    },
+    {
+      "term": "NodeJs",
+      "count": 11,
+      "num_sources": 10,
+      "category": ""
+    },
+    {
+      "term": "NoSQL databases",
+      "count": 11,
+      "num_sources": 10,
+      "category": ""
+    },
+    {
+      "term": "C#",
+      "count": 10,
+      "num_sources": 10,
+      "category": ""
+    },
+    {
+      "term": "SQS",
+      "count": 10,
+      "num_sources": 10,
+      "category": ""
+    },
+    {
+      "term": "ElasticSearch",
+      "count": 10,
+      "num_sources": 10,
+      "category": ""
+    },
+    {
+      "term": "Airflow",
+      "count": 10,
+      "num_sources": 10,
+      "category": ""
+    },
+    {
+      "term": "Microsoft Azure",
+      "count": 11,
+      "num_sources": 9,
+      "category": ""
+    },
+    {
+      "term": "Object-Oriented design",
+      "count": 10,
+      "num_sources": 9,
+      "category": ""
+    },
+    {
+      "term": "Flask",
+      "count": 10,
+      "num_sources": 9,
+      "category": ""
+    },
+    {
+      "term": "Test-Driven",
+      "count": 10,
+      "num_sources": 9,
+      "category": ""
+    },
+    {
+      "term": "Apache",
+      "count": 9,
+      "num_sources": 9,
+      "category": ""
+    },
+    {
+      "term": "Scala",
+      "count": 9,
+      "num_sources": 9,
+      "category": ""
+    },
+    {
+      "term": "object-oriented programming",
+      "count": 9,
+      "num_sources": 9,
+      "category": ""
+    },
+    {
+      "term": "ChatGPT",
+      "count": 9,
+      "num_sources": 9,
+      "category": ""
+    },
+    {
+      "term": "RDS",
+      "count": 9,
+      "num_sources": 9,
+      "category": ""
+    },
+    {
+      "term": "TS",
+      "count": 9,
+      "num_sources": 9,
+      "category": ""
+    },
+    {
+      "term": "ECS",
+      "count": 9,
+      "num_sources": 9,
+      "category": ""
+    },
+    {
+      "term": "VoIP",
+      "count": 9,
+      "num_sources": 9,
+      "category": ""
+    },
+    {
+      "term": "HTML5",
+      "count": 16,
+      "num_sources": 8,
+      "category": ""
+    },
+    {
+      "term": "microservices architecture",
+      "count": 11,
+      "num_sources": 8,
+      "category": ""
+    },
+    {
+      "term": "AWS Services",
+      "count": 10,
+      "num_sources": 8,
+      "category": ""
+    },
+    {
+      "term": "Event-driven",
+      "count": 9,
+      "num_sources": 8,
+      "category": ""
+    },
+    {
+      "term": "Cloud Computing",
+      "count": 8,
+      "num_sources": 8,
+      "category": ""
+    },
+    {
+      "term": "GitHub Copilot",
+      "count": 8,
+      "num_sources": 8,
+      "category": ""
+    },
+    {
+      "term": "Microservices",
+      "count": 8,
+      "num_sources": 8,
+      "category": ""
+    },
+    {
+      "term": "RideController",
+      "count": 8,
+      "num_sources": 8,
+      "category": ""
+    },
+    {
+      "term": "PHP",
+      "count": 8,
+      "num_sources": 8,
+      "category": ""
+    },
+    {
+      "term": "Containerization",
+      "count": 8,
+      "num_sources": 8,
+      "category": ""
+    },
+    {
+      "term": "Vertex AI",
+      "count": 8,
+      "num_sources": 8,
+      "category": ""
+    },
+    {
+      "term": "Redux",
+      "count": 8,
+      "num_sources": 8,
+      "category": ""
+    },
+    {
+      "term": "Continuous Delivery",
+      "count": 8,
+      "num_sources": 8,
+      "category": ""
+    },
+    {
+      "term": "IaxaI",
+      "count": 8,
+      "num_sources": 8,
+      "category": ""
+    },
+    {
+      "term": "PyTorch",
+      "count": 8,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "IAM",
+      "count": 8,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "CloudWatch",
+      "count": 8,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "IOT",
+      "count": 8,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "Web Services",
+      "count": 8,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "BigQuery",
+      "count": 7,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "Vue.js",
+      "count": 7,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "CI/CD tools",
+      "count": 7,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "OOP",
+      "count": 7,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "EKS",
+      "count": 7,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "React Native",
+      "count": 7,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "WebRTC",
+      "count": 7,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "JS",
+      "count": 7,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "LeapXpert",
+      "count": 7,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "Enterprise AI",
+      "count": 7,
+      "num_sources": 7,
+      "category": ""
+    },
+    {
+      "term": "code review",
+      "count": 7,
+      "num_sources": 6,
+      "category": ""
+    },
+    {
+      "term": "MetLife",
+      "count": 7,
+      "num_sources": 6,
+      "category": ""
+    },
+    {
+      "term": "JSON",
+      "count": 7,
+      "num_sources": 6,
+      "category": ""
+    },
+    {
+      "term": "Google Cloud Platform",
+      "count": 7,
+      "num_sources": 6,
+      "category": ""
+    },
+    {
+      "term": "JWT",
+      "count": 7,
+      "num_sources": 6,
+      "category": ""
+    },
+    {
+      "term": "GPU",
+      "count": 6,
+      "num_sources": 6,
+      "category": ""
+    },
+    {
+      "term": "SDK",
+      "count": 6,
+      "num_sources": 6,
+      "category": ""
+    },
+    {
+      "term": "TDD",
+      "count": 6,
+      "num_sources": 6,
+      "category": ""
+    },
+    {
+      "term": "Ansible",
+      "count": 7,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "K8S",
+      "count": 7,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "Bash",
+      "count": 6,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "Azure DevOps",
+      "count": 6,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "containerization technologies",
+      "count": 6,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "ReactJS",
+      "count": 6,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "ETL",
+      "count": 6,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "GitHub Actions",
+      "count": 6,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "Generative AI",
+      "count": 6,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "FrostLocker",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "machine learning models",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "DB",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "LangGraph",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "Amazon Web Services",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "XML",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "peer code reviews",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "NLP",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "No Use AI",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "ClickHouse",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "WebSockets",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "NextJS",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "react.js",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "NestJS",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "WordPress",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "RabbitMQ",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "eTrigue",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "HighQ",
+      "count": 5,
+      "num_sources": 5,
+      "category": ""
+    },
+    {
+      "term": "ES6",
+      "count": 8,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "web3",
+      "count": 5,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "PowerShell",
+      "count": 5,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "Visual Studio",
+      "count": 5,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "Mirai",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "MacOS",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "Applied AI",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "CapCenter",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "Hadoop",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "Mongo",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "IaaS",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "Azure Cloud",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "Test-Driven Development",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "relational and NoSQL databases",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "GPT",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "ORM",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "MVC",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "SQL/NoSQL databases",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "Use AI",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "SemiAnalysis",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "VR",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "CloudFormation",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "devOps tools",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "AWS infrastructure",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "large-scale distributed systems",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "YouTube",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "NoSQL databases (e",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "GolfForever",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "Swift",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "PowerBI",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "cloud computing platforms",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "version control systems (e",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "C++",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "JavaScript/TypeScript",
+      "count": 4,
+      "num_sources": 4,
+      "category": ""
+    },
+    {
+      "term": "CSS3",
+      "count": 6,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "DevOps practices",
+      "count": 5,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "Amazon AWS",
+      "count": 4,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "CI/CD systems",
+      "count": 4,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "Spring Framework",
+      "count": 4,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "advanced AI",
+      "count": 4,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "CV",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "Express.js",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "PaaS",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "AutoGen",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "CircleCI",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "EdTech",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "LESS",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "LlamaIndex",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "NumPy",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "Conduct code reviews",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "Perl",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "RPC",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "IDE",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "Objective-C",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "EMR",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "SAML",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "C#/",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "CI/CD",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "MyFundedFutures",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "object-oriented programming concepts",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "SOAP",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "TopoDOT",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "SpringBoot",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "SonarQube",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "GetWhys",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "CustomGPT",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "TrueCode",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "DevSecOps",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "event-driven systems",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "MSSQL",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "IP",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "machine learning workflows",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "Apache Iceberg",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "Software Engineer Heliux",
+      "count": 3,
+      "num_sources": 3,
+      "category": ""
+    },
+    {
+      "term": "event-driven architectures",
+      "count": 4,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "continuous integration pipelines",
+      "count": 3,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "microservice architecture",
+      "count": 3,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "REST API development",
+      "count": 3,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "deep learning",
+      "count": 3,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "AWS Cloud services",
+      "count": 3,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "vLLM",
+      "count": 3,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "continuous deployment",
+      "count": 3,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "object-oriented principles",
+      "count": 3,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "CPU",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "SSO",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "account-linking UX",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "relational and/or NoSQL databases",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "web2",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "B2B SaaS",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "BrickRed",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "PySpark",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "FastAPIs",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "AKS",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "NetSuite",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "iPhone",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "jQuery",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "SASS",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Go (GoLang)",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "SaaS solutions",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "GitLab CI",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "containerization tools",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "LoRA",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "version control tools",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "thoughtful code reviews",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "UML",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "XAML",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "ShipMyCards",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "HDFS",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Hive",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Continuous Integration environments",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Git, CI/CD pipelines",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "GraphQL APIs",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "SNS",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "REST API",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "IoT devices",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "SSR",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "JavaScript frameworks",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "relational (PostgreSQL",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "React-based",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "SVN",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "DeepQuery",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "DevX",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "CI/CD processes",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "machine learning technologies",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "TechCrunch",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "eCommerce",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "LiveRamp",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Spark Capital",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "AngularJS",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Utopai",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "object-oriented design Familiarity",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "robust distributed systems",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "frontend UI",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Tullio",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "NerdWallet",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "cutting-edge AI",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "cloud computing platforms (e",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Gradle",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "NPM",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "OAuth2",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "modern (JavaScript/TypeScript",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Strong JavaScript/TypeScript fundamentals",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "VueJS",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "PagerDuty",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "VPC",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "BDD",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "AWS Experience",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "TechTree",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "SaaS Ventures",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Groovy",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Test Driven Development",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "PubSub",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "machine learning teams",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "DevOps Experience",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "JavaScript Experience",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "TeamCity",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "IntelliJ",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "CouchDB",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "PDF",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Apache Kafka",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Microsoft’s mission",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "MariaDB",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "e.g. MySQL",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "SaaS companies",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "TCP",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Workhelio",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "DevEx",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "AI/ML",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "VieCure",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Azure Functions",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "DBT",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "MeeBoss",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Kubernetes clusters",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Google’s AR/VR effort",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Google Workspace",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Google Labs",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Google Maps",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Google Lens",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "Sigma360",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "SeatGeek",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "machine learning principles",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "MLOps",
+      "count": 2,
+      "num_sources": 2,
+      "category": ""
+    },
+    {
+      "term": "WorldCoin",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "C/C++ programming",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "VM",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "BashnmacOS",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CryoET",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PetSmart",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "FOXG1",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Elixir",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "eDiscovery",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ResponseTM",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "LetsGetChecked",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SolarWinds",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SoftBank",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DevSecOps principles",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AWS CloudWatch",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "C++ Build",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "BSL3",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "healthcare SaaS",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "VirtuOx",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DevOps processes",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "VoIP protocols SIP",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TIME100",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "StarRocks",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "GitLab CI/CD",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SPA",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "VoIP systems",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "FlashAttention",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "B2C",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "GraphQL federation",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Microsoft C#",
+      "count": 2,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Bolt6",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "noSQL Kubernetes",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "FreeU",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SaaS cloud platform",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AditiConsulting",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "VisualBasic",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SpecSys",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PetaBytes",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "B2B SaaS/API company",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CDN",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "you FlexBase",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "MaaS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "'AI + Cloud",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "a-Service (PaaS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "BoxGroup",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DevOps fundamentals",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "COBOL",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AppSync",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "WebdriverIO",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "RxJS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "gRPC/protobuf",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "HedgeOS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "HydroJug",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "FP",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "BigQuery warehouse",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "iPad",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "EpiSci",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "RoboHead",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Aquent RoboHead",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Aroris360",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "LangChain agents",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SumUp",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "M+ ARR",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SharedPractices",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "OrthoIndy",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TensorFlow, PyTorch",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "GraphQL React",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "OLTP",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "OLAP",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "C++ exposure",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "BusinessQ",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ClickUp",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ReSync",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ReSync Bio",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "cGMP",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "cGxP",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ExosomeDx",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DashApps",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DashApps Interest",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Leverage C#",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DeepMind",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Google DeepMind",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "40+ AI experts",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "LlamaIndex Love",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ServiceTitan",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ByteDancers",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CapCut",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Lemon8",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Build ByteDance",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Yarn",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "OneCAE",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "automotiveMastermind",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "IdentityServer",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "IdentityServer4",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "MiX Telematics",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NoSQL Understanding",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "McKenzie",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CardoMax",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "OneCastOneCrew",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TileDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "clean REST/gRPC APIs",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "REST/gRPC APIs",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "MobX",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PyTest",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "100% SaaS company",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Leverage MongoDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Node/NestJS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Dart",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CodeCraftMD",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CoFi CoFi",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "KuCoin",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "MailMend",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "eToro",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "source ComfyUI",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "BigCommerce",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ConsumerDirect",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "BigBear",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Computer Science DoD",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "InfoBase Publishers",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AppSec",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "JazzHR",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AngelList",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "30+ top insurers",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SaaS providers",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "e.g., GitHub Copilot",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "InfluxDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DeFi",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DeFi primitives",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "D3 D3",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SparkTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Apache SparkTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DatadogLife",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "MyWellatDell",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TeradataBI",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "OneTen",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "VantageScore",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CodePipeline",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AngularJSCloud",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AWS CodePipeline",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DevOps tooling",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "React + TypeScript",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "FastAPI Exposure",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "C++ Understanding",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "e.g., SolidWorks/NX",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ReBAC",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DocuGPT",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CockroachDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DoorDash Engineering",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DevOps operations",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SmartAsset",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "C++ Systems",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "FormAlloy",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CloudKitchens",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "EverlawWe",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "YoursAt",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "YoursAt Everlaw",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CruisesTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "comTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CarRentals",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CheapTickets",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "GroupTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Expedia CruisesTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "100GB+ sensors",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "FactSetter",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "FactSet Support",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "iGaming",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "MFA",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "e.g. C++",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "LinkSquares",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "LendingClub",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "e.g., Node.js",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "RedHat",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CentOS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Linux (CentOS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "BountyJobs",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "HootSuite",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AreaTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "JavaScript code",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ArgoCD",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AutoSys",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PostgreSQL databases",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NodeJS Expertise",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Java, C/C++",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SecDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NoSQL data stores",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "GovDash Today Work",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TypeScript / Node.js",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TypeScript / Node",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "React (TypeScript)",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "LeetCode",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CodeSignal",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "RL",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "HackerRank’s decade",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "FactoryOS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ThreeJS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ThreeJS Backend",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "w/ FastAPI",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CoPilot Databases",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "iOS and Android apps",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "x3",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "QuickBooks",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TurboTax",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AllCarTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TypeScript Infra",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TheTradeDesk",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ChartJS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "MacOS UI/UX Ability",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AutoCAD",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "i.e C++",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "GCS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TypeScript Backend",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PubSub Labelbox",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "GraphQL Cloud",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NoSQL stores",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AWS DynamoDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NestJS is a plus",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PostHog",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "orJira",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "integratingAI",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "C++ experience",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DirectEmployers",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DevOps principles",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DevRel",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DevRel Experience",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ActiveMQ",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DOM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Modern C++",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "McDelivery",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "McDonald",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "65M+ customers",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Angular.js",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "McKinsey Digital",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TensorFlow, Keras",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SafeStreets",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "WAN",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "LAN",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Core Technologies C#",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "selling B2B SaaS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "MongoDB Atlas",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NoSQL Contributions",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "MongoDB, Inc.",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "trust MongoDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DuckDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TLS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "UDP",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ZeroDrift",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "KloudStax",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "GolfNow",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SportsEngine",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Amazon QuickSight",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CodeGPT",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ManageCasa",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AppFolio",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "schools NetApp",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NetApp NetApp",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NetApp’s cloud",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "FlightPulse",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ArcGIS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "schools NetJets",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ArcGIS Enterprise",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "the NetJets Share",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NetJets Card",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "UnifyGTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Nest.js",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "MySQL/PostgreSQL",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "iOS App Download",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "JetBridge AI Seattle",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TimescaleDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NextEra Energy",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NextEra Analytics",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TeamNextdoor",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DataFrames",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SQL Server/MySQL",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "gRPC APIs",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SpaceX",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "POS+ applications",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "e.g. TypeScript",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DriverTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "BigTable",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Cloud PubSub",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NuShades",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SpringCloud",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "dApps",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SFTP",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "InnovAsian",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CoPallet",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "high-growth SaaS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PostgreSQL LLMs",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "WiFi",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "GKE",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SQL Server NoSQL",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DynamoDB Database",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "25+ brilliant minds",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "McKesson",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PiMS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Win32",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "McKesson Corporation",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Inclusion PayPal",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "- Perpay+",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PIIC iX",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Web technologies (C#",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CareYaya",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PlumbBillPay",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PhD-level",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PhD-level candidates",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "WebApi",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ThredUp",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NoSQL data solutions",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "GitHub/Lab, Jira",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "iPSCs",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "GenetiQ",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "GenetiQ-HAiLO",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NoSQL alternatives",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "JDBC",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SSL",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "MySQL Unit",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "GlobalFoundries",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PsiQuantum’s values",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PsiQuantum’s mission",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "GraphQL PostgreSQL",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Haskell",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SoGoSurvey",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "MapLibre",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CitiBike",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "McKinney",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "VerQu",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CoFina",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "RelativityOne",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ProSomnus",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PhotoRoom",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "either iOS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "BitWarden",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DevOps Engineer",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "tools (TeamCity",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "rubrikInc",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PoCs",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "not just PoCs",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "OperationsTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "industrial IoT",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "WebGL",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "consumerTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "WebAssembly",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TrekTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PlaygamiTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "e.g. WebGL",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "RiseUp",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Ubiquity6",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "tRPC",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CloudFront",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DAG",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Google BigQuery",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Employee Rights SoFi",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SoFi SoFi",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "EngineeringPlatform",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SonyInteractive",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PlayStation",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PlayStation Studios",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NerdWallet Rated",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "WeWork",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "IvyTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "StackAdapters",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ScyllaDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TiDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "StackAdapter",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Redshift, TiDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "10+ billion events",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AgentCore",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PromptLayer",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TedTalk",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SageMaker",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NeMo",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AWS AgentCore",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NeMo Guardrails",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SageMaker Pipelines",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ShipBob",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "fox59",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TransSIGHT",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Shell",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TrueCar",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "LiveRail",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AdapTV",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ClearCase",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PostgresSQL",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "BigFuture",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "MVVM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "LexisNexis",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TSX",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DeepSeek",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TikTok’s efforts",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TikTok TikTok",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Inclusion​ TikTok",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "schools TikTok",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "FreeSWITCH",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "custom VoIP handsets",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SparkExperience",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "FlexGen",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "RedPajama",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "OmniVista",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "PageSpeed",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "CMMI L3",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DynamoDB Experience",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "LoCascio",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "LivePerson",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Robert LoCascio",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "UiPath Work",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "MobiusEngine",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SquarePeg",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": ", Node.js",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "C# Experience",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "60%+ margins",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "AirVet",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "VB",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "BookWithMatrix",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "WorldPay",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "BookTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Black BookTM surveys",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "1M+ providers",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "multiple #1 rankings",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DinnerPaid",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "HDD",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "WD_BLACKTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "NetApp Inc.",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "YAML",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "e.g., SonarQube",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "1M+ users",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "IvoryCloud",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "almost B+",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "LeaderFactor",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "SmartMark",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "Office.js",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "JavaScript (ES6+)",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "FloVision",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "mTLS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "FluentAssertions",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "xUnit",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "LaTeX",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "TruNeighbor",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "VentureBeat",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "enterprise SaaS",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "ELT",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "DuckDuckGo",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "bioMerieux",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "non-bioMerieux",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "schools bioMérieux",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "BioMérieux Inc.",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "5.8 years bioMérieux",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "eBay Inc.",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "eBay Message",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "iTradeNetwork",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    },
+    {
+      "term": "xAI’s mission",
+      "count": 1,
+      "num_sources": 1,
+      "category": ""
+    }
+  ]
+}

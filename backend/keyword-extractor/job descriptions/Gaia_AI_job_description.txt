@@ -1,0 +1,44 @@
+About the job
+
+Job Description
+
+We are currently building our platform team and hiring for a full-time, in-person full-stack engineer with the ambition to help get things done. This is a great opportunity for someone who wants to apply their skills towards fighting climate change, wants to experience the high-pace, high-ownership setting of an early startup, and can start onboarding in the next few weeks.
+
+
+
+
+Climate change is one of the most meaningful challenges of our generation, and every possible solution put forward by the United Nations IPCC requires scaled carbon sequestration. Forests are critical for this reason, but they need to be managed for a growing set of values including sustainable wood production, carbon, biodiversity, and wildfire risk mitigation. We are an MIT climatetech startup applying autonomous vehicle technology to solve this problem, utilizing cutting edge sensors and perception AI to build the modern tooling needed to manage forests with great accuracy and confidence.
+
+
+
+
+Job brief
+
+We are looking for a full-stack software engineer who excels at designing and implementing complex software systems. Responsibilities can range from implementing data pipelines between our robotics algorithms and our platform, to working on our ipad app, to implementing the latest features foresters have asked for in our web app. This is an amazing opportunity to join a well-positioned, ambitious technology startup making a large impact fighting climate change.
+
+
+
+
+To be successful in this role, you should have an open mind and be familiar with a wide variety of software technologies. If you like being a polyglot in the tech world, we would love to talk with you!
+
+
+
+
+Responsibilities (may include)
+
+Collaborate with stakeholders to define the scope and scale of software projects
+Design, implement, and integrate web and mobile applications, API endpoints, and databases
+Deploy containerized software to AWS
+Develop and maintain internal software tools
+Identify/fix performance and efficiency bottlenecks
+Write clear technical documentation
+
+
+
+
+Requirements
+
+2+ years proven experience with Typescript and React (you should be able to point to shipped work). If you have fewer than two years of full-time employment in Typescript/React, please justify how you have equivalent experience.
+Ability to learn new tools and frameworks quickly
+Team spirit; strong communication and collaboration skills
+Good time-management skills

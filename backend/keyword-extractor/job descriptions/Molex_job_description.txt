@@ -1,0 +1,62 @@
+About the job
+
+Molex possesses a rich heritage in the optical industry. We provide the highest performing and field-proven wavelength management solutions from components, modules to integrated line-cards. Our team is dedicated to continuous innovation in passive component function integration, miniaturization, and manufacturing automation. We provide cutting edge technology with a comprehensive optical, mechanical, electrical and software integration capabilities enable us to serve the needs of high-density, high-bandwidth, and flexible optical networks. We serve large, global clients in telecom and datacom industries in providing next generation optical modules to support the growing need for data and communications.
+
+We are looking for a Full Stack Developer to democratize manufacturing data to our technical staff. Our Global Software operations support our opto-electronics operations. This position will be based in the office in Fremont, CA.
+
+What You Will Do
+
+
+Full stack system design and development of a scalable and secure architecture to maintain robust data pipelines to collect, process, and store large volumes of structured and unstructured data.
+Collaborate with multiple departments to gather requirements to deliver a robust solution.
+Implement UI/UX design methods and principles.
+Create, design and maintain appropriate databases and schemas to support complex big data models and transactions.
+Design and implement complex web-based data extraction and analytics applications.
+Assess and optimize data jobs on cost, scalability, and performance in both local and cloud environments.
+Implement modular design principles in backend and frontend applications to create a maintainable code base.
+
+
+
+Who You Are (Basic Qualifications)
+
+
+Bachelor’s Degree or Higher in Computer Science.
+Previous experience in an internship with full stack development.
+Experience using HTML, CSS, JavaScript.
+Experience with modern frontend frameworks, such as React.
+Experience with Python for backend development.
+Familiarity with API design and development, including RESTful services.
+Foundational knowledge of relational and NoSQL database systems, including technologies (e.g. MySQL, MariaDB, PostgreSQL). 
+This role is not eligible for sponsorship or relocation
+
+
+
+What Will Put You Ahead
+
+
+Experience working with cloud computing platforms such as AWS.
+Familiarity with version control management, including Git.
+
+
+
+For this role, we anticipate paying $100,000 - 130,000 per year. This role is eligible for variable pay, issued as a monetary bonus or in another form.
+
+At Koch companies, we are entrepreneurs. This means we openly challenge the status quo, find new ways to create value and get rewarded for our individual contributions. Any compensation range provided for a role is an estimate determined by available market data. The actual amount may be higher or lower than the range provided considering each candidate's knowledge, skills, abilities, and geographic location. If you have questions, please speak to your recruiter about the flexibility and detail of our compensation philosophy.
+
+Hiring Philosophy
+
+All Koch companies value diversity of thought, perspectives, aptitudes, experiences, and backgrounds. We are Military Ready and Second Chance employers. Learn more about our hiring philosophy here.
+
+Who We Are
+
+At Koch, employees are empowered to do what they do best to make life better. Learn how our business philosophy helps employees unleash their potential while creating value for themselves and the company.
+
+Our Benefits
+
+Our goal is for each employee, and their families, to live fulfilling and healthy lives. We provide essential resources and support to build and maintain physical, financial, and emotional strength - focusing on overall wellbeing so you can focus on what matters most. Our benefits plan includes - medical, dental, vision, flexible spending and health savings accounts, life insurance, ADD, disability, retirement, paid vacation/time off, educational assistance, and may also include infertility assistance, paid parental leave and adoption assistance. Specific eligibility criteria is set by the applicable Summary Plan Description, policy or guideline and benefits may vary by geographic region. If you have questions on what benefits apply to you, please speak to your recruiter.
+
+Additionally, everyone has individual work and personal needs. We seek to enable the best work environment that helps you and the business work together to produce superior results.
+
+Equal Opportunities
+
+Equal Opportunity Employer, including disability and protected veteran status. Except where prohibited by state law, some offers of employment are conditioned upon successfully passing a drug test. This employer uses E-Verify. Please click here for additional information. (For Illinois E-Verify information click here, aquí, or tu).

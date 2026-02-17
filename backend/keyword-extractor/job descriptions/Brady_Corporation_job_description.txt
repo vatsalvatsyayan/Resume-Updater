@@ -1,0 +1,67 @@
+About the job
+
+What We Need
+
+The Software Engineer is responsible for designing and writing high-quality code to support the development of Brady’s software products. The software engineer will work in a small focused team, creating interconnected desktop apps to drive Brady’s line of printing solutions. The engineer is expected to participate in the designing of solutions that meet customer needs, document the design, write clear concise code, comment code as appropriate, and create documentation outlining code functionality. All engineers are required to follow Brady’s development process which includes our agile process. Individuals will be responsible for managing the development of modules as part of a development team.
+
+What You'll Be Doing
+
+
+Leverage C#, .NET, and Microsoft’s Visual Studio environment
+Utilize object-oriented coding techniques, follow coding standards, and follow standard development best practices
+Manage the design and architecture of small modules in the overall product
+Work with Brady’s user experience team and product owner to develop features
+Support other development and quality assurance team members with expertise in code and functionality
+Performs code reviews and follows all development processes
+Setup and use software code debuggers and profiling tools
+Other tasks as assigned
+
+
+What You Will Need To Be Successful
+
+
+Bachelors of Science in Computer Science, Computer Engineering, Electrical Engineering, or related field or equivalent experience
+Knowledge of C# or Java language programming
+Knowledge of .NET Core
+Demonstrated knowledge of Object-Oriented Analysis and Design
+Knowledge of design patterns
+Knowledge in at least one UI technology: WinForms, WPF, Xamarin, XAML
+Proficient with Microsoft Visual Studio or Visual Studio Code
+Knowledge of C++ programming a plus
+Experience with Team Foundation Server or GIT source control
+Working knowledge Azure DevOps
+Knowledge and experience with creating and reading UML models
+
+
+Pay Range: $72,600.00 - $104,300.00
+
+About Us
+
+Who we are:
+
+Brady makes products that make the world a safer and more productive place. We are a global leader in safety, identification and compliance solutions for a diverse range of workplaces. From the depths of the ocean to outer space, from the factory floor to the delivery room - we're just about everywhere you look. Companies around the world trust Brady because of our deep expertise and knowledge across a wide range of industries and applications - powered by our world-class manufacturing capabilities.
+
+We have a diverse customer base in industries including electronics, telecommunications, manufacturing, electrical, construction, healthcare, aerospace and more. As of July 31, 2024, Brady employed approximately 5,700 people worldwide. Our fiscal 2024 sales were approximately $1.34 billion. Brady stock trades on the New York Stock Exchange under the symbol BRC. You can learn more about us at www.bradycorp.com.
+
+Why Work At Brady
+
+A career at Brady means working for a global company that has thrived for over 100 years, and whose innovative spirit drives our future growth.
+
+Brady offers competitive pay and great benefits, supported by a culture that encourages collaboration and innovation. We strive to foster an inclusive workplace where diverse talent can learn, grow, and succeed. And with deeply rooted values, no matter where you work at Brady, you'll feel connected to the community through our charitable contributions and opportunities to give back.
+
+Our headquarters are in Milwaukee, Wisconsin, but we have more than 70 locations globally, giving our employees the opportunity to work with colleagues around the world.
+
+Our Benefits
+
+
+Comprehensive insurance coverage starting on your first day of employment, including medical, dental, and vision
+Generous 401(k) with company match
+Paid time off and holidays
+Opportunity to participate in incentive programs for all full-time employees
+Family planning benefits including paid parental leave, fertility coverage, adoption and surrogacy assistance
+Education reimbursement opportunities
+Scholarship program for children of Brady employees
+A variety of Employee Resource Groups to provide you with unique networking, development, and volunteer opportunities
+Employee Assistance Program and related wellness programs (mental and behavioral health, family counseling, financial management)
+Dress-for-your-day dress code
+Charitable contributions matched through Brady's Matching Gift program

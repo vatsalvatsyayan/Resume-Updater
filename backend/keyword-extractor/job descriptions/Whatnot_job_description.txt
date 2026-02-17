@@ -1,0 +1,70 @@
+About the job
+
+🚀 Join the Future of Commerce with Whatnot!
+
+Whatnot is the largest live shopping platform in North America and Europe to buy, sell, and discover the things you love. We’re re-defining e-commerce by blending community, shopping, and entertainment into a community just for you. As a remote co-located team, we’re inspired by innovation and anchored in our values. With hubs in the US, UK, Germany, Ireland, and Poland, we’re building the future of online marketplaces –together.
+
+From fashion, beauty, and electronics to collectibles like trading cards, comic books, and even live plants, our live auctions have something for everyone.
+
+And we’re just getting started! As one of the fastest growing marketplaces, we’re looking for bold, forward-thinking problem solvers across all functional areas. Check out the latest Whatnot updates on our news and engineering blogs and join us as we enable anyone to turn their passion into a business, and bring people together through commerce.
+
+💻 Role
+
+We are looking for intellectually curious, highly motivated individuals to join us post grad in 2026. The most important skills you’ll need to have are making sound product decisions and shipping high-quality products fast. We look for engineers with great product instincts who can own whole projects from start to finish.
+
+Job Duties
+
+The engineering team operates with a high level of autonomy so we need to hire people we can trust. Your ability to make good trade-offs and exercise good judgment is essential to us. Some job duties include:
+
+
+Building new features for users in our live-streams
+Implementing growth tactics and strategies to scale our buyer and seller flows
+Building systems at scale that help us deliver a high trust marketplace experience 
+Writing product or system development code
+Designing, implementing, and operating our most critical and scalable services
+Carefully evaluating the technical tradeoffs of every decision
+Supporting features at every phase, from design through implementation and launch
+Triage product or system issues and debug/track/resolve by analyzing the sources of issues, network, or service operations and quality.
+
+
+Team members in this role are required to be within commuting distance of our New York, Los Angeles, San Francisco, or Seattle hubs.
+
+👋 You
+
+Curious about who thrives at Whatnot? We’ve found that embodying a low ego, growth mindset, and high-impact drive goes a long way here.
+
+As our next Engineer you should have some industry software engineering experience, plus:
+
+
+Graduating with a CS or Software Engineering degree in Dec 2025 or by Summer 2026 
+Problem solver and out-of-the-box thinker
+Willing to take risks and build product and systems for 1M+ users
+Capable of building scalable systems
+Excellent product instincts. You first think about users rather than the best technical solution
+You are known for shipping products and features lightning-fast
+Ability to pick up on new technologies very quickly
+Open to relocation to New York, Los Angeles, San Francisco, or Seattle 
+
+
+🎁 Benefits
+
+
+Generous Holiday and Time off Policy
+Health Insurance options including Medical, Dental, Vision
+Work From Home Support
+Home office setup allowance
+Monthly allowance for cell phone and internet
+Care benefits
+Monthly allowance for wellness
+Annual allowance towards Childcare
+Lifetime benefit for family planning, such as adoption or fertility expenses
+Retirement; 401k offering for Traditional and Roth accounts in the US (employer match up to 4% of base salary) and Pension plans internationally
+Monthly allowance to dogfood the app
+All Whatnauts are expected to develop a deep understanding of our product. We're passionate about building the best user experience, and all employees are expected to use Whatnot as both a buyer and a seller as part of their job (our dogfooding budget makes this fun and easy!).
+Parental Leave
+16 weeks of paid parental leave + one month gradual return to work *company leave allowances run concurrently with country leave requirements which take precedence.
+💛 EOE
+
+Whatnot is proud to be an Equal Opportunity Employer. We value diversity, and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, parental status, disability status, or any other status protected by local law. We believe that our work is better and our company culture is improved when we encourage, support, and respect the different skills and experiences represented within our workforce.
+
+Compensation Range: $140K - $150K

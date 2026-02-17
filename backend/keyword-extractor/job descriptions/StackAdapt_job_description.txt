@@ -1,0 +1,576 @@
+StackAdapt
+
+Software Engineer, Stats & Analytics 
+
+United States · 4 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+Remote
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across programmatic advertising and marketing channels.
+
+About The Stats & Analytics Team
+
+The Stats and Analytics team at StackAdapt solves complex distributed system challenges, focusing on scalability, performance, reliability, and data consistency. We leverage a modern tech stack that includes Golang for high-performance services, TiDB for scalable SQL databases, Redshift and Snowflake for data warehousing, Kafka for real-time streaming, Elasticsearch for analytics, and HDFS for distributed storage. The Stats & Analytics team is structured into three sub teams: Data Ingestion, Data Platform and Data Delivery.
+
+About The Data Ingestion Team
+
+This team builds and operates the critical infrastructure that serves as the “front door” of StackAdapt’s event flow. We work on large-scale distributed systems focused on scalability, performance, reliability, and data correctness, processing 10+ billion events per day. Our systems power core functions across bidding, reporting, billing, analytics, and machine learning. We design and run low-latency, highly reliable ingestion systems for impressions, clicks, conversions, and third-party signals, ensuring data is accurate and available for downstream teams in real time.
+
+About The Data Platform Team
+
+This team is responsible for building and operating the infrastructure that powers data at scale across StackAdapt. Our systems process terabytes of data daily, serving both real-time and batch use cases. The data platform ensures that data is fresh, accurate, and cost-efficient so that analytics, machine learning, and product teams can rely on trustworthy, governed datasets.
+
+What You'll Be Doing
+
+
+Building highly scalable, distributed real-time micro-services primarily written in Go
+Working with large data sets and various databases including Aerospike, Elasticsearch, Redis, ScyllaDB, Redshift, TiDB, MariaDB
+Working with data lakehouse technologies like Apache Iceberg, Apache Trino, and real-time analytics technologies like StarRocks and Clickhouse 
+Build software that utilize messaging queues such as Kafka, SQS, and Kinesis
+Write performance efficient and memory optimized code
+
+
+What You'll Bring to the Table
+
+
+2+ years of experience as a Backend Software Engineer.
+Very strong problem solving skills in data structures, algorithms, and optimization
+Experience working with relational databases and/or key-value stores
+Experience building scalable micro-services and distributed systems
+
+
+StackAdapter's Enjoy
+
+
+Highly competitive salary
+Retirement/ 401K/ Pension Savings globally
+Competitive Paid time off packages including birthday's off!
+Access to a comprehensive mental health care program
+Health benefits from day one of employment
+Work from home reimbursements
+Optional global WeWork membership for those who want a change from their home office and hubs in London and Toronto
+Robust training and onboarding program
+Coverage and support of personal development initiatives (conferences, courses, books etc)
+Access to StackAdapt programmatic courses and certifications to support continuous learning
+An awesome parental leave program
+A friendly, welcoming, and supportive culture
+Our social and team events!
+
+
+StackAdapt is a diverse and inclusive team of collaborative, hardworking individuals trying to make a dent in the universe. No matter who you are, where you are from, who you love, follow in faith, disability (or superpower) status, ethnicity, or the gender you identify with (if you’re comfortable, let us know your pronouns), you are welcome at StackAdapt. If you have any requests or requirements to support you throughout any part of the interview process, please let our Talent team know.
+
+We use artificial intelligence (AI) to streamline the resume reviews of candidates and assess their fit based on the criteria outlined in the job posting. We do not use AI to make any final hiring or interview decisions.
+
+About StackAdapt
+
+We've been recognized for our diverse and supportive workplace, high performing campaigns, award-winning customer service, and innovation. We've been awarded:
+
+Ad Age Best Places to Work 2024
+
+G2 Top Software and Top Marketing and Advertising Product for 2024
+
+Campaign’s Best Places to Work 2023 for the UK
+
+2024 Best Workplaces for Women and in Canada by Great Place to Work®
+
+#1 DSP on G2 and leader in a number of categories including Cross-Channel Advertising
+
+To learn more about our privacy practices, please see our Privacy Policy.
+
+
+… more
+
+Benefits found in job post
+
+401(k)
+
+Set alert for similar jobs
+
+Software Engineer, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+181
+
+total
+
+181
+
+in the past day
+
+Candidate seniority level
+
+87% Entry level candidates
+
+8% Senior level candidates
+
+Candidate education level
+
+81
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+17
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about StackAdapt
+Powered by Bing
+
+Company focus areas
+
+• AI Integration: Enhance platform capabilities with AI-powered tools to improve data-driven decision-making. The launch of Ivy™, an AI assistant, exemplifies this strategy.
+
+...more
+
+Sources: finance.yahoo.com +1 more
+
+Hiring & headcount
+
+Significant growth in sales and engineering: The 'Sales' and 'Engineering' departments have seen a 28% and 31% increase in headcount respectively, indicating a strong focus on expanding these critical areas, which suggests potential opportunities for sales training, tools, and engineering resources. Increased focus on customer success and support: The 'Customer Success and Support' department has experienced a 40% increase in headcount, highlighting a strategic initiative to enhance customer satisfaction and retention, which could lead to opportunities for customer support solutions. Expansion in marketing and human resources: The 'Marketing' and 'Human Resources' departments have grown by 23% and 32% respectively, suggesting a push towards stronger market presence and internal talent management, indicating potential needs for marketing tools and HR solutions. Overall headcount growth: The company's total headcount has increased by 22% over the past year, reflecting overall company growth and potential opportunities for various business support services.
+… more
+
+The latest hiring trend
+
+1,656
+
+Total employees
+
+55%
+
+Company-wide
+
+2 year growth
+
+106%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+1000
+2000
+
+Median employee tenure: 2 years
+
+StackAdapt hires candidates from some of these companies and schools
+
+StackAdapt hired 7 people from University of Southern California. See all
+
+Competitors
+
+StackAdapt operates in a highly competitive programmatic advertising market, leveraging AI and machine learning to offer advanced cross-channel advertising solutions. The company faces significant competition from other demand-side platforms (DSPs) like The Trade Desk, Quantcast, and Simpli.fi, which also provide robust programmatic advertising capabilities. StackAdapt's focus on innovation, particularly in AI and automation, positions it as a strong contender in the ad tech space, aiming to capture market share through cutting-edge technology and superior user experience.
+… more
+
+Sources: techimply.com +3 more
+
+Show Premium Insights
+About the company
+
+StackAdapt
+
+74,702 followers
+
+Follow
+
+Technology, Information and Internet
+
+ • 
+
+1001-5000 employees
+
+ • 
+
+1,656 on LinkedIn
+
+StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across programmatic advertising and marketing channels.
+
+Our state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. StackAdapt is designed around the three core pillars of programmatic—planning, executing and analyzing.
+
+StackAdapt is ranked as the number 1 DSP on G2. For six consecutive years with over hundreds of reviews, StackAdapt has been recognized as a high performer and the highest-ranking DSP in customer satisfaction by G2. StackAdapt was also recognized as an Enterprise Fast 15 winner as part of the Technology Fast 50™ program in 2024 and is one of Ad Age’s Best Places to Work in 2024.
+
+Learn more about StackAdapt here: www.stackadapt.com. And if you're looking for a change, we'd love to have you on our team—check out our open roles by visiting: www.stackadapt.com/careers.
+
+StackAdapt is headquartered in Toronto, Canada. We have teams and client support across North America, EMEA, APAC, and LATAM.
+… more
+
+Commitments
+
+Diversity, equity, and inclusion
+
+Diversity, equity, and inclusion is not just a checkbox for us here at StackAdapt. It is a promise and commitment, followed by action and consistent learning. We aim to be an inclusive, equitable, and diverse place where StackAdapters feel proud to call StackAdapt their professional home. We know that having varied perspectives is what fuels our innovation.
+We are a global company, and we must reflect our diverse world. We are committed to a workforce that fully represents the many different cultures, backgrounds, and viewpoints of our employees, customers, and communities. 
+
+To hold us accountable for our DEI action, we have implemented a 2-year DEI roadmap that will take us through 2024.
+
+… more
+
+Career growth and learning
+
+Growth is an integral part of StackAdapt, and opportunities for learning are what drive growth in many ways. Learning and development is at the forefront of our culture, which is why we have an extensive onboarding program, programmatic education, and professional development opportunities. We strive to ensure we have the right training at our fingertips.
+… more
+
+Environmental sustainability
+
+Environmental, Social, and Governance (ESG) is at the top of our minds for 2023 and beyond. Our team has put forth a task list aligned with the ESG framework to implement a sustainable program for 2024.
+
+The task list includes the following:
+Plan of investment for the future of carbon emissions
+Enabling a DEI lens throughout all we do at StackAdapt
+Formalizing our ESG Program in 2023
+StackAdapt also has a laptop recycling program, where any out-dated or unused tech equipment is donated to local charities to allow people in need to benefit from our devices. Currently, we partner with Progress Place and Girls Who Code.
+
+When it comes to our company swag and branded apparel we gift during company events, everything is purchased from BCorp certified companies that use sustainable products. Items are made from recycled materials and from companies that support environmental causes! Our swag production coordinator refers to this as ‘Ethical Swag’, confirming that StackAdapt “only works with suppliers that have passed strict audits related to social compliance, environmental impact, product safety, supply chain security and product quality.”
+
+… more
+
+Social impact
+
+Under our ESG program, we are building a global initiative around volunteer work. StackAdapt considers education to be at the forefront of successful social impact and change. Not only do we provide educational opportunities for our employees, but we also prioritize educating fellow advertising professionals and students who are starting out their careers in marketing.
+
+… more
+
+Work-life balance
+
+We’ve adopted a flexible work system globally which means the globe is our office now! Originally a Toronto-based team, we've expanded into the US, UK, Singapore, Australia—and we're just getting started. We have built new ways of connecting, collaborating, and building relationships with each other. We're leaning into our flexible model as it has a positive impact on our team.
+
+It’s a new era for mental health at work, and StackAdapt supports this 100%. Along with implementing Modern Health and Mental Health First Aid Training, we are making this a goal for 2023 and beyond. 
+
+… more
+
+Learn more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Forward Deployed Engineer
+
+Galatiq
+
+United States (Remote)
+
+$220K/yr
+
+You’d be a top applicant
+
+Posted on January 18, 2026, 11:56 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+AI Lead Engineer
+
+Mobiz Inc.
+
+United States (Remote)
+
+Posted on January 27, 2026, 9:49 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Founding iOS Developer
+
+crtd labs
+
+San Francisco Bay Area (Remote)
+
+$100K/yr - $140K/yr
+
+Posted on January 16, 2026, 3:13 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Senior Go High Level Expert
+
+Brenda Breland LLC
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 26, 2026, 3:49 PM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Cofounder / Software Engineer (Equity Only, Pre-Funding)
+
+Forboc AI
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 27, 2026, 6:56 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+RecovryAI
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 2:14 PM
+6 days ago
+
+ · 
+
+ Easy Apply
+
+Integrated Solutions Engineer II (f/m/d)
+
+Halon
+
+United States (Remote)
+
+Medical, 401(k)
+
+You’d be a top applicant
+
+Posted on January 27, 2026, 5:41 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Forward Deployed Engineer (Verified job)
+Forward Deployed Engineer 
+
+Sigma360
+
+United States (Remote)
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 14, 2026, 6:31 AM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Mobile Engineer
+
+Plurawl
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 20, 2026, 2:17 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Back-End Software Engineer (Go) (Verified job)
+Back-End Software Engineer (Go) 
+
+Wizer - Free Security Awareness Training
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 19, 2026, 6:47 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Frontend Engineer
+
+Discernis
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 27, 2026, 11:24 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Senior Research Engineer (Verified job)
+Senior Research Engineer 
+
+FAR.AI
+
+United States (Remote)
+
+$150K/yr - $250K/yr
+
+1 school alumni works here
+
+Posted on January 21, 2026, 9:04 AM
+1 week ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

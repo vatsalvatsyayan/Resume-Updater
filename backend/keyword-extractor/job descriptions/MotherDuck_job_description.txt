@@ -1,0 +1,82 @@
+About the job
+
+About MotherDuck
+
+Don’t let the quirky name fool you: At MotherDuck, we’re on a mission to make data warehousing fun, frictionless, and ducking awesome for developers and data practitioners building blazing fast internal and customer-facing analytics experiences. We're building a cloud-hosted version of DuckDB, working hand-in-hand with the creators of the fastest-growing and fastest-improving query engine on the planet. Unlike other databases, MotherDuck was architected to unify local development with cloud operations to bridge the gap between software and data engineering workflows. Our team is a mix of thoughtful, passionate, and empathetic data industry veterans.
+
+We’re shaking up assumptions on how data should be done! We empower and delight data practitioners using a novel cloud architecture. We believe in the power of single node databases, built on top of DuckDB, an open source foundation with a vibrant community.
+
+Our engineering team comes from a wide mix of backgrounds, running the gamut from data experts to generalists, from big tech to start ups, and SaaS companies to government and finance.
+
+But no matter where we’ve come from, we’re passionate, collaborative and customer-focused. We work together as a team from across our engineering hubs in Seattle, San Francisco, New York, and Amsterdam.
+
+We’re looking for Backend Engineers to help MotherDuck scale the magic of DuckDB into the cloud. As part of the team, you'll build distributed systems that power query execution, storage, access control, and other core platform capabilities.
+
+If you enjoy systems-level thinking, care deeply about reliability and performance, and want to work on the core of the software that directly improves the experience of analysts and data engineers, this role may be a great fit.
+
+What You’ll Do:
+
+
+Design and implement scalable backend services using Go and C++
+Build and evolve critical systems related to metadata, authentication, access control, query lifecycle, and file visibility
+Optimize for performance, reliability, and maintainability through careful design and operational rigor
+Collaborate with other engineers on architectural decisions and technical direction
+Investigate and resolve production issues and participate in a customer support or production oncall rotation
+Work closely with product and frontend teams to ensure backend systems enable complete and cohesive user experiences
+
+
+What We’re Looking For:
+
+
+Hands-on experience with distributed systems, preferably using Go, C++, or similar languages
+A strong understanding of performance, latency, and fault tolerance in real-world production environments
+Familiarity with API design, observability practices, and production debugging
+A product-focused mindset and a willingness to dive into unfamiliar areas when needed
+Ability to communicate technical ideas clearly and collaborate across teams
+
+
+Example Projects:
+
+
+Implement new database semantics to enable customer usage patterns
+Improve storage performance by developing and tuning caching layers. 
+Optimize compute provisioning to ensure no noisy neighbors impact customers while keeping infrastructure costs low. 
+
+
+What people should be saying if you’re doing ducking awesome
+
+
+Their code made our queries run faster without anyone asking for it.”
+“They spotted and fixed a tricky bug before it ever hit production.”
+“Our backend is easier to understand because of their clear designs and documentation.”
+“They built a feature that just works… and keeps working.”
+“They think about the edge cases the rest of us forget.”
+
+
+What We Provide
+
+
+Feather-ruffling compensation – competitive salary and stock options so you have a stake in our flock’s success. 
+Top-notch healthcare coverage – 100% paid medical, dental, and vision for employees, plus 80% coverage for dependents (because we care about your whole nest). 
+Flexible PTO – take the time you need to recharge, explore, or just have a lazy day by the pond. 
+401k plan – because even ducks need to plan for the future. 
+Legendary company events – we bring the whole flock together twice a year for unforgettable summits in fun locations, plus 1-2 team gatherings a year to keep our bonds strong. 
+Hybrid work environment - spend most of the week in the office collaborating with the flock, and work from wherever you're most productive the rest of the time. 
+
+
+Our Process
+
+
+Round 1: Interview with our Talent Partner (30min)
+Round 2: Technical Screen with one of our Tech Leads (30min)
+Round 3: 4 meetings with members of the team (60min each)
+Round 4: Values interview with our CEO/Founder (45min)
+
+
+Please Apply
+
+Does this role sound appealing to you, but you’re missing some of the requirements or don’t quite think you’re qualified? Please apply anyway. Research has shown that underrepresented groups in technology often shy away from roles which aren’t a 100% match. We aim to build a diverse team and will strongly consider applicants who bring many of the requirements plus have other experiences which round out their qualifications.
+
+MotherDuck is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based on race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. MotherDuck is committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities.
+
+Compensation Range: $140K - $250K

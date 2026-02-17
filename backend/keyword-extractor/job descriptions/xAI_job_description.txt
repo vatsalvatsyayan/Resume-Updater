@@ -1,0 +1,613 @@
+xAI
+
+Fullstack Engineer - Product
+
+Palo Alto, CA · Reposted 11 hours ago · Over 100 applicants
+
+Promoted by hirer · Actively reviewing applicants
+
+$180K/yr - $440K/yr
+Hybrid
+Full-time
+Easy Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+About xAI
+
+
+xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+
+
+
+
+Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+
+
+
+
+We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+
+
+
+
+All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+
+ 
+
+About the team
+
+
+
+
+You will work on the team that is responsible for the backend services that power grok.com. Our team is based in Palo Alto and San Francisco. We focus on writing highly scalable and reliable services that can efficiently process tens of thousands of queries per second. The entire backend stack is written in Rust.
+
+
+
+
+About the Role
+
+
+
+
+Join us in building AI-powered products that impact hundreds of millions worldwide. We’re looking for detail-oriented, action-driven self-starters with a passion for AI’s potential to change lives—no prior AI experience required, just a sharp mind and relentless drive.
+
+
+
+
+As a Fullstack Engineer at xAI, you’ll own the delivery of polished, end-to-end features that delight users and scale our services. Working hand-in-hand with product and research teams, you’ll help turn cutting-edge AI concepts into reality, directly fueling breakthroughs that redefine what’s possible.
+
+
+
+
+An ideal candidate meets at least the following requirements:
+
+
+
+
+
+Expert knowledge of TypeScript.
+
+
+Experience in designing, developing, and maintaining scalable architectures.
+
+
+Knowledge of computer science fundamentals and type systems.
+
+
+Experience in tuning production services for performance, reliability, and scalability.
+
+
+
+
+
+Additionally, any of the below points will help a candidate stand out:
+
+
+
+
+
+Expert knowledge of Rust or Python.
+
+
+Experience with Kubernetes and containerized applications.
+
+
+Familiarity with microservices architecture.
+
+
+Familiarity functional programming principles.
+
+
+Experience building end-to-end applications, including frontend, backend, CI/CD pipelines, metrics, logging, and deployments.
+
+
+
+
+
+Locations
+
+
+
+
+
+
+
+
+We hire engineers in Palo Alto, and San Francisco. Our team usually works from the office 5 days a week but allow work-from-home days when required. Candidates who join in San Francisco must make it to Palo Alto at least twice a week.
+
+
+
+
+
+
+
+
+Interview Process
+
+
+
+
+After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of 2 technical interviews and 1 project deep-dive interview:
+
+
+
+
+
+Practical coding assessment in a language of your choice.
+
+
+Systems design hands-on: Demonstrate practical skills in a live problem-solving session.
+
+
+Project deep-dive: Present and answer questions about exceptional work that you’ve done.
+
+
+Meet and greet with the wider team.
+
+
+
+
+
+Our goal is to finish the main process within one week. Final interviews will be conducted in person.
+
+
+
+
+Annual Salary Range
+
+
+
+
+$180,000 - $440,000 USD
+
+ 
+
+xAI is an equal opportunity employer and does not unlawfully discriminate based on race, color, religion, ethnicity, ancestry, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, disability, medical conditions, genetic information, marital status, military or veteran status, or any other applicable legally protected characteristics. 
+
+
+
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all applicable federal, state, and local laws, including the San Francisco Fair Chance Ordinance, Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act. 
+
+
+
+
+For Los Angeles County (unincorporated) Candidates:
+
+
+
+
+xAI reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: 
+
+
+
+
+
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;
+
+
+Interacting with internal and/or external clients and colleagues; and
+
+
+Exercising sound judgment.
+
+
+
+
+
+California Consumer Privacy Act (CCPA) Notice
+
+… more
+
+Set alert for similar jobs
+
+Engineer, Palo Alto, California, United States
+
+Off
+See how you compare to other applicants
+Based on LinkedIn data. Excludes subsidiaries.
+Applicants for this job
+
+784
+
+Applicants
+
+35
+
+Applicants in the past day
+
+Applicant seniority level
+
+75% Entry level people applied for this job
+
+12% Senior level people applied for this job
+
+1% CXO level people applied for this job
+
+1% Manager level people applied for this job
+
+Applicant education level
+
+38
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+31
+
+%
+
+have a Master of Science
+
+
+9
+
+%
+
+have a Bachelor's Degree
+
+
+22
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about xAI
+Powered by Bing
+
+Company focus areas
+
+• Advancing scientific discovery: xAI is committed to advancing scientific discovery and deepening our collective understanding of the universe through cutting-edge AI research and development.
+
+...more
+
+Sources: canvasbusinessmodel.com +1 more
+
+Hiring & headcount
+
+Rapid expansion in engineering: The 'Engineering' department has seen a 146% increase in employee count, indicating a major focus on technological development and innovation. Significant growth in business development and sales: The 'Business Development' and 'Sales' departments have grown by 192% and 199% respectively, suggesting a strong push towards market expansion and revenue generation. Increased focus on healthcare services: The 'Healthcare Services' department has experienced a 289% increase in headcount, highlighting a strategic initiative in the healthcare sector. Substantial investment in community and social services: The 'Community and Social Services' department has grown by 370%, indicating a significant commitment to social impact and community engagement.
+… more
+
+The latest hiring trend
+
+4,517
+
+Total employees
+
+1678%
+
+Company-wide
+
+2 year growth
+
+9100%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+2500
+5000
+
+Median employee tenure: 0.8 years
+
+xAI hires candidates from some of these companies and schools
+
+xAI hired 4 people from University of Southern California. See all
+
+xAI hired 42 people from University of Southern California. See all
+
+Competitors
+
+xAI, founded by Elon Musk, is positioned in a highly competitive AI landscape with a mission to understand the true nature of the universe. It competes with major players like OpenAI, Anthropic, and Meta, each bringing unique strengths to the market. xAI leverages advanced AI models like Grok and significant financial backing to drive innovation and scientific discovery. The company also focuses on ethical AI development and transparency, aiming to differentiate itself in a crowded field.
+… more
+
+Sources: rankred.com +2 more
+
+Show Premium Insights
+About the company
+
+xAI
+
+161,296 followers
+
+Follow
+
+Technology, Information and Internet
+
+ • 
+
+11-50 employees
+
+ • 
+
+4,517 on LinkedIn
+
+Understand the Universe
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Site Reliability Engineer & Administrator (Intern) - Austin, TX (Verified job)
+Site Reliability Engineer & Administrator (Intern) - Austin, TX 
+
+IBM
+
+Austin, TX (On-site)
+
+46 company alumni work here
+
+Posted on January 17, 2026, 3:59 AM
+1 day ago
+
+Client Technology - Software Engineering (Verified job)
+Client Technology - Software Engineering 
+
+EY
+
+Raleigh, NC (On-site)
+
+$134.2K/yr - $258.3K/yr
+
+ • 
+
+401(k) benefit
+
+2 connections work here
+
+Posted on January 17, 2026, 4:18 AM
+1 day ago
+
+Associate Application Developer - Entry Level (Baton Rouge, LA) (Verified job)
+Associate Application Developer - Entry Level (Baton Rouge, LA) 
+
+IBM
+
+Baton Rouge, LA (Hybrid)
+
+1 connection works here
+
+Posted on January 17, 2026, 3:59 AM
+1 day ago
+
+Entry Level Back End Developer 2026 (Verified job)
+Entry Level Back End Developer 2026 
+
+IBM
+
+Durham, NC (Hybrid)
+
+46 company alumni work here
+
+Posted on January 17, 2026, 3:59 AM
+1 day ago
+
+Cloud Developer Intern (Verified job)
+Cloud Developer Intern 
+
+IBM
+
+Austin, TX (Hybrid)
+
+46 company alumni work here
+
+Posted on January 17, 2026, 3:57 AM
+1 day ago
+
+Cloud Developer Intern (Verified job)
+Cloud Developer Intern 
+
+IBM
+
+Chicago, IL (Hybrid)
+
+1 connection works here
+
+Posted on January 17, 2026, 3:58 AM
+1 day ago
+
+Client Technology - Software Engineering (Verified job)
+Client Technology - Software Engineering 
+
+EY
+
+Philadelphia, PA (On-site)
+
+$134.2K/yr - $258.3K/yr
+
+ • 
+
+401(k) benefit
+
+2 connections work here
+
+Posted on January 17, 2026, 4:19 AM
+1 day ago
+
+Software Engineer, ML System Scheduling (Verified job)
+Software Engineer, ML System Scheduling 
+
+ByteDance
+
+San Jose, CA (On-site)
+
+$177.7K/yr - $341.7K/yr
+
+ • 
+
+Vision, 401(k), +1 benefit
+
+1 connection works here
+
+Posted on January 18, 2026, 1:20 PM
+38 minutes ago
+
+ · 
+
+ Easy Apply
+
+Cloud Developer Intern (Verified job)
+Cloud Developer Intern 
+
+IBM
+
+Durham, NC (Hybrid)
+
+46 company alumni work here
+
+Posted on January 17, 2026, 3:57 AM
+1 day ago
+
+Software Engineer
+
+Heliux
+
+San Francisco, CA (On-site)
+
+1 school alumni works here
+
+Posted on January 18, 2026, 2:31 AM
+11 hours ago
+
+Project Engineer, Water Treatment
+
+MYCELX® Technologies Corp.
+
+Houston, TX (On-site)
+
+Actively reviewing applicants
+
+Posted on January 17, 2026, 11:11 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer (Backend)
+
+Infocusp Innovations
+
+Mountain View, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 18, 2026, 12:19 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

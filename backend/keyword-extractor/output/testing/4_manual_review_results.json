@@ -1,0 +1,6599 @@
+{
+  "instructions": "Assign each term to a category by filling in the 'category' field. Add new categories to the list as needed.",
+  "categories": [
+    "Programming Languages",
+    "Frameworks/Libraries",
+    "Databases",
+    "Cloud/Infrastructure",
+    "DevOps/Tools",
+    "Methodologies/Practices",
+    "Concepts/Domains",
+    "Companies/Organizations",
+    "Job Metadata",
+    "Uncategorized"
+  ],
+  "terms": [
+    {
+      "term": "AI",
+      "count": 299,
+      "num_sources": 291,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "GO",
+      "count": 230,
+      "num_sources": 222,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "Python",
+      "count": 256,
+      "num_sources": 215,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "AD",
+      "count": 195,
+      "num_sources": 189,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "AWS",
+      "count": 157,
+      "num_sources": 147,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "IT",
+      "count": 164,
+      "num_sources": 145,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "JAVA",
+      "count": 161,
+      "num_sources": 136,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "REACT",
+      "count": 143,
+      "num_sources": 123,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "TypeScript",
+      "count": 127,
+      "num_sources": 112,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "JavaScript",
+      "count": 112,
+      "num_sources": 105,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "BackEnd",
+      "count": 106,
+      "num_sources": 105,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "SQL",
+      "count": 111,
+      "num_sources": 104,
+      "category": "Databases"
+    },
+    {
+      "term": "CI",
+      "count": 93,
+      "num_sources": 93,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "CD",
+      "count": 88,
+      "num_sources": 88,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "Kubernetes",
+      "count": 91,
+      "num_sources": 80,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Code Reviews",
+      "count": 80,
+      "num_sources": 79,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "API",
+      "count": 78,
+      "num_sources": 77,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "GIT",
+      "count": 85,
+      "num_sources": 67,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "Docker",
+      "count": 84,
+      "num_sources": 67,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "ML",
+      "count": 67,
+      "num_sources": 67,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Azure",
+      "count": 66,
+      "num_sources": 65,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "DevOps",
+      "count": 60,
+      "num_sources": 59,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "GCP",
+      "count": 57,
+      "num_sources": 56,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Data Structures",
+      "count": 66,
+      "num_sources": 52,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "NoSQL",
+      "count": 54,
+      "num_sources": 52,
+      "category": "Databases"
+    },
+    {
+      "term": "Node",
+      "count": 58,
+      "num_sources": 50,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Object-Oriented",
+      "count": 49,
+      "num_sources": 48,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Linux",
+      "count": 51,
+      "num_sources": 45,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "LLM",
+      "count": 45,
+      "num_sources": 45,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "node.js",
+      "count": 45,
+      "num_sources": 45,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "GitHub",
+      "count": 45,
+      "num_sources": 43,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "PostgresQL",
+      "count": 48,
+      "num_sources": 42,
+      "category": "Databases"
+    },
+    {
+      "term": "UI",
+      "count": 41,
+      "num_sources": 41,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "SaaS",
+      "count": 41,
+      "num_sources": 40,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "FullStack",
+      "count": 41,
+      "num_sources": 40,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "CI/CD Pipelines",
+      "count": 48,
+      "num_sources": 38,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "distributed systems",
+      "count": 43,
+      "num_sources": 38,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Spring",
+      "count": 38,
+      "num_sources": 37,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "REST",
+      "count": 37,
+      "num_sources": 36,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Angular",
+      "count": 34,
+      "num_sources": 31,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "MySQL",
+      "count": 30,
+      "num_sources": 30,
+      "category": "Databases"
+    },
+    {
+      "term": "iOS",
+      "count": 30,
+      "num_sources": 29,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Postgres",
+      "count": 29,
+      "num_sources": 29,
+      "category": "Databases"
+    },
+    {
+      "term": "UX",
+      "count": 28,
+      "num_sources": 28,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "KAFKA",
+      "count": 28,
+      "num_sources": 26,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "GraphQL",
+      "count": 28,
+      "num_sources": 26,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Amazon",
+      "count": 26,
+      "num_sources": 26,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CSS",
+      "count": 26,
+      "num_sources": 26,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "HTML",
+      "count": 28,
+      "num_sources": 25,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "Redis",
+      "count": 26,
+      "num_sources": 25,
+      "category": "Databases"
+    },
+    {
+      "term": "Machine Learning",
+      "count": 28,
+      "num_sources": 23,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Terraform",
+      "count": 26,
+      "num_sources": 22,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "GoLang",
+      "count": 24,
+      "num_sources": 22,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "RUST",
+      "count": 22,
+      "num_sources": 21,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "QA",
+      "count": 22,
+      "num_sources": 21,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Next.js",
+      "count": 19,
+      "num_sources": 19,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "CoPilot",
+      "count": 18,
+      "num_sources": 18,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "Google Cloud",
+      "count": 18,
+      "num_sources": 18,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Ruby",
+      "count": 18,
+      "num_sources": 17,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "Audio",
+      "count": 16,
+      "num_sources": 16,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Version control systems",
+      "count": 17,
+      "num_sources": 15,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "DynamoDB",
+      "count": 16,
+      "num_sources": 15,
+      "category": "Databases"
+    },
+    {
+      "term": "Version Control",
+      "count": 15,
+      "num_sources": 15,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "EC2",
+      "count": 28,
+      "num_sources": 14,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "s3",
+      "count": 28,
+      "num_sources": 14,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "CyberSecurity",
+      "count": 14,
+      "num_sources": 14,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "RemoteHunter",
+      "count": 14,
+      "num_sources": 14,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "OS",
+      "count": 14,
+      "num_sources": 14,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Django",
+      "count": 13,
+      "num_sources": 13,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Studio",
+      "count": 13,
+      "num_sources": 13,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "S25",
+      "count": 24,
+      "num_sources": 12,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "LangChain",
+      "count": 16,
+      "num_sources": 12,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "RAG",
+      "count": 14,
+      "num_sources": 12,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Continuous Integration",
+      "count": 14,
+      "num_sources": 12,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "REST APIs",
+      "count": 14,
+      "num_sources": 12,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "SPARK",
+      "count": 13,
+      "num_sources": 12,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "gRPC",
+      "count": 12,
+      "num_sources": 12,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "GitLab",
+      "count": 12,
+      "num_sources": 12,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "TwinWise",
+      "count": 12,
+      "num_sources": 12,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TwinWise AI United States",
+      "count": 12,
+      "num_sources": 12,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Spring Boot",
+      "count": 12,
+      "num_sources": 12,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "B2B",
+      "count": 22,
+      "num_sources": 11,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Kotlin",
+      "count": 13,
+      "num_sources": 11,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "YC S25",
+      "count": 11,
+      "num_sources": 11,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "Agentic AI",
+      "count": 11,
+      "num_sources": 11,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Vue",
+      "count": 11,
+      "num_sources": 11,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "FastAPI",
+      "count": 11,
+      "num_sources": 11,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "NodeJs",
+      "count": 11,
+      "num_sources": 10,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "NoSQL databases",
+      "count": 11,
+      "num_sources": 10,
+      "category": "Databases"
+    },
+    {
+      "term": "FinTech",
+      "count": 11,
+      "num_sources": 10,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "server-side",
+      "count": 10,
+      "num_sources": 10,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "AccuMed",
+      "count": 10,
+      "num_sources": 10,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "C#",
+      "count": 10,
+      "num_sources": 10,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "SQS",
+      "count": 10,
+      "num_sources": 10,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "ElasticSearch",
+      "count": 10,
+      "num_sources": 10,
+      "category": "Databases"
+    },
+    {
+      "term": "Airflow",
+      "count": 10,
+      "num_sources": 10,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Microsoft Azure",
+      "count": 11,
+      "num_sources": 9,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Object-Oriented design",
+      "count": 10,
+      "num_sources": 9,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Flask",
+      "count": 10,
+      "num_sources": 9,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Test-Driven",
+      "count": 10,
+      "num_sources": 9,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "TensorFlow",
+      "count": 9,
+      "num_sources": 9,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Apache",
+      "count": 9,
+      "num_sources": 9,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Scala",
+      "count": 9,
+      "num_sources": 9,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "object-oriented programming",
+      "count": 9,
+      "num_sources": 9,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "ChatGPT",
+      "count": 9,
+      "num_sources": 9,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "RDS",
+      "count": 9,
+      "num_sources": 9,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "TS",
+      "count": 9,
+      "num_sources": 9,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "ECS",
+      "count": 9,
+      "num_sources": 9,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "VoIP",
+      "count": 9,
+      "num_sources": 9,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "HTML5",
+      "count": 16,
+      "num_sources": 8,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "microservices architecture",
+      "count": 11,
+      "num_sources": 8,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "AWS Services",
+      "count": 10,
+      "num_sources": 8,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Event-driven",
+      "count": 9,
+      "num_sources": 8,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Cloud Computing",
+      "count": 8,
+      "num_sources": 8,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "GitHub CoPilot",
+      "count": 8,
+      "num_sources": 8,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "Microservices",
+      "count": 8,
+      "num_sources": 8,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "CheckRx",
+      "count": 8,
+      "num_sources": 8,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "RideController",
+      "count": 8,
+      "num_sources": 8,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PHP",
+      "count": 8,
+      "num_sources": 8,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "Containerization",
+      "count": 8,
+      "num_sources": 8,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Vertex AI",
+      "count": 8,
+      "num_sources": 8,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Redux",
+      "count": 8,
+      "num_sources": 8,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "iOS Developer crtd labs",
+      "count": 8,
+      "num_sources": 8,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "Continuous Delivery",
+      "count": 8,
+      "num_sources": 8,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "IaxaI",
+      "count": 8,
+      "num_sources": 8,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PyTorch",
+      "count": 8,
+      "num_sources": 7,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "IAM",
+      "count": 8,
+      "num_sources": 7,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "CloudWatch",
+      "count": 8,
+      "num_sources": 7,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "IOT",
+      "count": 8,
+      "num_sources": 7,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Web Services",
+      "count": 8,
+      "num_sources": 7,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "BigQuery",
+      "count": 7,
+      "num_sources": 7,
+      "category": "Databases"
+    },
+    {
+      "term": "Vue.js",
+      "count": 7,
+      "num_sources": 7,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "CI/CD tools",
+      "count": 7,
+      "num_sources": 7,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "OOP",
+      "count": 7,
+      "num_sources": 7,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "EKS",
+      "count": 7,
+      "num_sources": 7,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "React Native",
+      "count": 7,
+      "num_sources": 7,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "BluePro",
+      "count": 7,
+      "num_sources": 7,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "WebRTC",
+      "count": 7,
+      "num_sources": 7,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "JS",
+      "count": 7,
+      "num_sources": 7,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "LeapXpert",
+      "count": 7,
+      "num_sources": 7,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Enterprise AI",
+      "count": 7,
+      "num_sources": 7,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "code review",
+      "count": 7,
+      "num_sources": 6,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "MetLife",
+      "count": 7,
+      "num_sources": 6,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "JSON",
+      "count": 7,
+      "num_sources": 6,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Google Cloud Platform",
+      "count": 7,
+      "num_sources": 6,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "JWT",
+      "count": 7,
+      "num_sources": 6,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "RealStack",
+      "count": 6,
+      "num_sources": 6,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Develops",
+      "count": 6,
+      "num_sources": 6,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "BlastPoint",
+      "count": 6,
+      "num_sources": 6,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "GPU",
+      "count": 6,
+      "num_sources": 6,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "SDK",
+      "count": 6,
+      "num_sources": 6,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "HekaHeart",
+      "count": 6,
+      "num_sources": 6,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "QubitSolve",
+      "count": 6,
+      "num_sources": 6,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TDD",
+      "count": 6,
+      "num_sources": 6,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "Ansible",
+      "count": 7,
+      "num_sources": 5,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "K8S",
+      "count": 7,
+      "num_sources": 5,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Bash",
+      "count": 6,
+      "num_sources": 5,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "Azure DevOps",
+      "count": 6,
+      "num_sources": 5,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "containerization technologies",
+      "count": 6,
+      "num_sources": 5,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "ReactJS",
+      "count": 6,
+      "num_sources": 5,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "ETL",
+      "count": 6,
+      "num_sources": 5,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "GitHub Actions",
+      "count": 6,
+      "num_sources": 5,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "Generative AI",
+      "count": 6,
+      "num_sources": 5,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "CopperSmith",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "FrostLocker",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "machine learning models",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "CopperSmith® Minneapolis",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DB",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "LangGraph",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Amazon Web Services",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "GenAI",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "XML",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "peer code reviews",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "DevOps teams",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "NLP",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "No Use AI",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "ClickHouse",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Databases"
+    },
+    {
+      "term": "GumGum",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "NextJS",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "WebSockets",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "React.js",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "NestJS",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "SafeHill",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "WordPress",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Antonio",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "RabbitMQ",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "eTrigue",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "HighQ",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ZealTech",
+      "count": 5,
+      "num_sources": 5,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ES6",
+      "count": 8,
+      "num_sources": 4,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "Web3",
+      "count": 5,
+      "num_sources": 4,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "PowerShell",
+      "count": 5,
+      "num_sources": 4,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "Visual Studio",
+      "count": 5,
+      "num_sources": 4,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "Mirai",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "MacOS",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Applied AI",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "CapCenter",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Hadoop",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Mongo",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Databases"
+    },
+    {
+      "term": "TrueMeter",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Software Engineer RemoteHunter",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "IaaS",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Guide",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "Test-Driven Development",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "Azure Cloud",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "relational and NoSQL databases",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Databases"
+    },
+    {
+      "term": "SentiLink",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "GPT",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "+ Stock options",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "ORM",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "MVC",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "SQL/NoSQL databases",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Databases"
+    },
+    {
+      "term": "Use AI",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Lux",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SemiAnalysis",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "AbbaDox",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "VR",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "NetJets Columbus",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CloudFormation",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "devOps tools",
+      "count": 4,
+      "num_sources": 4,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "AWS infrastructure",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "IL BlackRock",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "large-scale distributed systems",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "YouTube",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "NoSQL databases (e",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Databases"
+    },
+    {
+      "term": "GolfForever",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "BlastPoint Pittsburgh",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Swift",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "PowerBI",
+      "count": 4,
+      "num_sources": 4,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "CereHive",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "cloud computing platforms",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "version control systems (e",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "enterprise-wide",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "C++",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "JavaScript/TypeScript",
+      "count": 4,
+      "num_sources": 4,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "CSS3",
+      "count": 6,
+      "num_sources": 3,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "G2",
+      "count": 6,
+      "num_sources": 3,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DevOps practices",
+      "count": 5,
+      "num_sources": 3,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "Amazon AWS",
+      "count": 4,
+      "num_sources": 3,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "CI/CD systems",
+      "count": 4,
+      "num_sources": 3,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "Spring Framework",
+      "count": 4,
+      "num_sources": 3,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "advanced AI",
+      "count": 4,
+      "num_sources": 3,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "OpenTelemetry",
+      "count": 4,
+      "num_sources": 3,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "CV",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "WhiteFox",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CollectWise",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Express.js",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "SandboxAQ",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "AI SandboxAQ United States",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PaaS",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "AutoGen",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "CircleCI",
+      "count": 3,
+      "num_sources": 3,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "EdTech",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "LESS",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "LlamaIndex",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "NumPy",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Conduct code reviews",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "Perl",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "SoHo",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "Worldwide",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "IDE",
+      "count": 3,
+      "num_sources": 3,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "RPC",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Objective-C",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "EMR",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "side-by-side",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "OpenID",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "SAML",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "C#/",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "CI/CD",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "MyFundedFutures",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "object-oriented programming concepts",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "SOAP",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "TopoDOT",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SpringBoot",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Equi",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SonarQube",
+      "count": 3,
+      "num_sources": 3,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "CustomGPT",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "GetWhys",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TrueCode",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DevSecOps",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Springs",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "event-driven systems",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "MSSQL",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Databases"
+    },
+    {
+      "term": "IP",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "machine learning workflows",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Apache Iceberg",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Databases"
+    },
+    {
+      "term": "LinkTech",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "InsightFinder",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Software Engineer Heliux",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "BetterBrain",
+      "count": 3,
+      "num_sources": 3,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "F1",
+      "count": 4,
+      "num_sources": 2,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "K12",
+      "count": 4,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "event-driven architectures",
+      "count": 4,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "F25",
+      "count": 4,
+      "num_sources": 2,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "IC2",
+      "count": 4,
+      "num_sources": 2,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "VS2",
+      "count": 4,
+      "num_sources": 2,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "continuous integration pipelines",
+      "count": 3,
+      "num_sources": 2,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "MS Visual Studio",
+      "count": 3,
+      "num_sources": 2,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "microservice architecture",
+      "count": 3,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "REST API development",
+      "count": 3,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "deep learning",
+      "count": 3,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "AWS Cloud services",
+      "count": 3,
+      "num_sources": 2,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "vLLM",
+      "count": 3,
+      "num_sources": 2,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "continuous deployment",
+      "count": 3,
+      "num_sources": 2,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "object-oriented principles",
+      "count": 3,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "SutureHealth",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "BackOps",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CPU",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "SSO",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "BridgeFlair",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "account-linking UX",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "yr + Stock options",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "relational and/or NoSQL databases",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Databases"
+    },
+    {
+      "term": "Web2",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "B2B SaaS",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "BrickRed",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PySpark",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "FastAPIs",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "CrewAI",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "PowerPoint",
+      "count": 2,
+      "num_sources": 2,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "AKS",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "NetSuite",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "MacBook",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "iPhone",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "jQuery",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "SASS",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "Go (GoLang)",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "SaaS solutions",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "GitLab CI",
+      "count": 2,
+      "num_sources": 2,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "containerization tools",
+      "count": 2,
+      "num_sources": 2,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "LoRA",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Bio",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "version control tools",
+      "count": 2,
+      "num_sources": 2,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "NextAmp",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "thoughtful code reviews",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "UML",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "XAML",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "ShipMyCards",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "HDFS",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Hive",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Continuous Integration environments",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "Git, CI/CD pipelines",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "GraphQL APIs",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "SNS",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "REST API",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "IoT devices",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "SSR",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "JavaScript frameworks",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "relational (PostgreSQL",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Databases"
+    },
+    {
+      "term": "React-based",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "viral loops",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "SVN",
+      "count": 2,
+      "num_sources": 2,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "DeepQuery",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DevX",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "CI/CD processes",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "machine learning technologies",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "TechCrunch",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "eCommerce",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "LiveRamp",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Spark Capital",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DoD Clearance",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "AngularJS",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "YC F25",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "Utopai",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "object-oriented design Familiarity",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "robust distributed systems",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "LatinX",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "frontend UI",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Tullio",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "NerdWallet",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "cutting-edge AI",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "cloud computing platforms (e",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "SignalFire",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Gradle",
+      "count": 2,
+      "num_sources": 2,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "NPM",
+      "count": 2,
+      "num_sources": 2,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "sell-side",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "OAuth2",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Strong JavaScript/TypeScript fundamentals",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "modern (JavaScript/TypeScript",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "VueJS",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "PagerDuty",
+      "count": 2,
+      "num_sources": 2,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "VPC",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Client-Side",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "BDD",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "AWS Experience",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "CelerData",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "San Antonio",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "TechTree",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "EvidentABA",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CrestPoint",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SaaS Ventures",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "OpenSearch",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Databases"
+    },
+    {
+      "term": "Elastic",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Groovy",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "Pride",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "Test Driven Development",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "PubSub",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "machine learning teams",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "DevOps experience",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Portfolio",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "JavaScript Experience",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "TeamCity",
+      "count": 2,
+      "num_sources": 2,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "IntelliJ",
+      "count": 2,
+      "num_sources": 2,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "CouchDB",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Databases"
+    },
+    {
+      "term": "PDF",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "Apache Kafka",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Microsoft’s mission",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "MariaDB",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Databases"
+    },
+    {
+      "term": "e.g. MySQL",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Databases"
+    },
+    {
+      "term": "SaaS companies",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "TCP",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Workhelio",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DevEx",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "AI/ML",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "co-ops",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "FriendliAI",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PrintMail",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Cardio",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Ontario",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "VieCure",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Azure Functions",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "DBT",
+      "count": 2,
+      "num_sources": 2,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "DevOps / Data Engineer",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "Inside",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "MeeBoss",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Kubernetes clusters",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Google Labs",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Google’s AR/VR effort",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Google Workspace",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Google's earliest product managers",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Google Lens",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Google Maps",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Sigma360",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Azure OpenAI",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "SeatGeek",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Software Engineer BetterBrain",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "machine learning principles",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Machine Learning Engineer CereHive",
+      "count": 2,
+      "num_sources": 2,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "MLOps",
+      "count": 2,
+      "num_sources": 2,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "AG1",
+      "count": 3,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "WorldCoin",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "C/C++ programming",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "VM",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "DB2",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "BashnmacOS",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "W24",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "Q4",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "J1",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "A3061877",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "UV50",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "Q1",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "cryoET",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "PetSmart",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "C08",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "FOXG1",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "R277297",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "Elixir",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "OpenAI's DocuGPT",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "I5",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "I4",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "I6",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "eDiscovery",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "ResponseTM",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CultureAmp",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "LetsGetChecked",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "H1",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "SolarWinds",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "EAC1",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "SoftBank",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "W2",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "J0825",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "DevSecOps principles",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "CursorAI",
+      "count": 2,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "AWS CloudWatch",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "C++ Build",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "JR2009926",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "L2",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "L4",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "NC2",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "K8",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "IC1",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "X25",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "R0129978",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "BSL3",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "healthcare SaaS",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "TX190",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "RedfinNow",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "VirtuOx",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "S18",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "VoIP protocols SIP",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "DevOps processes",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "V0",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "TIME100",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "FD21",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "LA28",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ESW340",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "StarRocks",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "BM25",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "GitLab CI/CD",
+      "count": 2,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "SPA",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "ES2015",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "VoIP systems",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "FlashAttention",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "AI21",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "L3",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "B2C",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "R2944",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "DV360",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CM360",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "P3",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "GraphQL federation",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Microsoft C#",
+      "count": 2,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "OpenTrack",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Bolt6",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "noSQL Kubernetes",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "+ developers",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "FreeU",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SaaS cloud platform",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "VisualBasic",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "AditiConsulting",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SpecSys",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PetaBytes",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "SoCal",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "PlanGrid",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "B2B SaaS/API company",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "FlexBase",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CDN",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "you FlexBase",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "OpenSea",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "MaaS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "'AI + Cloud",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "a-Service (PaaS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "BenefitHub",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "BoxGroup",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DevOps fundamentals",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "COBOL",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "20+ weeks",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "WebdriverIO",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "AppSync",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "RxJS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "gRPC/protobuf",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "HedgeOS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "HydroJug",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "FP",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "BigQuery warehouse",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "OpenAI's ChatGPT",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "HydroJug Ogden",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "detailnProficient",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "automationnCreative",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "iPad",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "nnThe",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "nFamiliar",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "skillsnA",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "u003eLearn",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "MacBook Pro",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "EpiSci",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "EpiSci job openings",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "RoboHead",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Aquent RoboHead",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Aroris360",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "LangChain agents",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "SumUp",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "M+ ARR",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "SoMa",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "QuoteWell",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "I FactSet Norwalk",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SharedPractices",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "OrthoIndy",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TensorFlow, PyTorch",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "GraphQL React",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "OLAP",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "OLTP",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "C++ exposure",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "BusinessQ",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ClickUp",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ReSync",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "LabWare",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PerkinElmer",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ReSync Bio",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ProteinSimple",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ExosomeDx",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "cGMP",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "cGxP",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "DashApps",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DashApps Interest",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "NextAmp Webster",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "WinForms",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Leverage C#",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "DeepMind",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "GenAI-focused",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "40+ AI experts",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "Google DeepMind",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PhD student",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "LlamaIndex Love",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "ServiceTitan",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CapCut",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ByteDancers",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DataOps",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Lemon8",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ByteDance's purpose",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ByteDance's mission",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ByteDance products",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Build ByteDance",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Yarn",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "OneCAE",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "automotiveMastermind",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "IdentityServer",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "IdentityServer4",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "OpenID Connect",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "DriveWell",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "MiX Telematics",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "NoSQL Understanding",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "DriveWell Fusion®",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CardoMax",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "McKenzie",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "OneCastOneCrew",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TileDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "clean REST/gRPC APIs",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "REST/gRPC APIs",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "MobX",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "PyTest",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "ConTech",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "100% SaaS company",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "ConTech environment",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Leverage MongoDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "+ people",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "Node/NestJS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Dart",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "CodeCraftMD",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CoFi CoFi",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "OpenAI San Francisco",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "KuCoin",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "MailMend",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "eToro",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Job #",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "source ComfyUI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "BigCommerce",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ConsumerDirect",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TutorMe",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CrossSight",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "BigBear",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "InfoBase",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Computer Science DoD",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "InfoBase Publishers",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "AppSec",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "AI AppSec engineer",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "JazzHR",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "VpDDQfyzOf",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "AngelList",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SaaS providers",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "30+ top insurers",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "e.g., GitHub Copilot",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "InfluxDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "DomainFi",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DeFi",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "D3 D3",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "DeFi primitives",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Why D3",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "SparkTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Apache SparkTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "DatadogLife",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "MyWellatDell",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "AngularJSCloud",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "OneTen",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CodePipeline",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "TeradataBI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "GatewayData",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "processingKnowledge",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "VantageScore",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "AWS CodePipeline",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "DevOps tooling",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "React + TypeScript",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "SolidWorks",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "e.g., SolidWorks/NX",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "C++ Understanding",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "FastAPI Exposure",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "ReBAC",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "DocuGPT",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CockroachDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "DoorDash Engineering",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "AspenTech",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DevOps operations",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "SmartAsset",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "C++ Systems",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "FormAlloy",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "2,000+ firms",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "1.3 years EvenUp",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CloudKitchens",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "YoursAt",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "EverlawWe",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "About EverlawWe",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "YoursAt Everlaw",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CarRentals",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CheapTickets",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "GroupTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "comTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CruisesTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Expedia CruisesTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "100GB+ sensors",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "FactSetter",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "FactSet Support",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "iGaming",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "MFA",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "e.g. C++",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "LinkSquares",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "LogiFlow",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "LendingClub",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "+ partners",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "e.g., Node.js",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "InStyle",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CentOS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "RedHat",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Linux (CentOS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "BountyJobs",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "HootSuite",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "AreaTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "JavaScript code",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "AutoSys",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "ArgoCD",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "PostgreSQL databases",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "NodeJS Expertise",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Java, C/C++",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "SecDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "NoSQL data stores",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "GovCon",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "GovDash Today Work",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "GovCon experts",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "TypeScript / Node.js",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "GovDash customers",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "React (TypeScript)",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "TypeScript / Node",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "LeetCode",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "CodeSignal",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "MeshyAI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "RL",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "2500+ companies",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "HackerRank’s decade",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "FactoryOS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ThreeJS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "ThreeJS Backend",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "w/ FastAPI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "GreenLake",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TCP_01",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "ConEquip",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "500+ lines",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "· Easy Apply DevOps",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "CoPilot Databases",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "300+ subjects",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "iOS and Android apps",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "x3",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "175+ companies",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "LLM APIs (OpenAI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "FinScan",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TurboTax",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "QuickBooks",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "FlowAI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "AllCarTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TypeScript Infra",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "TheTradeDesk",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ChartJS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "MacOS UI/UX Ability",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "AutoCAD",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "i.e C++",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "GCS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "PubSub Labelbox",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TypeScript Backend",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "NoSQL stores",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "GraphQL Cloud",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "AWS DynamoDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "NestJS is a plus",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "PostHog",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "orJira",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "likeAndroid",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "StoryHub",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "integratingAI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "inAI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "C++ experience",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "DirectEmployers",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DevOps principles",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "Month 9+ (Graduation",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "DevRel",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "DevRel Experience",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "200+ countries",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "ActiveMQ",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "DOM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "BenefitsBonus",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "Modern C++",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "McDonald",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "McDelivery",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "65M+ customers",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "Angular.js",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "65+ countries",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "McKinsey Digital",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TensorFlow, Keras",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "20+ days",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "ComplyCube",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "OpenGov",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SafeStreets",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "LAN",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "WAN",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "Us MindFort",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Core Technologies C#",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "selling B2B SaaS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "MongoDB, Inc.",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "MongoDB Atlas",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "trust MongoDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "NoSQL Contributions",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "GumGum Santa Monica",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DuckDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "UDP",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "TLS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "ZeroDrift",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "KloudStax",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "QuickSight",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "GolfNow",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SportsEngine",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "GolfPass",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Amazon QuickSight",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "CodeGPT",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "ManageCasa",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "AppFolio",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "MagicCube",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "schools NetApp",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "NetApp’s cloud",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "NetApp NetApp",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ArcGIS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "FlightPulse",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "VistaJet",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ArcGIS Enterprise",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "schools NetJets",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "NetJets Card",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "the NetJets Share",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "UnifyGTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Nest.js",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "MySQL/PostgreSQL",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "JetBridge",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "JetBridge AI Seattle",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "iOS App Download",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "TimescaleDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "NextEra Energy",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "NextEra Analytics",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TeamNextdoor",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DataFrames",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "SQL Server/MySQL",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "ML PhD expertise",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "gRPC APIs",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "SpaceX",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "POS+ applications",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "e.g. TypeScript",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "DriverTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "BigTable",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "Cloud PubSub",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "NuShades",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SpringCloud",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "dApps",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "OpenTelemetry-based",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "Why Join OffDeal",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "SFTP",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "DevOps is valuable",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "OpenAI customers",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "OpenAI technologies",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "OpenAI OpenAI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "InnovAsian",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "100+ exchanges",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "FiDi",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "CoPallet",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "high-growth SaaS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "PostgreSQL LLMs",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "WiFi",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "OpenAPI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "EyeMed",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "GKE",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "DynamoDB Database",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "SQL Server NoSQL",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "at least 6+ months",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "NestJS / AI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "CloudSort",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "30+ litigations",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "YC X25",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "25+ brilliant minds",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "PiMS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "McKesson",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Win32",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "McKesson Corporation",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Inclusion PayPal",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "OpenAI APIs",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "- Perpay+",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "HealthTech",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "+ engineers",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "PIIC iX",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Web technologies (C#",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "CareYaya",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PinFlex",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PlumbBillPay",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PhD-level",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "PhD-level candidates",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "WebApi",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "ThredUp",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "NoSQL data solutions",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "CompTIA",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "GitHub/Lab, Jira",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "GenetiQ",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "iPSCs",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "GenetiQ-HAiLO",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "NoSQL alternatives",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "GovTech",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "JDBC",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "SSL",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "MySQL Unit",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "GlobalFoundries",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PsiQuantum’s mission",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PsiQuantum’s values",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "BrixIQ",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "GraphQL PostgreSQL",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "Haskell",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "SoGoSurvey",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "OpenAddresses",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "OpenStreetMaps",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "HorizonDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "CitiBike",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "MapLibre",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "McKinney",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CoFina",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "VerQu",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "RelativityOne",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ProSomnus",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ResilienX",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PhotoRoom",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "either iOS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "RevenueCat customers",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "BitWarden",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DevOps Engineer",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "tools (TeamCity",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "rubrikInc",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "GitHub profile",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "PoCs",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "not just PoCs",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "OperationsTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "industrial IoT",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "WebAssembly",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "TrekTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "consumerTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "WebGL",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "PlaygamiTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "e.g. WebGL",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "RiseUp",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ServiceNow employees",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ServiceNow instances",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Ubiquity6",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "OpenAI’s end",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "tRPC",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "CloudFront",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "DAG",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "Google BigQuery",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "SoFi SoFi",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Employee Rights SoFi",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "EngineeringPlatform",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "PlayStation",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SonyInteractive",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PlayStation products",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PlayStation Studios",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PlayStation®5",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "NerdWallet Rated",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "USD - USD SpotOn",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "ScyllaDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "TiDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "IvyTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "RecovryAI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "StackAdapter",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "WeWork",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "StackAdapters",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "10+ billion events",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "StackAdapt's focus",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Redshift, TiDB",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "AgentCore",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "PromptLayer",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "NeMo",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "TedTalk",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "LangSmith",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "SageMaker",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "AWS AgentCore",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "NeMo Guardrails",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "SageMaker Pipelines",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "GenAI Frameworks",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "ShipBob",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "fox59",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TransSIGHT",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "GenAI tools",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "tools such as OpenAI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "Shell",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ff82",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "TrueCar",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "LiveRail",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "AdapTV",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "ClearCase",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "ThreeTech",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "yr + Bonus",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "PostgresSQL",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "BigFuture",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "MVVM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "LexisNexis",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TSX",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DeepSeek",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "schools TikTok",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Inclusion​ TikTok",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TikTok TikTok",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TikTok’s efforts",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TikTok's mission",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "FlutterFlow",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "FreeSWITCH",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "custom VoIP handsets",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "MentorMatch",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SparkExperience",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "45+ languages",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "ElevenLabs",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "RedPajama",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "FlexGen",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PageSpeed",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "OmniVista",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "CMMI L3",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Methodologies/Practices"
+    },
+    {
+      "term": "SharePoint",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "DynamoDB Experience",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Databases"
+    },
+    {
+      "term": "LoCascio",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "LivePerson",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Robert LoCascio",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "30+ outlets",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "UiPath Work",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SquarePeg",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "MobiusEngine",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": ", Node.js",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "C# Experience",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "ValonOS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "loanDepot",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "60%+ margins",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "AirVet",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "VeeaMe",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "VB",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "BookWithMatrix",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "WorldPay",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "BookTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "multiple #1 rankings",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "1M+ providers",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "Black BookTM surveys",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "DinnerPaid",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "yearYour",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "SanDisk",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "WD_BLACKTM",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "HDD",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "NetApp Inc.",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "PydanticAI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "OpenShift",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Cloud/Infrastructure"
+    },
+    {
+      "term": "YAML",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "OpenAI Agents SDK",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "Azure DevOps YAML",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "e.g., SonarQube",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "1M+ users",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "IvoryCloud",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "almost B+",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Uncategorized"
+    },
+    {
+      "term": "LeaderFactor",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "GoodRx",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "MavenForever",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SmartMark",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "Office.js",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "e.g., OpenAI’s GPT",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "JavaScript (ES6+)",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Programming Languages"
+    },
+    {
+      "term": "FloVision",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "mTLS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "xUnit",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "FluentAssertions",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Frameworks/Libraries"
+    },
+    {
+      "term": "LaTeX",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "ConstructionTech",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "VentureBeat",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "TruNeighbor",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "RealSimGear",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "enterprise SaaS",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "ELT",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "LearnIT",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "DuckDuckGo",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "BioFire",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "bioMerieux",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "non-bioMerieux",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "5.8 years bioMérieux",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "BioMérieux Inc.",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "schools bioMérieux",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "bioMérieux's mission",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "VacationRenter",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "SommerAI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "eBay's strategy",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "eBay Message",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "eBay applications",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "eBay Inc.",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "iTradeNetwork",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": "AI APIs (OpenAI",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Concepts/Domains"
+    },
+    {
+      "term": "nCino reserves",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    },
+    {
+      "term": ".00 - .00 nCino",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Job Metadata"
+    },
+    {
+      "term": "DevOps tools Verbal",
+      "count": 1,
+      "num_sources": 1,
+      "category": "DevOps/Tools"
+    },
+    {
+      "term": "xAI’s mission",
+      "count": 1,
+      "num_sources": 1,
+      "category": "Companies/Organizations"
+    }
+  ]
+}

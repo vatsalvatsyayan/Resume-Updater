@@ -1,0 +1,527 @@
+Sony Interactive Entertainment
+
+Software Engineer I 
+
+San Mateo, CA · 14 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$137.3K/yr - $205.9K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+Why PlayStation?
+
+PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.
+
+PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.
+
+The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.
+
+Why PlayStation?
+
+PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work.
+
+Today, we’re recognized as a global leader in entertainment, producing the PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.
+
+PlayStation strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.
+
+The PlayStation brand falls under Sony Interactive Entertainment, a wholly owned subsidiary of Sony Corporation.
+
+The Opportunity
+
+As a Software Engineer I on the Client Platform team, you’ll contribute to the foundation that powers PlayStation’s cross-platform experiences. This team builds the core application framework, shared libraries, and foundational components that other product and feature teams rely on to deliver PlayStation experiences to millions of users worldwide. You’ll work with senior engineers to design and maintain the underlying systems that make PlayStation applications fast, scalable, and consistent across environments — giving other teams the tools and flexibility to innovate.
+
+Responsibilities
+
+
+Implement and test React-based core components and platform modules used across multiple PlayStation applications. 
+Collaborate with senior engineers to design APIs, services, and reusable libraries that enable feature teams to move faster and maintain consistency. 
+Participate in code reviews, contribute to documentation, and help evolve the team’s development standards. 
+Support build, packaging, and release processes to ensure smooth integration with downstream teams. 
+Learn and apply system-level thinking to balance reliability, scalability, and developer experience. 
+Engage in team-driven innovation efforts like Hackathons and Café Days to explore new tools and technologies. 
+
+
+Required Qualifications
+
+
+Bachelor’s degree in Computer Science or a related field, or equivalent practical experience. 
+0–2 years of experience developing applications or systems using JavaScript/TypeScript. 
+Understanding of React and component-driven architecture. 
+Interest in cross-platform development and building frameworks that integrate with native system capabilities. 
+Strong problem-solving skills and eagerness to learn from experienced engineers. 
+Excellent communication and teamwork abilities in a collaborative environment. 
+
+
+Preferred Qualifications
+
+
+Familiarity with modern build and testing tools (e.g., Webpack, Babel, Jest). 
+Understanding of modular design patterns, API contracts, and dependency management. 
+Experience with RESTful services, GraphQL, or similar data layers. 
+Exposure to CI/CD pipelines and automated testing frameworks. 
+Curiosity about AI-assisted development, intelligent tooling, or developer productivity technologies. 
+
+
+Please refer to our Candidate Privacy Notice for more information about how we process your personal information, and your data protection rights.
+
+At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.
+
+Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.
+
+In addition, this role is eligible for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. This role also may be eligible for a bonus package. Click here to learn more.
+
+The estimated base pay range for this role is listed below.
+
+$137,300—$205,900 USD
+
+Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.
+
+Please refer to our Candidate Privacy Notice for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.
+
+Equal Opportunity Statement:
+
+Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.
+
+We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond. 
+
+PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.
+… more
+
+Benefits found in job post
+
+401(k)
+
+Set alert for similar jobs
+
+Software Engineer, San Mateo, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+598
+
+total
+
+598
+
+in the past day
+
+Candidate seniority level
+
+77% Entry level candidates
+
+9% Senior level candidates
+
+1% VP level candidates
+
+1% Director level candidates
+
+Candidate education level
+
+65
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+33
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Sony Interactive Entertainment
+Powered by Bing
+
+Company focus areas
+
+• Expansion into Web3 and Blockchain: Launch of a comprehensive blockchain-centric Web3 solution to provide new value and emotional experiences for creators and fans.
+
+...more
+
+Sources: sony.com +1 more
+
+Hiring & headcount
+
+Focus on engineering: The 'Engineering' department has seen a 7% increase in headcount, indicating a significant investment in engineering talent, which suggests a focus on developing new technologies or products. Growth in human resources: The 'Human Resources' department has experienced an 8% increase in headcount, pointing to an emphasis on strengthening internal processes and employee management. Expansion in finance: The 'Finance' department has grown by 5%, indicating a potential focus on financial management and planning, which could be crucial for supporting new initiatives and investments. Increase in education and healthcare services: The 'Education' and 'Healthcare Services' departments have seen increases of 11% and 25% respectively, suggesting new initiatives or expansions in these areas, which could present opportunities for growth and investment.
+… more
+
+The latest hiring trend
+
+8,137
+
+Total employees
+
+0%
+
+Company-wide
+
+2 year growth
+
+2%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+5000
+10000
+
+Median employee tenure: 6.2 years
+
+Sony Interactive Entertainment hires candidates from some of these companies and schools
+
+Sony Interactive Entertainment hired 14 people from University of Southern California. See all
+
+Sony Interactive Entertainment hired 123 people from University of Southern California. See all
+
+Competitors
+
+Sony Interactive Entertainment remains a leader in the gaming industry with its PlayStation brand, facing significant competition from Microsoft Xbox, Nintendo, and Tencent Holdings. The company continues to innovate with exclusive titles and advanced technology but must navigate challenges such as high hardware costs and the rise of digital-first and cloud gaming platforms.
+… more
+
+Sources: iide.co +3 more
+
+Show Premium Insights
+About the company
+
+Sony Interactive Entertainment
+
+217,030 followers
+
+Follow
+
+Entertainment Providers
+
+ • 
+
+10001+ employees
+
+ • 
+
+8,137 on LinkedIn
+
+Sony Interactive Entertainment, the company behind PlayStation, pushes the boundaries of entertainment and innovation, starting from the launch of the original PlayStation in Japan in 1994. Today, we continue to deliver innovative and thrilling experiences to a global audience through our PlayStation line of products and services that include generation-defining hardware, pioneering network services, and award-winning games. Headquartered in San Mateo, California, with global functions in California, London, and Tokyo, and game development studios around the world as part of PlayStation Studios, we believe that the power of play is borderless. Sony Interactive Entertainment is a wholly owned subsidiary of Sony Group Corporation.
+
+For more information about our company, please visit SonyInteractive.com. For more information about PlayStation products, please visit PlayStation.com.
+
+Want to take your career to the next level? Search open job vacancies at any of the Sony Interactive sites by visiting careers.playstation.com
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Display Software Engineer (Verified job)
+Display Software Engineer 
+
+Skyryse
+
+El Segundo, CA (On-site)
+
+$150K/yr - $170K/yr
+
+4 company alumni work here
+
+Posted on January 24, 2026, 3:45 PM
+12 minutes ago
+
+Software Engineer II
+
+Embrace Home Loans
+
+Middletown, RI (Hybrid)
+
+$85K/yr - $100K/yr
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 8:46 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Frontend Software Engineer
+
+VieCure
+
+Greenwood Village, CO (On-site)
+
+$115K/yr - $140K/yr
+
+ • 
+
+4 benefits
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 2:56 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Front End Engineer (Remote) (Verified job)
+Front End Engineer (Remote) 
+
+Crowdstrike
+
+Sunnyvale, CA
+
+$120K/yr - $180K/yr
+
+ • 
+
+Medical, 401(k)
+
+7 company alumni work here
+
+Posted on January 22, 2026, 2:28 PM
+2 days ago
+
+Software Engineer (Backend / AI Systems)
+
+Saroe, Inc.
+
+New York City Metropolitan Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 4:55 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (Lead) - Portfolio Management (Verified job)
+Software Engineer (Lead) - Portfolio Management 
+
+Ethic
+
+New York, NY (Hybrid)
+
+$175K/yr - $195K/yr + Stock options
+
+ • 
+
+Medical, Vision, Dental, 401(k), +4 benefits
+
+1 school alumni works here
+
+Posted on January 24, 2026, 3:17 PM
+40 minutes ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer I - Data Engineering (Verified job)
+Software Engineer I - Data Engineering 
+
+Intuit
+
+San Diego, CA (On-site)
+
+41 company alumni work here
+
+Posted on January 24, 2026, 8:08 AM
+7 hours ago
+
+Software Engineer
+
+CheckRx
+
+San Diego, CA (On-site)
+
+$80K/yr - $160K/yr
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 9:28 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Generational Partners
+
+New York, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 8:11 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+G2M Insights
+
+Denver, CO (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 11:50 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Founding Software Engineer
+
+RemoteHunter
+
+United States (Remote)
+
+Posted on January 24, 2026, 9:22 AM
+6 hours ago
+
+Early Software Engineer (Verified job)
+Early Software Engineer 
+
+TechTree
+
+San Francisco, CA (On-site)
+
+$150K/yr - $250K/yr
+
+ • 
+
+401(k) benefit
+
+Posted on January 24, 2026, 2:44 AM
+13 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

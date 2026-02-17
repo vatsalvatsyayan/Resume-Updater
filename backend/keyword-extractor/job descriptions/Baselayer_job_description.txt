@@ -1,0 +1,41 @@
+About the job
+
+About Baselayer: 
+With experience across far-ranging banks, Fortune 500 tech co’s, fintech unicorns 🦄, and AI experts, Baselayer is built by financial institutions, for financial institutions. Started in 2023 by experienced founders Jonathan Awad and Timothy Hyde, Baselayer has raised $20 Million and hit $2 Million in ARR faster than any other identity company in history. Today more than 2,000 Financial Institutions and Government Agency customers later, Baselayer is revolutionizing the way businesses approach fraud prevention and compliance. 🏆
+
+Check out their press release here → https://baselayerhq.com/press/
+
+About You: 
+You want to learn from the best of the best, get your hands dirty, and put in the work to hit your full potential. You’re not just doing it for the win—you’re doing it because you have something to prove and want to be great. You are looking to be an impeccable core/api backend engineer.
+
+You have 1-3 years of experience in backend development, working with Python and building APIs
+You’re comfortable working with large-scale data and enjoy optimizing performance for high-volume systems.
+You have a strong interest in AI/ML integration, particularly with LLMs, and are eager to learn about new technologies.
+You prioritize security and compliance in backend systems, especially in regulated environments like KYC/KYB.
+You have a keen eye for detail and take pride in writing clean, maintainable code while optimizing for performance.
+You thrive in a high-trust, ownership-focused environment and are comfortable working across different levels of abstraction.
+Problem-solver who navigates the unknown confidently.
+Proactive self-starter who thrives in dynamic settings.
+Incredibly intelligent and clever. You take pride in your code
+Highly feedback-oriented. We believe in radical candor and using feedback to get to the next level.
+
+Responsibilities:
+
+API Development & Integration: Build and maintain RESTful APIs and integrate them with various data sources, ensuring scalability, high performance, and adaptability for autonomous agents in the GTM space.
+Backend System Design: Architect and design core backend services that support KYC/KYB processes, leveraging knowledge graphs and LLMs for dynamic use cases.
+Data Processing & Management: Develop and maintain robust data pipelines for identity data processing, focusing on scalability and performance when handling large-scale, high-performance data flows.
+AI/ML Integration: Collaborate with AI/ML teams to integrate models, including reinforcement learning from human feedback (RLHF) and fine-tuning (e.g., LoRA), to improve LLMs for specific use cases within the identity space.
+Platform Infrastructure: Build the infrastructure to support future AI/ML hires and projects, creating a scalable platform foundation for continued innovation.
+Security & Compliance: Ensure backend systems meet industry standards for security, privacy, and compliance, particularly around KYC/KYB regulations.
+Performance Optimization: Implement optimizations for large-scale data management, ensuring backend services can efficiently process identity data while maintaining reliability.
+Testing & Debugging: Write unit tests, debug issues, and monitor backend services for performance and reliability, while continuously improving backend architecture to handle diverse data and use cases.
+
+Benefits:
+
+Hybrid in SF. In office 3 days/week
+Flexible PTO
+Healthcare, 401K
+Smart, genuine, ambitious team
+
+Salary Range: 
+$122k – $142k + Equity - 0.05% – 0.25%

@@ -1,0 +1,445 @@
+Lapis
+
+Software Engineer
+
+San Francisco, CA · 1 hour ago · Over 100 applicants
+
+Promoted by hirer · No response insights available yet
+
+$150K/yr - $200K/yr + Stock options
+On-site
+Full-time
+Easy Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+About the job
+
+About Lapis
+
+Every marketing team runs the same way. Ahrefs or Semrush for SEO. Google Analytics or PostHog for traffic. Meta Ads Manager, LinkedIn Campaign Manager and Google Ads for paid. Klaviyo or Mailchimp for email. Canva or Figma for design. Google Docs or Notion for managing it all.
+
+
+
+
+Each tool is good at one thing. But none of them talk to each other.
+
+
+
+
+Your writing tool doesn't know what keywords you're going after. Your ad platform has no idea what's working on the organic side. Your analytics are completely separate from your content calendar. Your design tool doesn't know your campaign goals. You're constantly copying data between tools, switching between 10 different tabs, recreating context, and explaining the same thing to different systems.
+
+
+
+
+When it's time to decide what to write next or where to spend ad budget, you're left guessing. The data that would help make the answer obvious is sitting in another tool you'd have to log into, export from, and manually piece together before going back to the original platform and performing the action.
+
+
+
+
+About the Role
+
+As a SWE at Lapis, you’ll own our core product and infra systems that directly shape how our customers grow their businesses. You’ll be able to work on high-leverage problems across data pipelines, agent workflows, and products with a small and tight-knit team of 5 people, with a high degree of autonomy. We wake up excited every day to see how our product is being used by our users and their businesses, and we’re looking for someone who is as obsessed as we are at creating a best-in-class experience for them.
+
+
+
+
+What You’ll Do
+
+Build the foundational backend and data infrastructure that everything else at Lapis will sit on
+Own critical paths across data ingestion, analytics, and agent execution pipelines
+Ship production systems quickly, then harden and scale them as usage grows
+Debug gnarly real-world issues across distributed systems, APIs, and external integrations
+Collaborate directly with founders and early customers to shape product and architecture
+Help define how we build, test, deploy, and operate software as the company scales
+
+
+
+
+Who You Are
+
+2+ years of professional software engineering experience, ideally in fast-moving product teams
+Strong fundamentals in TypeScript and building production APIs
+Comfortable working across databases, background jobs, and data pipelines
+Excited by ambiguous problems and figuring out what to build, not just how to build it
+Able to move quickly without losing sight of code quality and system design
+Curious, self-directed, and motivated by building things that real users depend on
+
+
+
+
+Extra Awesome
+
+Familiarity with ads platforms, analytics tooling, or growth experimentation
+Experience with Serverless GPU cloud infrastructure (Modal), observability, and CI/CD
+Prior startup experience or building 0→1 products
+
+
+
+
+Compensation
+
+The annual US base salary range for this role is: $150,000 – $200,000, plus equity and benefits.
+
+Requirements added by the job poster
+
+• Bachelor's Degree
+
+• Authorized to work in the United States
+
+Set alert for similar jobs
+
+Software Engineer, San Francisco, California, United States
+
+Off
+See how you compare to other applicants
+Based on LinkedIn data. Excludes subsidiaries.
+Applicants for this job
+
+152
+
+Applicants
+
+152
+
+Applicants in the past day
+
+Applicant seniority level
+
+77% Entry level people applied for this job
+
+10% Senior level people applied for this job
+
+1% Director level people applied for this job
+
+Applicant education level
+
+85
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+14
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+There’s not enough quality data on this company just yet
+
+Once there are 30 complete member profiles from this company, we’ll be able to show you the company’s growth and hiring trends
+
+About the company
+
+Lapis
+
+599 followers
+
+Follow
+
+Technology, Information and Internet
+
+ • 
+
+2-10 employees
+
+ • 
+
+4 on LinkedIn
+
+Run growth like you have a team of ten
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Founding Engineer
+
+Claims Concierge
+
+Atlanta Metropolitan Area (Hybrid)
+
+You’d be a top applicant
+
+Posted on January 26, 2026, 7:37 AM
+10 hours ago
+
+ · 
+
+ Easy Apply
+
+RUST Engineer
+
+CHADRICK Professional Services
+
+Plano, TX (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 26, 2026, 1:20 PM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+AI Project Administrator
+
+FrostLocker
+
+Boise, ID (On-site)
+
+$30/hr
+
+You’d be a top applicant
+
+Posted on January 24, 2026, 2:24 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Senior Go High Level Expert
+
+Brenda Breland LLC
+
+United States (Remote)
+
+Posted on January 26, 2026, 3:49 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Development Engineer II
+
+Kognitiv Edge
+
+Minneapolis, MN (On-site)
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 25, 2026, 9:33 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Platform Infrastructure (Foundations) (Verified job)
+Software Engineer, Platform Infrastructure (Foundations) 
+
+Anyscale
+
+San Francisco, CA (Hybrid)
+
+1 connection works here
+
+Posted on January 26, 2026, 5:48 PM
+11 minutes ago
+
+Quality Assurance Engineer
+
+Leostream Corporation
+
+Portland, OR (On-site)
+
+$85K/yr - $90K/yr
+
+ • 
+
+Vision benefit
+
+Posted on January 26, 2026, 1:38 PM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+Junior React Developer
+
+First in Math®
+
+Easton, PA (Remote)
+
+$35/hr - $42/hr
+
+ • 
+
+Medical benefit
+
+Posted on January 26, 2026, 9:31 AM
+8 hours ago
+
+ · 
+
+ Easy Apply
+
+Founding Engineer
+
+Isle of Monday
+
+New York, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on January 26, 2026, 7:31 AM
+10 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer I, Fullstack, Risk Engineering (New Grad - 2025)
+
+RemoteHunter
+
+United States (Remote)
+
+$125K/yr - $153K/yr
+
+ • 
+
+401(k) benefit
+
+Posted on January 26, 2026, 12:38 PM
+5 hours ago
+
+Front-End Developer (UI/UX-Focused)
+
+CopperSmith®
+
+Minneapolis, MN (Hybrid)
+
+$90K/yr - $110K/yr
+
+Posted on January 26, 2026, 4:27 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Sr. Software Developer (Verified job)
+Sr. Software Developer 
+
+TopoDOT
+
+Orlando, FL (On-site)
+
+$150K/yr
+
+Posted on January 26, 2026, 11:24 AM
+6 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

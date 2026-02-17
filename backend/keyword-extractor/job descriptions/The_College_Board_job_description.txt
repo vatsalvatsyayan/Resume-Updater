@@ -1,0 +1,562 @@
+The College Board
+
+Software Engineer 1 (New Grad) 
+
+United States · 1 hour ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$106K/yr - $125K/yr
+Remote
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+College Board – Technology
+
+Location: This is a remote role. Candidates who live near CB offices have the option of being fully remote or hybrid (Tuesday and Wednesday in office). All CB employees are required to occasionally travel to meet in person for business purposes.
+
+Type: This is a full-time position
+
+
+
+About Technology At College Board
+
+We are a mission-driven engineering team building and evolving the technology that powers and protects the future of learning. Our systems support highly trusted education programs used by millions of students each year, operating at significant scale and public responsibility. Today, we are focused on designing and delivering a critical new initiative that extends our platform in meaningful ways: blending foundational system work with thoughtful experimentation as we adapt to emerging technologies and new learner needs. We combine modern, cloud-native engineering practices with years of platform modernization, security hardening, and large-scale digital delivery, operating as an experiment factory that tests assumptions and iterates based on evidence rather than tradition. What makes this team distinct is the rare combination of meaningful public impact, platform-scale technical challenges, and the freedom to shape how mission-critical systems are built and evolved.
+
+About The Team
+
+The Core Assessment Platform is a group of cross-functional teams responsible for building and evolving shared platform capabilities that support assessment-related systems used by institutions at scale. The work spans a range of assessment contexts, from routine evaluation to more complex, high-stakes environments, where accuracy, consistency, and trust are essential. Teams collaborate across engineering, product, design, data, and operations to build reliable capabilities that can be reused and adapted over time. What makes this group special is its focus on continuous learning, experimentation, and steady improvement, with success driven by thoughtful collaboration, iteration, and careful decision-making in environments where reliability and quality matter.
+
+
+
+About The Opportunity  
+
+In this role, you’ll contribute to production systems used at significant scale while learning how large, secure platforms are designed, built, and evolved responsibly. You’ll work alongside experienced engineers to ship code, test ideas, and improve shared capabilities that support assessment-related systems used by institutions. The focus is on learning by doing, while gaining exposure to real-world engineering challenges while building a strong foundation in modern development practices. This role emphasizes growth, feedback, and continuous learning. You’ll be encouraged to ask questions, experiment thoughtfully, and develop an understanding of system, not just features, while contributing meaningful work in an environment where reliability and quality matter.
+
+
+
+In This Role, You Will
+
+Design & Implementation (65%)
+
+
+Contribute to the design and implementation of high-quality software using modern technologies, focusing on building component-based, cost-effective, scalable, and secure solutions. You’ll learn and apply established design patterns to support integration with other services and applications, promote code reuse, and improve collaboration across teams. 
+Contribute to the development of application logic and responsive user interfaces using ReactJS, JavaScript (ES2015+), TypeScript, and Node.js. 
+Assist in building, maintaining, and scaling, cost-effective serverless solutions using Amazon Web Services (AWS). 
+Follow and uphold engineering standards in collaboration with product owners, architects, and stakeholders, in support of our systems and services. 
+Learn to understand new product capabilities and decompose the implementation into specific functional changes for verification. 
+Apply and continue to develop skills best practices in Agile development, CI/CD pipelines, and DevOps to deliver reliable, high-quality software. 
+
+
+
+
+Team Operations & Analysis (20%)
+
+
+Participate in Agile SCRUM ceremonies (Sprint Planning, Grooming, Daily SCRUM, Demo) and contribute to team commitments. 
+Review requirements and provide input, asking questions and learning how design decisions are made. 
+Participate in peer reviews of code, designs, and other software engineering artifacts, giving and receiving constructive feedback. 
+Practice continuous integration and continuous delivery (CI/CD) by implementing, testing, and delivering code in line with the team’s DevOps model. 
+Actively develop skills needed to work effectively in a poly-skilled Agile team, including collaboration, communication, and continuous learning. 
+
+
+
+
+Software Solutioning & Support (15%)
+
+
+Develop an understanding of the customer’s business processes and operational needs, learning how systems are used in real-world contexts. 
+Work closely with Solutions Architects, Senior/Lead Engineers and Data Leads to evaluate requests, help assess level-of-effort and contribute to sprint planning activities. 
+Participate in peer code and design reviews. 
+Assist in troubleshooting and resolving application issues, including access, communications, and feature behavior, with support from the team. 
+
+
+
+
+About You, You Have
+
+
+Bachelor’s degree in Computer Science, Engineering, MIS, or equivalent professional experience. 
+0-3 years of production-level software development experience or exposure using the College Board technology stack, including JavaScript/TypeScript, React, Node.js, and AWS. 
+Hands-on experience developing, debugging, and supporting web-based software applications in professional environments. 
+Proficiency in reviewing and improving code structure and architecture for testability, maintainability, scalability, and security. 
+Experience participating in software design discussions for new features and bug fixes. 
+Strong analytical, strategic thinking, and problem-solving skills, with the ability to identify issues, ask the right questions, and develop effective solutions. 
+Clear communicator with practical decision-making skills and a strong belief in clean code, meaningful comments, and thorough documentation. 
+Demonstrated commitment to continuous learning and growth, including learning from setbacks and seeking expertise from others. 
+Ability to travel 3–5 times per year to the NYC or Reston, VA office. 
+Authorization to work in the United States. 
+
+
+
+
+All Roles At College Board Require
+
+
+A passion for expanding educational and career opportunities and mission-driven work 
+Authorization to work in the United States for any employer 
+Curiosity and enthusiasm for emerging technologies, with a willingness to experiment with and adopt new AI-driven solutions and a comfort learning and applying new digital tools independently and proactively.  
+Clear and concise communication skills, written and verbal 
+A learner's mindset and a commitment to growth: welcoming diverse perspectives, giving and receiving timely, respectful feedback, and continuously improving through iterative learning and user input. 
+A drive for impact and excellence: solving complex problems, making data-informed decisions, prioritizing what matters most, and continuously improving through learning, user input, and external benchmarking. 
+A collaborative and empathetic approach: working across differences, fostering trust, and contributing to a culture of shared success. 
+
+
+
+
+About Our Process 
+
+
+Application review will begin immediately and will continue until the position is filled. This role is expected to accept applications for a minimum of 5 business days. 
+While the hiring process may vary, it generally includes: resume and application submission, recruiter phone/video screen, coding assessment prescreen, and a panel interview.
+
+
+
+
+What We Offer
+
+At College Board, we offer more than just a paycheck, we provide a meaningful career, a supportive team, and a comprehensive package designed to help you thrive. We’re a self-sustaining nonprofit that believes in fair and competitive compensation, grounded in your qualifications, experience, impact, and the market.
+
+A Thoughtful Approach To Compensation
+
+
+The hiring range for this role is $106,000 – 125,000 
+Your exact salary will depend on your location, experience, and how your background compares to others in similar roles at the College Board. 
+We aim to make our best offer upfront—rooted in fairness, transparency, and market data. 
+We adjust salaries by location to ensure fairness, no matter where you live. 
+
+
+
+
+You’ll have open, transparent conversations about compensation, benefits, and what it’s like to work at College Board throughout your hiring process. Check out our careers page for more.
+
+
+
+About College Board
+
+College Board reaches more than 7 million students a year, helping them navigate the path from high school to college and career. We’re a mission-driven, not-for-profit membership organization dedicated to excellence in education. Founded 125 years ago, we are committed to clearing a path for all students to own their future. We pioneered programs like the SAT® and AP® to expand opportunities for students and help them develop the skills they need. Our BigFuture® program helps students plan for college, pay for college, and explore careers. Learn more at cb.org.
+
+College Board reaches more than 7 million students a year, helping them navigate the path from high school to college and career. We’re a mission-driven, not-for-profit membership organization dedicated to excellence in education. Founded 125 years ago, we are committed to clearing a path for all students to own their future. We pioneered programs like the SAT® and AP® to expand opportunities for students and help them develop the skills they need. Our BigFuture® program helps students plan for college, pay for college, and explore careers. Learn more at cb.org.
+
+Mission
+
+Clearing a path for all students to own their future.
+
+Clearing a path for all students to own their future.
+
+What Guides Us
+
+At College Board, our work is guided by four Operating Principles, and we seek team members who not only align with these principles but actively live them out in their day-to-day work .
+
+
+Prioritize and Simplify – We focus on what matters most, reduce complexity, and move quickly when needed.
+Say and Receive – We give and receive feedback candidly and kindly, welcoming growth and healthy debate.
+Go for Greatness – We pursue excellence using data, iteration, and bold thinking to raise the bar.
+Lead as One College Board – We build a culture of trust, inclusion, and shared responsibility for long-term impact.
+
+
+
+
+At College Board, our work is guided by four Operating Principles, and we seek team members who not only align with these principles but actively live them out in their day-to-day work .
+
+
+Prioritize and Simplify – We focus on what matters most, reduce complexity, and move quickly when needed.
+Say and Receive – We give and receive feedback candidly and kindly, welcoming growth and healthy debate.
+Go for Greatness – We pursue excellence using data, iteration, and bold thinking to raise the bar.
+Lead as One College Board – We build a culture of trust, inclusion, and shared responsibility for long-term impact.
+
+
+
+
+We Value and Provide Growth, Recognition, and Purpose
+
+In addition to a competitive salary and benefits, we offer:
+
+
+Annual bonuses and opportunities for merit-based raises and promotions
+A mission-driven workplace where your impact matters
+A team that invests in your development and success
+
+
+
+
+In addition to a competitive salary and benefits, we offer:
+
+
+Annual bonuses and opportunities for merit-based raises and promotions
+A mission-driven workplace where your impact matters
+A team that invests in your development and success
+
+
+
+
+✨Learn More ✨
+
+Learn more about College Board’s Operating Principles, Our Remote-first Workplace Policy, Benefits, Recruiting Process and More.
+
+Learn more about College Board’s Operating Principles, Our Remote-first Workplace Policy, Benefits, Recruiting Process and More.
+
+EEOC statement
+
+College Board is proud to be an equal opportunity employer. We’re committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status.
+
+College Board is proud to be an equal opportunity employer. We’re committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status.
+
+
+… more
+
+Set alert for similar jobs
+
+Software Engineer, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+Exclusive Job Seeker Insights about The College Board
+Powered by Bing
+
+The latest hiring trend
+
+5,928
+
+Total employees
+
+13%
+
+Company-wide
+
+2 year growth
+
+9%
+
+Engineering
+
+2 year growth
+
+Chart
+Chart with 25 data points.
+The chart has 1 X axis displaying Time. Data ranges from 2024-01-01 00:00:00 to 2026-01-01 00:00:00.
+The chart has 1 Y axis displaying values. Data ranges from 5242 to 5974.
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+2500
+5000
+7500
+End of interactive chart.
+
+Median employee tenure: 7 years
+
+The College Board hires candidates from some of these companies and schools
+
+The College Board hired 5 people from University of Southern California. See all
+
+The College Board hired 19 people from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+The College Board
+
+123,432 followers
+
+Follow
+
+Education Administration Programs
+
+ • 
+
+1001-5000 employees
+
+ • 
+
+5,928 on LinkedIn
+
+College Board is a not-for-profit organization that clears a path for all students to own their future through the Advanced Placement Program, the SAT, Official SAT Practice on Khan Academy, BigFuture, and more. For more information, go to collegeboard.org.
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Software Engineer
+
+BetterBrain
+
+United States (Remote)
+
+Posted on January 23, 2026, 12:26 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Senior Go High Level Expert
+
+Brenda Breland LLC
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 26, 2026, 3:49 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+eTrigue Corp.
+
+San Jose, CA (Remote)
+
+Posted on January 20, 2026, 7:43 PM
+1 week ago
+
+Software Engineer
+
+Scint AI
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on February 1, 2026, 2:30 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Developer Advocate (Developer Evangelist)
+
+Typesense
+
+United States (Remote)
+
+$150K/yr - $170K/yr
+
+ • 
+
+Medical benefit
+
+1 company alumni works here
+
+Posted on January 21, 2026, 2:33 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Senior Backend & Infrastructure Engineer (Equity-Only)
+
+TwinWise AI
+
+United States (Remote)
+
+Posted on January 31, 2026, 7:00 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Engineer (Remote)
+
+Refresh
+
+United States (Remote)
+
+Posted on January 22, 2026, 3:44 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Next.js / React Website Designer & Developer
+
+True Social Marketing
+
+United States (Remote)
+
+Posted on January 30, 2026, 8:46 AM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Senior/Lead AI Developer
+
+Duxre
+
+United States (Remote)
+
+$110K/yr - $150K/yr
+
+Posted on January 22, 2026, 11:27 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Domo Engineer
+
+swyft
+
+United States (Remote)
+
+$40/hr - $70/hr
+
+You’d be a top applicant
+
+Posted on January 15, 2026, 7:50 AM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Inference Engineer
+
+Mirai Tech Inc
+
+San Francisco Bay Area (Remote)
+
+You’d be a top applicant
+
+Posted on January 28, 2026, 2:41 PM
+5 days ago
+
+Infrastructure Engineer, Core
+
+Ferrum Health
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 30, 2026, 5:09 PM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

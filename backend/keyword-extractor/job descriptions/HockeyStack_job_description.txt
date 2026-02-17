@@ -1,0 +1,474 @@
+HockeyStack
+
+Backend Engineer (AI) 
+
+San Francisco, CA · 8 hours ago · Over 100 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+$160K/yr - $200K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Jinsen Wu 
+
+• 2nd
+
+Software Engineer
+
+School alum from University of Southern California
+
+Connect
+About the job
+
+HockeyStack Is An Applied AI Company On a Mission To Automate Sales, Marketing, And Customer Success For B2B Companies. We Build The Most Complete And Accurate Picture Of The B2B Buyer By Integrating With Every Tool Your Team Uses, Partnering With Third-party Data Providers, And Deploying Custom AI Research Agents. We Use This Data To Power Applications That Automate High-value, High-complexity Workflows Across The Go-to-market And Revenue Teams. Our Core Products Include
+
+
+Marketing Intelligence – instantly answers questions like “What led to that sudden drop in pipeline?”
+Account Intelligence – surfaces next-best actions to help reps move target accounts toward conversion
+
+
+Since launching in January 2023, we’ve come through Y Combinator, raised a $26M Series A led by Bessemer. We’re growing 3× year-over-year, have hit multimillion ARR, and process over 60 TB of GTM data monthly. Based at our San Francisco HQ, we operate fully in-person, move fast and hire people who are ready to win.
+
+🚀 Your Mission
+
+As a Backend Engineer on the Reporting team, your mission is to turn massive volumes of GTM data into fast, reliable, and accurate reporting infrastructure that our customers depend on every single day. You’ll be the engine behind our most critical dashboards, insights, and customer-facing queries — owning the logic, performance, and scalability of the systems that translate raw data into strategic action. This is where your obsession with performance, precision, and product impact turns into rocket fuel for our growth.
+
+🔧 What You’ll Do
+
+
+Own and continuously improve the backend systems that power all reporting features across the platform
+Design, write, and maintain high-performance SQL queries — including some that span 500+ lines — to deliver critical GTM insights
+Develop and maintain backend services in Node.js and Express that transform raw data into actionable output
+Improve query performance across massive datasets stored in ClickHouse and other systems
+Work cross-functionally with Product and Frontend teams to deliver accurate, real-time dashboards and insights
+Implement robust caching strategies, edge-case handling, and reliability measures at scale
+Ship fast and often — deploying to production frequently while maintaining high-quality standards
+
+
+🧬 What We’re Looking For
+
+
+Ownership-first mindset — you take initiative, move fast, and figure things out
+Thrive in early-stage, high-urgency environments where speed and impact matter
+Fully committed to working in-person 5 days/week at our SF HQ
+Curious, self-aware, and feedback-driven — you bring energy, not ego
+See this role as a defining chapter — not a stepping stone or side quest
+Strong backend engineering experience with Node.js and modern JavaScript/TypeScript
+Proficiency in writing and optimizing complex SQL queries
+Experience working with analytical databases like ClickHouse
+Familiarity with data infrastructure, reporting systems, or analytics-heavy SaaS products
+Exposure to B2B GTM data, real-time dashboards, or BI tools
+
+
+✨ Why Join Now?
+
+We’re at an inflection point. The product is proven, the market is massive, and the opportunity is wide open. You’ll be joining a company with real traction, rapid growth, and meaningful backing—where every person still shapes the outcome. This isn’t just a job. It’s a chance to build something category-defining with people who care deeply about doing it right.
+
+As part of our San Francisco, California-based team, the salary range for this role is $160,000– $200,000 USD base pay annually, depending on experience and qualifications.
+
+HockeyStack is proud to be an Equal Opportunity Employer. We do not discriminate based on race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, or any other legally protected status. We celebrate diversity and are committed to fostering an inclusive environment for all employees.
+… more
+
+Set alert for similar jobs
+
+Back End Developer, San Francisco, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+232
+
+total
+
+232
+
+in the past day
+
+Candidate seniority level
+
+79% Entry level candidates
+
+12% Senior level candidates
+
+Candidate education level
+
+87
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+12
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about HockeyStack
+Powered by Bing
+
+The latest hiring trend
+
+100
+
+Total employees
+
+335%
+
+Company-wide
+
+2 year growth
+
+600%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+50
+100
+150
+
+Median employee tenure: 0.8 years
+
+HockeyStack hires candidates from some of these companies and schools
+
+HockeyStack hired 1 person from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+HockeyStack
+
+25,892 followers
+
+Follow
+
+Software Development
+
+ • 
+
+51-200 employees
+
+ • 
+
+100 on LinkedIn
+
+The AI Platform for Revenue Teams.
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Full Stack Engineer Intern
+
+Kairo
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 5, 2026, 9:09 PM
+17 minutes ago
+
+ · 
+
+ Easy Apply
+
+Solutions Engineer
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$80K/yr - $100K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 2:05 PM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (Python & React)
+
+Leamar Hiring
+
+San Francisco Bay Area (On-site)
+
+$150K/yr - $220K/yr
+
+You’d be a top applicant
+
+Posted on January 5, 2026, 8:58 AM
+12 hours ago
+
+ · 
+
+ Easy Apply
+
+🚀 **Now Hiring: Full-Time Shopify Developer & E-Commerce Content Specialist**
+
+RCD Performance
+
+East Peoria, IL (Hybrid)
+
+$76K/yr - $100K/yr
+
+ • 
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on November 9, 2025, 9:08 AM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Full-Stack Developer
+
+AccuMed HealthCare Research
+
+Greenwood Village, CO (On-site)
+
+$90K/yr - $110K/yr
+
+ • 
+
+Dental benefit
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 2:37 PM
+6 hours ago
+
+ · 
+
+ Easy Apply
+
+Frontend / Fullstack Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:55 AM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Full-Stack Developer (Front-End Focus: React & iOS)
+
+Finaventures
+
+Tempe, AZ (On-site)
+
+$90K/yr - $120K/yr + Bonus, Stock options
+
+Actively reviewing applicants
+
+Posted on December 17, 2025, 9:52 AM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer – Matching and Scheduling Optimization
+
+Sage Care
+
+Palo Alto, CA (Hybrid)
+
+1 school alumni works here
+
+Posted on December 4, 2025, 10:19 AM
+1 month ago
+
+Backend / Security Engineer
+
+Triage
+
+San Francisco Bay Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 4:33 PM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Product Engineer (Software)
+
+Automotus
+
+United States (Remote)
+
+$140K/yr - $180K/yr
+
+ • 
+
+6 benefits
+
+1 school alumni works here
+
+Posted on November 7, 2025, 10:10 AM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Software Developer
+
+ConEquip Parts - A World of Parts
+
+Depew, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on November 26, 2025, 6:23 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+AI Orchestration Engineer
+
+Sage Care
+
+Palo Alto, CA (Hybrid)
+
+1 school alumni works here
+
+Posted on November 16, 2025, 12:06 PM
+1 month ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

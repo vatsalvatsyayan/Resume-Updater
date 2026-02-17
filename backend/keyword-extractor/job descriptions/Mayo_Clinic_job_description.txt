@@ -1,0 +1,99 @@
+About the job
+
+City Rochester
+
+State MN
+
+Remote YES
+
+Department Information Technology
+
+Why Mayo Clinic
+
+Mayo Clinic is top-ranked in more specialties than any other care provider according to U.S. News & World Report. As we work together to put the needs of the patient first, we are also dedicated to our employees, investing in competitive compensation and comprehensive benefit plans – to take care of you and your family, now and in the future. And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic.
+
+Benefits Highlights
+
+
+Medical: Multiple plan options.
+Dental: Delta Dental or reimbursement account for flexible coverage.
+Vision: Affordable plan with national network.
+Pre-Tax Savings: HSA and FSAs for eligible expenses.
+Retirement: Competitive retirement package to secure your future.
+
+
+Responsibilities
+
+Mayo Clinic is seeking a Software Engineer to design and build back-end services that support our portfolio of data-centric clinical and analytic applications. These applications leverage cloud computing, big data, mobile, data science, data warehousing, machine learning using state of the art software development applications and frameworks. Our Software Engineers ensures that these cloud-based micro-services adhere to uptime and accuracy targets, are resilient, and scale as data volumes and traffic increase. They work closely with the data engineering, platform, and solutions teams to develop applications as required to benefit our practice and patients.
+
+Works closely with the Product Owners, Product Managers, Architects to translate requirements into code. Developing services around data warehousing, big data, cloud computing, business intelligence, analytics and machine learning. Participate in DevOps, Agile, continuous development and integration frameworks. Programming in high-level languages such as Go, Python, Java etc. Work on deployment automation/configuration management with tools including but not limited to ADO, Puppet, Chef or Ansible or Azure Pipelines, CloudFormation, Terraform following a DevOps model. Ensure all appropriate documentation of processes and source code is created and maintained. Communicate effectively with peers, leaders, and customers throughout the organization. Participate in expert level troubleshooting and resolve problems through root cause analysis, data and system investigation. Continues to build knowledge of the organization, processes and customers. Performs a range of mainly straightforward assignments. Uses prescribed guidelines or policies to analyze and resolve problems. Receives a moderate level of guidance and direction.
+
+This is a full time, remote position within the United States. Mayo Clinic will not sponsor or transfer visas for this position including F1 OPT STEM.
+
+Qualifications
+
+Bachelor's Degree in Computer Science/Engineering or related field; Or an Associates’ degree in Computer Science/Engineering or related field with an additional 2 years of experience as described below.
+
+
+ Have working knowledge and experience of Software Engineering with a minimum of internships and a minimum of 1 yr. of experience, or 2yrs of experience coding applications or services in a high-level language (C, C++, Golang, Java, C# etc.).
+ Demonstrated problem solving and time management skills.
+ Possesses strong technical aptitude for designing and implementing software solutions.
+ Experience with modern application development frameworks
+ Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.
+ Deep hands-on technical expertise, excellent verbal and written communication skills.
+ Experience with Agile software development techniques.
+
+
+Preferred Qualifications For This Position Include
+
+
+ Ability to use a wide variety of open-source technologies and cloud-based services.
+ Experience with Google and Azure cloud environments
+ Experience in databases, analytics, big data systems or business intelligence products
+ Experience with building high-performance, highly available and scalable distributed systems.
+ Experience developing software for healthcare related industries.
+
+
+Exemption Status
+
+Exempt
+
+Compensation Detail
+
+$95,534.40 - $140,,462.40 / year
+
+Benefits Eligible
+
+Yes
+
+Schedule
+
+Full Time
+
+Hours/Pay Period
+
+80
+
+Schedule Details
+
+Monday - Friday, 8am - 5pm
+
+Weekend Schedule
+
+As needed
+
+International Assignment
+
+No
+
+Site Description
+
+Just as our reputation has spread beyond our Minnesota roots, so have our locations. Today, our employees are located at our three major campuses in Phoenix/Scottsdale, Arizona, Jacksonville, Florida, Rochester, Minnesota, and at Mayo Clinic Health System campuses throughout Midwestern communities, and at our international locations. Each Mayo Clinic location is a special place where our employees thrive in both their work and personal lives. Learn more about what each unique Mayo Clinic campus has to offer, and where your best fit is.
+
+Equal Opportunity
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, protected veteran status or disability status. Learn more about the "EOE is the Law" . Mayo Clinic participates in E-Verify and may provide the Social Security Administration and, if necessary, the Department of Homeland Security with information from each new employee's Form I-9 to confirm work authorization.
+
+Recruiter
+
+Ted Keefe

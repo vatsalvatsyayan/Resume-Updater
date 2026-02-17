@@ -1,0 +1,41 @@
+About the job
+
+About Nooks.ai
+
+Nooks is the AI Sales Assistant Platform (ASAP) that automates the busywork so reps can focus on the human part of selling and generate more sales pipeline. Nooks has helped thousands of sales reps hit quota, saved customers hundreds of thousands of hours, and powered hundreds of millions of dollars in pipeline. Nooks is loved by sales teams at companies like 1Password, Fivetran, Greenhouse, and hundreds more. For more information, visit Nooks.ai.
+
+About The Team Charter
+
+As part of the Core Platform team, you will be responsible for scaling our platform. A year and a half ago, we were doing 10-20,000 calls a day; now we are close to a million calls a day.
+
+What You’ll Do
+
+
+Ownership over our core infrastructure (database, Kubernetes, Redis, etc.)
+Ownership over our release process (CI/CD and testing infrastructure)
+Ownership over our core data systems (external data syncing and internal analytics)
+Improving our developer tooling and managing our usage of AI coding and productivity tools
+Helping ensure that our systems and products are secure and compliant
+Helping to scale our core infrastructure and systems as our product scales
+
+
+We’re Looking For Someone Who Has
+
+
+A proven track record working in backend and Infra services
+Excitement about building core foundational systems early on at a start-up, at scale
+Experience and knowledge working with TypeScript. Google Kubernetes Engine. Postgres. Temporal
+the ability to build reliable, maintainable, secure systems at scale
+Worked with other developers to help them ship faster.
+The keen ability to be an accelerant to velocity, not a bottleneck
+
+
+Compensation at Nooks for eligible roles includes base salary, equity, and benefits. Base salary is a single component of the total compensation package, which may also include equity in the form of options, comprehensive health, dental, vision, life, and disability insurance coverage, hybrid work, and unlimited paid time off. Note that benefits are subject to change and may vary based on the jurisdiction of employment.
+
+We offer competitive compensation because we want to hire the best people and reward them for their contributions to our mission. Please reference the job posting’s subtitle for where this position will be located. For pay transparency purposes, the base salary range for this full-time position in the location listed is: .
+
+Equal Employment Opportunity Statement
+
+Nooks is an equal opportunity employer committed to fostering a diverse and inclusive workforce. We believe in providing equal employment opportunities to all individuals regardless of race, color, religion, gender, gender identity, sexual orientation, national origin, age, disability, veteran status, or any other characteristic protected by law.
+
+Nooks does not discriminate in hiring, promotion, compensation, or any other employment practices, and we are committed to ensuring a workplace that is free from discrimination, harassment, and retaliation. We encourage individuals from all backgrounds to apply and join our team.

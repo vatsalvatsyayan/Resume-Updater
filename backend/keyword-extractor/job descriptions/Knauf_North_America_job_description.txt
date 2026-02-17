@@ -1,0 +1,96 @@
+About the job
+
+Knauf Insulation North America is the world's fastest-growing insulation manufacturer. We are wholly committed to the conservation of the environment while also sustainably developing and manufacturing a comprehensive line of acoustical fiberglass insulation for residential, commercial, industrial, marine, OEM and metal building applications, using post-consumer recycled materials.
+
+We welcome passionate and creative individuals who thrive in an entrepreneurial, collaborative and ever-changing environment.
+
+We know how important your health, wellbeing, and financial strength is to you. To support you, we provide affordable benefits for you and your family members.
+
+ "Supporting all aspects of the individual — self, health, wealth and community”
+
+Our benefits include:
+
+
+ Medical, Dental, Vision – starting on day one! 
+ Virtual Medical Services 
+ 401(k) Retirement Plan (earn 100% matching on your first 6% and fully vested day one) 
+ Paid parental leave 
+ Company paid life insurance 
+ Vacation time to enjoy getting away 
+ Tuition Reimbursement 
+ Employee Assistance Program (EAP) 
+ Plus, more! 
+
+
+Growth opportunities available!
+
+Apply online or contact us to hear why our employees appreciate being part of the Knauf family!
+
+About the Role:
+
+In this role, you will play a key part in driving innovation and modernizing technology for an industry-leading organization. You will collaborate closely with data analysts, data engineers, and fellow software engineers to design, develop, and deliver cutting-edge solutions in a full stack development environment. This is an exciting opportunity for a motivated individual who thrives on challenges and is eager to make a significant impact in a fast-paced, forward-thinking environment.
+
+Responsibilities
+
+
+ Design, develop and deploy applications in various hardware/browser environments 
+ Research and implement new tools and techniques for new or existing projects. 
+ Research and purchase new hardware for new or existing projects. 
+ Fluently alternate, or learn, programming languages in a high tempo R&D environment 
+ Execute best practices for source control on all projects 
+ Strong presentation skills, involving demonstrations or presentations. 
+ Strong analytical and problem-solving skills. 
+ Self-managed and functional as a remote team member. 
+ Takes into account the structure of the project environment, created by the head of AI in order to provide feasible items in a timely manner and to constantly update the development of key project phases. 
+ While performing duties, the applicant adheres to all performance policies relating to the requirements concerning occupational health and safety, fire safety and environment protection, quality, energy management and consistent use of personal protection equipment 
+ Communicate effectively, both orally and in writing; produce regular technical and operational reports; briefing of colleagues; and deliver presentations to senior management or other customers 
+ Drives the highest levels of employee retention and engagement to ensure a sustainable workforce. 
+ Fosters a culture of innovation, collaboration, and accountability within the organization. 
+ Instills an environment of inclusion, where all employees feel that they can contribute and impact the company in a positive manner. 
+ Willingness to travel 30% of the year. 
+
+
+Qualifications
+
+Education:
+
+
+ Bachelor’s Degree in Computer Science, Software Engineering, or Similar Discipline 
+
+
+Experience:
+
+
+ Minimum of two (2) years of technical experience in software development 
+
+
+Necessary Skills and Abilities:
+
+
+ Full Stack Development Experience 
+ Proficiency in Python, Javascript, HTML, CSS, and SASS 
+ Proficiency in Git 
+ OS: Windows, Linux, MacOS 
+ UI/UX 
+ Ability to communicate effectively within the department and throughout the organization 
+ Ability to make quick, thorough decisions that will positively impact the organization 
+ Ability to handle multiple responsibilities in a fast-paced and ever-changing environment 
+ Ability to conduct research and present new ideas 
+ Critical thinking skills 
+ Problem solving skills 
+ Time management skills 
+ Active listening and Organizational skills 
+
+
+Desired Skills and Abilities:
+
+
+ Experience with Azure, AWS, Kubernetes, or Docker 
+ Experience with Ignition, historian and automation technologies 
+ Experience building data-driven solutions 
+ Experience designing data visualizations 
+ Experience with frameworks like Bootstrap, Jquery, or ChartJS 
+ Github Account/Activity 
+
+
+It is the policy of Knauf Insulation to provide equal employment opportunities to all qualified persons without regard to race, color, religion, sex (including pregnancy, childbirth, or related medical conditions), gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, protected veteran status or any other protected characteristic prohibited by applicable law.

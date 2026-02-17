@@ -1,0 +1,66 @@
+About the job
+
+At Fuze Health, we put patients first and tirelessly address the most pressing needs in healthcare. We empower millions to digitally connect with care providers, essential health resources and needed treatments – and enable care providers, employers, health plans and life sciences companies to meaningfully enhance quality, outcomes and value. We are dedicated to helping our partners evolve and modernize to meet emerging patient and marketplace needs.
+
+Fuze Health's foundation is built upon the strategic combination of several proven, technology-powered innovators in the digital health, diagnostics, and pharmacy sectors. Our growing portfolio brings together the capabilities of industry leaders including LetsGetChecked, Truepill, and Alto Pharmacy, to create a distinctive, unified force in healthcare. Together, we have the shared vision, advanced capabilities and talented teams to deliver next-generation solutions that patients and healthcare partners need today and into the future.
+
+Software Engineer 
+
+The Software Engineer at Fuze Health plays a vital role in developing innovative technology solutions that power healthcare delivery and data management. Reporting to the Engineering Manager, this position is responsible for designing, developing, and maintaining software applications while collaborating cross-functionally to ensure high-quality, secure, and scalable products within Fuze Care Services.
+
+Key Responsibilities:
+
+
+
+
+Software Design & Development: Design, develop, and maintain web applications using ASP.NET and C#, ensuring scalable and maintainable solutions.
+Client-Side Programming: Write and maintain JavaScript code to enhance user interfaces and improve functionality.
+Server Administration & Deployment: Manage and configure Windows Server environments for application deployment, monitoring, and support.
+System Optimization & Troubleshooting: Troubleshoot, debug, and optimize existing systems to improve performance, reliability, and efficiency.
+Code Quality & Documentation: Ensure code quality through unit testing and code reviews; maintain clear documentation for software solutions and configurations.
+Cross-Functional Collaboration: Work closely with product managers, QA engineers, and other stakeholders to define, design, and ship new features.
+Innovation & Continuous Improvement: Apply engineering, life sciences, and computer science principles to develop innovative solutions that support Fuze Health's mission.
+
+
+
+
+Required Experience & Qualifications:
+
+
+Bachelor's degree or higher in Computer Science, Engineering, or a related field.
+Proven experience in software development, preferably within the healthcare or medical technology industry.
+Proficiency in Microsoft ASP.NET, C#, and JavaScript.
+Experience with Windows Server administration and deployment.
+Strong understanding of software design principles, data management, and communication platforms.
+Familiarity with version control systems (e.g., Git).
+Excellent problem-solving, analytical, and communication skills.
+Ability to adapt to evolving technologies and project requirements.
+
+
+Preferred Experience & Qualifications:
+
+
+Knowledge of healthcare regulations and standards (e.g., HIPAA, FDA).
+Experience integrating enterprise information systems and managing data pipelines.
+Track record of driving innovation and process improvements in software projects.
+Experience collaborating in cross-functional, fast-paced environments.
+
+
+Benefits: 
+
+The compensation range for this position is $113,000-$145,000, in addition we offer a range of benefits including:
+
+
+Health, dental & vision insurance
+401k Matching contribution
+Flexible PTO plan
+Wellness/lifestyle account.
+
+
+Base Salary Range
+
+Salary Range
+
+$113,000—$145,000 USD
+
+At Fuze Health, we are committed to fostering an inclusive environment that celebrates diversity in all its forms. We believe that the diversity of thought, background, and experience strengthens our teams and drives innovation. We are an equal-opportunity employer and do not discriminate on the basis of race, ethnicity, religion, color, place of birth, sex, gender identity or expression, sexual orientation, age, marital status, military service status, or disability status. Our goal is to ensure that everyone feels valued and empowered to thrive. Read our Candidate Privacy Policy.

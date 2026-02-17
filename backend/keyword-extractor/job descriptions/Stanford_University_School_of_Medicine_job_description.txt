@@ -1,0 +1,527 @@
+Stanford University School of Medicine
+
+Software Developer 1
+
+Stanford, CA · 6 hours ago · Over 100 people clicked apply
+
+Responses managed off LinkedIn
+
+$107.4K/yr - $133.6K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+The Department of Genetics in the Stanford University School of Medicine is a world-renowned hub for innovation in genomics, computational biology, and translational research. Our lab focuses on developing next-generation computational frameworks and automatic data analyses systems to analyze single-cell and spatial omics data, enabling new discoveries in developmental biology and disease modeling.
+
+We are seeking up to two Software Developer 1 to join our interdisciplinary team and support the development of a modular automatic data analyses system for automating single-cell and spatial data analysis. The ideal candidate will contribute to the design, implementation, and scaling of cloud-based applications that power predictive models of organogenesis and disease progression.
+
+This is an excellent opportunity to work at the forefront of biomedical data science, collaborating with world-class researchers, engineers, and entrepreneurs in a fast-paced academic and translational research environment.
+
+Duties Include
+
+
+Assess user needs and requirements.
+Design and develop applications that may involve sophisticated data manipulation.
+Maintain and update existing programs.
+Troubleshoot and solve technical problems.
+Create programs to meet reporting and analysis needs.
+Design and implement user and operations training programs.
+Document changes in software for end users.
+Follow team software development methodology.
+Serve as technical resource with respect to applications.
+Support research translation, licensing, and commercialization strategy, including coordination with venture capital firms and Stanford’s innovation ecosystem.
+Assist with scientific writing, data visualization, and manuscript preparation.
+ - Other duties may also be assigned.
+
+
+Desired Qualifications
+
+
+Bachelor’s degree or higher in Computer Science, Bioinformatics, Biomedical Engineering, Management Science & Engineering, or a related field.
+Strong background in data science, or computational biology, especially in handling single-cell, spatial transcriptomics, or imaging data.
+Strong background in automatic data analyses tool development and deployment, distributed systems and others
+Proficiency in Python, R, or other scientific programming languages, with experience in software development and data pipeline automation.
+Experience with cloud computing platforms (e.g., AWS, GCP) and collaborative development tools (e.g., GitHub, Docker).
+Familiarity with scientific publication processes, manuscript preparation, and figures.
+Demonstrated ability to assess user needs, troubleshoot complex technical issues, and design user-friendly, scalable applications.
+Knowledge of research translation and commercialization strategy, including startup planning and engagement with venture capital firms.
+Experience preparing research presentations, grant proposals, or supporting industry/academic collaborations.
+Ability to work independently and collaboratively across interdisciplinary teams in a fast-paced academic or startup-like environment.
+Excellent communication and organizational skills, with attention to detail and strong documentation practices.
+
+
+Education & Experience (required)
+
+Bachelor's degree and three years of relevant experience or a combination of education and relevant experience.
+
+Knowledge, Skills And Abilities (required)
+
+
+Working knowledge of latest software and design standards.
+Ability to define and solve logical problems for technical applications.
+Knowledge of and ability to select, adapt, and effectively use a variety of programming methods.
+Ability to recognize and recommend needed changes in user and/or operations procedures.
+Basic knowledge of software engineering principles.
+Strong knowledge of at least one programming language.
+
+
+Certifications & Licenses
+
+None.
+
+PHYSICAL REQUIREMENTS*:
+
+
+Constantly perform desk-based computer tasks.
+Frequently sit, grasp lightly/fine manipulation.
+Occasionally stand/walk, writing by hand.
+Rarely use a telephone, lift/carry/push/pull objects that weigh up to 10 pounds
+ - Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of his or her job.
+
+
+Working Conditions
+
+May work extended hours, evening and weekends.
+
+WORK STANDARDS (from JDL)
+
+
+Interpersonal Skills: Demonstrates the ability to work well with Stanford colleagues and clients and with external organizations.
+Promote Culture of Safety: Demonstrates commitment to personal responsibility and value for safety; communicates safety concerns; uses and promotes safe behaviors based on training and lessons learned.
+Subject to and expected to comply with all applicable University policies and procedures, including but not limited to the personnel policies and other policies found in the University's Administrative Guide, http://adminguide.stanford.edu .
+
+
+The expected pay range for this position is $107,423 to $133,600 per annum. Stanford University provides pay ranges representing its good faith estimate of what the university reasonably expects to pay for a position. The pay offered to a selected candidate will be determined based on factors such as (but not limited to) the scope and responsibilities of the position, the qualifications of the selected candidate, departmental budget availability, internal equity, geographic location and external market pay for comparable jobs.
+
+At Stanford University, base pay represents only one aspect of the comprehensive rewards package. The Cardinal at Work website ( https://cardinalatwork.stanford.edu/benefits-rewards ) provides detailed information on Stanford’s extensive range of benefits and rewards offered to employees. Specifics about the rewards package for this position may be discussed during the hiring process.
+
+The job duties listed are typical examples of work performed by positions in this job classification and are not designed to contain or be interpreted as a comprehensive inventory of all duties, tasks, and responsibilities. Specific duties and responsibilities may vary depending on department or program needs without changing the general nature and scope of the job or level of responsibility. Employees may also perform other duties as assigned.
+
+Consistent with its obligations under the law, the University will provide reasonable accommodations to applicants and employees with disabilities. Applicants requiring a reasonable accommodation for any part of the application or hiring process should contact Stanford University Human Resources at stanfordelr@stanford.edu . For all other inquiries, please submit a contact form .
+
+Stanford is an equal employment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+Additional Information
+
+
+ Schedule: Full-time 
+ Job Code: 4821 
+ Employee Status: Regular 
+ Grade: I 
+ Requisition ID: 107107 
+ Work Arrangement : On Site
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Stanford, California, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+233
+
+total
+
+233
+
+in the past day
+
+Candidate seniority level
+
+86% Entry level candidates
+
+8% Senior level candidates
+
+Candidate education level
+
+82
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+16
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Stanford University School of Medicine
+Powered by Bing
+
+The latest hiring trend
+
+36,653
+
+Total employees
+
+7%
+
+Company-wide
+
+2 year growth
+
+14%
+
+Engineering
+
+2 year growth
+
+Chart
+Chart with 25 data points.
+The chart has 1 X axis displaying Time. Data ranges from 2024-01-01 00:00:00 to 2026-01-01 00:00:00.
+The chart has 1 Y axis displaying values. Data ranges from 34282 to 36653.
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+25000
+50000
+End of interactive chart.
+
+Median employee tenure: 3.8 years
+
+Stanford University School of Medicine hires candidates from some of these companies and schools
+
+Stanford University School of Medicine hired 65 people from University of Southern California. See all
+
+Stanford University School of Medicine hired 108 people from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+Stanford University School of Medicine
+
+285,508 followers
+
+Follow
+
+Higher Education
+
+ • 
+
+5001-10000 employees
+
+ • 
+
+9,209 on LinkedIn
+
+Stanford Medicine improves health through leadership, diversity and collaborative discoveries and innovation in health care, education and research. 
+
+The Stanford School of Medicine is a premier setting for integrated research, medical education and clinical care. As the academic hub of Stanford Medicine, which also comprises adult and pediatric health care delivery systems, it fuels discovery and innovation to advance human health while empowering the medical and scientific leaders of tomorrow. Learn more at med.stanford.edu/school.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Senior Mobile Engineer
+
+Pulse Labs
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 30, 2026, 2:22 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Developer
+
+Easy Street Capital
+
+Irvine, CA (On-site)
+
+Medical, Vision, Dental, 401(k), +3 benefits
+
+You’d be a top applicant
+
+Posted on January 30, 2026, 2:06 PM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, New Grad (2026 Start) (Verified job)
+Software Engineer, New Grad (2026 Start) 
+
+Zip
+
+San Francisco, CA (Hybrid)
+
+$140K/yr - $145K/yr
+
+ • 
+
+401(k), +1 benefit
+
+3 company alumni work here
+
+Posted on January 30, 2026, 1:18 PM
+2 hours ago
+
+Python Developer, Associate / Chicago, IL (Verified job)
+Python Developer, Associate / Chicago, IL 
+
+ BlackRock, Inc.
+
+Chicago, IL (Hybrid)
+
+19 company alumni work here
+
+Posted on January 30, 2026, 8:28 AM
+6 hours ago
+
+Software Engineer, Loans Originations (Verified job)
+Software Engineer, Loans Originations 
+
+Sofi - Interns
+
+Cottonwood Heights, UT
+
+$92.8K/yr - $174K/yr
+
+9 company alumni work here
+
+Posted on January 29, 2026, 5:10 PM
+22 hours ago
+
+Developer - Software Engineer I (Verified job)
+Developer - Software Engineer I 
+
+Blue Origin
+
+Denver, CO (On-site)
+
+$101.4K/yr - $154.9K/yr
+
+ • 
+
+401(k) benefit
+
+21 company alumni work here
+
+Posted on January 30, 2026, 2:52 PM
+32 minutes ago
+
+Developer - Software Engineer I (Verified job)
+Developer - Software Engineer I 
+
+Blue Origin
+
+Greater Seattle Area (On-site)
+
+$101.4K/yr - $154.9K/yr
+
+ • 
+
+401(k) benefit
+
+21 company alumni work here
+
+Posted on January 30, 2026, 2:52 PM
+32 minutes ago
+
+Associate Software Engineer (Verified job)
+Associate Software Engineer 
+
+Jerry
+
+Palo Alto, CA (On-site)
+
+401(k) benefit
+
+2 school alumni work here
+
+Posted on January 30, 2026, 11:16 AM
+4 hours ago
+
+Software Development Engineer I
+
+Mercor
+
+United States (Remote)
+
+$50/hr - $150/hr
+
+1 connection works here
+
+Posted on January 30, 2026, 2:56 PM
+29 minutes ago
+
+Developer - Software Engineer I (Verified job)
+Developer - Software Engineer I 
+
+Blue Origin
+
+Reston, VA (On-site)
+
+$101.4K/yr - $154.9K/yr
+
+ • 
+
+401(k) benefit
+
+21 company alumni work here
+
+Posted on January 30, 2026, 2:52 PM
+32 minutes ago
+
+Software Engineer (entry) (Verified job)
+Software Engineer (entry) 
+
+Jerry
+
+Palo Alto, CA (On-site)
+
+401(k) benefit
+
+2 school alumni work here
+
+Posted on January 30, 2026, 11:16 AM
+4 hours ago
+
+Senior Salesforce Developer
+
+Cirrius Solutions Inc.
+
+United States (Remote)
+
+Posted on January 30, 2026, 1:35 PM
+1 hour ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

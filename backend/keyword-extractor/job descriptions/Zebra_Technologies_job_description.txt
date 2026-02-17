@@ -1,0 +1,98 @@
+About the job
+
+Remote Work: No
+
+Overview:
+
+At Zebra, we are a community of innovators who come together to create new ways of working to make everyday life better. United by curiosity and care, we develop dynamic solutions that anticipate our customer’s and partner’s needs and solve their challenges.
+
+Being a part of Zebra Nation means being seen, heard, valued, and respected. Drawing from our diverse perspectives, we collaborate to deliver on our purpose. Here you are a part of a team pushing boundaries to redefine the work of tomorrow for organizations, their employees, and those they serve.
+
+You have opportunities to learn and lead at a forward-thinking company, defining your path to a fulfilling career while channeling your skills toward causes that you care about – locally and globally. We’ve only begun reimaging the future – for our people, our customers, and the world.
+
+Let’s create tomorrow together.
+
+The purpose of this internship is to prepare college students for entry into the business world by providing a thorough understanding of the various functions of the Zebra Technologies organization. The program is designed to provide you with a full experience so that you can fully envision a career with Zebra. You will be positioned for success with training, exposure to all parts of the business, social activities, a professional mentor relationship and development sessions to help you discover your own performance edge!
+
+Workcloud Sync provides synchronous, real-time collaboration, allowing frontline workers across various industries to effectively communicate and seamlessly work together. The product engineering team uses cutting edge technologies including golang, Java Spring Boot, Alloy DB, Vertex AI and Google Cloud Platform and builds the product using a microservices architecture.
+
+US Summer Internship Benefits:
+
+Summer Fridays, As Applicable With Your Team
+
+30+ Social and Professional Events in 12 Weeks
+
+Global Immersion With Your Teams and Interns
+
+Intern Allowance (when applicable)
+
+Responsibilities:
+
+
+ Assist product engineering team in day to day product research and development 
+ Write code using TDD framework based upon provided requirements 
+ Analyze system performance to identify and implement improvements 
+ Research new technologies and innovate how they can be integrated in the Workcloud Sync product 
+ Develop planning, organizational and leadership skills 
+ Increase technology knowledge and skills 
+ Develop team-based work proficiencies 
+ Develop interpersonal skills to connect with day-to-day business contacts through follow up activities 
+
+
+THIS IS A HYBRID INTERNSHIP LOCATED IN KENNESAW, GA. THE EXPECTATION IS AT LEAST 3 DAYS OF IN-OFFICE ATTENDANCE.
+
+Qualifications:
+
+Required Qualifications:
+
+
+ Current enrollment in an undergraduate/graduate degree program in Computer Engineering or Software Engineering 
+ Must have an anticipated graduation date between 2026-2027 for undergraduate students and 2026-2028 for graduate students 
+ Must be authorized to work in the US without requiring sponsorship now or in the future 
+
+
+Preferred Qualifications:
+
+
+ Good understanding of programming and technology 
+ Understanding of Software Engineering practices 
+ Understanding of Relational Databases 
+ Understanding of Object Oriented Programming and data structures 
+ Prior experience in Java Spring Boot or golang 
+ Experience in working with Google Cloud Platform or AWS 
+ Hands on knowledge of developing Android/iOS mobile applications, preferably using Flutter 
+ Exposure in working with large language models 
+ Proficient in Microsoft Office (including Excel, Word, & PowerPoint) 
+ Intellectual curiosity with a strong desire to learn and grow 
+ Proven leadership and excellence in professional, academic, and/or extracurricular experiences 
+ Ability to collaborate as part of a team 
+ Effective verbal and written communication skills 
+
+
+Come join the herd!
+
+Zebra is an equal opportunity employer. All qualified candidates will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identify, national origin, disability, protected veteran status, or any other basis prohibited by law. If you are an individual with a disability and need assistance in applying for a position, please contact us at workplace.accommodations@zebra.com .
+
+Know Your Rights:
+
+https://www.eeoc.gov/sites/default/files/2022-10/EEOC_KnowYourRights_screen_reader_10_20.pdf
+
+Conozca sus Derechos:
+
+https://www.eeoc.gov/sites/default/files/2022-10/22-088_EEOC_KnowYourRightsSp_10_20.pdf
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+Zebra is a federal contractor and is committed to an alcohol and drug free workplace. As a result, all U.S. based employees are subject to the Drug and Alcohol Free Workplace Policy and Procedure.
+
+To all recruitment agencies: Zebra does not accept agency resumes. Please do not forward resumes to Zebra employees or any other team members. Zebra is not responsible for any fees related to unsolicited resumes and direct engagement with Zebra employees.
+
+Zebra Total Rewards includes more than just pay and is structured to meet the needs of our changing global business and evolving talent. We are committed to providing our employees with a benefits program that is comprehensive and competitive – including healthcare, wellness, inclusion networks, and continued learning and development offerings. We offer community service days, in addition to the traditional insurances, compensation, parental leave, employee assistance program and paid time off offerings depending on the country where you work.
+
+Salary:  USD 32.00 - USD 40.00 Hourly
+
+Salary offered will vary depending on your location, job-related skills, knowledge, and experience.
+
+Additionally, all Zebra roles are eligible for cash incentive programs. For example, sales roles have additional opportunity to earn substantial variable compensation tied to quota achievement. In most other roles, the Zebra annual cash incentive program links Company and individual performance together. Some roles may also be eligible for long-term incentive equity awards.
+
+To protect candidates from falling victim to online fraudulent activity involving fake job postings and employment offers, please be aware our recruiters will always connect with you via @zebra.com email accounts. Applications are only accepted through our applicant tracking system and only accept personal identifying information through that system. Our Talent Acquisition team will not ask for you to provide personal identifying information via e-mail or outside of the system. If you are a victim of identity theft contact your local police department.

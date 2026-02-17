@@ -1,0 +1,58 @@
+About the job
+
+
+
+
+AI Engineer – AI for Hardware Development
+
+
+
+
+Location: Austin, TX
+
+
+
+
+At Bild, we’re reimagining how hardware gets built.
+
+Our AI-powered platform streamlines technical documentation and accelerates hardware development in regulated industries like medical devices. We help engineering teams move faster, reduce errors, and bring life changing products to market faster.
+
+
+
+
+About the Role
+
+
+
+
+We’re building our founding engineering team — the group that will define the technical foundation of Bild’s platform and shape the future of AI in hardware development.
+
+
+
+
+As part of this team, you may:
+
+
+
+
+Build intelligent agents that review and reason over engineering documents, drawings, and specifications
+Design and deploy AI-powered workflows that connect design, manufacturing, and quality systems
+Develop and scale our full-stack infrastructure; from document ingestion to real-time user feedback
+
+
+
+
+We’re Looking For Engineers Who:
+
+
+
+
+Blend strong technical depth with curiosity for AI, hardware design, and product development
+Have built and shipped high impact products or tools used by real customers
+Thrive in fast moving, high ownership environments where you define the “how”
+Care deeply about solving real-world engineering bottlenecks with elegant, scalable systems
+
+
+
+
+At Bild, you’ll have the autonomy to do some of the best work of your career, helping redefine how the physical world is designed, documented, and manufactured.

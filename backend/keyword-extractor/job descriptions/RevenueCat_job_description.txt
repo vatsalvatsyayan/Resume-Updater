@@ -1,0 +1,90 @@
+About the job
+
+RevenueCat removes the headaches of building and scaling in‑app subscriptions. Since graduating from YC’s S18 batch we’ve grown into the default monetization platform for mobile: we’re in >40% of newly shipped subscription apps, we process $8B+ in annual purchase volume, and we help everyone from a solo dev in Brazil to the OpenAI mobile team understand and grow their revenue.
+
+We’re a remote‑first crew of 100+, guided by values we actually practice: Customer Obsession, Always Be Shipping, Own It, and Balance. If you want your work to touch hundreds of millions of end‑users (and help the developers behind them get paid), you’ll fit right in.
+
+The Role
+
+If you’re looking to jumpstart your career in tech and have a direct impact on apps used by billions of end-users, the Developer Support Engineer (DSE) role at RevenueCat is a fantastic opportunity. This is one of the few entry-level positions we offer, and it has proven to be an incredible stepping stone—our current Support Lead, a Product Manager, and a Technical Account Manager each started out as DSEs.
+
+In this role, you’ll help developers integrate the RevenueCat SDK into their apps, troubleshoot tricky edge cases, and unlock new possibilities in subscription monetization. You’ll provide hands-on support for some of the biggest apps in the world—imagine helping the teams behind ChatGPT, VSCO, PhotoRoom, Notion, and others get the best out of RevenueCat. You’ll be empowered to own the support experience, build out internal tools, and identify improvements that shape how developers everywhere use RevenueCat.
+
+In 2024, our DSEs spoke at conferences in Berlin, Logroño, New York, London, and Tokyo. This is optional, but if you're interested, you can meet RevenueCat customers face to face, have fun working our booth, and share your knowledge with developers worldwide.
+
+What You’ll Be Responsible For
+
+
+Supporting developers daily. You’ll debug issues, untangle complex code paths, and guide developers through onboarding so they can ship subscription features confidently. 
+Collaborating cross-functionally. You’ll partner closely with Engineering and Product to influence the developer experience—everything from our documentation to new features. 
+Building tooling and processes. You’ll craft or improve the internal apps and dashboards that make troubleshooting faster and easier, both for you and your teammates. 
+Driving user success. From investigating stack traces to clarifying best practices, you’ll ensure developers can move from “blocked” to “shipped” without missing a beat. 
+
+
+Within your first month, you’ll:
+
+
+Deep-dive into the frustrations and roadblocks developers face, helping them get unblocked so they can launch their apps. 
+Familiarize yourself with our support tools and processes. 
+Propose and implement quick wins in our documentation and support articles to reduce common developer pitfalls. 
+Work alongside our engineering team to resolve complex issues and learn the ins and outs of subscription infrastructure. 
+
+
+Within your first 3 months, you’ll:
+
+
+Spot opportunities for product improvements that will reduce developer friction. 
+Build out test apps and reproducible environments to tackle issues head-on. 
+Own onboarding and solution engineering for new developers using RevenueCat, providing a seamless start-to-finish experience. 
+
+
+Within your first 6 months, you’ll:
+
+
+Identify recurring blockers and implement targeted improvements—both in our products and in your own support workflows. 
+Craft (and refine) internal dashboards and tooling that accelerate the DSE team’s efficiency. 
+Make meaningful, self-directed contributions to how we scale support for an ever-growing developer community. 
+
+
+After 12 months, you’ll have:
+
+
+Gained super-hero level intuition for diagnosing the root causes of even the trickiest tickets. 
+Led the charge on hiring, mentoring, and growing our support engineering team. 
+Found new ways to delight developers, turning frustrating subscription problems into smooth, joyful experiences. 
+
+
+About You
+
+
+You’re eager to learn and grow; this is one of the few entry-level positions at RevenueCat and has historically launched multiple careers within our company. 
+You have 2-3 years of experience in an engineering or technical role, or have built and shipped a mobile app that integrates RevenueCat. 
+You’re comfortable with either iOS (Swift / Objective-C) or Android (Java / Kotlin) and have a grasp of app development and release processes. 
+You can debug code with minimal info, diagnosing issues from cryptic logs or stack traces. 
+You thrive in an environment that requires creative problem-solving and a “get it done” mentality. 
+You have strong written and verbal communication skills, and you’re empathetic towards the developer journey. 
+
+
+What You’ll Need To Be Successful
+
+
+Technical curiosity and a willingness to learn new tools and frameworks. 
+Resourcefulness in figuring out solutions when the path isn’t obvious. 
+Clear communication skills to translate complex issues into helpful, actionable steps. 
+Outcome-oriented mindset, ensuring your support leads to measurable developer success—fewer tickets, better documentation, and happier customers. 
+Collaboration and comfort with a fully remote, asynchronous setup using tools like Slack, Zoom, Linear, and Notion. 
+
+
+What we offer:
+
+
+Competitive equity in a fast-growing, Series C startup backed by top-tier investors, including Y Combinator
+10-year window to exercise vested equity options
+Fully remote and flexible work environment
+4-5 weeks of suggested time off annually for mental, physical, and emotional recharge
+$2,000 USD for workspace setup and $1,000 USD annual stipend for continuous learning
+
+
+Curious about the interview process? Discover more in our blog post about how we hire and learn tips to help you succeed.
+
+Compensation Range: $120K

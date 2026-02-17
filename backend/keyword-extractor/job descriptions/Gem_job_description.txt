@@ -1,0 +1,84 @@
+About the job
+
+Role Details
+
+
+Location: This role is based 3 days per week out of our San Francisco, HQ and is not eligible for full-time remote work. 
+Compensation: The annual cash compensation range for this position is $150,000–$260,000 based on level in addition to equity & benefits.
+
+
+The range displayed on this job posting reflects the minimum and maximum compensation. Factors including location, level, job-related knowledge, skills, and experience will determine compensation.
+
+About Gem
+
+Gem is the only AI-first all-in-one recruiting platform. Over 1,000 industry leaders including Anthropic, Reddit, Figma, Zillow, Robinhood, and DoorDash trust Gem to fuel their growth and recognize Gem as one of the highest-satisfaction products on G2 with a 4.8/5.0 rating. The company has raised $148M from renown investors including Accel, Greylock, ICONIQ, Sapphire, and Meritech.
+
+With Gem, You Can Experience The Power Of a Truly Connected Recruiting Platform — One Consistent Interface, Unified Data, Smarter AI Recommendations, And Simplified Permissions. Our Customers Achieve Remarkable Results
+
+
+Cut costs through consolidation: Replace your scattered recruiting tools with one AI-powered platform for ATS, CRM, sourcing, scheduling, and analytics. Reduce spend on expensive sources of talent and eliminate redundant point solutions.
+Maximize recruiter productivity: Get up to 5x efficiency gains with AI built into every workflow — from sourcing talent and reviewing applications to scheduling interviews and managing candidates. With all products working better together, recruiters spend less time switching systems and more time building relationships.
+Unlock data-driven recruiting: Get access to analytics across the recruiting funnel without complex BI tools. From pipeline metrics to hiring forecasts, Gem helps you make data-driven decisions and demonstrate impact.
+Use AI that actually works: Get better results from AI that learns from all your recruiting data. With insight into every candidate touchpoint and interaction, Gem AI makes smarter decisions about who to engage and how.
+Work with software built for recruiters: Use a platform designed around how recruiters actually work, not a collection of technical features. Quick implementation, intuitive workflows, and clear analytics make Gem the solution teams actually use and trust.
+
+
+Just As We Strive To Help Our Customers Find Great Talent, We Also Invest In Our Own People And Culture. We Are Proud Of The Culture We’ve Built And Have Recently Been Recognized As
+
+
+Forbes America's Best Startup Employers 2024
+Great Place to Work Certified, 2024
+Fortune Best Workplaces for Millennials, 2023
+
+
+The Team and Role
+
+
+Gem engineers work closely with product managers and designers to influence product direction, company roadmap, and business outcomes.
+We stay close to customers by joining customer calls, and reading customer feedback.
+We enjoy shipping features, moving fast, and being scrappy.
+We are receptive to feedback and continuously work on improving both our product and our craft.
+We work out of our San Francisco office.
+Read more about our company values.
+
+
+What You’ll Do Day-to-Day
+
+
+Own product features end-to-end alongside your product manager, engineering manager and designer.
+Work primarily with Typescript, React, Python, GraphQL, Node, PostgreSQL.
+Collaborate with engineers on your team and across Gem on code reviews, data model, architecture, and product decisions.
+Stay close to our customers.
+Embody our company values of ownership, velocity, customer centricity, diversity and transparency.
+Influence decisions and have direct impact on business outcomes.
+
+
+About You
+
+
+You have industry experience as a software engineer, building user-facing products.
+You move with velocity and invest in improving your craft.
+You are good at driving solutions by communicating and working cross-functionally.
+You are energized by collaborating in-office with your peers.
+
+
+Benefits
+
+
+Highly competitive salary & equity
+10-year window to exercise your stock options
+Supportive Flexible Time Off program
+16 paid holidays, including regular company-wide wellness days
+Best-in-class medical, dental & vision insurance
+$1,200 annual stipend for learning and development opportunities
+16 weeks of Paid Parental Leave for birthing and non-birthing parents
+New Parent Perks totaling $1,500 and flexibility upon return to work
+
+
+Gem is an equal opportunity employer. We celebrate our inclusive work environment and encourage folks of all backgrounds and perspectives to apply. At Gem, we’re committed to having an inclusive and transparent environment where every voice is heard and acknowledged. We embrace our differences, and know that our diverse team is a strength that drives our success.
+
+Gem is committed to developing a barrier-free recruitment process and work environment. If you require any accommodation, please email us at accommodations@gem.com and we’ll work with you to meet your accessibility needs.
+
+Gem’s Candidate Privacy Notice
+
+By clicking “Submit Application”, you acknowledge and agree that you have read and understand Gem’s Candidate Privacy Statement, including the information provided on how Gem processes your personal data and your related rights as set forth therein.

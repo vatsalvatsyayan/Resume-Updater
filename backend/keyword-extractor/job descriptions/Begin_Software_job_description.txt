@@ -1,0 +1,79 @@
+About the job
+
+Company Description
+
+Begin Software helps rapidly growing SMBs leverage technology to drive sustainable growth without high switching costs. Their workflow consulting, process automation, and low code development solutions are designed to save hundreds of hours every week.
+
+ 
+
+Role Description
+
+We (Begin Software) are seeking an Automation Developer to design, build, and manage sophisticated workflows using our primary integration platform, Make.com.
+
+ 
+
+You will help drive the engine of our service, responsible for designing, building, and maintaining robust automations for our clients. Working primarily within Make.com, you will turn business requirements into functional, efficient workflows that connect disparate systems and solve real-world problems. You will collaborate closely with our Solutions Architects to understand client needs and bring their vision to life through expert-level automation development.
+
+ 
+
+Responsibilities
+
+Automation & Integration Development
+
+Build & Deploy: Design, build, and maintain complex, multi-step automation scenarios in Make.com and other low-code tools.
+API & Webhook Integration: Seamlessly connect various SaaS applications for our clients using APIs and webhooks.
+Troubleshooting & Optimization: Proactively identify, debug, and resolve issues within workflows to ensure reliability and efficiency.
+Technical Problem-Solving: Tackle challenging integration problems and develop creative solutions to meet client needs.
+
+ 
+
+Collaboration & Documentation
+
+Translate Requirements: Work with Solutions Architects to translate client business needs into technical specifications and actionable development tasks.
+Process Visualization: Create and interpret flowcharts to map out and build logical, scalable automation processes.
+Technical Documentation: Develop clear and concise documentation for all automations, ensuring they are understandable and maintainable.
+Status Updates: Provide clear updates on development progress, challenges, and timelines.
+Collaborate: Assist in managing and training junior developers
+
+ 
+
+Skills & Qualifications
+
+Platform Expertise: Proven, hands-on experience building complex workflows in low-code platforms, with a strong preference for Make.com (or deep experience in Zapier).
+Technical Foundations: Strong understanding of APIs, webhooks, and data structures (JSON). You should be comfortable reading API documentation to set up new connections.
+Problem-Solving: Excellent analytical and problem-solving skills with a knack for deconstructing complex processes into manageable, logical steps.
+Attention to Detail: Meticulous and thorough, with a focus on building scalable and error-resistant automations.
+Communication: Ability to clearly communicate technical concepts and progress updates to team members.
+Nice to Have: Experience with platforms like Airtable, ClickUp, Glide, Retool or Softr. Basic scripting knowledge (e.g., JavaScript) is a plus.
+
+ 
+
+Core Competencies
+
+Demonstrate strong analytical and problem-solving abilities.
+Communicate effectively with team members, both verbally and in writing.
+Manage multiple priorities and tasks efficiently.
+Work effectively both independently and as part of a team.
+A passion for continuous learning and improving development processes.
+
+ 
+
+Core Values
+
+Initiative
+Focus on Impact
+Integrity
+Adaptable
+Trusted Ally
+
+ 
+
+Details
+
+Fully remote work
+30-40 hours/week
+Targeting $75,000-$85,000 annually
+Looking for US based candidates only
+Great English speaking skills are very important
+Bachelor's Degree preferred but not mandatory
+Willingness to complete background check

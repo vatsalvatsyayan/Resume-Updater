@@ -1,0 +1,477 @@
+Pylon
+
+Newgrad Generalist Engineer
+
+San Francisco, CA · 1 hour ago · 11 people clicked apply
+
+Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Daniel Brereton 
+
+• 3rd
+
+GTM at Pylon
+
+School alum from University of Southern California
+
+Follow
+About the job
+
+At Pylon, we’re a small team building a very ambitious product in the mortgage space. We've got product-market fit and are looking to scale what we've built
+
+We're in search of people who find difficult problems invigorating and who fit well into a high-performing team built on mutual respect and reliance. If you like pushing yourself to learn a massive amount while shipping code that has a huge impact on the end product, Pylon Engineering could be a great place for you.
+
+About You
+
+You:
+
+
+Have strong opinions that you’re willing to defend. We have a culture of vigorous discussion and debate on technical decisions. We’ll push you to defend your choices, and we want you to push back. 
+Don't settle. Challenge yourself to frequently and consistently deliver exceptional code. If something could be better, take the initiative to improve it. 
+Have great ideas, and lots of them. You should see opportunities all around you to make the code, product and infrastructure better. We’ll give you an environment where you can act on those ideas. 
+Are self-motivated. You can take a goal and drive towards it without needing extensive hand-holding. The team is supportive and loves to share knowledge and advice, but there’s no time for micromanaging your work. 
+Are comfortable with ambiguity. There's a million ways to do things; you should feel at ease making a decision under uncertainty while balancing competing constraints. 
+Are confident you can learn quickly. Mortgage is complex, our platform is complex, good software engineering is complex. You’ve got to have an attitude that you can absorb it, get on top of it, and build something better than what came before. 
+Love strong typing. We're a team full of people who love Haskell and Rust (and Idris!) and take pride in pushing Typescript to its limits. 
+
+
+About The Team
+
+What we’re not:
+
+
+Building a CRUD app:
+We’re building a platform that’s only possible due to deep technology investments and thinking hard from first principles. Cargo-culting what’s come before won’t be sufficient. 
+If you’re looking to do mostly plumbing / lego piece assembling, Pylon may be very frustrating for you
+A ChatGPT wrapper:
+Mortgage is a sprawling mess of problems, and there isn't one tool that solves every one of them. We use LLMs, but we've reached for tools in multiple disciplines like mixed-integer linear optimization and programming language research. 
+An easy job:
+We’re building a lot of things from the ground up for the first time. Working at Pylon is like a research project where you have to ship to intelligent, opinionated customers regularly. 
+It’s basically guaranteed you’ll be handed a task that is too difficult for you to do. You might fail sometimes. You might have no idea where to start. Our team leans heavily on each other, but there’s no getting around the difficulties. 
+
+What we are:
+
+
+A small team:
+We don’t have an army of engineers. If you find something is broken, you are probably the best one to fix it
+All the code we write has to punch above its weight in maintainability and toil reduction
+If you have a good idea, you have much more ability to put it into action than at a large company
+We need generalists: specialization is for big companies that already have everything figured out. If you’re smart, flexible and like getting into everything, we want you. 
+Working in a regulated space:
+Mortgage is regulated both federally and at the state level. 
+We move fast, but breaking things isn’t an option. 
+
+About The Job
+
+Basics
+
+
+Job title: Software Engineer
+Stock options: own a piece of the company and we all win together
+Health insurance, 401K, dental, etc. 
+
+
+Our technology stack:
+
+We don’t require that you’ve worked with any of these technologies before, this is just our stack for your information:
+
+
+Typescript front and backend
+Web components
+GraphQL
+PostgreSQL
+NestJS web framework
+Nx build system
+Sagittarius
+AWS stack using CDK for declarative infrastructure
+
+
+About Pylon
+
+The $13 trillion mortgage industry at the core of the American economy runs on broken assembly lines with human-powered workflows, stitched-together software, and a series of capital markets intermediates. The costs to originate are at an all time high despite foundational shifts in technology.
+
+Pylon is rewiring mortgages from the ground up. We are building the only API-first, programmatic infrastructure that fully automates credit, compliance, capital, and operations. For the first time, originators can build and scale mortgage businesses entirely through software, not people. Our team comes from Stripe, Better, and Affirm, and we are backed by Conversion Capital, QED, Citi, Fifth Wall, Peter Thiel, and the founders of Ramp, Mercury, Blend, and others.
+
+
+… more
+
+Benefits found in job post
+
+401(k), Medical insurance
+
+Set alert for similar jobs
+
+Newgrad Generalist Engineer, San Francisco, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+11
+
+total
+
+11
+
+in the past day
+
+Candidate seniority level
+
+45% Entry level candidates
+
+Candidate education level
+
+60
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+40
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about Pylon
+Powered by Bing
+
+The latest hiring trend
+
+35
+
+Total employees
+
+106%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+20
+40
+
+Median employee tenure: 1.2 years
+
+Pylon hires candidates from some of these companies and schools
+
+Pylon hired 1 person from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+Pylon
+
+2,178 followers
+
+Follow
+
+Financial Services
+
+ • 
+
+11-50 employees
+
+ • 
+
+35 on LinkedIn
+
+Pylon is the only way to build and scale a mortgage business through software, not people with automated credit, compliance, capital, and tooling. Leading fintechs, lenders, and publicly traded banks build and scale originations on Pylon. With offices in Menlo Park and New York, the company is backed by Conversion Capital, Peter Thiel, QED Investors, and Citi.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Solutions Engineer (Verified job)
+Solutions Engineer 
+
+LeapXpert
+
+United States (Remote)
+
+Medical, Vision, Dental, 401(k)
+
+Posted on January 7, 2026, 2:20 PM
+1 day ago
+
+Founding Solutions Engineer (Enterprise AI)
+
+Neon Blue
+
+San Francisco Bay Area (Hybrid)
+
+$130K/yr + Stock options
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 1:27 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+ZealTech
+
+Concord, CA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 8, 2026, 6:21 PM
+51 minutes ago
+
+ · 
+
+ Easy Apply
+
+Web Developer – Maintenance & Support (Verified job)
+Web Developer – Maintenance & Support 
+
+Opus Design
+
+Newton, MA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 10:54 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+AI Project Systems Integrator (Verified job)
+AI Project Systems Integrator 
+
+ADCO Electrical Corp.
+
+New York, NY (On-site)
+
+Posted on January 8, 2026, 7:35 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+Data Engineer
+
+Prepaire Labs
+
+Boston, MA (On-site)
+
+$120K/yr - $145K/yr
+
+Posted on January 7, 2026, 10:08 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+AI / ML Engineer
+
+Prepaire Labs
+
+Boston, MA (On-site)
+
+$130K/yr - $160K/yr
+
+Posted on January 7, 2026, 10:14 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Developer (Founding Team / Future CTO)
+
+IaxaI, Inc.
+
+United States (Remote)
+
+Posted on January 8, 2026, 4:52 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+Systems Engineer
+
+LinkTech, LLC
+
+Waukesha, WI (On-site)
+
+Medical benefit
+
+Posted on January 8, 2026, 7:06 AM
+12 hours ago
+
+ · 
+
+ Easy Apply
+
+DevOps / Data Engineer (Snowflake, DBT, Airflow) - Contract - Hybrid
+
+VS2 Technology
+
+Cincinnati, OH (On-site)
+
+Posted on January 8, 2026, 6:58 PM
+14 minutes ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer
+
+Shinkei
+
+El Segundo, CA (On-site)
+
+$145K/yr - $195K/yr
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 12:25 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Staff Flight Software Engineer (Verified job)
+Staff Flight Software Engineer 
+
+Lunar Outpost
+
+Golden, CO (On-site)
+
+1 school alumni works here
+
+Posted on January 8, 2026, 12:52 PM
+6 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

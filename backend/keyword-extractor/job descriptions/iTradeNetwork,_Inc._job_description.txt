@@ -1,0 +1,106 @@
+About the job
+
+About iTradeNetwork
+
+At iTradeNetwork, we provide advanced supply chain software and insights tailored to the food & beverage industry. Our mission is clear and ambitious: To feed the world. From the start, we’ve been dedicated to tackling the most pressing challenges within food and beverage supply chains, delivering innovative solutions and expert support that make a measurable impact.
+
+
+
+
+Our cutting-edge technology helps businesses streamline complex procurement and fulfillment processes, minimize food waste, optimize inventory, manage compliance risk, and scale profitably. We’re proud to serve an elite customer base, including 13 of the top 25 North American grocers, 8 of the top 10 foodservice distributors, and 8 of the top 10 global food and beverage manufacturers.
+
+
+
+
+JOB SUMMARY
+
+We are looking for a passionate and driven Associate AI/ML Full Stack Developer to join our engineering team. This role is ideal for a recent Computer Science graduate who is eager to work across the stack—from designing scalable web applications to implementing AI/ML models. You will gain hands-on experience in building intelligent, data-driven applications while collaborating with experienced developers, data scientists, and product managers.
+
+
+
+
+Key Responsibilities:
+
+Assist in designing, developing, and deploying full stack web applications.
+Collaborate with data scientists to integrate AI/ML models into production-ready systems.
+Work on both frontend and backend development using modern frameworks and technologies.
+Support the creation of data pipelines for training, testing, and deploying ML models.
+Participate in code reviews, testing, and debugging to ensure high-quality deliverables.
+Document processes, architectures, and best practices for future development.
+Continuously learn and adapt to emerging AI/ML frameworks, tools, and full stack practices.
+
+
+
+
+What you’ll need:
+
+Required:
+
+Bachelor’s degree in Computer Science (or equivalent).
+Strong foundation in data structures, algorithms, and object-oriented programming.
+Basic understanding of AI/ML concepts (supervised/unsupervised learning, neural networks, etc.).
+Familiarity with at least one backend language (Python, Java, or Node.js).
+Exposure to web development frameworks (React, Angular, or similar).
+Understanding of databases (SQL and/or NoSQL).
+Good problem-solving and analytical skills.
+Eagerness to learn, adapt, and work in a collaborative environment.
+
+
+
+
+Preferred (nice to have, but not mandatory):
+
+Hands-on experience with Python ML libraries (TensorFlow, PyTorch, Scikit-learn).
+Exposure to cloud platforms (AWS, GCP, or Azure).
+Knowledge of APIs and microservices architecture.
+Internship, project work, or coursework involving AI/ML applications.
+
+
+
+
+Soft Skills:
+
+Strong communication and teamwork abilities.
+Ability to adapt quickly to new technologies and tools.
+Curiosity and passion for learning about AI/ML and software development.
+Attention to detail and a proactive problem-solving mindset.
+
+
+
+
+If you are a highly motivated and results-driven individual, with a passion for driving growth in a fast-paced, entrepreneurial environment, we encourage you to apply for this exciting opportunity. We offer a competitive salary, comprehensive benefits package, and a dynamic work culture that values collaboration, innovation, and personal development.
+
+
+
+
+Why you will love working here:
+
+Competitive salary packages
+Comprehensive medical, dental, vision, and life insurance benefits for you and your family
+Flex PTO for exempt employees and competitive PTO for non-exempt
+Paid parental leave for eligible employees
+401(k) matching
+Tuition reimbursement on approved programs
+Great health & well-being benefits including Teladoc for general medical and mental health care
+
+
+
+
+These benefits are only applicable to full-time employees
+
+
+
+
+All iTradeNetwork positions are hybrid unless listed otherwise; candidates must be located in the hub(s) listed.
+
+
+
+
+Additional Requirements:
+
+Must be able to demonstrate lawful ability to work in the United States
+
+
+
+
+iTradeNetwork, Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran by applicable federal, state and local laws. We especially invite women, minorities, veterans, and individuals with disabilities to apply. EEO/AA/M/F/Vet/Disability

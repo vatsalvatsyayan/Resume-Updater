@@ -1,0 +1,98 @@
+About the job
+
+Software Engineer Level I (AI & Agentic Systems)
+
+Location: US Remote
+
+ 
+
+Overview:
+
+As a Software Engineer Level I, you will support the development of modern software systems, including AI-powered applications. You’ll work closely with senior engineers to build and maintain full-stack components, contribute to AI agent development, and grow your skills in a collaborative, fast-paced environment.
+
+ 
+
+Key Responsibilities:
+
+ Assist in the development and maintenance of software components, including backend and frontend features
+Collaborate with senior engineers to implement AI-based agents and integrate LLM APIs
+Participate in the software development lifecycle, including design, development, testing, and deployment
+Write clean, maintainable code and contribute to code reviews
+Troubleshoot and debug issues in development and staging environments
+Learn and apply best practices in software engineering, version control, and containerized environments
+Research and experiment with new tools and technologies under guidance
+
+ 
+
+Skills: 
+
+ Basic understanding of programming principles and object-oriented design
+Familiarity with Python (required); experience with JavaScript/TypeScript or web development is a plus
+Exposure to or interest in AI technologies, especially LLM APIs (e.g., OpenAI, Claude) or agentic systems is a plus
+Understanding of HTML, CSS, and basic frontend concepts is helpful
+Familiarity with Git or other version control systems
+Strong problem-solving and learning mindset
+Ability to work independently with guidance and collaborate effectively in a remote team
+
+ 
+
+Education & Experience:
+
+Bachelor’s Degree in Computer Science or a related field, or currently pursuing one
+1+ years of professional software development experience
+Any academic, personal, or internship experience with AI/ML or LLMs is a plus
+
+ 
+
+ 
+
+Desired Traits:
+
+Curious, proactive, and eager to grow. You take ownership of your work, ask thoughtful questions, and are excited to learn from experienced engineers. You’re adaptable, detail-oriented, and passionate about building impactful technology.
+
+ 
+
+ 
+
+Physical Demands:
+
+The conditions herein are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential job functions. 
+
+ 
+
+Environment:
+
+Standard indoor office setting; exposure to computer screens.
+
+Physical:
+
+Requires repetitive motion. Substantial movements/motions of the wrists hands, and/or fingers. Sufficient mobility to work in an office setting; stand or sit for prolonged periods of time; operate office equipment including use of a computer keyboard, mouse, scanner and other tools as needed.
+
+Vision:
+
+See in the normal vision range with or without correction; vision sufficient to read computer screens and printed documents.
+
+Hearing:
+
+Ability to hear in the normal audio range with or without corrections.
+
+ 
+Company Profile: One Inc provides insurers with the capability to give their customers what they expect: choice, control, convenience, and continuity. That’s the strength derived from the Power of One&trade; - a cohesive and seamless experience for both inbound and outbound digital insurance payments.
+
+The One Inc Digital Payments Platform combines multi-channel digital communications with electronic payment processing and disbursement, creating a frictionless premiums and claims payments experience. As one of the fastest growing digital payments platforms in the insurance industry, One Inc manages billions of dollars per year in premiums and claims payments.
+
+ 
+
+Headquartered in Folsom, CA&mdash;One Inc offers a competitive salary, and benefits including medical, dental, and vision insurance, 401(k) plan, a commitment to a solid work/life balance, and a policy of promoting from within whenever possible.
+
+ 
+
+One Inc is an equal opportunity employer and complies with all EEOC legislation in each jurisdiction it operates in.
+
+ 
+
+
+Equal Opportunity Employer
+ 
+This employer is required to notify all applicants of their rights pursuant to federal employment laws. 
+For further information, please review the Know Your Rights notice from the Department of Labor.

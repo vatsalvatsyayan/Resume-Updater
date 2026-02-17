@@ -1,0 +1,41 @@
+About the job
+
+We are looking for a Backend Engineer to join our growing team, designing and building core services and APIs that power our platform, used by thousands of travelers every day. You’ll work closely with engineers, product managers, and designers to deliver reliable, scalable, and high-quality solutions.
+
+This role combines the excitement of working in a fast-paced environment where you can have a direct impact, with the stability and resources of an established company.
+
+What You’ll Do
+
+
+Design, develop, and maintain backend services and APIs that support critical business functionality
+Collaborate with product and frontend teams to deliver customer-facing features end-to-end
+Write clean, maintainable, and well-tested code following best practices
+Debug, monitor, and resolve production issues to ensure reliability and performance
+Participate in code reviews, giving and receiving constructive feedback
+Stay current with backend technologies and leverage AI-assisted development tools (Copilot, CodeGPT, Claude, Cursor) to improve speed and quality
+
+
+What We’re Looking For
+
+
+2–4 years of professional experience building backend systems or APIs
+Solid understanding of computer science fundamentals (data structures, algorithms, concurrency, networking)
+Experience with Java and Spring Boot (or equivalent backend frameworks/languages) Familiarity with distributed systems, microservices, and API design
+Comfortable working with cloud platforms (AWS or similar)
+Strong sense of ownership demonstrated through delivering production-quality features and supporting them after release
+Ability to effectively leverage AI development tools to accelerate coding, testing, and troubleshooting
+Good communication skills with the ability to explain technical concepts clearly
+
+
+Nice to Have
+
+
+Experience with relational and NoSQL databases (MySQL, PostgreSQL, MongoDB, etc.)
+Familiarity with event-driven systems (Kafka, CDCs, or other messaging frameworks)
+Exposure to observability tools (logging, tracing, monitoring)
+Understanding of scalability challenges in high-growth environments
+
+
+The posted pay range represents the anticipated low and high end of the compensation for this position and is subject to change based on business need. To determine a successful candidate’s starting pay, we carefully consider a variety of factors, including primary work location, an evaluation of the candidate’s skills and experience, market demands, and internal parity.For roles with on-target-earnings (OTE), the pay range includes both base salary and target incentive compensation. Target incentive compensation for some roles may include a ramping draw period. Compensation is higher for those who exceed targets. Candidates may receive more information from the recruiter.
+
+Pay Range: $101,250 USD - $175,000 USD

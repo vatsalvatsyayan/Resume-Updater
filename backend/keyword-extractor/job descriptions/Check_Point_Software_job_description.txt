@@ -1,0 +1,32 @@
+About the job
+
+Why Join Us?
+
+As the world’s leading vendor of Cyber Security, facing the most sophisticated threats and attacks, we’ve assembled a global team of the most driven, creative, and innovative people. At Check Point, our employees are redefining the security landscape by meeting our customers’ real-time needs and providing our cutting-edge technologies and services to an ever-growing customer base.
+
+Check Point Software Technologies has been honored by Time Magazine as one of the World’s Best Companies for 2024 and Newsweek’s 2025 list of Americas Best Cybersecurity Companies. We've also earned a spot on the Forbes list of the World’s Best Places to Work for five consecutive years (2020-2024) and recognized as one of the World’s Top Female-Friendly Companies. If you're passionate about making the world a safer place and want to be part of an award-winning company culture, we invite you to join us.
+
+Key Responsibilities
+
+
+Develop software for Check Point's Security Appliances
+Design, implementation, and support of Check Point's routing software
+Implement and support features for routing protocols such as OSPF, BGP and PIM.
+Develop routing software solutions for Data Centers, Cloud (AWS, Azure, etc) and SDWAN.
+Support customer critical issues and ongoing firewall releases
+
+
+Qualifications
+
+
+0 - 2 years experience in software development
+Computer Science/Engineering or Mathematics degree with excellent C/C++ programming skills
+Knowledge in Networking and Routing protocols
+System level programming, Operating Systems development is a plus
+Knowledge in Linux Kernel Network Stack is a plus
+Must be eligible to work in the US without sponsorship from an employer now or in the future
+
+
+Hybrid: Redwood Shores, CA
+
+The wage range for this position takes into consideration a variety of factors in determining your pay. We'll consider your location, experience, certifications, and other business and organizational needs. The wage disclosure has not been adjusted for applicable geographic differentials associated with the location at which this position may be filled. A reasonable estimate of the current base wage range for this role is $88,000-$145,000 USD. In addition to the base compensation, certain roles are eligible for additional compensation, including an annual bonus or sales incentive based on revenue or utilization, depending on the terms of the plan and the employee’s role. These awards are allocated based on individual performance. Benefits/perks listed here may vary depending on the nature of your employment with Check Point Software Technologies and the country/state where you work. US-based employees gain access to healthcare benefits, a 401(k) plan and company match, short-term and long-term disability coverage, basic life insurance, stock awards and an employee stock purchasing plan.

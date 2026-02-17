@@ -1,0 +1,520 @@
+DZYNE Technologies
+
+Flight Ops Full-Stack Software Engineer 
+
+Irvine, CA · 2 hours ago · 21 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+$13K/yr - $105K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+Our Culture
+
+DZYNE Technologies is leading the future of autonomous defense. Based in Irvine, California, we develop and manufacture advanced airborne and ground-based defense solutions deployed in over 50 countries. Backed by U.S. Government Programs of Record, our technologies are field-proven, scalable, and production-ready.
+
+We’re growing fast and looking for innovators ready to make an impact. At DZYNE, you’ll join a culture built on collaboration, integrity, and purpose. We celebrate wins, value diverse perspectives, and support every team member’s success.
+
+Ready to do work that matters? Join us.
+
+Position
+
+Flight Ops Full-Stack Software Engineer
+
+Location: 
+
+34 Parker, Irvine, CA
+
+Position Description
+
+DZYNE Technologies is seeking a Full-Stack Web Application Developer to design and build internal tools that streamline operations and improve team workflows. You will embed with our Flight Operations team and observe their manual workflows to discover points ready for automation. From these observations, you will develop web-based systems that make complex processes simple and efficient — from data integration to real-time dashboards — helping teams move faster and work smarter. You will create clean, intuitive front-end interfaces and build robust back-end APIs and databases. The ideal candidate is a developer who loves quickly addressing real-world needs with elegant, maintainable software.
+
+Responsibilities
+
+
+Design and develop internal web applications and dashboards to support flight operations, ground check out, and system testing.
+Collaborate closely with cross-functional teams to understand workflows and pain points to rapidly prototype solutions.
+Build, test, and deploy full-stack applications using modern front- and backend frameworks (React, Node, Postgres or other databases).
+Design and maintain secure, scalable, and maintainable codebases.
+
+
+Required Skills/Qualifications
+
+
+Strong proficiency in JavaScript, React, and full-stack web development.
+Experience building RESTful APIs and working with relational databases (e.g., PostgreSQL).
+Familiarity with CI/CD pipelines and agile tools.
+Familiarity with virtual machines and cloud platforms for hosting
+Familiarity with Docker deployment
+Comfort working in fast-paced environments, both in and on-site, with evolving requirements.
+
+
+Preferred Skills/Qualifications
+
+
+Experience integrating software tools with real-time data or hardware systems.
+Gitlab CI/CD pipeline scripting
+Exposure to DevOps best practices
+Experience working with teams that operate physical systems (IoT, robotics, or similar)
+Drone software exposure
+
+
+Education
+
+
+Bachelor’s degree in Computer Science, Software Engineering, or related field (or equivalent experience)
+
+
+Clearance Level Required: No
+
+Travel: NGT 25%
+
+Working Conditions: The diversity of work conditions may range from an environment where there is little or no physical discomfort, such as a general office environment or warehouse to in the field (e.g. proving grounds, airfields).
+
+Physical Demands: The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+
+
+Must have the ability to stand, climb, occasionally lift a minimum of 25 lbs.
+Regularly required to crouch and reach to install/move equipment by bending forward at the waist or by bending legs and spine
+Involves movement between departments, floors, and worksites to facilitate work.
+May be performing physical activities including, but not limited to, heavy lifting and moving of items, climbing in and out of equipment, crawling, and working outdoors
+
+
+Other Requirements: (if a clearance level is not required)
+
+It is an essential requirement for the person in this role to have a legal right to work in the United States and be eligible to obtain any required Export Authorization and DoD Clearance.
+
+Salary: $105,000- $13,000 annually
+
+Salary depends on relevant work experience, education, training, essential skills, and/or other factors such as specialized or high-demand professions. In addition to the annual salary, the position will be eligible for an annual bonus. The pay range for this job level is a general guideline only and not a guarantee of salary or annual bonus.
+
+Benefits
+
+Our benefits are DZYNE’ed for your overall health and financial wellness. DZYNE provides comprehensive medical, dental, and vision plans, employee life and accidental death, and disability, with all premiums for our employees paid for by DZYNE Technologies. DZYNE provides paid time off and paid holidays. Additionally, DZYNE offers a 401K plan with an employer match.
+
+DZYNE Technologies is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, national origin, disability, or protected veteran status. In addition to federal law requirements, DZYNE Technologies complies with applicable state and local laws governing nondiscrimination in employment in every location in which our company has facilities. This policy applies to all terms and conditions of employment.
+… more
+
+Benefits found in job post
+
+401(k)
+
+Set alert for similar jobs
+
+Flight Ops Full-Stack Software Engineer, Irvine, California, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+21
+
+total
+
+21
+
+in the past day
+
+Candidate seniority level
+
+90% Entry level candidates
+
+5% Senior level candidates
+
+Candidate education level
+
+67
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+33
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about DZYNE Technologies
+Powered by Bing
+
+Company focus areas
+
+• Innovation in Autonomous Defense Systems: Focus on the design, development, and delivery of cutting-edge autonomous defense systems, including manned and unmanned vehicles and analytic systems.
+
+...more
+
+Sources: tracxn.com +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 200% increase in job openings over the past year, indicating a major focus on expanding their engineering capabilities. Expansion in program and project management: The 'Program and Project Management' department has experienced an 800% increase in job openings over the past year, suggesting a strong emphasis on managing new projects and initiatives. Increase in business development: The 'Business Development' department has grown by 17% in employee count over the past year, highlighting efforts to drive new business opportunities and partnerships. Focus on human resources: The 'Human Resources' department has seen a 60% increase in employee count over the past year, indicating a strategic investment in managing and supporting the growing workforce.
+… more
+
+The latest hiring trend
+
+255
+
+Total employees
+
+6%
+
+Company-wide
+
+2 year growth
+
+50%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+200
+400
+
+Median employee tenure: 2.3 years
+
+DZYNE Technologies hires candidates from some of these companies and schools
+
+DZYNE Technologies hired 3 people from University of Southern California. See all
+
+DZYNE Technologies hired 9 people from University of Southern California. See all
+
+Competitors
+
+DZYNE Technologies Incorporated operates in a highly competitive landscape within the autonomous defense systems industry. The company focuses on developing advanced technologies for manned and unmanned vehicles and analytic systems. Key competitors include Anduril Industries, Lockheed Martin, and Leonardo DRS, all of which are also heavily invested in cutting-edge defense technologies and autonomous systems. The competitive environment is driven by rapid innovation, strategic partnerships, and significant investments in R&D to address evolving defense needs.
+… more
+
+Sources: pwkinternational.com +2 more
+
+Show Premium Insights
+About the company
+
+DZYNE Technologies
+
+15,154 followers
+
+Follow
+
+Aviation and Aerospace Component Manufacturing
+
+ • 
+
+201-500 employees
+
+ • 
+
+241 on LinkedIn
+
+DZYNE Technologies is a leading innovator in autonomous defense solutions, specializing in the design and development of advanced unmanned aerial systems (UAS) and counter-UAS technologies. Our flagship product, the Unmanned Long-endurance Tactical Reconnaissance Aircraft (ULTRA), exemplifies our commitment to cutting-edge innovation. Developed in collaboration with the Air Force Research Laboratory, ULTRA boasts an impressive endurance capability exceeding 80 hours while carrying over 400 pounds of payload, providing mission commanders with comprehensive global operational access.
+
+Our Dronebuster DTIM kit, a compact, lightweight, and portable system that integrates detection, tracking, identification, and mitigation capabilities. This American-made solution is designed for tactical flexibility and operational adaptability, providing operators with real-time defense against evolving drone threats.
+
+Additionally, our Sawtooth platform delivers critical infrastructure defense through high-performing sensors and effectors specifically optimized for counter-UAS missions. Regularly updated to address rapidly evolving threats, Sawtooth ensures robust and adaptable protection for a variety of operational environments.
+
+At DZYNE Technologies, we are dedicated to building autonomous defense solutions today to create a safer tomorrow. Our team is passionate about pushing the boundaries of technology to deliver exceptional results for our clients and partners worldwide.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+AI Project Systems Integrator
+
+ADCO Electrical Corp.
+
+New York, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on January 8, 2026, 7:35 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Middleware Software Engineer
+
+BridgeFlair LLC
+
+Pittsburgh, PA (Remote)
+
+Posted on January 9, 2026, 7:28 PM
+55 minutes ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (Verified job)
+Software Engineer 
+
+Medpace
+
+Cincinnati, OH (Hybrid)
+
+1 company alumni works here
+
+Posted on January 9, 2026, 8:23 PM
+now
+
+Software Engineer, Full Stack (Verified job)
+Software Engineer, Full Stack 
+
+Yahoo!
+
+United States (Remote)
+
+$111K/yr - $231.2K/yr
+
+23 company alumni work here
+
+Posted on January 9, 2026, 8:03 PM
+20 minutes ago
+
+Full Stack Engineer
+
+Lumicity
+
+San Francisco, CA (On-site)
+
+$175K/yr - $220K/yr
+
+ • 
+
+4 benefits
+
+Posted on January 9, 2026, 3:30 PM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer
+
+AOS, Inc. dba Trading Block
+
+Chicago, IL (On-site)
+
+Posted on January 8, 2026, 2:26 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer 2 - Sync (Verified job)
+Software Engineer 2 - Sync 
+
+Bill.com, Inc.
+
+Draper, UT
+
+$107.5K/yr - $129K/yr
+
+ • 
+
+401(k), +1 benefit
+
+1 connection works here
+
+Posted on January 9, 2026, 6:28 PM
+1 hour ago
+
+Software Engineer, Driver Earnings (Verified job)
+Software Engineer, Driver Earnings 
+
+Lyft
+
+Seattle, WA (Hybrid)
+
+$99.4K/yr - $124.2K/yr
+
+ • 
+
+Vision, 401(k), +1 benefit
+
+8 company alumni work here
+
+Posted on January 9, 2026, 9:58 AM
+10 hours ago
+
+Software Engineer II (Verified job)
+Software Engineer II 
+
+Iterable
+
+Boston, MA
+
+$114.5K/yr - $188K/yr
+
+ • 
+
+401(k), +1 benefit
+
+4 school alumni work here
+
+Posted on January 9, 2026, 8:20 AM
+12 hours ago
+
+Software Engineer
+
+RemoteHunter
+
+United States (Remote)
+
+Posted on January 9, 2026, 12:41 PM
+7 hours ago
+
+Full Stack Engineer (Product-Focused)
+
+Ikuto
+
+New York City Metropolitan Area (Hybrid)
+
+$200K/yr - $260K/yr
+
+Actively reviewing applicants
+
+Posted on January 9, 2026, 3:36 PM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+Helic & Co.
+
+United States (Remote)
+
+Posted on January 9, 2026, 10:14 AM
+10 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

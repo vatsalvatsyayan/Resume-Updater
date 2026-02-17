@@ -1,0 +1,496 @@
+Scopely
+
+Software Engineer, Full Stack 
+
+Sunnyvale, CA · 2 hours ago · Over 100 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+$139.5K/yr - $170.5K/yr
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+Scopely is a global gaming company whose mission is to inspire play every day. Niantic (a division of Scopely)’s mission is to inspire people to explore the world, together. We build products that inspire exercise, exploration, and social in-person interaction.
+
+Niantic’s Engineering Team is seeking an adventurous Software Engineer, Web/Full Stack. We seek engineers with strong technical background, great execution, and self-starter mentality. The ideal candidate loves to jump into the unknown, clarify ambiguities, quickly learn from failures, and break down vague ideas into concrete tasks.
+
+Responsibilities
+
+
+Work with technical leads to design and implement high impact features end to end including cloud pipelines and infrastructure, database development, server development, and front end development.
+Build well-designed, reusable services and components that can be shared across Niantic’s applications.
+Collaborate between eng, design, and product teams to ensure the goals of the product are aligned with the delivered feature or service.
+Participate in code reviews, write unit tests, and conduct troubleshooting to ensure uptime for live systems.
+Collaborate with cross-site stakeholders and team members around the world to cultivate strong working relationships, including regular and reliable attendance and participation in meetings, and traveling to global offices as needed to facilitate effective collaboration.
+Act as a cultural, linguistic and technical bridge between teams across global offices, including in Latin America and Spain.
+Required in-office at least 3 days per week, based in Sunnyvale CA. 
+
+
+Qualifications
+
+
+MS, or PhD in Computer Science, or a related technical field.
+1.5+ years industry experience in 3D development and web development.
+Proficiency in multiple application domains (e.g. game engines, web, cloud computing) and a demonstrated ability to learn and deliver products utilizing new technologies.
+Strong experience in advanced, modern Javascript technologies (e.g. WebGL, WebAssembly) and frameworks (GraphQL, React, Node).
+Strong experience in backend technologies (e.g. Golang, GRPC).
+Demonstrated ability to propose, implement and launch high impact features.
+Demonstrated commitment to quality including concrete deliverables around performance and test coverage.
+Ability to work in a fast-paced environment and handle stress appropriately and/or ability to solve practical problems and be sufficiently adaptable to handle dynamic situations with little advance notice.
+Experience working on cross-functional teams with ability to communicate effectively through written and verbal communications, including synchronous interactions with others.
+Fluency in Spanish with ability to periodically travel to Scopely’s global offices, including ones in Barcelona or Mexico City.
+
+
+Plus If...
+
+
+Experience building complex features end to end.
+Experience helping shape technical design and execution as a strong engineering partner.
+
+
+The total compensation package for this position includes a new hire offer base salary range of $139,500 - $170,500 + bonus + benefits.
+
+Individual pay within this salary range is determined by work location and additional factors, including assessed job-related skills, experience, and relevant education or training. Your recruiter can answer any questions about new hire total compensation during the hiring process. An overview of benefit offerings for your location can be found on the careers page.
+
+For candidates in CA, CO, NJ, NY, and WA, the annual salary range is provided below. In addition to base pay, employees may be eligible for equity, bonuses, and a comprehensive benefits package, including healthcare benefits, retirement benefits, pet insurance, paid holidays, paid Scopely free days, and unlimited paid time off. Base pay offered may vary depending on job-related knowledge, skills, and experience.
+
+CA, CO, NJ, NY, and WA Annual Salary Range
+
+$139,500 - $170,500 USD
+
+About Us
+
+Scopely is a global interactive entertainment and mobile-first video game company, home to many top, award-winning experiences such as "MONOPOLY GO!," “Star Trek™ Fleet Command,” “Stumble Guys,” “MARVEL Strike Force,” and “Yahtzee® With Buddies,” among others.
+
+Scopely creates, publishes, and live-operates immersive games that empower a directed-by-consumer™ experience across multiple platforms--from mobile, web, PC and beyond.
+
+Founded in 2011, Scopely is fueled by a world-class team and a proprietary technology platform Playgami that supports one of the most diversified portfolios in the games industry.
+
+Recognized multiple times as one of Fast Company’s “World’s Most Innovative Companies,” Scopely is a multi-billion-dollar business due to its ability to create long-lasting game experiences that players enjoy for years.
+
+Scopely has global operations in more than a dozen markets across Asia, EMEA, and North America, and is home to many internal game development teams, referred to as Scopely Studios, with additional game studio partners across four continents.
+
+Scopely was acquired by Savvy Games Group in July 2023 for $4.9 billion, and is now an independent subsidiary of Savvy.
+
+For more information on Scopely, visit: scopely.com
+
+Notice to candidates: Scopely, Inc and its affiliates will never request payment or ask for financial information as a condition for applying to a position or receiving an offer of employment. All official Scopely, Inc. recruiters only use email domains that end with @scopely.com.
+
+Our official website is www.scopely.com. Please only apply to positions posted on our official website and ensure the recruiter only communicates via the official email domain.
+
+Should you have any questions or encounter any fraudulent requests/emails/websites, please immediately contact recruiting@scopely.com. Our job applicant privacy policies are available here: California Privacy Notice and EEA/UK Privacy Notice.
+
+Employment at Scopely is based solely on a person's merit and qualifications. Scopely does not discriminate against any employee or applicant because of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition (including breastfeeding), or any other basis protected by law. We also consider qualified applicants with arrest or conviction records, consistent with applicable federal, state and local law.
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Sunnyvale, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+118
+
+total
+
+118
+
+in the past day
+
+Candidate seniority level
+
+86% Entry level candidates
+
+4% Senior level candidates
+
+1% Director level candidates
+
+Candidate education level
+
+91
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+8
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Doctor of Philosophy
+Exclusive Job Seeker Insights about Scopely
+Powered by Bing
+
+Company focus areas
+
+• Strategic Acquisitions: Scopely focuses on acquiring other game studios and intellectual properties to diversify its game portfolio and reach new audiences.
+
+...more
+
+Sources: canvasbusinessmodel.com +1 more
+
+Hiring & headcount
+
+Significant growth in Engineering: The Engineering department has seen a 16% increase in headcount, indicating a major focus on technological development and innovation. Expansion in Quality Assurance: With a 16% rise in employee count, the Quality Assurance function is growing, suggesting an emphasis on improving product quality and reliability. Increase in Research: The Research department has experienced a 25% increase in headcount, highlighting a strong investment in new product development and innovation. Growth in Accounting: The Accounting function has grown by 30%, which may indicate an increased focus on financial management and compliance as the company scales.
+… more
+
+The latest hiring trend
+
+3,749
+
+Total employees
+
+12%
+
+Company-wide
+
+2 year growth
+
+17%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+2500
+5000
+
+Median employee tenure: 2.6 years
+
+Scopely hires candidates from some of these companies and schools
+
+Scopely hired 8 people from University of Southern California. See all
+
+Scopely hired 51 people from University of Southern California. See all
+
+Competitors
+
+Scopely operates in a highly competitive mobile gaming market, leveraging strategic acquisitions, proprietary technology, and live-ops mastery to maintain its market leadership. The company focuses on creating and publishing a variety of casual and mid-core games, often based on popular franchises. With cumulative revenues surpassing $10 billion, Scopely continues to expand its portfolio and market reach, facing competition from major players like Zynga, Tencent, and Tripledot.
+… more
+
+Sources: blog.udonis.co +2 more
+
+Show Premium Insights
+About the company
+
+Scopely
+
+186,085 followers
+
+Follow
+
+Entertainment Providers
+
+ • 
+
+1001-5000 employees
+
+ • 
+
+2,838 on LinkedIn
+
+Scopely is a leading global interactive entertainment and video game company, home to many top-grossing, award-winning franchises, including the most successful mobile game ever launched "MONOPOLY GO!," along with "Stumble Guys," "Star Trek™ Fleet Command," "MARVEL Strike Force," "WWE Champions" and "Yahtzee® With Buddies," among many others.
+
+Scopely creates, publishes, and live-operates immersive games across mobile, web, PC and console that empower a directed-by-consumer™ experience.
+
+Founded in 2011, Scopely is fueled by a world-class team and a proprietary technology platform Playgami™ that supports one of the most diversified portfolios in the games industry.
+
+Recognized multiple times as one of Fast Company’s “World’s Most Innovative Companies” and as a TIME100 “Most Influential Company In the World,” Scopely has surpassed $10 billion in lifetime revenue due to its ability to create long-lasting game experiences that players enjoy for years.
+
+Scopely has global operations across North America, Central America, EMEA and Asia, with additional game studio partners across four continents. 
+
+Scopely was acquired by Savvy Games Group in July 2023 for $4.9 billion, and is now an independent subsidiary of Savvy.
+
+For more information on Scopely, visit: scopely.com.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Full-Stack Developer — AI Agent Platform for Financial Services (Google Cloud / Vertex AI)
+
+Insomniac Hedge Fund Guy
+
+United States (Remote)
+
+$60/hr - $70/hr
+
+Posted on January 4, 2026, 11:43 AM
+1 day ago
+
+Graduate 2026 Software Engineer I, US (Verified job)
+Graduate 2026 Software Engineer I, US 
+
+Uber Technologies Inc
+
+Seattle, WA
+
+$150K/yr - $158K/yr
+
+3 connections work here
+
+Posted on January 5, 2026, 4:06 PM
+4 hours ago
+
+Founding iOS Engineer (Verified job)
+Founding iOS Engineer 
+
+Second Nature Computing
+
+San Francisco Bay Area (On-site)
+
+$150K/yr - $190K/yr + Stock options
+
+Posted on January 4, 2026, 3:25 PM
+1 day ago
+
+Graduate 2026 Software Engineer I, US (Verified job)
+Graduate 2026 Software Engineer I, US 
+
+Uber Technologies Inc
+
+New York, NY
+
+$150K/yr - $158K/yr
+
+3 connections work here
+
+Posted on January 5, 2026, 4:06 PM
+4 hours ago
+
+Java Software Engineer I (Verified job)
+Java Software Engineer I 
+
+Esri
+
+Redlands, CA
+
+$79K/yr - $129.8K/yr
+
+1 connection works here
+
+Posted on January 5, 2026, 3:18 PM
+5 hours ago
+
+Software Engineer 1 (Verified job)
+Software Engineer 1 
+
+Intuit
+
+San Diego, CA
+
+$55.50/hr - $75/hr
+
+Posted on January 5, 2026, 3:29 AM
+17 hours ago
+
+New Grad Program – Associate, Software Engineer (Verified job)
+New Grad Program – Associate, Software Engineer 
+
+Epsilon
+
+Chicago, IL (Hybrid)
+
+$90K/yr
+
+ • 
+
+2 benefits
+
+Posted on January 5, 2026, 1:29 PM
+7 hours ago
+
+Senior Search Engineer
+
+Jackson Parker Operating
+
+Cleveland, OH (On-site)
+
+Medical, Vision, Dental, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 1:03 PM
+7 hours ago
+
+ · 
+
+ Easy Apply
+
+New Grad Program – Associate, Software Engineer (Verified job)
+New Grad Program – Associate, Software Engineer 
+
+Epsilon
+
+Westminster, CO (Hybrid)
+
+$90K/yr
+
+ • 
+
+2 benefits
+
+Posted on January 5, 2026, 1:29 PM
+7 hours ago
+
+Software Engineer (Verified job)
+Software Engineer 
+
+DocuSign
+
+San Francisco, CA (Hybrid)
+
+Posted on January 5, 2026, 3:45 PM
+5 hours ago
+
+Software Engineer 1 (Verified job)
+Software Engineer 1 
+
+Lensa
+
+Mountain View, CA (On-site)
+
+52 school alumni work here
+
+Posted on January 4, 2026, 11:23 PM
+21 hours ago
+
+Software Engineer, Associate (NJUS) (Verified job)
+Software Engineer, Associate (NJUS) 
+
+NetJets
+
+Columbus, OH (Hybrid)
+
+401(k) benefit
+
+9 school alumni work here
+
+Posted on January 5, 2026, 4:47 PM
+4 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

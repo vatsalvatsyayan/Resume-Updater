@@ -1,0 +1,66 @@
+About the job
+
+Welcome to the Agentic Commerce Era
+
+At Commerce, our mission is to empower businesses to innovate, grow, and thrive with our open, AI-driven commerce ecosystem. As the parent company of BigCommerce, Feedonomics, and Makeswift, we connect the tools and systems that power growth, enabling businesses to unlock the full potential of their data, deliver seamless and personalized experiences across every channel, and adapt swiftly to an ever-changing market. Simply said, we help businesses confidently solve complex commerce challenges so they can build smarter, adapt faster, and grow on their own terms. If you want to be part of a team of bold builders, sharp thinkers, and technical trailblazers, working together to shape the future of commerce, this is the place for you.
+
+Our global team of engineers works from our Austin, San Francisco, Atlanta and Sydney offices and are focused on building the right product for our customers in the right way. We enable our customers to build intuitive and engaging stores at a fraction of the cost of our more heavyweight competitors to support every stage of their growth.
+
+Commerce is looking for Full Stack Engineers who want to make an impact to every level of society through powering innovators, creative thinkers, entrepreneurs and business owners around the world to be successful at each stage of their business.
+
+What You’ll Do
+
+Our core technologies include PHP, Scala, Ruby on Rails, Golang, React, Angular, TypeScript, Jest, Node, and many more. We work in a microservices environment hosted by the Google Cloud Platform. We already have a lot of nice things in place in terms of build and deployment tools to get code out there several times a day, experimentation and metrics gathering so we can make smart choices and monitoring, so we know when something goes wrong. We don’t expect our new-starters to be intimately familiar with all the tools we use, but if you are then we’re looking forward to learning how we can get the best out of them.
+
+We work closely with other engineering teams, product owners, designers, business representatives, and external partners to build a robust eCommerce platform that enables our customers to grow their businesses and our technology partners to build robust integrations and enhancements on top of our APIs. We have a team of people at different levels and with different expertise and we work to iterate, learn, and build great software together.
+
+Why We’re Excited About You
+
+
+You’re a trusted engineer who has completed either a comprehensive software engineering CS or equivalent degree 
+You have a solid understanding of modern programming and design principles. You write tested, maintainable code that you are proud of and you are committed to keeping code quality high
+You are passionate and knowledgeable on modern technologies and tools, without being biased toward a specific technology
+You’re more interested in finding the right tools and patterns for the job
+You’re an excellent communicator. You can explain not just your ideas, but the reasons behind them, and you’re comfortable to do that in person, over slack or email, or in a code review
+You own your work and hold yourself responsible for results.
+You love to teach as well as to learn. You don't hesitate to ask for help and are always ready to provide help when needed because you want the whole team to grow
+You enjoy your work and the team you work with. You think terrible puns are funny and you would poke fun at your manager because they can’t spell
+
+
+Why Join Us?
+
+
+Work on exciting eCommerce and martech projects with modern tools
+Learn from experienced engineers and grow in a supportive environment
+Competitive salary, benefits, and professional development opportunities
+A team culture that values learning, collaboration, and creative problem-solving
+
+
+The exact salary will be dependent on the successful candidate’s location, relevant knowledge, skills, and qualifications.
+
+Inclusion and Belonging
+
+At Commerce, we believe that celebrating the unique histories, perspectives and abilities of every employee makes a difference for our company, our customers and our community. We are an equal opportunity employer and the inclusive atmosphere we build together will make room for every person to contribute, grow and thrive.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the interview process, to perform essential job functions and to receive other benefits and privileges of employment. If you need an accommodation in order to interview at Commerce, please let us know during any of your interactions with our recruiting team.
+
+Learn more about the Commerce team, culture and benefits at https://www.commerce.com/careers/
+
+Protect Yourself Against Hiring Scams: Our Corporate Disclaimer 
+
+Commerce, along with many other employers, has become the subject of fraudulent job offers to hopeful prospective job seekers.
+
+Be Advised
+
+Commerce does not offer jobs to individuals who do not go through our formal hiring process.
+
+Commerce Will Never
+
+
+require payment of recruitment fees from candidates;
+request personally identifiable information through unsanctioned websites or applications;
+attempt to solicit money from you as part of the hiring process or as part of an employment offer;
+solicit money to complete visa requirements as part of a job offer.
+
+
+If you receive unsolicited offers of employment from Commerce, we urge you to be extremely cautious and avoid engaging or responding.

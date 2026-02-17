@@ -1,0 +1,59 @@
+About the job
+
+At Comulate, we’re transforming the insurance back office with AI. Our platform, which reinvents expensive and time-consuming accounting processes, is the first step in our vision to unlock the hundreds of billions of dollars spent on manual insurance operations.
+
+Our Series B, announced in early 2025, led by BOND & Workday, comes on the heels of record growth and accelerating expansion plans.
+
+Why you should consider joining
+
+
+Record-setting growth, having gone from zero to 8-figure ARR within three years of founding, representing 95th+ percentile company growth among startups that achieve these milestones
+Strong product market fit revealed in growth and through customer love, with users describing the platform as “the best thing since sliced bread” and "life-changing"
+Our lean, talented team is creating category-defining products for large public and private enterprises, driving 7-figure ROI and cash-flow positive operations, providing the best of both worlds: outsized employee ownership and low company risk
+We're continuing to take big, ambitious first-to-market bets for a highly committed customer base and an exciting pipeline of new customers
+We’re in the early innings of our vision and poised to take advantage of the massive opportunity to deploy AI into core workflows throughout the insurance industry
+
+
+About The Role
+
+We’re hiring software engineers to join us onsite in San Francisco. You’ll build critical systems, services, and customer-facing features end-to-end. You’ll be doing a lot of zero to one, breaking down high-level goals, diving into ambiguity and experimenting to find the best solutions. As an early employee, you’ll also contribute heavily to building the company’s team and culture.
+
+Our stack: TypeScript, React, Node, Postgres, GraphQL (Apollo), Next.js
+
+Learn more about our engineering culture and learnings on our engineering blog.
+
+You might be a good fit if you have/are
+
+
+2+ years of experience as a software engineer
+A strong desire to directly understand customer problems and design solutions for them
+Demonstrated abilities in one part of the stack (e.g. front-end / back-end)
+Desire for self-directed learning quickly in an early-stage startup environment
+Familiarity or interest in Typescript, React, GraphQL, Postgres, or Next.js
+Not required: insurance knowledge – we promise, you’ll pick up the necessary pieces fast!
+
+
+Our team & philosophy
+
+We’re backed by BOND, Spark Capital, Neo, and Workday, as well as founders/executives from Brex, Asana, Plaid, Applied Intuition, Coalition, and more.
+
+Our team hails from companies like Airbnb, Google, Brex, and LiveRamp and we’re fairly low-profile: focusing the majority of our energy on delivering for customers and building a category-defining company.
+
+We’re hiring predominantly in San Francisco 🌁, as we believe in-person collaboration is strategically important for a company at our stage — both for velocity and company culture.
+
+Benefits
+
+
+Competitive base salary and generous equity
+Generous medical, dental, and vision benefits
+401K plan enrollment
+Flexible time-off policy
+Lunch & dinner every day
+Paid parental leave
+Company outings and offsites
+(and more benefits as we grow!)
+
+
+Comulate is proud to be an equal opportunity employer. We are committed to building a diverse and inclusive culture that celebrates authenticity. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, disability, protected veteran status, or any other legally protected characteristics.
+
+Compensation Range: $140K - $180K

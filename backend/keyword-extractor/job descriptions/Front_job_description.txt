@@ -1,0 +1,52 @@
+About the job
+
+Front is the leading AI-powered customer service platform built for collaboration. Front brings core support channels into a modern, intuitive workspace where teams can collaborate on requests, automate manual processes, and delight customers across their entire lifecycle. Front’s flexible workflows, AI features, and customer intelligence provide the efficiency and insights to keep entire organizations customer-first, every day. More than 9,000 of the most innovative companies worldwide including CultureAmp, HootSuite, and Y Combinator use Front to deliver five-star service at scale.
+
+Backed by Sequoia Capital and Salesforce Ventures, Front has raised $204M from leading venture capital firms and independent investors including top executives at Atlassian, Okta, Qualtrics, Zoom, and PagerDuty. Front has received numerous Great Place to Work accolades, including Built In's 100 Best Midsize Places to Work in SF 2025, Top Places to Work by USA Today 2025, Y Combinator's list of Top Companies in 2023, #4 on Fortune’s Best Workplaces in the Bay Area™ ,Inc. Magazine's 2022 Best Workplaces list, and Forbes Best Startup Employers 2022 List.
+
+Through building tools and products for other engineers, our infrastructure team acts as a team multiplier - think auto-scaling, horizontal sharding, scalable storage systems, application performance monitoring, database optimization, and more. We are in the early phases of scaling out our next-generation cells architecture that will support a scale orders of magnitude greater than what we can today. Curious? Talk to us, we’d love to tell you more.
+
+What will you be doing?
+
+
+Building and automating our next-generation cells architecture, a horizontal scaling platform that allows us to support growing customers all over the world.
+Automate rebalancing of our customers across our cells to spread the load (without downtime!)
+Design and implement a new Kubernetes staging environment that engineers can spin up in under a minute.
+Build tools to scale developer workflows for a >50 person engineering team, for example, schema migration automation tool to run online MySQL migrations across a large number of production database shards.
+Troubleshoot and resolve low-level bugs and issues, e.g. memcached throughput exceeding AWS caps, network partitions in our AWS VPC
+Design, deploy and operate asynchronous work queues, high-volume storage systems, high-throughput systems: You should not be afraid of writing code that will decide to start or stop 1000 servers
+
+
+What skills and experience do you need?
+
+
+Be excited about cloud infrastructure!
+Product mindset, we’re a product company on a mission to “advance how people work”
+Industry experience with highly available, large-scale distributed systems at a large-scale internet service.
+Experience working on software systems built atop Amazon Web Services.
+Fluency in a dynamic language like Node.JS, Python, Rust, or similar.
+Strong track record of launching and delivering projects of significant complexity and high level of ambiguity.
+Understand the trade-offs in employing different technical solutions to a problem, valuing pragmatism over idealism.
+Ability to thrive in a dynamic, fast-paced, collaborative, and high-growth environment.
+
+
+This is a hybrid role, expected to be in our SF office on Tuesdays and Thursdays.
+
+What We Offer
+
+
+Competitive salary
+Equity (we are post-series D & backed by some of the best VCs in the US)
+Private health insurance, including plan options at no cost to employees
+Paid parental leave
+Flexible time off policy
+Focus Fridays - learn more here!
+Flexibility to work from home 3 days/week (unless posted as a full-remote role)
+Mental health support with Workplace Options
+Family planning support with Maven
+$100 per month Lifestyle Stipend to spend on fitness, health and wellness, and other activities
+Wellness Days - Fronteers get an additional day off on months with no holidays
+Winter Break - Our offices are closed from Christmas to New Year's Day!
+
+
+Front provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age or disability. By applying, you acknowledge and agree that you have read and understand the California Recruiting Privacy Notice  & EU Privacy Notice

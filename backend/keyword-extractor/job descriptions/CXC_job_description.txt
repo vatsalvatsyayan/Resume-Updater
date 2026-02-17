@@ -1,0 +1,51 @@
+About the job
+
+Are you passionate about building cutting-edge APIs and distributed systems? We’re looking for a Software Engineer with strong experience in GraphQL API development to join our growing team. This role offers the chance to work on impactful projects in a fast-paced, collaborative environment.
+
+
+
+
+Title: Software Engineer (GraphQL / .NET / Azure)
+Remote: Must work Eastern Time Hours
+Jr–Mid Level (2–5 years experience)
+
+
+
+
+What You’ll Do
+
+Develop and maintain GraphQL APIs to support scalable and efficient data access.
+Work with event-driven architectures leveraging Confluent Kafka.
+Deploy, host, and manage distributed applications on Microsoft Azure.
+Collaborate with the team to design and implement RESTful APIs, microservices, and distributed systems.
+Contribute to application containerization using Docker and orchestration tools like Kubernetes (a plus).
+Design and optimize database schemas for SQL, NoSQL, and GraphQL.
+Communicate effectively with both technical and non-technical stakeholders.
+
+
+
+
+What We’re Looking For
+
+2–5+ years of software engineering experience (Jr–Mid level only; not looking for senior profiles).
+Proven expertise in GraphQL API development.
+Strong experience with Confluent Kafka and event-driven architectures.
+Proficiency in C# .NET and familiarity with the .NET ecosystem.
+Hands-on experience with Microsoft Azure.
+Knowledge of containerization and orchestration (Docker, Kubernetes) is a plus.
+Strong problem-solving abilities and adaptability in a fast-paced setting.
+Excellent communication and interpersonal skills.
+
+
+
+
+Additional Details
+
+Must work Eastern Time hours.
+Video on is required for all interviews and team meetings.
+Background in E-Commerce projects is highly desirable.
+
+
+
+
+If you’re eager to grow in a collaborative, innovative environment, we’d love to hear from you! Apply now and be part of something impactful.

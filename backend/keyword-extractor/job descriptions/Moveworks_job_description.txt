@@ -1,0 +1,503 @@
+Moveworks
+
+Software Engineer, Agentic AI Systems 
+
+Mountain View, CA · 19 minutes ago · 32 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Wentao and others in your network
+
+Show all
+About the job
+
+The Role
+
+Software Engineer, Agentic AI Systems (New Grad)
+
+Are you a software engineer who has honed your craft through internships, research, and/or academic projects, and are looking to apply your skills at the cutting edge of AI agents? This may be the role for you.
+
+As a software engineer on our “agent lab” Natural Language Understanding team, you will play an important part in our mission: to advance the frontier of work that can be entrusted to agents to perform reliably at scale. You will have the opportunity to contribute to the evolution of the Moveworks AI Assistant platform in several of the following areas: agent orchestration, sandboxed file systems and code execution, latency optimization, agent memory, LLM self-reflection and improvement, execution environment simulation, enterprise knowledge graphs, and multimodal I/O.
+
+You will have all the tools of modern enterprise AI at your disposal, including best-in-class LLMs from providers like OpenAI. Our team indexes on moving fast on scalable infrastructure, solving challenging product and engineering problems, and pushing the envelope of value provided to customers. If you are looking to do impactful work with a bright, dedicated, and impact-driven team alongside you, we’d love to have a conversation.
+
+What You Will Do:
+
+
+Take on exciting engineering challenges (see areas listed above) to build and evolve capable AI agent systems that are reliable in every sense of the word
+Implement frontier AI algorithms and architectures and help productionize them at scale, with support from senior engineers
+Use the latest advances in machine learning, LLMs, and AI agents to enhance our products and create delightful user experiences
+Execute on projects to create lasting value for all our customers
+Hone your craft in writing robust, extensible, readable, and performant code
+Partner with subject matter experts across the company including in machine learning, security, product, user experience, and customer success, to learn from each other and build the best enterprise AI product the world has ever seen
+Learn from and collaborate with senior engineers and machine learning engineers to build world-class AI systems
+
+
+What You Bring To The Table:
+
+
+Strong programming fundamentals and experience building software through coursework, projects, internships, and/or research
+Ability to think and communicate clearly about engineering problems and systems
+Eagerness to learn, give and receive feedback, and hold yourself to a high standard of operational excellence
+Readiness to hit the ground running in a Mac development environment, programming in Python, Golang, and/or Java
+Desire to ship at a startup pace with a high degree of ownership
+Attention to detail
+Drive to ship product improvements with production-grade code (with guidance and iterative development)
+Strong appetite for continuous incremental wins and completing challenging projects fast
+High level of curiosity about engineering outside of immediate discipline and ongoing desire to learn and stay at the cutting edge of applied AI
+
+
+Nice To Have:
+
+
+Internship or research experience building production-quality software
+Experience building with LLMs, particularly in iterating on prompts, on model selection, on cognitive architecture design, and on latency/correctness tradeoffs in a data-driven way
+Hands-on experience with one or more stages of a machine learning problem-solving lifecycle, such as experiment setup, dataset curation, model training, offline evaluation and error analysis, deployment, and online evaluation
+Experience in AI fairness, privacy, permission controls, safety, and/or security
+Our compensation package includes a market competitive salary, equity for all full time roles, exceptional benefits, and, for applicable roles, commissions or bonus plans.
+
+
+Ultimately, in determining pay, final offers may vary from the amount listed based on geography, the role’s scope and complexity, the candidate’s experience and expertise, and other factors.
+
+Moveworks Is An Equal Opportunity Employer
+
+
+Moveworks is proud to be an equal opportunity employer. We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, veteran status, or any other characteristics protected by law.
+
+
+Who We Are
+
+Moveworks is the Agentic AI Assistant platform that empowers the entire workforce.
+
+Our platform enables employees to converse with all of their business systems through natural language to quickly find answers and automate tasks. Powered by the world's most advanced LLMs, our proprietary models, and a sophisticated Agentic AI platform, we're transforming how work gets done by allowing AI to take initiative, streamline complex workflows, and continuously learn and adapt.
+
+Moveworks is trusted by over 5.5 million employees at more than 350 of the world’s largest companies, including 10% of the Fortune 500, to automate everyday tasks and streamline business operations. Recognized on the Forbes Cloud 100 and AI 50 lists, Moveworks was also named one of Fast Company’s 2025 Most Innovative Companies and Inc’s Best in Business, in the Best in Innovation category. Moveworks was also recognized at Microsoft’s 2025 Partner of the Year and in 2024, received the AI Breakthrough Award.
+
+In December 2025, Moveworks was acquired by ServiceNow, marking a pivotal milestone in our journey to create a single front door to work for all business systems. By combining ServiceNow’s leading workflow automation with Moveworks’ Reasoning Engine and natural language capabilities, we deliver the AI platform for every person and every workflow. Built to go beyond basic summaries to deliver meaningful business impact. Together, our AI acts across enterprise systems to turn conversations into completed work.
+
+By joining our team, you’ll be at the forefront of the AI transformation, backed by the global scale of ServiceNow and the agility of a high-growth company. We are looking for world-class talent to help us extend agentic AI to every employee across every corner of the business.
+
+Come join us!
+
+ServiceNow
+
+It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Mountain View, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+32
+
+total
+
+32
+
+in the past day
+
+Candidate seniority level
+
+75% Entry level candidates
+
+9% Senior level candidates
+
+Candidate education level
+
+78
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+22
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about Moveworks
+Powered by Bing
+
+Company focus areas
+
+• AI-Powered Work Automation: Moveworks focuses on boosting productivity by streamlining how employees find answers and automate tasks through its AI Assistant platform.
+
+...more
+
+Sources: iiga.news +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 22% increase in headcount, indicating a major focus on expanding technical capabilities and product development. Expansion in sales: The 'Sales' department has experienced a 25% increase in headcount, suggesting a strong push towards market expansion and revenue growth. Increase in business development: The 'Business Development' department has grown by 27%, highlighting efforts to explore new business opportunities and strategic partnerships. Focus on marketing: The 'Marketing' department has grown by 21%, reflecting an increased investment in brand promotion and customer acquisition strategies.
+… more
+
+The latest hiring trend
+
+32,652
+
+Total employees
+
+29%
+
+Company-wide
+
+2 year growth
+
+27%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+20000
+40000
+
+Median employee tenure: 2.1 years
+
+Moveworks hires candidates from some of these companies and schools
+
+Moveworks hired 12 people from University of Southern California. See all
+
+Competitors
+
+Moveworks is a significant player in the AI agent space, offering a comprehensive platform for internal service workflows across ITSM, HR, finance, and other departments. The company is recognized for its advanced AI capabilities that automate routine tasks and streamline workflows, enhancing operational efficiency. Moveworks faces competition from other AI agent builders like Kore.ai, Leena AI, and Glean, which also provide robust AI-driven solutions for enterprise service management.
+… more
+
+Sources: budibase.com +1 more
+
+Show Premium Insights
+About the company
+
+Moveworks
+
+80,548 followers
+
+Follow
+
+Software Development
+
+ • 
+
+501-1000 employees
+
+ • 
+
+721 on LinkedIn
+
+Moveworks is the AI Assistant platform the world’s foremost organizations trust to empower their entire workforce with AI that gets work done. 
+
+We cut through operational complexity by unifying siloed business applications — from HR and IT to Finance, Procurement, and beyond — with an intuitive, AI-native experience that meets employees where they work, and in over 100 languages. 
+
+Moveworks combines both search and action in one interface, eliminates AI sprawl, offers hundreds of built-in integrations, and enables developers to quickly deploy specialized AI agents that can solve for almost any business need. 
+
+Our sophisticated Reasoning Engine works to select the right tools to achieve every employee’s end goal, automating complex, multi-step processes reliably and efficiently. 
+
+Surrounded by rigorous security protocols and real-time governance, Moveworks delivers agentic AI with substantial ROI for today’s leading enterprises including Toyota, Instacart, CVS Health, Marriott, HP, GitHub, Hearst, Databricks, and Micron. 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Senior Front-End Engineer
+
+ZeroDrift
+
+New York City Metropolitan Area (On-site)
+
+$130K/yr - $160K/yr + Bonus, Stock options
+
+ • 
+
+4 benefits
+
+Posted on January 21, 2026, 10:42 AM
+7 hours ago
+
+ · 
+
+ Easy Apply
+
+Lead GTM Engineer (Verified job)
+Lead GTM Engineer 
+
+Rutter
+
+New York, NY (Hybrid)
+
+You’d be a top applicant
+
+Posted on January 20, 2026, 6:29 AM
+1 day ago
+
+System Engineer
+
+PBE Axell
+
+Charlotte, NC (On-site)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 6:14 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+IT Systems Engineer
+
+Ventura Tech, Inc.
+
+San Francisco Bay Area (Hybrid)
+
+Vision, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 20, 2026, 4:03 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Python MCP Developer (AI)
+
+Techiramas Software Solutions
+
+Atlanta, GA (Hybrid)
+
+You’d be a top applicant
+
+Posted on January 21, 2026, 5:13 PM
+33 minutes ago
+
+ · 
+
+ Easy Apply
+
+Senior Avionics Software Engineer
+
+HighQ Aero
+
+Centennial, CO (Hybrid)
+
+Posted on January 21, 2026, 7:47 AM
+9 hours ago
+
+ · 
+
+ Easy Apply
+
+Senior Full Stack Engineer
+
+Plasiv
+
+San Jose, CA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 20, 2026, 4:04 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+EDI Developer
+
+VAULT Strategies
+
+Phoenix, AZ (On-site)
+
+$80K/yr - $100K/yr
+
+Posted on January 20, 2026, 9:28 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Developer Advocate (Developer Evangelist)
+
+Typesense
+
+United States (Remote)
+
+$150K/yr - $170K/yr
+
+ • 
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 2:33 PM
+3 hours ago
+
+ · 
+
+ Easy Apply
+
+Deployment Engineer
+
+Cumulus
+
+Cypress, TX (Hybrid)
+
+Dental, +1 benefit
+
+Actively reviewing applicants
+
+Posted on January 20, 2026, 11:27 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Web Project Manager / Frontend Web Developer
+
+Blackberg Group LLC
+
+Alexandria, VA (Hybrid)
+
+$100K/yr - $140K/yr + Bonus, Profit sharing
+
+Posted on January 21, 2026, 12:00 PM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+Lead Software Engineer (AI/LLM)
+
+Prana Tree
+
+Chicago, IL (Hybrid)
+
+Posted on January 21, 2026, 9:32 AM
+8 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

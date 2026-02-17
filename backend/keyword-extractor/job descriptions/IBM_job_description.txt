@@ -1,0 +1,499 @@
+IBM
+
+Entry Level Back End Developer 2026 
+
+Rochester, MN · Reposted 1 day ago · 94 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Rishabh and others in your network
+
+Show all
+About the job
+
+Introduction
+
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.
+
+Your Role And Responsibilities
+
+As a Backend Developer , you will:
+
+
+Work with client-server architectures, networking protocols, application development, and databases
+Create and configure Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS) applications
+Create Application Programming Interfaces (APIs) that are clean, well-documented, and easy to use, (i.e,, REST APIs).
+Design and code server applications firmware, and databases that are reusable, scalable, and meet critical architecture goals
+Need an understanding of, or experience with, Agile and Cloud devOps development methodologies
+Design and implement large scale systems that enable continuous delivery on-premises and in the cloud.
+
+
+Preferred Education
+
+Bachelor's Degree
+
+Required Technical And Professional Expertise
+
+Must have basic knowledge in one or more of the following technology areas:
+
+
+Understanding of software development concepts.
+C++, C, Java, Golang, Ruby, Python, Perl, SQL.
+Working knowledge of servers, applications, devOps tools (Git, Jenkins),and databases.
+Familiarity with APIs.
+Basic knowledge of operating systems and how they work (i.e. Operating systems courses); Container technologies; Internet Services; and/or Managed Services.
+Communication skills and the ability to learn new technologies and procedures.
+
+Preferred Technical And Professional Experience
+
+
+1 year experience in one or more of the following technology areas:C++, C, Java, Golang, Ruby, Python, Perl, SQL.
+1 year experience with APIs.
+Experience in JSON, Web Services.
+Understanding of virtualization concepts and cloud operations.
+… more
+
+Set alert for similar jobs
+
+Back End Developer, Rochester, Minnesota, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+94
+
+total
+
+12
+
+in the past day
+
+Candidate seniority level
+
+63% Entry level candidates
+
+7% Senior level candidates
+
+1% CXO level candidates
+
+1% Manager level candidates
+
+Candidate education level
+
+29
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+17
+
+%
+
+have a Bachelor's Degree
+
+
+13
+
+%
+
+have a Bachelor of Science
+
+
+41
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about IBM
+Powered by Bing
+
+Company focus areas
+
+• Hybrid Cloud and AI: IBM is focused on leading in the hybrid cloud and AI markets, leveraging its Red Hat acquisition and AI capabilities to offer integrated solutions. This strategy aims to help clients modernize their IT infrastructure and accelerate digital transformation.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Expanding their salesforce: The 'Sales' department has shown an 18% increase in employee count, indicating a strong focus on expanding their sales force, which suggests potential growth in revenue and market reach. Significant growth in education and healthcare services: The 'Education' and 'Healthcare Services' departments have seen a 44% increase in employee count, highlighting new initiatives in these sectors, which could be areas of strategic investment and development. Increased focus on operations and administrative functions: The 'Operations' and 'Administrative' departments have experienced a 9% and 23% increase in employee count respectively, suggesting a bolstering of internal processes and support functions to enhance overall efficiency. Growth in consulting and business development: The 'Consulting' and 'Business Development' departments have seen a 3% and 7% increase in employee count respectively, indicating a strategic push towards expanding consulting services and business growth initiatives.
+… more
+
+The latest hiring trend
+
+343,787
+
+Total employees
+
+12%
+
+Company-wide
+
+2 year growth
+
+1%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+200000
+400000
+
+Median employee tenure: 5.6 years
+
+IBM hires candidates from some of these companies and schools
+
+IBM hired 46 people from University of Southern California. See all
+
+IBM hired 916 people from University of Southern California. See all
+
+Competitors
+
+IBM operates in a highly competitive landscape, focusing on hybrid cloud and AI to compete with major players like Microsoft, Accenture, and Amazon AWS. The company has evolved from a hardware-centric business to a diversified software and consulting leader, leveraging strategic acquisitions and partnerships to enhance its offerings in cloud computing, AI, and data analytics.
+… more
+
+Sources: rankred.com +3 more
+
+Show Premium Insights
+About the company
+
+IBM
+
+19,115,803 followers
+
+Follow
+
+IT Services and IT Consulting
+
+ • 
+
+10001+ employees
+
+ • 
+
+342,398 on LinkedIn
+
+At IBM, we do more than work. We create. We create as technologists, developers, and engineers. We create with our partners. We create with our competitors. If you're searching for ways to make the world work better through technology and infrastructure, software and consulting, then we want to work with you.
+
+We're here to help every creator turn their "what if" into what is. Let's create something that will change everything.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Full Stack Engineer
+
+Aroomoogan Group
+
+New York City Metropolitan Area (On-site)
+
+$120K/yr - $150K/yr + Stock options
+
+ • 
+
+4 benefits
+
+Actively reviewing applicants
+
+Posted on January 14, 2026, 10:58 AM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Associate Software Engineer (New College Grad 2026) (Verified job)
+Associate Software Engineer (New College Grad 2026) 
+
+Solace
+
+Redwood City, CA (On-site)
+
+1 company alumni works here
+
+Posted on January 14, 2026, 8:28 PM
+3 days ago
+
+Frontend / Fullstack Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:55 AM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, AI Agent
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$140K/yr - $180K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 3:05 PM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Solutions Engineer
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$80K/yr - $100K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 2:05 PM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Linux Developer
+
+Smart Design
+
+Brooklyn, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 6:15 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer
+
+Corsha
+
+Tysons Corner, VA (Hybrid)
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on November 30, 2025, 3:12 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Front-End Engineer
+
+Aroomoogan Group
+
+New York City Metropolitan Area (On-site)
+
+$120K/yr - $150K/yr + Stock options
+
+ • 
+
+4 benefits
+
+Actively reviewing applicants
+
+Posted on January 14, 2026, 10:29 AM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Software Integration Engineer
+
+Tenkara
+
+San Francisco, CA (On-site)
+
+$140K/yr - $160K/yr
+
+Actively reviewing applicants
+
+Posted on December 28, 2025, 2:35 PM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Senior Backend Engineer — AI Agents Platform
+
+HOAi
+
+Palo Alto, CA (On-site)
+
+1 school alumni works here
+
+Posted on January 15, 2026, 2:04 AM
+3 days ago
+
+Systems Software Engineer
+
+Sunbelt Controls
+
+Pleasanton, CA (On-site)
+
+$108K/yr - $135K/yr
+
+Actively reviewing applicants
+
+Posted on December 4, 2025, 2:41 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Founding Engineer - Full Stack
+
+Muro AI
+
+San Francisco Bay Area (On-site)
+
+$100K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on December 26, 2025, 10:05 AM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

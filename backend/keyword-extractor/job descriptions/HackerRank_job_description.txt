@@ -1,0 +1,508 @@
+HackerRank
+
+Software Development Engineer 
+
+Santa Clara, CA · Reposted 2 weeks ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$150K/yr - $172K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+About the job
+
+HackerRank helps thousands of companies like OpenAI, NVIDIA, Mercedes and Amazon hire developers based on their skills vs. pedigree, and also nurtures a community of millions of developers to upskill themselves to become next-gen developers.
+
+The people at HackerRank care deeply about their work and have an extremely intense work ethic. In many companies, speed & quality is a tradeoff. At HackerRank, it’s not -- we expect you to ship in about half the time that most competent people think is possible while maintaining a standard of quality you’d proudly sign your name on. The only way to make this happen is if you truly love your craft and are deeply committed to growth.
+
+🌌 Join HackerRank’s Astra Team: Engineering the Future of AI for Developers
+
+About Astra
+
+Astra is HackerRank’s newest frontier, a data and benchmarking platform powering the next generation of AI coding models. We are transforming HackerRank’s decade of developer expertise into curated datasets, automated benchmarks, and human-in-the-loop evaluation systems that help leading AI labs train and measure their models.
+
+Astra sits at the intersection of software engineering, data infrastructure, and AI research, where you will build the foundation for a product that makes AI better at coding.
+
+Why this role matters
+
+AI models can now write code, but teaching them to code well requires real developer data and rigorous evaluation systems. Astra’s mission is to supply that intelligence to the world’s top labs and enterprises.
+
+As a Software Engineer On Astra, You Will
+
+
+Build high-scale data and benchmarking pipelines that turn developer interactions into structured training data.
+Design APIs and systems for code dataset creation, evaluation, and delivery.
+Work closely with ML scientists and data experts to create the tools that fuel reinforcement learning environments and model fine-tuning.
+Contribute to Astra Arena, our next-generation DPO-style evaluation platform for LLMs in software engineering.
+
+
+What You'll Work On
+
+
+Automated task creation and evaluation systems (expanding SWE-Bench and internal tooling).
+Data APIs that expose curated coding datasets to customers and model labs.
+Annotation and feedback tooling for human-in-the-loop benchmarking.
+Experimental RL "gyms" for code generation models, built on real developer workflows.
+
+
+What We're Looking For
+
+
+Strong software engineering fundamentals, with full-stack or backend experience.
+Background in distributed systems, data processing, or ML infrastructure.
+Interest in AI, coding models, or human-in-the-loop systems.
+Comfort operating in early-stage environments where ambiguity is common and ownership is broad.
+Bonus: contributions to open-source AI frameworks or developer platforms
+
+
+Why join
+
+
+Shape the foundation of a new business that connects AI and developer intelligence
+Collaborate with a tight-knit team of engineers, researchers, and data experts.
+Build technology that powers AI model evaluation and training for top global labs.
+Competitive compensation and meaningful equity in a high-growth business line
+You will help teach AI how to code by building the data and systems that make it possible.
+
+
+Compensation
+
+
+Base salary range: $150,000 – $172,000.
+This range doesn’t include bonuses, stock options, or benefits for which you will be eligible.
+Final offer may vary based on skills, experience, location, and other compensation components. 
+
+
+Want to learn more about HackerRank? Check out HackerRank.com to explore our products, solutions and resources, and dive into our story and mission here.
+
+HackerRank is a proud equal employment opportunity and affirmative action employer. We provide equal opportunity to everyone for employment based on individual performance and qualification. We never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+
+Linkedin | X | Blog | Instagram | Life@HackerRank
+
+Notice To Prospective HackerRank Job Applicants
+
+
+Our Recruiters use @hackerrank.com email addresses.
+We never ask for payment or credit check information to apply, interview, or work here.
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Santa Clara, California, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+2082
+
+total
+
+31
+
+in the past day
+
+Candidate seniority level
+
+77% Entry level candidates
+
+8% Senior level candidates
+
+Candidate education level
+
+41
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+32
+
+%
+
+have a Master of Science
+
+
+8
+
+%
+
+have a Bachelor of Science
+
+
+19
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about HackerRank
+Powered by Bing
+
+Company focus areas
+
+• AI Integration in Developer Assessment: HackerRank is revolutionizing technical hiring by integrating AI into its platform to enhance recruitment effectiveness and global developer skills development.
+
+...more
+
+Sources: digidai.github.io +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 240% increase in job openings over the past year, indicating a major focus on expanding technical capabilities and product development. Expansion in IT and product management: The 'Information Technology' and 'Product Management' departments have experienced a 500% and 50% increase in job openings respectively, suggesting a strong push towards enhancing IT infrastructure and product offerings. Overall headcount growth: The company's total employee count has increased by approximately 15% from December 2023 to December 2025, reflecting a steady expansion and potential new initiatives across various departments. Increased focus on sales: The 'Sales' department has seen a 67% increase in job openings over the past year, indicating a strategic emphasis on boosting sales efforts and market reach.
+… more
+
+The latest hiring trend
+
+2,013
+
+Total employees
+
+24%
+
+Company-wide
+
+2 year growth
+
+50%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+1000
+2000
+3000
+
+Median employee tenure: 3.4 years
+
+HackerRank hires candidates from some of these companies and schools
+
+HackerRank hired 3 people from University of Southern California. See all
+
+Competitors
+
+HackerRank operates in a highly competitive landscape within the technical assessment and coding practice market. It is known for its extensive library of coding challenges and technical assessments, which are highly regarded for their accuracy and effectiveness. Competitors like Codility, LeetCode, and CodeSignal offer similar services, each with unique features and strengths. HackerRank's strong market position is bolstered by its large community of over 21 million developers and continuous investment in innovation and technological advancement.
+… more
+
+Sources: blog.imocha.io +3 more
+
+Show Premium Insights
+About the company
+
+HackerRank
+
+1,862,338 followers
+
+Follow
+
+Software Development
+
+ • 
+
+201-500 employees
+
+ • 
+
+2,013 on LinkedIn
+
+HackerRank is a technology hiring platform that is the standard for assessing developer skills for 2500+ companies around the world. HackerRank helps companies hire skilled developers and innovate faster by enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process.
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Full Stack Engineer
+
+Aroomoogan Group
+
+New York City Metropolitan Area (On-site)
+
+$120K/yr - $150K/yr + Stock options
+
+ • 
+
+4 benefits
+
+Posted on January 14, 2026, 10:58 AM
+9 minutes ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+Haystack
+
+Austin, Texas Metropolitan Area (Remote)
+
+Posted on January 14, 2026, 10:55 AM
+12 minutes ago
+
+Full Stack Engineer (Verified job)
+Full Stack Engineer 
+
+Reforge
+
+United States (Remote)
+
+$130K/yr - $170K/yr
+
+ • 
+
+401(k) benefit
+
+4 school alumni work here
+
+Posted on January 14, 2026, 3:43 AM
+7 hours ago
+
+Software Engineer, Backend
+
+Tinder
+
+Los Angeles, CA (Hybrid)
+
+$160K/yr - $180K/yr
+
+ • 
+
+401(k) benefit
+
+1 connection works here
+
+Posted on January 14, 2026, 3:06 AM
+8 hours ago
+
+Software Engineer
+
+Goliath Partners
+
+New York City Metropolitan Area (Hybrid)
+
+$150K/yr - $300K/yr
+
+Posted on January 14, 2026, 10:45 AM
+22 minutes ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Backend
+
+Tinder
+
+Palo Alto, CA (Hybrid)
+
+$160K/yr - $180K/yr
+
+ • 
+
+401(k) benefit
+
+1 connection works here
+
+Posted on January 14, 2026, 3:06 AM
+8 hours ago
+
+Software Engineer - New Grad (Verified job)
+Software Engineer - New Grad 
+
+MeshyAI
+
+California, United States (Hybrid)
+
+Vision benefit
+
+Posted on January 14, 2026, 2:41 AM
+8 hours ago
+
+Software Engineer (Verified job)
+Software Engineer 
+
+Greylock
+
+San Francisco, CA (On-site)
+
+2 school alumni work here
+
+Posted on January 14, 2026, 9:24 AM
+1 hour ago
+
+ · 
+
+ Easy Apply
+
+Software Development Engineer (Verified job)
+Software Development Engineer 
+
+Adobe
+
+San Jose, CA
+
+$139K/yr - $257.6K/yr
+
+4 connections work here
+
+Posted on January 12, 2026, 2:07 PM
+1 day ago
+
+Full Stack Software Engineer (Verified job)
+Full Stack Software Engineer 
+
+Motorola Solutions
+
+Westminster, CO (Hybrid)
+
+$75K/yr - $130K/yr
+
+ • 
+
+401(k) benefit
+
+6 company alumni work here
+
+Posted on January 13, 2026, 4:27 AM
+1 day ago
+
+Full Stack Software Engineer (Verified job)
+Full Stack Software Engineer 
+
+Chalk
+
+San Francisco, CA (On-site)
+
+Medical, Vision, Dental, 401(k), +1 benefit
+
+Posted on January 14, 2026, 8:22 AM
+2 hours ago
+
+Jr. Fullstack Engineer (Verified job)
+Jr. Fullstack Engineer 
+
+TechTree
+
+San Francisco, CA (Hybrid)
+
+$120K/yr - $160K/yr
+
+ • 
+
+Dental, 401(k)
+
+Posted on January 14, 2026, 2:43 AM
+8 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

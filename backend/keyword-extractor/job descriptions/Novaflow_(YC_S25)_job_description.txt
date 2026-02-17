@@ -1,0 +1,446 @@
+Novaflow (YC S25)
+
+Full Stack Engineer
+
+San Francisco, CA · 3 hours ago · Over 100 applicants
+
+Promoted by hirer • No response insights available yet
+
+On-site
+Full-time
+Easy Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Amulya B. 
+
+• 2nd
+
+Co-founder & CTO at Novaflow (YC S25)
+
+School alum from University of Southern California
+
+Follow
+About the job
+
+Job Title: Full Stack Engineer
+
+Location: San Francisco
+
+Type: Full-time
+
+
+
+
+About Us:
+
+Novaflow is bridging the gap between researchers and technology, creating tools in order to make analysis more accessible and efficient for everyday biologists. We are leveraging AI to allow biologists to analyze their own data in real time rather than outsource the work to other bioinformatics services. As an early stage company, we’ve already seen incredible excitement about us and the work we’re doing. We’re backed by some amazing investors including Y Combinator who believe in our bold vision to transform how scientific data analysis is done. 
+
+
+
+
+The ideal candidate possesses strong technical skills, a bias for action, and a drive for making a large, measurable impact in an early-stage environment. This individual thrives in complex, fast-paced environments and plays a pivotal role in driving the mission of the company forward with passion, focus, and scale.
+
+
+
+
+The position is based in San Francisco. Having biology knowledge and experience is not required but is nice to have.
+
+
+
+
+What you'll do:
+
+Build and ship user-facing features across the stack
+Design and implement clean, reliable APIs for data processing and visualization
+Develop dashboards, visualizations, and internal tools used by scientists and research teams
+Make architectural decisions 
+Improve performance and scalability of data-heavy workflows
+Work closely with founders, users, and customers to shape product direction
+Shape product direction, engineering culture, and hiring processes from the ground up
+
+What we're looking for:
+
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field, or equivalent extensive experience
+Have 2+ years of experience building production web applications
+Comfortable with Python, TypeScript, React, and PostgreSQL
+Highly product-oriented and cares deeply about user experience
+Thrives in ambiguous, high-agency environments and enjoys owning problems end-to-end
+
+Bonus points:
+
+Experience in biotech, healthcare, or other science-adjacent domains
+Understanding of bioinformatics technologies
+Background building data-heavy applications or visualization tools
+Have prior startup experience or a strong desire to work close to the metal
+
+
+
+
+This is the perfect opportunity for someone who wants to experience what it’s like to build a startup from the ground up. You’ll work directly with the founders, gain visibility into product strategy, customer conversations, and fundraising, and see what it takes to scale a fast-growing YC company. If you’re entrepreneurial and curious about being a founder one day, this role will give you the front-row seat to how world-class startups are built.
+
+… more
+
+Set alert for similar jobs
+
+Full Stack Engineer, San Francisco, California, United States
+
+Off
+See how you compare to other applicants
+Based on LinkedIn data. Excludes subsidiaries.
+Applicants for this job
+
+123
+
+Applicants
+
+123
+
+Applicants in the past day
+
+Applicant seniority level
+
+87% Entry level people applied for this job
+
+9% Senior level people applied for this job
+
+Applicant education level
+
+86
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+11
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have an Associate's Degree
+
+
+2
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Novaflow (YC S25)
+Powered by Bing
+
+Novaflow (YC S25) hires candidates from some of these companies and schools
+
+Novaflow (YC S25) hired 1 person from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+Novaflow (YC S25)
+
+1,335 followers
+
+Follow
+
+Technology, Information and Internet
+
+ • 
+
+2-10 employees
+
+ • 
+
+6 on LinkedIn
+
+Creating tools to automate data analysis for life science researchers.
+
+Bioinformatics and other types of data analysis will often take weeks or months, and can make many experiments prohibitively expensive, due to limited availability and high cost of bioinformaticians.
+
+With Novaflow, you can process your data from raw files to publication-ready plots in hours or days, at a fraction of the cost.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Founding Fullstack Engineer
+
+Jampack Labs
+
+New York, NY (Hybrid)
+
+$160K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 3:41 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Computer Systems Engineer
+
+Adaptive Networks
+
+Bakersfield, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on October 29, 2025, 12:26 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer - Full Stack
+
+Aira Technologies
+
+San Francisco Bay Area (On-site)
+
+Posted on November 19, 2025, 11:40 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Full-Stack Developer — AI Agent Platform for Financial Services (Google Cloud / Vertex AI)
+
+Insomniac Hedge Fund Guy
+
+United States (Remote)
+
+$60/hr - $70/hr
+
+Posted on January 4, 2026, 11:43 AM
+3 days ago
+
+Full Stack Engineer
+
+Stealth Startup
+
+Los Angeles, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on November 23, 2025, 6:11 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Back End Developer
+
+SafeHill
+
+United States (Remote)
+
+Posted on November 1, 2025, 1:10 AM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Founding Engineer (Backend + AI-Focused Full-Stack Developer)
+
+Minimal AI (YC S25)
+
+New York, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on December 30, 2025, 9:29 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Backend Engineer
+
+Preffect
+
+San Francisco, CA (Hybrid)
+
+$170K/yr
+
+ • 
+
+Medical, 401(k)
+
+Actively reviewing applicants
+
+Posted on November 26, 2025, 12:02 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, AI Agent
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$140K/yr - $180K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 3:05 PM
+5 days ago
+
+ · 
+
+ Easy Apply
+
+Solutions Engineer
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$80K/yr - $100K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 2:05 PM
+5 days ago
+
+ · 
+
+ Easy Apply
+
+Quantum Software Engineer
+
+QubitSolve
+
+Morgantown, WV (Hybrid)
+
+You’d be a top applicant
+
+Posted on December 24, 2025, 7:12 AM
+2 weeks ago
+
+Back End Developer
+
+Datasent
+
+Austin, Texas Metropolitan Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on December 12, 2025, 9:03 AM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

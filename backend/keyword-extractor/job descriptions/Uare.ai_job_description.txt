@@ -1,0 +1,424 @@
+Uare.ai
+
+Software Engineer (Early Career)
+
+Los Altos, CA · 10 hours ago · Over 100 people clicked apply
+
+Responses managed off LinkedIn
+
+$100K/yr - $150K/yr
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+About the job
+
+Uare.ai, founded by Robert LoCascio (former CEO of LivePerson for 28 years), is an AI startup launched in May 2024 with a mission to empower people to do more with their memories. Uare.ai creates AI-driven personal digital twins, enabling users to preserve, share, and interact with their knowledge and stories in groundbreaking ways.
+
+At its core is the proprietary Human Life Model (HLM), designed to process unstructured conversations and story data sets without training client data into traditional LLMs. Instead, Uare.ai leverages 3rd-party LLMs for conversations, with HLM providing structure and reasoning.
+
+While initially focused on personal legacy and AI immortality, Uare.ai’ platform has broad B2C and B2B applications. The company has gained significant traction, featured in over 30 outlets including NBC, NPR, The New York Post, and CNET.
+
+About The Role
+
+We are seeking a highly skilled Machine Learning Engineer to join an early-stage, mission-driven startup that’s building cutting-edge AI-powered products for real-world human interaction. You will be responsible for designing and implementing scalable machine learning pipelines, integrating foundation models, and fine-tuning retrieval systems that deliver high-quality, context-aware responses.
+
+What You’ll Do
+
+
+Design and implement machine learning workflows that combine structured and unstructured data.
+Work with state-of-the-art language models and voice technologies.
+Build and optimize retrieval-augmented generation (RAG) systems.
+Collaborate closely with product and engineering teams to turn early prototypes into production-grade systems.
+Help shape the future of AI-powered human interaction products. 
+
+
+What We’re Looking For
+
+
+Experience in machine learning, NLP, or AI.
+Strong experience with LLMs, RAG pipelines, vector databases, and prompt engineering.
+Hands-on experience with cloud-based AI platforms (AWS, Azure, or GCP).
+Familiarity with voice cloning, speech synthesis, or related audio ML workflows is a plus.
+Excited about building 0-to-1 products in a fast-moving environment.
+
+
+The expected base compensation for this position is below. Our total compensation package for full-time employees includes equity and a comprehensive benefits package.
+
+Annual Salary
+
+$100,000 - $150,000 USD
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Los Altos, California, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+638
+
+total
+
+638
+
+in the past day
+
+Candidate seniority level
+
+78% Entry level candidates
+
+7% Senior level candidates
+
+Candidate education level
+
+80
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+19
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+There’s not enough quality data on this company just yet
+
+Once there are 30 complete member profiles from this company, we’ll be able to show you the company’s growth and hiring trends
+
+About the company
+
+Uare.ai
+
+5,276 followers
+
+Follow
+
+Technology, Information and Internet
+
+ • 
+
+11-50 employees
+
+ • 
+
+16 on LinkedIn
+
+At Uare.ai (formerly Eternos), we’re building the first platform for Individual AI - designed to protect, reflect, and amplify the uniqueness of every person.
+
+Unlike general-purpose AIs built to absorb everyone’s data, your Individual AI is trained on you: your stories, experiences, values, knowledge, and voice. It’s not a generic assistant - it’s a digital counterpart that understands your perspective, grows with you, and stays under your control.
+
+At the core is our proprietary Human Life Model (HLM), which transforms unstructured conversations and memories into structured intelligence that traditional LLMs cannot. Unlike others, we never train client data into third-party models. Instead, HLM provides reasoning, context, and permanence - ensuring your AI is authentic, safeguarded, and built to last.
+
+Founded in 2024, Uare.ai has already been featured in 30+ outlets, including NBC, NPR, The New York Post, and CNET. We’re pioneering applications across consumer, prosumer, and enterprise markets - from personal legacy and coaching, to education and knowledge work.
+
+Our mission: Discover, develop, and protect individuality in the age of AI.
+
+Sign up for our waitlist: https://uareai.info/3MCrooJ
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Frontend Engineer | Series B AI Startup
+
+Day One Partners
+
+San Francisco Bay Area (On-site)
+
+$140K/yr - $290K/yr
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 2:13 PM
+20 minutes ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+Haystack
+
+Greater St. Louis (Hybrid)
+
+Vision, 401(k)
+
+Posted on January 15, 2026, 1:42 PM
+51 minutes ago
+
+Software Engineer - New Grad
+
+Valon
+
+New York, NY (Hybrid)
+
+$130K/yr - $155K/yr
+
+ • 
+
+401(k), +1 benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:37 AM
+11 hours ago
+
+Member of Technical Staff 1 (Verified job)
+Member of Technical Staff 1 
+
+Nutanix
+
+San Jose, CA (On-site)
+
+$90.4K/yr - $180K/yr
+
+11 company alumni work here
+
+Posted on January 15, 2026, 1:40 PM
+53 minutes ago
+
+Software Engineer I (Verified job)
+Software Engineer I 
+
+GumGum
+
+Santa Monica, CA
+
+$128K/yr - $149K/yr
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:30 AM
+12 hours ago
+
+AI Engineer (New Graduate) (Verified job)
+AI Engineer (New Graduate) 
+
+Distyl AI
+
+San Francisco, CA
+
+$150K/yr - $170K/yr
+
+ • 
+
+401(k), +1 benefit
+
+2 company alumni work here
+
+Posted on January 13, 2026, 4:13 PM
+1 day ago
+
+Associate Software Engineer
+
+Cabana
+
+New York City Metropolitan Area (On-site)
+
+$140K/yr - $170K/yr
+
+ • 
+
+4 benefits
+
+Actively reviewing applicants
+
+Posted on January 14, 2026, 5:14 PM
+21 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Developer I - Python API (Verified job)
+Software Developer I - Python API 
+
+Esri
+
+Redlands, CA
+
+$79K/yr - $129.8K/yr
+
+1 connection works here
+
+Posted on January 13, 2026, 3:18 PM
+1 day ago
+
+Associate, Software Engineer (Verified job)
+Associate, Software Engineer 
+
+Morgan Stanley
+
+New York, NY
+
+$150K/yr
+
+21 company alumni work here
+
+Posted on January 15, 2026, 8:35 AM
+5 hours ago
+
+Software Engineer, Data Platform (Verified job)
+Software Engineer, Data Platform 
+
+Ramp
+
+New York, NY (Hybrid)
+
+$168K/yr - $324.5K/yr
+
+ • 
+
+Vision, 401(k)
+
+36 school alumni work here
+
+Posted on January 15, 2026, 12:13 PM
+2 hours ago
+
+Software Engineer
+
+Helic & Co.
+
+United States (Remote)
+
+Posted on January 15, 2026, 6:44 AM
+7 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Forward Deployed (Verified job)
+Software Engineer, Forward Deployed 
+
+Ramp
+
+New York, United States (Hybrid)
+
+$168K/yr - $231K/yr
+
+ • 
+
+Vision, 401(k)
+
+4 company alumni work here
+
+Posted on January 15, 2026, 12:13 PM
+2 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

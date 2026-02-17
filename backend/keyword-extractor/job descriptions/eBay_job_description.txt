@@ -1,0 +1,566 @@
+eBay
+
+Software Engineer New Graduate 
+
+Austin, TX · 9 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$100K/yr - $125K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Anqi and others in your network
+
+Show all
+
+Meet the hiring team
+
+Melissa Peña 
+
+• 2nd
+
+Emerging Talent Recruiter at eBay
+
+Message
+About the job
+
+At eBay, we're more than a global e-commerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of e-commerce for enthusiasts.
+
+Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.
+
+Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.
+
+
+
+
+Note: By applying to this position, your application will be considered for our locations in:
+
+San Jose, CA
+Austin, TX
+
+
+
+
+About the team and the role:
+
+We are the eBay Cloud team, we power the foundational infrastructure that supports thousands of eBay applications. We operate and manage one of the industry's largest private cloud platforms based on open-source technology, which includes hundreds of Kubernetes clusters and millions of compute instances.
+Our mission is to provide end-to-end governance and support for the full lifecycle of eBay applications running on our platform. We focus on building and improving the platform's cloud-native capabilities to ensure these applications are reliable, efficient, scalable and secure.
+We are looking for an aspiring Cloud Platform Engineer to join the team. In this role, you will be a key contributor to the design, implementation, and management of the tools and systems that govern the application lifecycle on our private cloud.
+You will help drive the adoption of cloud-native principles, focusing on improving developer efficiency through CI/CD automation and ensuring security compliance across our platform.
+
+
+
+
+What you will accomplish:
+
+Design and develop the core products and services that govern the full application lifecycle on our private cloud, focusing on building platform capabilities and cultivate an AI-first cloud architecture that seamlessly supports diverse application requirements rather than operating end-user applications in the cloud.
+Drive the engineering efforts to continuously integrate and adapt the latest open-source technologies (e.g., Kubernetes) to construct a reliable, efficient, and scalable platform that meets our stringent security and operational standards.
+Build robust, high-performance automation and diagnostic tools in languages like Go and Java to streamline platform operations and reduce the need for manual intervention.
+Develop and deploy foundational observability frameworks, ensuring deep visibility into the platform's health for proactive issue resolution and continuous performance tuning.
+Collaborate closely with internal platform teams to ensure the seamless validation, adoption, and integration of new eBay Cloud platform features.
+
+
+
+
+What you will bring:
+
+Currently enrolled as a student in an accredited Bachelors or Masters degree program within the United States graduating in Summer 2026. We will also consider candidates who have completed their degree as of December 2025.
+0-3 years of relevant work experience
+Experience in building cloud platforms is a plus. This may include coursework, academic projects, or relevant internships, with a strong interest in building cloud-native applications.
+Proficient in programming with at least one language such as Java, Go, C++, or Python, and a willingness to learn others.
+Foundational understanding or familiarity with containerization and orchestration technologies (e.g., Kubernetes), and concepts of scalable, reliable cloud lifecycle management systems.
+Strong problem-solving and analytical skills with an eagerness to learn how to identify system-level gaps and multi-functional issues, propose effective solutions, and drive resolution.
+Excellent communication and collaboration skills.
+
+
+
+
+eBay Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at talent@ebay.com. We will make every effort to respond to your request for disability assistance as soon as possible.
+
+
+
+
+For more information see: EEO is the Law Poster and EEO is the Law Poster Supplement
+
+… more
+
+Featured benefits
+
+Medical insurance, Vision insurance, Dental insurance, 401(k), Paid maternity leave, Paid paternity leave, Student loan assistance
+
+Set alert for similar jobs
+
+Software Engineer, Austin, Texas, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+3368
+
+total
+
+3368
+
+in the past day
+
+Candidate seniority level
+
+74% Entry level candidates
+
+10% Senior level candidates
+
+1% Manager level candidates
+
+Candidate education level
+
+76
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+22
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about eBay
+Powered by Bing
+
+Company focus areas
+
+• Focus Categories and Recommerce Growth: eBay aims to drive growth through Focus Categories such as Parts & Accessories, Refurbished, Collectibles, and Luxury goods. This strategy includes investments in cross-category shopping and recommerce initiatives.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Significant growth in Engineering: The 'Engineering' department has seen a 12% increase in headcount, indicating a strong focus on technological development and innovation. Expansion in Sales and Business Development: Both 'Sales' and 'Business Development' departments have grown by 13%, suggesting a strategic push towards market expansion and revenue growth. Increased focus on Operations and Administrative functions: The 'Operations' and 'Administrative' departments have experienced 18% and 20% growth respectively, highlighting an emphasis on improving operational efficiency and administrative support. Emerging focus on Entrepreneurship and Education: The 'Entrepreneurship' and 'Education' departments have seen significant increases of 44% and 43% respectively, indicating new initiatives in fostering innovation and educational programs.
+… more
+
+The latest hiring trend
+
+18,737
+
+Total employees
+
+11%
+
+Company-wide
+
+2 year growth
+
+15%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+10000
+20000
+
+Median employee tenure: 4.8 years
+
+eBay hires candidates from some of these companies and schools
+
+eBay hired 32 people from University of Southern California. See all
+
+eBay hired 154 people from University of Southern California. See all
+
+Competitors
+
+eBay operates in a highly competitive e-commerce landscape, facing significant competition from major players like Amazon, Walmart, and Shopify. These competitors offer broader product selections, faster shipping options, and more user-friendly interfaces. eBay's strategy focuses on leveraging its auction model, cost leadership, and platform scale to maintain profitability and market share.
+… more
+
+Sources: helpfulinsightsolution.com +3 more
+
+Show Premium Insights
+About the company
+
+eBay
+
+619,975 followers
+
+Follow
+
+Technology, Information and Internet
+
+ • 
+
+10001+ employees
+
+ • 
+
+17,421 on LinkedIn
+
+At eBay, we create pathways to connect millions of sellers and buyers in more than 190 markets around the world. Our technology empowers our customers, providing everyone the opportunity to grow and thrive — no matter who they are or where they are in the world. And the ripple effect of our work creates waves of change for our customers, our company, our communities and our planet.
+… more
+
+Commitments
+
+Diversity, equity, and inclusion
+
+At the heart of our mission is a commitment to weave inclusion and a sense of belonging into everything we do, striving for every layer of our organization to better mirror the multifaceted communities we serve. Through our holistic strategy, we’re not just aiming for diverse representation – we’re building bridges between technology and inclusive practices to improve our marketplace experience and to better serve our communities.
+… more
+
+Environmental sustainability
+
+We embrace sustainable practices to support a thriving environment.
+
+Recommerce and environmental stewardship are core to our purpose. Every day, we help extend the life of items and seek operational efficiency to reduce our corporate footprint.
+… more
+
+Social impact
+
+We strive to lead the way for meaningful ecommerce.
+
+At eBay, our goal is to make selling and buying equitable, attainable and sustainable.
+… more
+
+Learn more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Full Stack Engineer
+
+HekaHeart
+
+New York City Metropolitan Area (Hybrid)
+
+$130K/yr - $170K/yr
+
+Posted on January 27, 2026, 10:59 AM
+7 hours ago
+
+ · 
+
+ Easy Apply
+
+AI Deployment Strategist, Pre-Sales
+
+Dust
+
+San Francisco Bay Area (On-site)
+
+$135K/yr - $200K/yr
+
+ • 
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 26, 2026, 10:48 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Sr. Software Developer (Verified job)
+Sr. Software Developer 
+
+TopoDOT
+
+Orlando, FL (On-site)
+
+$150K/yr
+
+Actively reviewing applicants
+
+Posted on January 26, 2026, 11:24 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Unity Multiplayer Programmer
+
+Sly Game Studios
+
+New York, United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 26, 2026, 2:00 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+SommerAI
+
+Redmond, WA (On-site)
+
+You’d be a top applicant
+
+Posted on January 27, 2026, 5:46 PM
+55 minutes ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+VacationRenter
+
+Dallas, TX (Hybrid)
+
+401(k) benefit
+
+Posted on January 27, 2026, 5:33 PM
+1 hour ago
+
+Junior React Developer
+
+First in Math®
+
+Easton, PA (Remote)
+
+$35/hr - $42/hr
+
+ • 
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 26, 2026, 9:31 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Forward Deployed Engineer - Cloud Infrastructure & Inference
+
+FriendliAI
+
+New York, NY (Hybrid)
+
+$160K/yr - $230K/yr
+
+ • 
+
+1 benefit
+
+Actively reviewing applicants
+
+Posted on January 25, 2026, 5:21 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer - Full Stack
+
+Cardio Diagnostics Inc.
+
+Chicago, IL (On-site)
+
+$100K/yr - $145K/yr
+
+ • 
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on January 27, 2026, 6:33 AM
+12 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer I (Verified job)
+Software Engineer I 
+
+Talkdesk
+
+Seattle, WA (On-site)
+
+Medical, +1 benefit
+
+4 school alumni work here
+
+Posted on January 27, 2026, 4:02 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer (Verified job)
+Senior Software Engineer 
+
+Copic Companies
+
+Denver, CO (Hybrid)
+
+$132.3K/yr - $165.4K/yr + Bonus
+
+Actively reviewing applicants
+
+Posted on January 27, 2026, 12:16 PM
+6 hours ago
+
+ · 
+
+ Easy Apply
+
+Information Technology Engineer (Verified job)
+Information Technology Engineer 
+
+PrintMail
+
+Newtown, PA (Hybrid)
+
+$83.4K/yr
+
+ • 
+
+Medical, Vision, Dental, 401(k)
+
+You’d be a top applicant
+
+Posted on January 27, 2026, 10:29 AM
+8 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

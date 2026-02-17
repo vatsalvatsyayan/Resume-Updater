@@ -1,0 +1,490 @@
+Rockstar Games
+
+Associate DevOps Engineer 
+
+Manhattan, NY · Reposted 13 hours ago · Over 100 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+$71K/yr - $80K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+At Rockstar Games, we create world-class entertainment experiences.
+
+Become part of a team working on some of the most rewarding, large-scale creative projects to be found in any entertainment medium - all within an inclusive, highly-motivated environment where you can learn and collaborate with some of the most talented people in the industry.
+
+Rockstar Online Services is looking for a passionate DevOps/Systems Engineer who has a strong understanding of Windows systems and an inclination to automate repetitive tasks and develop tooling.
+
+This is a full-time, in-office position based out of Rockstar’s NYC headquarters in Downtown Manhattan.
+
+What We Do
+
+
+The Rockstar Games Online Services Team is a passionate development group, focused on growing and maintaining the technology platform that powers Rockstar’s online titles and our ability to deliver world-class player experiences.
+We work closely with developers, DBAs, Build Engineers, and Security teams to provide operational support for critical services that enable connected experiences found across our game franchises.
+We build world-class infrastructure for our high traffic, high visibility web sites and services.
+We constantly review our processes, automate wherever possible, and develop our own toolchains.
+
+
+Responsibilities
+
+
+Automate workflows and contribute to our codebase in Powershell, C#, Python, and Go.
+Build using Github, infrastructure as code (Terraform), and configuration management (DSC/Chef).
+Build and maintain Windows servers in a highly available, public facing environment.
+Maintain and support .NET/ASP.NET web sites and services.
+Build and support SQL Server failover clusters.
+Manage VMware clusters, storage systems, and monitoring systems.
+Perform root cause analysis through multiple infrastructure layers. 
+
+
+Requirements
+
+
+Bachelor’s Degree in Computer Science, Computer Engineering, Information Systems, or other related field.
+Strong computer science fundamentals and ability to write clear code.
+Good understanding of operating systems, TCP/IP networking, and HTTP.
+Genuine curiosity and an impulse to understand how things work.
+Observant and detail oriented.
+Capable of working independently while also collaborating as part of a larger team.
+Outstanding communication and interpersonal skills.
+
+
+How To Apply
+
+Please apply with a resume and cover letter demonstrating how you meet the skills above. If we would like to move forward with your application, a Rockstar recruiter will reach out to you to explain next steps and guide you through the process.
+
+Rockstar is committed to creating a work environment that promotes equal opportunity, dignity and respect. In line with this commitment, Rockstar will provide reasonable accommodations to qualified job applicants with disabilities during the recruitment process in order for such applicants to be considered for the position for which they are applying, as well as to qualified employees to enable them to perform the essential functions of their roles. If you need more information about Rockstar’s reasonable accommodation policies or process, or need to request an accommodation, please contact the Human Resources Department.
+
+If you’ve got the right skills for the job, we want to hear from you. We encourage applications from all suitable candidates regardless of age, disability, gender identity, sexual orientation, religion, belief, race, or any other protected category.
+
+The pay range for this position in New York State (inclusive of New York City) at the start of employment is expected to be between the range below* per year. However, base pay offered is based on market location, and may vary further depending on individualized factors for job candidates, such as job-related knowledge, skills, experience, and other objective business considerations.
+
+Subject to those same considerations, the total compensation package for this position may also include other elements, including a bonus and/or equity awards, in addition to a full range of medical, financial, and/or other benefits. Details of participation in these benefit plans will be provided if an employee receives an offer of employment. If hired, employee will be in an "at-will position" and the company reserves the right to modify base salary (as well as any other discretionary payment or compensation or benefit program) at any time, including for reasons related to individual performance, company or individual department/team performance, and market factors.
+
+
+NY Base Pay Range
+
+
+$71,000—$80,000 USD
+
+
+… more
+
+Set alert for similar jobs
+
+DevOps Engineer, Manhattan, New York, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+1021
+
+total
+
+137
+
+in the past day
+
+Candidate seniority level
+
+73% Entry level candidates
+
+13% Senior level candidates
+
+Candidate education level
+
+28
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+21
+
+%
+
+have a Master of Science
+
+
+20
+
+%
+
+have a Bachelor's Degree
+
+
+31
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Rockstar Games
+Powered by Bing
+
+Company focus areas
+
+• Focus on GTA 6: Rockstar Games is prioritizing the development of Grand Theft Auto 6, dedicating significant resources and manpower to ensure it is a groundbreaking entry in the series.
+
+...more
+
+Sources: cyberpost.co +1 more
+
+Hiring & headcount
+
+Expanding operations and sales: The 'Operations' and 'Sales' departments have seen significant increases in employee percentage difference, with 19% and 123% respectively, indicating a strong focus on expanding operational capacity and sales efforts. Growth in engineering and media: The 'Engineering' and 'Media and Communication' departments have both experienced an 8% increase in headcount, suggesting new initiatives in product development and media outreach. Increased focus on education and business development: The 'Education' and 'Business Development' departments have grown by 24% and 16% respectively, highlighting a strategic emphasis on training and expanding business opportunities. Administrative and consulting growth: The 'Administrative' and 'Consulting' departments have seen increases of 26% and 50% respectively, indicating a bolstering of support functions and advisory roles within the company.
+… more
+
+The latest hiring trend
+
+4,868
+
+Total employees
+
+16%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+0
+2500
+5000
+7500
+
+Median employee tenure: 4.6 years
+
+Rockstar Games hires candidates from some of these companies and schools
+
+Rockstar Games hired 10 people from University of Southern California. See all
+
+Rockstar Games hired 40 people from University of Southern California. See all
+
+Competitors
+
+Rockstar Games operates in a highly competitive gaming industry, known for its immersive, narrative-driven experiences. As a subsidiary of Take-Two Interactive, Rockstar Games faces competition from major players like Ubisoft, EA, and Activision Blizzard. The company maintains its competitive edge through continuous innovation, high-quality content, and strong player engagement in both single-player and multiplayer realms.
+… more
+
+Sources: comparably.com +2 more
+
+Show Premium Insights
+About the company
+
+Rockstar Games
+
+750,544 followers
+
+Follow
+
+Computer Games
+
+ • 
+
+1001-5000 employees
+
+ • 
+
+4,723 on LinkedIn
+
+Rockstar Games is the global developer and publisher behind some of the world’s most groundbreaking, commercially successful, and critically acclaimed entertainment properties, including the Grand Theft Auto, Red Dead Redemption, Max Payne, and Midnight Club series, Bully, L.A. Noire, and The Warriors.
+ 
+Through a commitment to progressive and innovative game design, the highest production values, and quality storytelling, Rockstar Games has helped propel video games to the center of culture.
+ 
+Rockstar Games is an equal opportunity employer.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Generative AI Backend Engineer
+
+Abacus.AI
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on November 20, 2025, 10:44 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Frontend Developer
+
+Marklo.AI
+
+San Mateo, CA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on October 28, 2025, 9:28 AM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Founding Full-Stack Engineer
+
+Baton AI
+
+San Francisco, CA (On-site)
+
+You’d be a top applicant
+
+Posted on August 20, 2025, 4:30 PM
+4 months ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Clinically AI
+
+San Diego, CA (Hybrid)
+
+$100K/yr - $240K/yr
+
+ • 
+
+401(k) benefit
+
+Posted on November 13, 2025, 12:08 PM
+1 month ago
+
+Full Stack Engineer
+
+Exfluential
+
+Rancho Santa Margarita, CA (Hybrid)
+
+$120K/yr - $140K/yr
+
+ • 
+
+401(k) benefit
+
+Posted on December 19, 2025, 3:53 PM
+1 week ago
+
+IT Engineer (Verified job)
+IT Engineer 
+
+Paradigm
+
+San Francisco, CA (On-site)
+
+4 benefits
+
+3 school alumni work here
+
+Posted on December 16, 2025, 10:06 AM
+1 week ago
+
+Full Stack Software Engineer
+
+Moon
+
+Glendale, CA (On-site)
+
+Vision, 401(k)
+
+1 school alumni works here
+
+Posted on September 9, 2025, 2:39 PM
+3 months ago
+
+ITOps / DevOps Engineer (Contract, Convertible to Full-Time)
+
+Sage Care
+
+Palo Alto, CA (Hybrid)
+
+1 school alumni works here
+
+Posted on December 5, 2025, 9:08 PM
+2 weeks ago
+
+Full-Stack Engineer
+
+Opal
+
+San Francisco Bay Area (On-site)
+
+$150K/yr - $200K/yr
+
+Posted on October 17, 2025, 6:35 PM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+Founding Software Engineer
+
+Unsiloed AI (YC F25)
+
+San Francisco Bay Area (On-site)
+
+Posted on December 21, 2025, 9:52 PM
+4 days ago
+
+Full Stack Engineer
+
+Stealth Startup
+
+Los Angeles, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on November 23, 2025, 6:11 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Founding Engineer
+
+Caylex
+
+San Francisco, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 2, 2025, 3:40 PM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2025
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

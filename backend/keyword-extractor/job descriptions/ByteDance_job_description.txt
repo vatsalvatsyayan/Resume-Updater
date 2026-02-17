@@ -1,0 +1,478 @@
+ByteDance
+
+Software Engineer, Backend and Infrastructure 
+
+San Jose, CA · 2 hours ago · 78 applicants
+
+Promoted by hirer · No response insights available yet
+
+$136.8K/yr - $259.2K/yr
+On-site
+Full-time
+Easy Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Daming and others in your network
+
+Show all
+About the job
+
+Responsibilities
+About the Team
+Our team works to build out the development services that enable engineers to deliver high-quality features and systems to our users. We aim to provide systems enabling software development streamline and productive. The systems we are building include Cloud IDE, Intelligent Unit Test Generation, code and build systems, CI/CD software, Micro service management and monitoring. We are looking for engineers who have good backend design and/or infra experience to join our team.
+
+As a software engineer in the R&D Services team, you will
+- Build development infra including Cloud IDE, Repo&code management and CI/CD systems;
+- Build advanced intelligent data platforms, help client developers make decisions to optimize the user experience of our products;
+- Build ByteDance staging environment for TikTok, Ads, Shopping to enable internal isolate user and traffic from Prod, scale distributed applications,  tweak technology like K8S, RPC, DB, MQ, KAFKA, HDFS, Hive, Yarn,  build monitor and alert system;
+- Research and convert state of art computer engineering technology into the real products.
+
+Qualifications
+Minimum Qualifications: 
+- Bachelor degree in computer science or a related technical discipline;
+- Experience working with Android/Java/Objective-C/Python/Golang;
+
+Preferred Qualifications:
+- Full-stack development experience
+- Experience in one or more of the following: private or public cloud, backend architecture, storage system, databases, CI/CD system, build infrastructure and big data.
+
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.​
+
+
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.​
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
+Diversity & Inclusion​
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
+
+
+Reasonable Accommodation
+ByteDance is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at https://tinyurl.com/RA-request​
+
+
+Job Information
+【For Pay Transparency】Compensation Description (Annually)
+The base salary range for this position in the selected city is $136800 - $259200 annually.​
+Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience, and location. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives, and restricted stock units.​
+Benefits may vary depending on the nature of employment and the country work location. Employees have day one access to medical, dental, and vision insurance, a 401(k) savings plan with company match, paid parental leave, short-term and long-term disability coverage, life insurance, wellbeing benefits, among others. Employees also receive 10 paid holidays per year, 10 paid sick days per year and 17 days of Paid Personal Time (prorated upon hire with increasing accruals by tenure).​
+The Company reserves the right to modify or change these benefits programs at any time, with or without notice.​
+For Los Angeles County (unincorporated) Candidates:​
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:​
+1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;​
+2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and​
+3. Exercising sound judgment.​
+… more
+
+Benefits found in job post
+
+401(k), Vision insurance, Disability insurance
+
+Set alert for similar jobs
+
+Software Engineer, San Jose, California, United States
+
+Off
+See how you compare to other applicants
+Based on LinkedIn data. Excludes subsidiaries.
+Applicants for this job
+
+78
+
+Applicants
+
+78
+
+Applicants in the past day
+
+Applicant seniority level
+
+81% Entry level people applied for this job
+
+13% Senior level people applied for this job
+
+1% Manager level people applied for this job
+
+Applicant education level
+
+83
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+16
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about ByteDance
+Powered by Bing
+
+Company focus areas
+
+• Global Expansion and Localization: ByteDance is focusing on global expansion and localization, particularly in Southeast Asia, Europe, and Japan, to shape digital economies and increase its user base.
+
+...more
+
+Sources: growthhq.io +1 more
+
+Hiring & headcount
+
+Focus on Engineering: The 'Engineering' department has seen a 9% increase in headcount over the past year, indicating a significant investment in technological development and innovation. Growth in Research: The 'Research' department experienced a 13% increase in employee count, suggesting a strong emphasis on research and development initiatives. Expansion in Entrepreneurship: The 'Entrepreneurship' function saw a 34% rise in headcount, highlighting a strategic push towards fostering new business ventures and innovation within the company. Stable Growth in Human Resources: The 'Human Resources' department grew by 5%, reflecting a steady investment in managing and supporting the growing workforce.
+… more
+
+The latest hiring trend
+
+46,522
+
+Total employees
+
+12%
+
+Company-wide
+
+2 year growth
+
+48%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+25000
+50000
+
+Median employee tenure: 4.3 years
+
+ByteDance hires candidates from some of these companies and schools
+
+ByteDance hired 47 people from University of Southern California. See all
+
+ByteDance hired 294 people from University of Southern California. See all
+
+Competitors
+
+ByteDance operates in a highly competitive landscape, facing significant competition from major technology companies like Meta Platforms Inc., Alibaba Group, and Tencent Holdings. The company leverages its strengths in AI, content creation, and mobile entertainment to maintain its market position. ByteDance's strategic investments in AI infrastructure, e-commerce, and enterprise cloud services are crucial for its growth and competitive edge.
+… more
+
+Sources: secure.businesswire.com +2 more
+
+Show Premium Insights
+About the company
+
+ByteDance
+
+1,377,180 followers
+
+Follow
+
+Software Development
+
+ • 
+
+10001+ employees
+
+ • 
+
+46,522 on LinkedIn
+
+ByteDance is a global incubator of platforms at the cutting edge of commerce, content, entertainment and enterprise services - over 2.5bn people interact with ByteDance products including TikTok.
+
+Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible. 
+
+Together, we inspire creativity and enrich life - a mission we aim towards achieving every day. At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve. We are committed to building a safe, healthy and positive online environment for all our users.
+
+We have over 110,000 employees based in more than 30 countries globally. Join us.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Creative Technology Engineer
+
+Origin
+
+New York, NY (Hybrid)
+
+Posted on January 21, 2026, 12:10 PM
+1 day ago
+
+Forward Deployed Engineer
+
+Droneforge
+
+El Segundo, CA (On-site)
+
+$140K/yr - $180K/yr
+
+Posted on January 22, 2026, 8:18 AM
+9 hours ago
+
+ · 
+
+ Easy Apply
+
+Platform Engineer (DataOps) (Verified job)
+Platform Engineer (DataOps) 
+
+National Center for Biotechnology Information (NCBI)
+
+Fairfax, VA (On-site)
+
+$115K/yr - $150K/yr
+
+ • 
+
+401(k) benefit
+
+Posted on January 21, 2026, 7:56 AM
+1 day ago
+
+Applied AI Engineer
+
+Louisville Metro Government
+
+Louisville Metropolitan Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 1:11 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+AI Product Engineer
+
+Tacit
+
+San Francisco, CA (On-site)
+
+$120K/yr - $180K/yr
+
+Posted on January 21, 2026, 10:53 PM
+18 hours ago
+
+Full Stack Engineer
+
+Crest Labs
+
+United States (Remote)
+
+Posted on January 22, 2026, 1:05 PM
+4 hours ago
+
+ · 
+
+ Easy Apply
+
+Senior Developer Advocate (Developer Evangelist)
+
+Typesense
+
+United States (Remote)
+
+$150K/yr - $170K/yr
+
+ • 
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 2:33 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+LLM Engineer
+
+Prana Tree
+
+Chicago, IL (Hybrid)
+
+Posted on January 22, 2026, 6:29 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer/Architect - Strategic & AI-Focused
+
+CAPX
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 1:13 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+ShipMyCards LLC
+
+Litchfield Park, AZ (On-site)
+
+$24/hr - $33/hr
+
+ • 
+
+Medical, Vision, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 7:30 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer (Backend) (Full Remote, Global)
+
+Project 0
+
+United States (Remote)
+
+Posted on January 22, 2026, 11:25 AM
+6 hours ago
+
+ · 
+
+ Easy Apply
+
+Robotics Firmware Engineer
+
+Zenblen
+
+Chicago, IL (On-site)
+
+Posted on January 22, 2026, 9:16 AM
+8 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

@@ -1,0 +1,59 @@
+About the job
+
+About Emerald AI
+
+We’re at a pivotal moment for AI and energy. Demand for compute is skyrocketing, but power constraints are becoming a critical bottleneck. Emerald AI sits at the intersection of these two worlds, enabling AI data centers to scale without overwhelming the grid.
+
+Our Emerald Conductor software platform makes data centers flexible and responsive, allowing them to adjust power usage dynamically. This unlocks massive AI growth without major new infrastructure, while also strengthening the grid and supporting the expansion of renewable energy.
+
+We’re a team of experts across AI, cloud, software, and energy—on a mission to scale AI sustainably. We’re backed by leading investors and partners including Radical Ventures and NVIDIA.
+
+Learn more about our vision, team, and backers at https://www.emeraldai.co/.
+
+About The Role
+
+Emerald AI is looking for a Full Stack Engineer to help build the core software platform that enables intelligent operation of AI data centers. In this role, you’ll work across the stack—from designing intuitive web UIs and client interfaces to developing robust back-end services and APIs. You’ll collaborate with a multidisciplinary team to turn real-time infrastructure data into actionable insights that drive performance and power efficiency.
+
+Key Responsibilities
+
+
+Work across the full software stack, from crafting intuitive web UIs and client interfaces to implementing the backend services and databases that support them. 
+Drive projects from ideation through launch building Server Driven UI components, dashboards, client-friendly schemas, and developing backend microservices & APIs for Emerald’s software suite 
+Ensure systems are scalable, performant, and reliable driving best practices in code quality, testing, and deployment. 
+Collaborate with a cross-functional team to turn new algorithms and models into scalable, reliable software processes integrated into the product. 
+
+
+Minimum Requirements
+
+
+Proficiency in both backend and frontend development; comfortable working with a modern backend language (e.g., Python, Java, Node.js, Go) and a frontend framework (e.g., React, Angular, vue.js). 
+Experience building and deploying web applications, including designing APIs and working with databases (SQL or NoSQL) and data processing pipelines. 
+Solid understanding of software engineering fundamentals (data structures, algorithms, version control, testing) and best practices for maintainable code. 
+Excellent problem-solving and communication skills, with a track record of working effectively in collaborative, cross-functional teams. 
+Enthusiasm for working in a fast-paced startup environment, with the ability to adapt to changing needs and take initiative in a small team setting. 
+
+
+Preferred Requirements
+
+
+Experience with AI/ML frameworks or libraries (e.g., TensorFlow, PyTorch) and familiarity with MLOps tools or workflows for deploying machine learning models into production. 
+Exposure to cloud infrastructure and services (AWS, GCP, Azure) and experience with containerization/orchestration tools such as Docker and Kubernetes for scalable deployments. 
+Understanding of cluster resource management and scheduling systems (e.g., experience with Slurm or similar job schedulers) and principles of efficient resource provisioning for compute-intensive workloads. 
+
+
+What we offer
+
+
+Make an impact. Solve the AI power bottleneck and shape how data centers scale sustainably. 
+Join a world-class team of AI, cloud, software, and energy experts in a collaborative, low-ego environment. 
+Build from 0→1. Influence strategy, GTM, org design, and customer/investor engagement from day one. 
+Competitive pay + equity. Stock options let you share in the value you help create. 
+Comprehensive benefits, including medical, dental, vision, and 401(k) matching. 
+Flexible location. Work from D.C., Boston, or the Bay Area, with 1 WFH day/week. Backed by top investors, including Radical Ventures and NVIDIA. 
+
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability, and any other protected ground of discrimination under applicable human rights legislation.
+
+Emerald AI strives to respect the dignity and ‎independence of people with disabilities and is committed to giving them the same ‎‎opportunity to succeed as all other employees.
+
+Inclusiveness is core to our culture at Emerald AI, and we strive to ensure you get the most from your interview experience. Emerald AI makes reasonable accommodations for applicants with disabilities. If a reasonable accommodation is needed to participate in the job application or interview process, please reach out to the Talent team.

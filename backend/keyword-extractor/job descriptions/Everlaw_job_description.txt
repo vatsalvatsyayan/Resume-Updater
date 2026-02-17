@@ -1,0 +1,58 @@
+About the job
+
+Everlaw is looking for a Software Engineer to join our team in Oakland, CA. This is an amazing opportunity to launch your engineering career, make a real impact on our product and grow your skills with a team that's committed to your success. Our mission is to promote justice by illuminating truth, and we do this with our ediscovery platform. You'll have the opportunity to explore our entire system with significant autonomy across the stack. We empower engineers to follow their interests and build the right functionality in the right way, without imposing deadlines. We really care about code quality and making it easy to maintain, which is why we don't do sprints. Sprints promise to accelerate development, but often do the opposite. Read more about why Everlaw strays away from sprints here.
+
+Engineering is the backbone of the Everlaw Platform. Quality product is at the core of everything we do - and our considered approach to development keeps us at the forefront of technological innovation. Rather than being a cog in a much larger project, most features at Everlaw are built end-to-end by a single engineer, product lead and designer. 
+
+Our company culture is open and vibrant and we’re committed to the professional growth of our team members. Whether you’re building code or building community, our teams are driven by innovation and a shared mission to tackle the biggest challenges in society. If you’re looking for a place that values passion, integrity, thinking big, and a desire to learn, we’d love to hear from you!
+
+This is a full-time exempt position based in our Oakland, California office with a hybrid work schedule: in office M/W/Th with the option to work from home Tues/Fr.
+
+Getting started
+We want you to feel like part of the team early on! Our onboarding process will integrate you into the company with informative sessions on our product, policies, processes, and team structure and goals. A dedicated onboarding mentor will guide you through your first few projects.
+We’re excited for you to learn, grow, and contribute right away! We trust that you’ll bring experience and knowledge that will uplift and uplevel the team, but we don’t expect you to know everything on Day 1
+In your role, you'll...
+Build features from start to finish: You’ll choose from a variety of projects, taking them from a rough idea to a full release.
+Collaborate across teams: You’ll work closely with our Product, Design, and DevOps teams to build and launch new features. You won’t be working silo - you’ll be an integrated part of the process.
+Maintain and improve our platform: You’ll learn how to debug and fix real-world issues in a complex system, and contribute to documentation
+Become an expert on the Everlaw platform: Your onboarding mentor will guide you through your first projects and training modules to get you up to speed on our product.
+About you
+You have a BS or MS in Computer Science, or equivalent coursework.
+You have experience and proficiency in coding in a dominant language such as C++, Java, Python, or Javascript.
+You have good knowledge of algorithms and fundamental computer science concepts.
+You have strong strategic thinking and team collaboration skills.
+You have experience building small software projects as part of class assignments or summer internships.
+Pluses
+You are familiar with Linux.
+You are familiar with Git or a similar version control system.
+You have excellent writing and communication skills.
+You have completed an internship within a technical discipline.
+You have been in a campus leadership position. 
+You have completed a research program related to a technical discipline.
+Benefits
+The expected salary range for this role is between $105,000 - $135,000. The final offered salary will be dependent upon many factors including the candidate’s experience and skills. The base pay range is subject to change in the future.
+Substantial equity
+401k with company matching
+Health, dental, and vision
+Flexible Spending Accounts for health and dependent care expenses
+Paid parental leave and sick leave
+Seventeen paid vacation days plus ten bankable federal holidays
+Four “Everlawlidays” that are designated days off for the whole company
+Mental health resources through Modern Health
+Annual allocation for Learning & Development opportunities and applicable professional membership dues
+Company-sponsored life and disability insurance
+Perks
+Work in Downtown Oakland, just steps from the BART line and dozens of restaurants
+You will get a powerful Linux laptop and be able to customize your desk setup
+Hybrid work schedule 
+Commuter benefits (for those eligible)
+Internet & cell phone reimbursement (for those eligible)
+Anniversary awards
+Catered lunches and out-of-the-box events 
+Ranked “#1 on G2 for Ediscovery Software and Momentum” and we offer free eDiscovery resources to benefit the greater societal good with Everlaw for Good
+Time off for company-sponsored volunteer events and 4 paid hours per quarter to volunteer at a charitable organization of your choice
+Take advantage of learning and career development opportunities 
+Ranked #9 on Glassdoor's Best Places to Work 2023 for US small and medium companies
+One of Wealthfront’s 2021 Career Launching Companies, and ranked #2 on the “2022 Bay Area Best Places to Work” list by the San Francisco Business Times and the Silicon Valley Business Journal
+One of Fast Company’s World's Most Innovative Companies for 2022 and proud contributor of free ediscovery resources to benefit the greater good through “Everlaw for Good”
+ Pursue Truth While Finding YoursAt Everlaw, we are deeply invested in pursuing the truth, for our clients and for our employees. We know that when you’re empowered to pursue your passions, it is reflected in the work. That’s why we’re committed to the professional growth of all our team members, offering an annual learning and development stipend and regular career check-ins with managers. If you’re looking for a place that values passion, integrity, and a desire to learn, we’d love to hear from you! About EverlawWe help law firms, government agencies, and corporations sift through millions of documents of evidence in big lawsuits and investigations to find the proverbial smoking gun (or needle in the haystack -- pick your metaphor). It's a multi-billion dollar space typically dominated by service-oriented vendors, and we're coming at it with cutting-edge technology and elegant design. It's working, and we've been growing very rapidly: we host hundreds of terabytes of data and work with all 50 state Attorneys General and hundreds of law firms on some of the most high-profile cases litigated today. Everlaw is an equal opportunity employer. We pride ourselves on having a diverse workforce and we do not discriminate against any employee or applicant because of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law. We respect the gender, gender identity and gender expression of our applicants and employees, and we honor requests for pronouns. It is our policy to comply with all applicable national, state and local laws pertaining to nondiscrimination and equal opportunity, including the California Equal Pay Act. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. We collect and process the personal information you provided along with your job application in accordance with our Applicants Privacy Notice and Notice at Collection. We use Covey as part of our hiring and/or promotional processes. As part of the evaluation process, we provide Covey with job requirements and candidate-submitted applications. Certain features of the platform may qualify it as an Automated Employment Decision Tool (AEDT) under applicable regulations. For positions in New York City, our use of Covey complies with NYC Local Law 144. We began using Covey Scout for Inbound on the 9th of June, 2025.

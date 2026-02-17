@@ -1,0 +1,62 @@
+About the job
+
+TARGET SALARY: Up to 75,000.00 DOQ
+
+Who We Are
+
+Infinite Campus is an educational software company that helps K12 school districts manage their day-to-day operations. We’ve been around for over 30 plus years and are the most trusted name in student information. Our customers include school districts across the United States and our products support more than eight million students.
+
+What You’ll Do
+
+The Software Engineer I is responsible for software development within Infinite Campus – Student Administration. Incumbent should have internship or entry level work experience/knowledge of SQL or other relational database languages and Java or other programming languages. Should be adaptable under a fast-paced environment with fairly fast turn-around. Able to demonstrate/write, test and debug code. Ability to work autonomously as well as in a team/collaborative environment. Understanding of SDLC and agile processes.
+
+All Software Engineer I’s at Infinite Campus will code software to adhere to designs supporting business requirements. Debug and test code. Create unit and other automated code validation tests. Estimate level of effort for individual work. Research, investigate, and fix a wide range of technical issues. Use agile planning, estimation, communication, and release processes. Write system documentation in support of the code being developed.
+
+Who You Are
+
+You are responsible; able to achieve desired results within expected time frames with a high degree of quality and professionalism. You are able to establish and maintain positive and productive work relationships with all staff, customers and cross-functional teams. You are professional with a positive attitude and are able to assimilate to the company’s culture and development philosophy. You are ethical; will have a strong work ethic and a passion for excellence. You are self-motivated, collaborative and self-directed with a strong preference to work in a team environment yet able to work independently as needed. You are well organized and goal oriented able to handle multiple assignments simultaneously – a multi-tasker. You are curious; will seek to understand the unknown. You are an excellent communicator with the ability to effectively and proactively communicate with internal stakeholders.
+
+Your skill-set
+
+You will have a bachelor’s degree in Computer Science or related field and internship or one year software development experience; OR three years software development work experience. You will possess and leverage knowledge of standard concepts, practices, and procedures in technologies used at Infinite Campus (e.g., Java, Groovy, SQL, XSLT, Spock, Grails, JavaScript, and/or Angular).
+
+What We Offer
+
+A highly competitive compensation package that reflects our commitment to the people who work here. No matter where you’re at in life, we’ve got you covered.
+
+
+ Medical
+ Onsite Health Center for employee and family
+ Teledoc
+ Dental
+ Vision
+ Health Savings Account
+ Flexible Spending Accounts
+ Short & Long Term Disability
+ Life and ADD insurance
+ Generous paid time off (PTO)
+ Holiday pay
+ Employee Assistance Program
+ 401k
+ Employee Stock Option Plan
+ Education Assistance
+ Daily free lunch and beverages at our onsite restaurant
+
+
+A relaxed work environment that embraces onsite in person collaboration. Infinite Campus is a place where smart, talented people work together with other smart and talented people every day.
+
+What We Live By
+
+We solve problems at Infinite Campus. Driven by our mission and vision to Transform K12 Education®, we build solutions to serve K12 education and empower change for the better. We have shown that by adapting and applying technology and practices used by the private sector to K12, educators can be more productive in their daily tasks, and accomplish things previously thought to be impossible
+
+Not sure if this is for you?
+
+We want a diverse team, with a broad range of experience and perspectives. If this job has piqued your interest, but you’re not sure if you qualify, apply anyways! We carefully consider every application and will either move forward with you, find another team or position that might be a better fit, keep in touch for future opportunities, or send you off with our gratitude and a thank you for your time.
+
+Equal Opportunity Employer
+
+Infinite Campus, Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Infinite Campus complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+Infinite Campus, Inc. expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of Infinite Campus’ employees to perform their job duties may result in discipline up to and including discharge.
+
+As a federal contractor, Infinite Campus is requiring all new hires to verify that they are fully-vaccinated against COVID-19 prior to your start date with Infinite Campus, consistent with applicable law. Candidates who are not vaccinated due to a sincerely held religious belief, medical reasons, or other legally-protected reason should work with your with Infinite Campus Human Resources to explore what, if any, reasonable accommodations or exemptions Infinite Campus is able to offer.

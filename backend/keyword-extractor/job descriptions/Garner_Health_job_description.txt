@@ -1,0 +1,55 @@
+About the job
+
+Healthcare quality is declining and soaring costs are crushing American families and businesses. At Garner, we've developed a revolutionary approach to evaluating doctor performance and a unique incentive model that's reshaping the healthcare economy to ensure everyone can afford high quality care. By providing organizations relief from surging healthcare costs, we've experienced rapid adoption in the market and have more than doubled our revenue annually over the last 5 years, becoming the fastest growing company in our space. To support our continued growth, we're expanding our team by over 50% each year, seeking exceptional talent to shape our unique, award winning culture (for example, USA Today Top Workplaces 2025) designed to cultivate teamwork, trust, autonomy, exceptional results, and individual growth that creates an inflection point in your career.
+
+About the role:
+
+We are looking for an Associate Software Engineer to join our team and help us develop the core systems powering client onboarding and reporting part of our business. You will work closely with a talented product and design team, stay up-to-date with the latest technologies, and contribute to a fast-paced, innovative environment. The ideal candidate for this role should be able to deliver across the tech stack and is eager to learn and apply new techniques and technologies.
+
+Where you will work:
+
+This role will be based in our New York City office. You must be willing to work in the office 3 days per week on Tuesday, Wednesday and Thursday.
+
+What you will do:
+
+
+Design, build and launch new features and improve the overall quality of the Garner app
+Collaborate across disciplines to understand our users and iterate on new ideas
+Protect our users' privacy and security through secure coding practices
+Support the Garner app in production
+
+
+What you will bring to the team:
+
+
+Bachelors degree in Computer Science or STEM field
+Less than 1-year of full time software engineering work experience
+Proficiency in software engineering fundamentals
+A track record of shipping high-quality features through internships or personal projects
+Excitement to thrive in a fast-paced environment, continuously learn, and sharpen your skills
+Experience with Python, JavaScript, or TypeScript is highly desirable 
+Experience with Flask, React, or NodeJS is highly desirable
+Experience with a major cloud provider such as AWS
+Experience with one or more database systems such PostgreSQL or ElasticSearch
+Strong technical writing, analytical, and communication skills
+
+
+Technologies we use: 
+
+
+Python, TypeScript, React, NodeJS, Kubernetes, Istio, Postgres, ElasticSearch, NATS, AWS, Terraform
+
+
+Compensation Transparency:
+
+The target salary range for this position is $100,000 - $120,000. Individual compensation for this role will depend on various factors, including qualifications, skills, and applicable laws. In addition to base compensation, this role is eligible to participate in our equity incentive and competitive benefits plans, including but not limited to: flexible PTO, Medical/Dental/Vision plan options, 401(k), Teladoc Health and more.
+
+Fraud and Security Notice: 
+
+Please be aware of recent job scam attempts. Our recruiters use getgarner.com email domain exclusively. If you have been contacted by someone claiming to be a Garner recruiter or a hiring manager from a different domain about a potential job, please report it to law enforcement here and to candidateprotection@getgarner.com.
+
+Equal Employment Opportunity:
+
+Garner Health is proud to be an Equal Employment Opportunity employer and values diversity in the workplace. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.
+
+Garner Health is committed to providing accommodations for qualified individuals with disabilities in our recruiting process. If you need assistance or an accommodation due to a disability, you may contact us at talent@getgarner.com.

@@ -1,0 +1,352 @@
+Northwestern University
+
+Software Engineer 
+
+Chicago, IL · 10 minutes ago · 7 people clicked apply
+
+Responses managed off LinkedIn
+
+$80.3K/yr - $100.4K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+Department: MED-Medical Social Sciences
+
+Salary/Grade: ITS/79
+
+Target hiring range for this position will be between $80,297 - $100,370 per year. Offered salary will be determined by the applicant’s education, experience, knowledge, skills and abilities, as well as internal equity and alignment with market data.
+
+Job Summary
+
+Develops, codes, tests, and debugs new software or enhancements to existing software.Typically works with senior staff but may coordinate smaller or less complex projects independently.Designs and implements basic technical solutions ensuring that business needs and requirements are met.Performs basic system integration tasks. Provides estimation for assigned tasks.
+
+Program Description
+
+The Center for Computational and Social Sciences in Health (COMPASS) within the Institute of Artificial Intelligence in Medicine (I.AIM) is a research center that seeks to foster connection between data science, social science and population health to increase the capacity for cutting-edge research that uses social and behavioral science and computational methodology to understand and enable the health of populations (https://www.feinberg.northwestern.edu/sites/compass/). COMPASS is directed by Dr. Birkett and Dr. Janulis (Associate Director) and builds upon their decade of scientific work leading the Complex Systems and Health Disparities (CONNECT) Research Program within Northwestern’s Impact Institute that was focused on elucidating the complex mechanisms driving the health disparities of stigmatized populations, in particular gender and sexual minorities. COMPASS extends this work through three interrelated priorities: building transdisciplinary collaborations; training the next generation of population health scholars; and conducting cutting-edge research on the social and structural drivers of population health. The Center houses several NIH-funded studies that seek to further understanding on how contextual and multilevel factors influence health outcomes through the use of complex modeling – including network analysis and simulation - as well as by building tools to improve the collection and measurement of complex data for social and behavioral health research.
+
+Project Description
+
+Network Canvas (www.networkcanvas.com; https://github.com/complexdatacollective) is an NIH-supported open-source suite of tools for the collection and management of complex social network data with wide-ranging applications in social, behavioral and other health research. Our team is currently extending these existing tools to develop Network Canvas Studio – a cloud-based, browser-accessible platform that will increase the utility and reach of these tools and facilitate improved social network measurement for HIV, drug use and other research investigating the social and structural drivers of infectious disease. This work involves transitioning our existing apps to the Studio platform, developing extensive new features to support remote self-administration, collaborative protocol design and editing, longitudinal data capture functionality, role-based access controls, survey scheduling and sampling tools, and an open API for integration and analysis — all informed by community feedback and accessibility principles.
+
+Specific Responsibilities
+
+Strategic Planning
+
+
+ Participates in the development of new goals and strategies based on interactions with primary user. 
+ Develops plans for software deployment on heterogeneous systems. 
+ Collaborates with user to develop workflow and best practices. 
+ Partners with user in designing features for technology. 
+
+
+Administration
+
+
+ Responds to customer inquiries via phone, online, in-person, etc. 
+ Creates and maintains code documentation. 
+ Grants system access to new user. 
+ Evaluates feature/upgrade/change requests and recommends action. 
+ Participates in interview process for new hires. 
+ Identifies database and software performance issues, and makes adjustments. 
+
+
+Development
+
+
+ Develops and maintains software infrastructure, via patches, bundles, releases and maintenance packs. 
+ Codes software applications adhering to designs supporting internal business requirements or external user. 
+ Completes tier 3 troubleshooting. 
+ Designs databases and data structures. 
+ Prioritizes tasks within project. 
+ Meets with business analyst/stakeholder to determine requirements. 
+
+
+Miscellaneous 
+
+Performs other duties as assigned.
+
+Minimum Qualifications: (Education, experience, and any other certifications or clearances)
+
+
+ Successful completion of a full 4-year course of study in an accredited college or university leading to a bachelor's or higher degree in a major such as computer science, information technology, or related; OR appropriate combination of education and experience. 
+ 2 years relevant experience required. 
+ Adobe Creative Cloud Suite 
+ Amazon Web Services (AWS) 
+ Apache 
+ Code Repositories (Git, Subversion) 
+ NoSQL (MongoDB, CouchDB) 
+ Puppet/Chef/Ansible 
+ SQL/MySQL/Postgres 
+ CSS 
+ HTML 5 
+ JavaScript 
+ Node.js 
+ Python 
+ React 
+ critical thinking 
+ Debugging 
+ judgment 
+ problem solving 
+ Troubleshooting 
+ agile environment 
+ Code documentation 
+ collaboration and teamwork 
+ iterative & incremental development 
+ organizational skills 
+ planning 
+ workflow development & documentation 
+
+
+Minimum Competencies: (Skills, knowledge, and abilities.)
+
+
+ Effective time management skills. 
+ Strong communication skills, including the ability to translate technical information to nontechnical audiences and vis versa. 
+ Attention to detail. 
+ Ability to manage work tasks independently. 
+
+
+Preferred Qualifications: (Education and experience)
+
+
+ Experience working with and interest in the LGBTQ+ population. 
+ Experience working in and knowledge of public health. 
+
+
+Preferred Competencies: (Skills, knowledge, and abilities)
+
+
+ Functional programming and technical knowledge, particularly in JavaScript with an emphasis on knowledge in React. 
+ Knowledge of git workflows and collaborative coding techniques. 
+ Familiarity with modern web technologies. 
+
+
+Benefits
+
+At Northwestern, we are proud to provide meaningful, competitive, high-quality health care plans, retirement benefits, tuition discounts and more! Visit us at  https://www.northwestern.edu/hr/benefits/index.html  to learn more.
+
+Work-Life And Wellness
+
+Northwestern offers comprehensive programs and services to help you and your family navigate life’s challenges and opportunities, and adopt and maintain healthy lifestyles.
+
+We support flexible work arrangements where possible and programs to help you locate and pay for quality, affordable childcare and senior/adult care. Visit us at  https://www.northwestern.edu/hr/benefits/work-life/index.html  to learn more.
+
+Professional Growth & Development
+
+Northwestern supports employee career development in all circumstances whether your workspace is on campus or at home. If you’re interested in developing your professional potential or continuing your formal education, we offer a variety of tools and resources. Visit us at  https://www.northwestern.edu/hr/learning/index.html  to learn more  .
+
+Northwestern University is an Equal Opportunity Employer and does not discriminate on the basis of protected characteristics, including disability and veteran status. View Northwestern’s  non-discrimination statement . Job applicants who wish to request an accommodation in the application or hiring process should contact the Office of Civil Rights and Title IX Compliance. View  additional information on the accommodations process .
+
+
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Chicago, Illinois, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+7
+
+total
+
+7
+
+in the past day
+
+Candidate seniority level
+
+71% Entry level candidates
+
+Candidate education level
+
+86
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+14
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about Northwestern University
+Powered by Bing
+
+The latest hiring trend
+
+16,754
+
+Total employees
+
+1%
+
+Company-wide
+
+2 year growth
+
+3%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+10000
+20000
+
+Median employee tenure: 4.8 years
+
+Northwestern University hires candidates from some of these companies and schools
+
+Northwestern University hired 39 people from University of Southern California. See all
+
+Northwestern University hired 62 people from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+Northwestern University
+
+415,735 followers
+
+Follow
+
+Higher Education
+
+ • 
+
+5001-10000 employees
+
+ • 
+
+15,678 on LinkedIn
+
+Northwestern is one of the nation’s premier research universities, combining innovative teaching and pioneering research in a highly collaborative, multidisciplinary, and diverse environment. Northwestern provides both students and faculty exceptional opportunities for intellectual, personal, and professional growth in beautiful settings, with two campuses located on Lake Michigan: a 240-acre campus in Evanston, minutes north of Chicago, and a 25-acre campus in downtown Chicago. A third campus in Doha, Qatar was founded in 2008. For more information visit http://www.northwestern.edu
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

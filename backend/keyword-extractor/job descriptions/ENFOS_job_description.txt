@@ -1,0 +1,87 @@
+About the job
+
+ENFOS is redefining how global enterprises manage long-term environmental risk. As the category leader in Environmental Obligation Management, our platform centralizes and automates the full lifecycle of Environmental Remediation Obligations (EROs) and Asset Retirement Obligations (AROs)—replacing fragmented spreadsheets and outdated tools with a purpose-built, multi-tenant SaaS platform.
+
+
+
+
+For 25 years, ENFOS has helped the world’s leading industrial companies stay audit-ready, SOX-compliant, and financially in control of their environmental obligations. Privately held and profitable, ENFOS operates with no direct competitors and supports a blue-chip customer base spanning energy and natural resources, chemicals, manufacturing, and logistics end markets.
+
+With regulatory pressure rising and ESG scrutiny intensifying, ENFOS is uniquely positioned to empower Finance, Legal, and Remediation teams to improve decision-making, mitigate risk, and drive long-term balance sheet reliability.
+
+
+
+
+About the Role:
+
+As a Software Engineer at ENFOS, you will report to a Senior Software Engineer and play a hands-on role in delivering high-impact, full-stack features using React and Java. You’ll work on scalable, high-performance web applications used by global industrial leaders to manage complex environmental obligations.
+
+You should be comfortable working across the stack—building user interfaces in React, implementing backend logic in Java, and integrating with APIs and databases. You’ll collaborate with product, design, and engineering to ship reliable, scalable features that deliver real customer value.
+
+
+
+
+How We Work:
+
+Agile development: Operate in two-week sprints with clear goals, ownership, and rapid iteration.
+Code quality focus: Prioritize automated testing, code reviews, and clean architecture to ensure long-term maintainability.
+Modern toolset: Use React, Java, GitLab, Docker, and CI/CD pipelines to streamline development and deployment.
+Engineer empowerment: Encourage autonomy and initiative—developers are expected to improve performance, scalability, and user experience.
+Growth mindset: Offer mentorship, exposure to system-level thinking, and a clear path to senior ownership and technical leadership.
+
+
+
+
+What responsibilities you can expect:
+
+You’ll be training to work in small teams on various issues across an enterprise SaaS product tech stack. We will expect you to have a personal interest in writing clean, modular, well-documented code. You’ll be working to improve our solutions in Java EE as well as structuring and building out UI screens. You’ll be delving into our databases and SQL functions. You’ll be contributing to technical designs and working to develop new features for our customers. Maybe you’ll start surprising us with improvements we didn’t even think about yet.
+Top Three Outcomes:
+Deliver End-to-End Product Features: Build and maintain scalable full-stack features using React and Java/Spring Boot, delivering high-quality functionality that meets product and user needs from UI to database.
+Ensure System Performance & Reliability: Continuously optimize API performance, database queries, and backend services to improve responsiveness, scalability, and overall system health.
+Drive Team Collaboration & Code Quality: Contribute to a high-performing engineering culture through code reviews, clean coding practices, and effective collaboration with product, design, and engineering peers.
+
+
+
+
+Responsibilities:
+
+Build and maintain full-stack features: Develop responsive user interfaces in React and backend services in Java/Spring Boot to support core product functionality.
+Implement and optimize APIs: Create and consume RESTful APIs that connect frontend components to backend systems, ensuring performance and scalability.
+Contribute across the stack: Collaborate on frontend UI, backend logic, and database design to deliver end-to-end solutions.
+Write clean, testable code: Follow modern development practices to ensure high-quality, maintainable code across both frontend and backend.
+Collaborate cross-functionally: Work closely with product managers, designers, and other engineers to turn business needs into user-centric technical solutions.
+Debug and troubleshoot issues: Identify and resolve bugs and performance bottlenecks across the application stack.
+Continuously improve system performance: Optimize code and database queries to improve page load times, responsiveness, and reliability.
+Contribute to team culture: Participate in code reviews, knowledge sharing, and team discussions to foster a collaborative, high-performance environment.
+
+
+
+
+Requirements
+
+Bachelor’s degree in Computer Science, Engineering, or a related technical field
+2+ years of professional experience in full-stack development
+Proficiency in JavaScript (ES6+), React, and frontend frameworks (e.g., Redux, React Router)
+Experience with backend development in Java (Spring Boot, Hibernate, or similar)
+Familiarity with RESTful APIs, SQL/NoSQL databases, and ORM tools
+Strong understanding of HTML5, CSS3, and responsive design principles
+Experience using Git and CI/CD pipelines in a collaborative development environment
+Proactive problem-solver with attention to detail and a desire to ship high-quality code
+
+
+
+
+Preferred Qualification:
+
+Strong candidates are eager to grow in a full-stack role, committed to continuous learning, and bring a team-first mindset focused on building reliable, user-centric software.
+
+
+
+
+Benefits
+
+Salary is competitive with the market
+Paid Time Off (Vacation, Sick Days, Public Holidays)
+Full Family Health Care Plan (Medical & Vision)
+Flexible Spending Account & Retirement Plan (401k)
+Pre-IPO Stock Options

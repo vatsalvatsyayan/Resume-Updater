@@ -1,0 +1,50 @@
+About the job
+
+About Profound
+
+Profound is on a mission to help companies understand and control their AI presence. As a Backend Engineer, you’ll build and optimize the infrastructure that powers our AI-driven insights. You’ll design scalable APIs, process large datasets efficiently, and ensure high-performance systems that help businesses take control of their AI presence.
+
+
+
+
+What You’ll Do
+
+Architect and develop high-performance backend systems that support AI-driven analytics.
+Build and maintain scalable APIs to power real-time insights and data retrieval.
+Optimize data processing pipelines to handle large-scale structured and unstructured data.
+Ensure system security, performance, and reliability at every level of the stack.
+Work closely with front-end engineers and data scientists to deliver seamless, high-impact features.
+Own key technical decisions, balancing speed with long-term maintainability.
+
+
+
+
+Who You Are
+
+A strong portfolio or GitHub showcasing backend development expertise.
+Proficient in Node.js, Python, or Go, with experience in scalable backend architecture.
+Deep understanding of databases (PostgreSQL, MySQL, or NoSQL alternatives) and query optimization.
+Experience designing efficient data pipelines and working with distributed systems.
+Familiarity with cloud infrastructure (AWS, GCP, or Azure) and containerization (Docker, Kubernetes).
+Strong grasp of security best practices, API authentication, and performance tuning.
+Comfortable in a fast-moving, high-performance startup environment.
+
+
+
+
+This is an on-site role in our Union Square office—designed for builders who thrive on speed, iteration, and impact.
+
+
+
+
+We’re happy to support visa sponsorship for qualified international candidates.
+
+
+
+
+For this role, the expected base salary range is $140,000 – $230,000. Profound’s total compensation package is designed to be competitive and includes base salary, equity, and a full range of benefits and perks. Final compensation will depend on factors such as your skills, experience, qualifications, and location, and will be determined during the interview process.
+
+
+
+
+Our recruiting team will share more details about the full compensation package and benefits as you move through hiring.

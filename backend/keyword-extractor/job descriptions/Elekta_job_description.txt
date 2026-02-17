@@ -1,0 +1,73 @@
+About the job
+
+We don’t just build technology. We build hope for everyone dealing with cancer. 
+
+Do you wish you could make a bigger impact? At Elekta, you can make a difference. Our software engineers connect thousands of patients to care each day. And that is just the beginning. Ideal candidates should be self-motivated, thrive in a fast-paced environment and are always searching for a better way. If you are creative, smart, and work best in teams, we’d like to talk to you. Elekta’s growing software development engineering team has opportunities for high-quality engineers in development and testing of new and existing products. Our product teams thrive in a scaled, agile environment. Architects, product owners, designers and developers collaborate closely to rethink and reimagine. We need your expertise to create software that is simple, elegant, and easy to use. We want to make sure that physicians spend their time fighting cancer, not software.
+
+Elekta is seeking a highly motivated and talented individual to join our Sunnyvale, CA based engineering team as a Software Development Engineer. In this role, you will be responsible for developing, testing, and maintaining MOSAIQ, our oncology information system. You will work closely with your development engineering team members and product management to ensure the highest quality of care is delivered to our patients.
+
+Responsibilities
+
+
+Collaborate with development team members in an agile environment to design, develop, and test Elekta One software solutions. 
+Be involved in all parts of the software development lifecycle, including requirements gathering, design, coding, CI/CD, product security, testing, and deployment. 
+Debug and troubleshoot customer escalations and software defects to ensure the reliability and performance of applications. 
+Conduct code reviews to ensure adherence to coding standards and design practices. 
+Maintain quality code by developing unit and integration tests and workflow automation in a CI/CD environment. 
+Work with Product Security Analysts to deliver secure applications. 
+Responsible for documenting designs, requirements, and implementation details. 
+Contribute to the continuous improvement of development processes and practices. 
+Stay updated on the latest technologies, tools, and frameworks. 
+Comply with Quality Management System requirements in a regulated environment.
+N/A
+Bachelor’s Degree in Engineering, Computer Science, Computer Information Systems, related field, or equivalent practical experience 
+Solid understanding of object-oriented programming concepts and principles. 
+Proficiency in building .NET applications with C#. 
+Experience with REST API development. 
+Familiarity working with relational databases such as SQL or PostgreSQL. 
+Ability to work effectively both independently and in a team-oriented agile environment. 
+Excellent communication skills and comprehension of the English language. 
+
+
+Qualifications-
+
+
+Experience with software development methodologies, such as Agile (SAFe) or Scrum. 
+Understanding of current technology trends e.g., CI/CD, cloud technology 
+Familiarity with version control systems, such as Git/SVN 
+Knowledge of web services and API development (REST, SOAP). 
+Understanding of software testing principles and practices.
+
+
+What you’ll get:
+
+In this role, you will work for a higher purpose; hope for everyone dealing with cancer, and for everyone regardless of where in the world, to have access to the best cancer care. In addition to this, Elekta offers a range of benefits.
+
+What we offer:
+
+
+Hybrid work option (you are required to work on location at least 3 days/week) 
+Excellent Medical, Dental and Vision coverage 
+401k, paid vacation and holiday 
+A wealth of additional benefits including wellness reimbursement, tuition reimbursement and flexible spending account 
+Close-knit company culture 
+Career development – wide range of learning opportunities
+
+
+How to proceed?
+
+We are looking forward to hearing from you! Apply by submitting your application and résumé in English, via the “Apply” button. Please note that we do not accept applications by e-mail.
+
+We are an equal opportunity employer.
+
+We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, disability, veteran status, or any other protected characteristic.
+
+The US base salary range for this position is $110,000- 130,000.
+
+About Elekta
+
+As a leader in precision radiation therapy, Elekta is committed to ensuring every patient has access to the best cancer care possible. Elekta is a proud innovator and supplier of equipment and software used to improve, prolong, and save the lives of people with cancer and brain disorders.
+
+More than 6,000 hospitals worldwide rely on Elekta technology. We openly collaborate with customers to advance sustainable, outcome-driven, and cost-efficient solutions to meet evolving patient needs, improve lives and bring hope to everyone dealing with cancer. To us, it's personal, and our global team of 4,700 employees combine passion, science, and imagination to profoundly change cancer care. We don’t just build technology, we build hope.
+
+Elekta is headquartered in Stockholm, Sweden, with presence in more than 120 countries and listed on Nasdaq Stockholm. For more information, visit elekta.com or follow @Elekta on Twitter and on LinkedIn.

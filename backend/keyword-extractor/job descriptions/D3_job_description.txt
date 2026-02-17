@@ -1,0 +1,57 @@
+About the job
+
+About D3
+
+D3 is building the world’s first purpose-built blockchain for DomainFi—bringing domain tokenization and DeFi primitives to a massive, rapidly growing $350B+ real-world asset class. We’re revolutionizing how existing and future domain names are owned, traded, and leveraged in the digital economy.
+
+Our elite team is stacked with industry veterans who have spent the last three decades shaping the internet, from pioneering domain name monetization to architecting key internet protocols to launching and running major TLDs like .xyz, .inc, .tv, and .link. With a proven track record of innovation and success, we’re now redefining what’s possible in the domain space.
+
+We recently closed a $25M Series A led by Paradigm - one of the best investors in the industry. This will help fuel our mission to bring domains fully on-chain and unlock new financial possibilities for one of the internet’s most valuable asset classes.
+
+We’re based in Los Angeles, with team members all over the world. We’re looking for driven, talented builders to help build a trillion-dollar DomainFi economy. Join us!
+
+Job Overview
+
+This is a hybrid role in Los Angeles where you’ll help build the next generation of backend systems that power our Web2/Web3 domain registrar and marketplaces. As a Backend Engineer (Entry Level), you’ll work alongside experienced engineers to design and implement backend services, learn modern web and blockchain technologies, and contribute to real products that bridge traditional and decentralized internet infrastructure.
+
+This role is a great fit for recent graduates or early-career engineers who want to grow quickly in a fast-paced startup environment.
+
+Key Responsibilities
+
+
+Work with the product and engineering teams to understand requirements and turn them into backend features.
+Help design, implement, and maintain backend services that power our registrar platform and domain marketplace.
+Contribute to backend systems that connect with blockchain protocols.
+Assist in building payment integrations that support both traditional and crypto payments.
+Write clean, testable code and participate in code reviews.
+Debug, fix, and improve existing codebases with mentorship from senior engineers.
+Stay curious and learn about new tools, frameworks, and best practices in web and blockchain development.
+
+
+Qualifications
+
+
+Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience).
+0–2 years of professional experience in backend development (internships, projects, or open-source contributions count).
+Familiarity with at least one backend programming language (e.g., JavaScript/Node.js, Python, or similar).
+Basic knowledge of databases such as MySQL or PostgreSQL.
+Understanding of version control (Git) and collaborative development.
+Problem-solving mindset, eagerness to learn, and ability to work in a team.
+Interest in Web3/blockchain technologies is a plus, but not required—you’ll learn here!
+
+
+Nice To Haves
+
+
+Exposure to cloud platforms (AWS, Google Cloud, Digital Ocean).
+Familiarity with frameworks like NestJS or GraphQL.
+Previous projects or coursework involving blockchain, distributed systems, or domain registries.
+
+
+Why D3, Why Now?
+
+Ground-Floor Growth, Learning, and Impact: D3 is your chance to dive headfirst into an ultra-early-stage company where every move you make truly matters. You’ll have the opportunity to sharpen your skills, expand your expertise, and shape the foundation of something groundbreaking. Almost everything we’re building today at D3 is “zero-to-one,” meaning you’ll be among the first to craft, refine, and launch key initiatives that define our future success.
+
+Strong, Proven Leadership: At D3, you’ll work alongside industry visionaries who have been there, done that, and are ready to do it again—only bigger. Our leadership team brings veteran industry experience, sharp insights, and a relentless drive to do big things across every function at D3. You’ll gain invaluable mentorship, develop a high-impact mindset, and be challenged to grow in ways you never imagined.
+
+Unique Market Positioning – We’re pioneering at the intersection of internet infrastructure, real-world assets, and blockchain communities, creating solutions that redefine what’s possible in Web3. If you want to push boundaries, solve complex problems, and be part of a team that’s shaping the future of the Internet, D3 is the place to do it.

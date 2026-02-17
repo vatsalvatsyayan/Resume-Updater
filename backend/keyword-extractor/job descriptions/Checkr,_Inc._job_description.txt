@@ -1,0 +1,70 @@
+About the job
+
+About Checkr
+
+Checkr is building the data platform to power safe and fair decisions. Established in 2014, Checkr’s innovative technology and robust data platform help customers assess risk and ensure safety and compliance to build trusted workplaces and communities. Checkr has over 100,000 customers including DoorDash, Coinbase, Lyft, Instacart, and Airtable.
+
+We’re a team that thrives on solving complex problems with innovative solutions that advance our mission. Checkr is recognized on Forbes Cloud 100 2025 List and is a Y Combinator 2024 Breakthrough Company.
+
+As a Software Engineer at Checkr, you will work on high impact engineering projects that help build a fairer future for all. You will work in a collection of small services built on Ruby and Javascript, with both SQL and NoSQL databases, as well as message queues for asynchronous tasks. Checkr was founded by engineers for engineers; we want to create the best environment for developers to build, learn and love their work.
+
+What you’ll do:
+
+
+Own the product development of features from design, implementation, to release
+Partner with product, design and other stakeholders in designing new features
+Collaborate with other engineers in architecting and implementing new features
+Design, develop, test, deploy, maintain, and improve our products
+Deliver performant, reliable, scalable, and secure code capable of supporting hundreds of thousands of transactions a day
+Monitor, investigate, triage, and resolve production issues as they arise for services owned by the team
+Bring a customer-centric, product-oriented mindset to the table - collaborate with customers and internal stakeholders to resolve product ambiguities and ship impactful features
+Experimentation mindset - autonomy and empowerment to validate a customer need, get team buy-in, and ship a rapid MVP
+Quality mindset - you insist on quality as a critical pillar of your software deliverables
+Develop new end to end web applications
+Instrument and deploy new product experiments with a data-driven mindset
+
+
+What you bring:
+
+
+2+ years of full stack software development experience
+Proficiency in Ruby and Javascript/React (or similar languages/frameworks)
+Proficiency with test frameworks and automation (e.g. Cypress)
+Passionate about XP practices, Domain Driven Design, and Continuous Delivery
+Experience developing RESTful APIs. Experience with Elasticsearch nice to have
+Bonus points for experience with in-house component-based design systems
+Strong documentation skills
+A strong sense of ownership from feature design through production release
+A desire to collaborate with external stakeholders
+An eagerness to learn, collaborate, improve, innovate, and have fun
+
+
+What You’ll Get
+
+
+A fast-paced and collaborative environment
+Learning and development allowance
+Competitive compensation and opportunity for advancement
+100% medical, dental, and vision coverage
+Up to $25K reimbursement for fertility, adoption, and parental planning services
+Flexible PTO policy
+Monthly wellness stipend, home office stipend
+
+
+At Checkr, we believe a hybrid work environment strengthens collaboration, drives innovation, and encourages connection. Our hub locations are Denver, CO, San Francisco, CA, and Santiago, Chile. Individuals are expected to work from the office 2 to 3 days a week. Starting January 2026, hub-based employees will be expected to work from the office 3 days per week. In-office perks are provided, such as lunch four times a week, a commuter stipend, and an abundance of snacks and beverages.
+
+Equal Employment Opportunities at Checkr
+
+Checkr is committed to building the best product and company, which requires hiring talented and qualified individuals with a diverse set of perspectives and lived experiences. Checkr believes in hiring people of all backgrounds, including those whose histories are impacted by the justice system in accordance with local, state, and/or federal laws, including the San Francisco’s Fair Chance Ordinance.
+
+Pay Transparency Disclosure
+
+One of Checkr’s core values is Transparency. To live by that value, we’ve made the decision to disclose salary ranges in all of our job postings. We use geographic cost of labor as an input to develop ranges for our roles and as such, each location where we hire may have a different range. If this role is remote, we have listed the top to the bottom of the possible range, but we will specify the target range for an exact location when you are selected for a recruiting discussion. For more information on our compensation philosophy, see our website.
+
+On-target Earnings OR Base Salary range (San Francisco, CA)
+
+$147,000—$173,000 USD
+
+On-target Earnings OR Base Salary range (Denver, CO)
+
+$124,000—$146,000 USD

@@ -1,0 +1,54 @@
+About the job
+
+Job Description
+
+The Role 
+
+The Fanatics Identity team builds and operates the authentication and single sign-on (SSO) platform that powers every Fanatics product experience. Our systems handle millions of logins, registrations, MFA challenges, and account updates—making our work foundational to the Fanatics ecosystem. Reliability, scalability, and security are at the core of everything we do.
+
+We’re looking for a Software Engineer I who is eager to learn, collaborate, and contribute to a high-impact engineering team focused on secure and seamless customer identity experiences.
+
+Our Tech Stack: Go (Golang), React, AWS, OAuth2/OIDC, Kubernetes, and other modern technologies.
+
+What You'll Do
+
+
+Develop, test, document, and deploy high quality software into production
+Build small features and tools that you and your team use
+Participate in the on-call rotation when needed to troubleshoot software issues
+Participate in code reviews to maintain code quality and share knowledge
+Contribute to team planning and design discussions, building more expertise around design approaches
+Improve testability, operational excellence metrics, and team documentation
+Help your team define and adhere to the principles, guidelines, and best practices of our engineering strategy
+Develop a fundamental understanding of our industry, product, feature set and roadmap
+Work closely with our product team and other internal stakeholders to make technology decisions that grow and improve our products
+Remain current on the latest technologies and trends in software development
+Must be open to occasional travel to Fanatics offices and other locations for conferences, events, meetings, and team-building activities
+
+
+What We’re Looking For
+
+
+1+ years of hands-on software engineering experience
+Understanding of web technologies, REST APIs, and basic security principles.
+Experience with backend programming in Go or willingness to learn quickly.
+Experience with or exposure to JavaScript/TypeScript/React, including component development and state management
+Able to effectively communicate complex technical subjects to a variety of audiences (engineers, technical leaders, marketing and operations teams, non-technical functional leaders)
+Familiar with Agile software product delivery and SCRUM methodology
+Excellent analytical and problem solving skills
+Thrives in an entrepreneurial, hyper-growth environment where priorities evolve regularly and decisions are made quickly
+
+
+Preferred Qualifications
+
+
+Experience with cloud platforms (AWS preferred)
+Familiarity with Docker, Kubernetes, or CI/CD pipelines
+Interest in working on highly available, high-traffic systems
+
+
+The salary range for this position is $104,500 to $137,500 which represents base pay only and does not include short-term or long-term incentive compensation. When determining base pay, as part of a final compensation package, we consider several factors such as location, experience, qualifications, and training.
+
+About Us
+
+Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, and Fanatics Betting & Gaming, allowing sports fans to Buy, Collect, and Bet. Through the Fanatics platform, sports fans can buy licensed fan gear, jerseys, lifestyle and streetwear products, headwear, and hardgoods; collect physical and digital trading cards, sports memorabilia, and other digital assets; and bet as the company builds its Sportsbook and iGaming platform. Fanatics has an established database of over 100 million global sports fans; a global partner network with approximately 900 sports properties, including major national and international professional sports leagues, players associations, teams, colleges, college conferences and retail partners, 2,500 athletes and celebrities, and 200 exclusive athletes; and over 2,000 retail locations, including its Lids retail stores. Our more than 22,000 employees are committed to relentlessly enhancing the fan experience and delighting sports fans globally.

@@ -1,0 +1,50 @@
+SUMMARY STATISTICS
+==================================================
+Files processed: 427
+Unique terms extracted: 791
+Date: 2026-02-02
+
+TOP 20 TERMS
+--------------------------------------------------
+   1. AI (299 occurrences, 291 sources)
+   2. GO (230 occurrences, 222 sources)
+   3. Python (256 occurrences, 215 sources)
+   4. AD (195 occurrences, 189 sources)
+   5. AWS (157 occurrences, 147 sources)
+   6. IT (164 occurrences, 145 sources)
+   7. JAVA (161 occurrences, 136 sources)
+   8. REACT (143 occurrences, 123 sources)
+   9. TypeScript (127 occurrences, 112 sources)
+  10. JavaScript (112 occurrences, 105 sources)
+  11. BackEnd (106 occurrences, 105 sources)
+  12. SQL (111 occurrences, 104 sources)
+  13. CI (93 occurrences, 93 sources)
+  14. CD (88 occurrences, 88 sources)
+  15. Kubernetes (91 occurrences, 80 sources)
+  16. Code Reviews (80 occurrences, 79 sources)
+  17. API (78 occurrences, 77 sources)
+  18. GIT (85 occurrences, 67 sources)
+  19. Docker (84 occurrences, 67 sources)
+  20. ML (67 occurrences, 67 sources)
+
+TERMS BY FREQUENCY (number of sources)
+--------------------------------------------------
+  50+: 26 terms
+  20-49: 26 terms
+  10-19: 31 terms
+  5-9: 76 terms
+  2-4: 182 terms
+  1: 450 terms
+
+TOP 10 COMPANIES BY TERM COUNT
+--------------------------------------------------
+  Panasonic Avionics Corporation: 50 terms
+  Labelbox: 43 terms
+  Cast & Crew: 41 terms
+  Undisclosed: 38 terms
+  Prudential Financial: 36 terms
+  Stanford University: 34 terms
+  Resmed: 33 terms
+  Winstead PC: 32 terms
+  Cognizant: 32 terms
+  Akamai Technologies: 31 terms

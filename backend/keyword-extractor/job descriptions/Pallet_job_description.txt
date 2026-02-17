@@ -1,0 +1,531 @@
+Pallet
+
+Software Engineer - Agent Delivery
+
+San Francisco, CA · 4 hours ago · 70 people clicked apply
+
+Responses managed off LinkedIn
+
+$175K/yr - $265K/yr
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+About Pallet
+
+Pallet is building AI Agents to transform the $12 trillion logistics industry, backed by $50M from investors including General Catalyst, Bessemer Venture Partners, and Bain Capital Ventures. Our mission is to automate the physical economy by creating the most reliable intelligence infrastructure for logistics.
+
+Our agents excel at handling complex logistics workflows—scheduling, data entry, and load management—for Fortune 500 companies. But this is only the beginning. Our vision is to be the go-to answer for AI in logistics: from proprietary models to a suite of tools that turn messy business rules into production-ready context for LLMs.
+
+We're positioned to build the next $10B company in logistics. Join us and work alongside leaders from Google, DoorDash, YC, and more to shape the future of logistics tech.
+
+About The Opportunity
+
+We're hiring one of our first Agent Delivery Engineers—a role focused on building, deploying, and operating production AI agent systems inside some of the world's largest logistics companies.
+
+You'll work directly with Michael (Agent Delivery Lead) and partner closely with core Engineering, Deployments, and Sales leadership to take AI agents from post-sale technical scoping through hardened production launch. This role owns the engineering work required to make agents real in customer environments: designing system integrations, implementing agent behavior, resolving complex edge cases, validating performance, and iterating alongside core Engineering to ensure reliability at scale.
+
+This is a foundational role at Pallet. The Agent Delivery team sits at the intersection of product, platform, and real-world operations—and is responsible for turning sales wins into live, revenue-generating AI systems. The systems you build will directly shape Pallet's agent architecture, deployment patterns, and long-term product direction.
+
+How you will make an impact
+
+
+Engineer and ship production-grade AI agent systems for some of the largest logistics companies in the world—owning the full lifecycle from technical scoping and system design through production deployment and iteration.
+Translate complex, messy logistics workflows into robust agent architectures, designing and building AI agents that outperform manual, human-driven workflows in how they reason, act, integrate with customer systems, and operate reliably at scale.
+Design and evolve shared systems that power agent behavior, orchestration, validation, and deployment across customer environments.
+Design and implement deep integrations with customer infrastructure (TMS, WMS, ERP, CRM, billing and settlement systems) using APIs, webhooks, event-driven systems, and data schemas.
+Own production reliability and debugging, investigating failures across AI behavior, system integrations, and data pipelines, and working closely with research and platform engineers to resolve root causes.
+Shape the product itself by contributing directly to core features, tooling, and platform improvements when customer deployments surface gaps or new requirements.
+Work directly with customer technical and operational leaders, deeply understanding their constraints and using that insight to drive both implementation decisions and the evolution of Pallet's agent platform.
+
+
+Preferred Experience
+
+
+2+ years experience building and operating end-to-end production systems, ideally in high-growth SaaS or AI-driven environments
+Strong technical fundamentals across APIs, authentication, data modeling, system integration patterns, and debugging complex systems
+A builder's mindset with high ownership—you're comfortable scoping ambiguous problems, moving quickly, and shipping durable solutions
+Experience working directly with customers or external stakeholders, translating real-world constraints into reliable technical systems
+Clear and effective communication skills across both technical and operational audiences—from frontline operators to engineering leadership
+Thrives in fast-moving, ambiguous environments, where requirements are incomplete and problems are discovered through execution
+
+
+Our Tech Stack
+
+
+Backend: Node + TypeScript on Encore.dev. Event-driven design with message passing and queues. Hosted on GCP
+Database: PostgreSQL
+LLMs: OpenAI, Anthropic, Google for foundation models; fine-tuned models on Vertex AI
+Browser Automation: Playwright
+Frontend: Next.js + React + TypeScript. Hosted on Vercel
+Observability: Datadog for logging and metrics
+
+
+Who Thrives Here
+
+You're a great fit if you thrive in ambiguity, care about code readability, drive projects independently, value in-person collaboration, and embrace intensity when it's what it takes to win.
+
+You're likely not a fit if you prefer strict processes and a 9-to-5 mindset, want later-stage stability, or expect fully remote work.
+
+How We Work & What We Offer
+
+
+Impact from Day One: Your first week might involve wiring a new integration into production or debugging a workflow that saves a customer hours. This isn't demo work—it's real implementations
+Ownership & Autonomy: Propose ideas, whiteboard them, ship without layers of approvals. One standup at 10am PST—primary focus is building, not meetings
+Close-Knit Pods: We sit side by side, so questions get answered in minutes. Small PRs, fast iteration, observability-first
+Culture: Catered lunch daily at 12pm. Thursday boba runs. AI tools encouraged (Claude, Cursor)—but you must understand the architecture
+Compensation: Salary and equity at 90th percentile, plus bonuses tied to customer go-lives. We promote from within—several teammates earned promotions in under a year
+
+
+Interview process
+
+
+Intro Chat with Recruitng - (30 mins)
+Technical Screen + Meet and Greet with an Engineer (60 mins)
+Executive Chat with Nilkanth, CTO (30–45 mins)
+Final Interview: visit our FiDi office for deep-dive technical and behavioral interviews (~3.5 hours)
+
+
+Location
+
+San Francisco: Since we're a small team building 0→1 products, we prefer candidates comfortable working in an in-office environment in San Francisco. We typically come into the office 5 days a week. Relocation assistance can be provided for interested candidates.
+
+New York: Satellite office with Pallet employees across engineering, operations, and success—we're seeking to hire and grow out the team here. The team typically comes into the office 5 days a week. Relocation assistance is not provided for our New York office.
+
+Compensation
+
+The estimated salary range for this role is $175,000–$265,000, depending on experience and skill set. In addition to base salary, we offer competitive equity, benefits, and growth opportunities. Final compensation will be determined based on a combination of factors, including experience, qualifications, and location.
+… more
+
+Set alert for similar jobs
+
+Software Engineer, San Francisco, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+70
+
+total
+
+70
+
+in the past day
+
+Candidate seniority level
+
+87% Entry level candidates
+
+3% Senior level candidates
+
+Candidate education level
+
+84
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+14
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Pallet
+Powered by Bing
+
+Company focus areas
+
+• AI-driven automation: Implement AI-driven automation to streamline supply chain operations, reduce costs, and improve efficiency. Pallet's CoPallet solution automates manual tasks and integrates with existing systems.
+
+...more
+
+Sources: freightwaves.com +1 more
+
+Hiring & headcount
+
+Significant growth in operations: The 'Operations' department has seen a 42% increase in headcount over the past year, indicating a major focus on scaling operational capabilities, which could suggest opportunities for investment in operational efficiency tools and services. Expansion in administrative functions: The 'Administrative' department has experienced a 67% increase in headcount, highlighting a substantial investment in administrative support, potentially creating demand for administrative software and services. Increased focus on entrepreneurship: The 'Entrepreneurship' function has doubled its headcount, reflecting a 100% increase, suggesting a strategic initiative to foster innovation and new business ventures, which may require funding and resources for startup activities. Growth in customer-facing roles: The 'Customer Success and Support' and 'Marketing' departments have both seen a 50% increase in headcount, indicating a strong emphasis on enhancing customer experience and market presence, presenting opportunities for investments in customer relationship management and marketing technologies.
+… more
+
+The latest hiring trend
+
+109
+
+Total employees
+
+148%
+
+Company-wide
+
+2 year growth
+
+150%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+50
+100
+150
+
+Median employee tenure: 1.3 years
+
+Pallet hires candidates from some of these companies and schools
+
+Pallet hired 2 people from University of Southern California. See all
+
+Competitors
+
+Pallet operates in a highly competitive landscape within the supply chain and logistics industry, where AI and automation are key drivers of innovation. Major players like Walmart and Amazon are heavily investing in AI-powered supply chain tools to enhance efficiency, reduce costs, and improve real-time decision-making. Companies are focusing on AI to address supply chain disruptions, optimize logistics, and gain better visibility, making the market highly dynamic and technology-driven.
+… more
+
+Sources: forbes.com +1 more
+
+Show Premium Insights
+About the company
+
+Pallet
+
+7,116 followers
+
+Follow
+
+Technology, Information and Internet
+
+ • 
+
+51-200 employees
+
+ • 
+
+109 on LinkedIn
+
+Pallet makes supply chains more efficient. Our AI workforce, CoPallet, handles high-volume tasks like order entry, portal updates, and quoting — all with human-level accuracy and oversight. CoPallet operates your existing tools and processes at a fraction of the cost.
+
+We’ve raised over $50M from General Catalyst, Bain Capital Ventures, Activant Capital, and Bessemer Venture Partners. We’re built by a team from the world’s best companies including Google, Rippling, Scale AI, Uber, and other top startups.
+
+
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Founding Solutions Engineer (Enterprise AI)
+
+Neon Blue
+
+San Francisco Bay Area (Hybrid)
+
+$130K/yr + Stock options
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 1:27 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Associate Cloud Engineer
+
+Align ENT + Allergy
+
+Philadelphia, PA (On-site)
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 1:57 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Web Developer – Maintenance & Support (Verified job)
+Web Developer – Maintenance & Support 
+
+Opus Design
+
+Newton, MA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 10:54 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+AI Project Systems Integrator (Verified job)
+AI Project Systems Integrator 
+
+ADCO Electrical Corp.
+
+New York, NY (On-site)
+
+Posted on January 8, 2026, 7:35 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+Data Engineer
+
+Prepaire Labs
+
+Boston, MA (On-site)
+
+$120K/yr - $145K/yr
+
+Posted on January 7, 2026, 10:08 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Developer (Angular + Java Spring Boot)
+
+Innovative Object Solutions, Inc.
+
+Washington DC-Baltimore Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 9:18 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Systems Engineer
+
+LinkTech, LLC
+
+Waukesha, WI (On-site)
+
+Medical benefit
+
+Posted on January 8, 2026, 7:06 AM
+12 hours ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer
+
+Shinkei
+
+El Segundo, CA (On-site)
+
+$145K/yr - $195K/yr
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 12:25 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Staff Flight Software Engineer (Verified job)
+Staff Flight Software Engineer 
+
+Lunar Outpost
+
+Golden, CO (On-site)
+
+1 school alumni works here
+
+Posted on January 8, 2026, 12:52 PM
+6 hours ago
+
+Senior Software Developer (Founding Team / Future CTO)
+
+IaxaI, Inc.
+
+United States (Remote)
+
+Posted on January 8, 2026, 4:52 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+TS/SCI w/poly Software Engineer
+
+Black Cat Technologies
+
+Herndon, VA (On-site)
+
+$236.0K/yr - $271.4K/yr
+
+ • 
+
+401(k) benefit
+
+Posted on January 7, 2026, 4:20 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+VieCure
+
+Denver Metropolitan Area (On-site)
+
+$115K/yr - $140K/yr
+
+ • 
+
+7 benefits
+
+Posted on January 8, 2026, 11:44 AM
+7 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

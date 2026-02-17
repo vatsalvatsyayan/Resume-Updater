@@ -1,0 +1,39 @@
+About the job
+
+Company Overview
+
+Corgea is a Y-Combinator backed AI AppSec engineer that automatically finds, triages and fixes your insecure code. We’re building the next generation of AI-powered SAST. We work with large enterprises that have complex ecosystems to increase their application security.
+
+Job Description
+
+We are looking for a Software Engineer who is passionate about building secure and scalable systems. This is a remote position based in the US. The ideal candidate would be in the San Francisco Bay Area. We’re open to applicants living in California.
+
+What You'll Be Doing
+
+
+Translate product requirements into robust software solutions.
+Talk with customers to understand their needs and provide technical support.
+Work on AI-driven features and prompt engineering tasks.
+
+
+Who Are You
+
+
+1+ years of professional software development experience.
+Experience with AI and prompt engineering is highly desirable.
+Someone who values pragmatism and simplicity.
+Demonstrated understanding of computer science fundamentals.
+Self-directed and comfortable working autonomously.
+
+
+Why you should apply
+
+
+A competitive salary tailored to cover health insurance and social security contributions.
+Work in a fast-paced startup tackling tough challenges in security, engineering and AI.
+A hybrid role with flexible hours to align with San Francisco time.
+
+
+Diversity and Inclusion
+
+At Corgea, we are committed to diversity and inclusion. We assess all employees and job applicants based on merit, qualifications, competence, and talent. We proudly uphold equality and do not discriminate based on any factor.

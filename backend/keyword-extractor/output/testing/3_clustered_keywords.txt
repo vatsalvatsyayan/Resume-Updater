@@ -1,0 +1,812 @@
+CLUSTERED KEYWORDS
+==================================================
+Algorithm: k-means
+Number of clusters: 2
+Silhouette score: 0.2076
+Unclusterable terms: 284
+
+CLUSTERS
+--------------------------------------------------
+
+Cluster 0: Programming Languages
+  Central term: TensorFlow, PyTorch
+  Terms (373):
+    - 'AI + Cloud
+    - , Node.js
+    - - Perpay+
+    - 10+ billion events
+    - 100% SaaS company
+    - 100GB+ sensors
+    - 1M+ providers
+    - 1M+ users
+    - 25+ brilliant minds
+    - 30+ top insurers
+    - 40+ AI experts
+    - 5.8 years bioMérieux
+    - 60%+ margins
+    - 65M+ customers
+    - a-Service (PaaS
+    - account-linking UX
+    - AD
+    - advanced AI
+    - Agentic AI
+    - AI
+    - AI/ML
+    - Airflow
+    - almost B+
+    - Amazon AWS
+    - Amazon QuickSight
+    - Amazon Web Services
+    - Angular
+    - Apache
+    - Apache Iceberg
+    - Apache Kafka
+    - Apache SparkTM
+    - API
+    - Applied AI
+    - AutoCAD
+    - AWS
+    - AWS AgentCore
+    - AWS Cloud services
+    - AWS CloudWatch
+    - AWS CodePipeline
+    - AWS DynamoDB
+    - AWS Experience
+    - AWS infrastructure
+    - AWS Services
+    - Azure Cloud
+    - Azure Functions
+    - B2B
+    - B2B SaaS/API company
+    - Bash
+    - BigQuery warehouse
+    - BioMérieux Inc.
+    - Black BookTM surveys
+    - Build ByteDance
+    - C#
+    - C# Experience
+    - C++
+    - C++ Build
+    - C++ experience
+    - C++ exposure
+    - C++ Systems
+    - C++ Understanding
+    - C/C++ programming
+    - CD
+    - CDN
+    - CentOS
+    - CI
+    - CI/CD
+    - CI/CD Pipelines
+    - CI/CD processes
+    - CI/CD systems
+    - CI/CD tools
+    - clean REST/gRPC APIs
+    - Cloud Computing
+    - cloud computing platforms
+    - cloud computing platforms (e
+    - Cloud PubSub
+    - CloudFront
+    - COBOL
+    - code review
+    - Code Reviews
+    - Computer Science DoD
+    - Conduct code reviews
+    - containerization technologies
+    - containerization tools
+    - Continuous Delivery
+    - continuous deployment
+    - Continuous Integration
+    - Continuous Integration environments
+    - continuous integration pipelines
+    - CoPilot Databases
+    - Core Technologies C#
+    - CPU
+    - CSS
+    - custom VoIP handsets
+    - cutting-edge AI
+    - CV
+    - DAG
+    - Dart
+    - DashApps Interest
+    - Data Structures
+    - DB
+    - deep learning
+    - devOps tools
+    - DevRel Experience
+    - DevSecOps principles
+    - distributed systems
+    - DOM
+    - DoorDash Engineering
+    - DynamoDB Database
+    - DynamoDB Experience
+    - e.g. C++
+    - e.g. MySQL
+    - e.g. TypeScript
+    - e.g. WebGL
+    - e.g., GitHub Copilot
+    - e.g., Node.js
+    - e.g., SolidWorks/NX
+    - e.g., SonarQube
+    - eBay Inc.
+    - eBay Message
+    - eCommerce
+    - either iOS
+    - Elixir
+    - Employee Rights SoFi
+    - Enterprise AI
+    - enterprise SaaS
+    - eToro
+    - Event-driven
+    - event-driven architectures
+    - event-driven systems
+    - Expedia CruisesTM
+    - FactSet Support
+    - FastAPI Exposure
+    - Flask
+    - frontend UI
+    - Generative AI
+    - GenetiQ-HAiLO
+    - GIT
+    - Git, CI/CD pipelines
+    - GitHub/Lab, Jira
+    - GitLab CI
+    - GitLab CI/CD
+    - GO
+    - Go (GoLang)
+    - Google BigQuery
+    - Google Cloud
+    - Google Cloud Platform
+    - Google DeepMind
+    - Google Labs
+    - Google Lens
+    - Google Maps
+    - Google Workspace
+    - Google’s AR/VR effort
+    - GovDash Today Work
+    - GPU
+    - GraphQL Cloud
+    - GraphQL federation
+    - GraphQL PostgreSQL
+    - GraphQL React
+    - Groovy
+    - gRPC/protobuf
+    - HackerRank’s decade
+    - HDD
+    - healthcare SaaS
+    - high-growth SaaS
+    - Hive
+    - HTML
+    - HTML5
+    - i.e C++
+    - IAM
+    - IDE
+    - Inclusion PayPal
+    - industrial IoT
+    - InfoBase Publishers
+    - iOS
+    - iOS and Android apps
+    - iOS App Download
+    - IoT devices
+    - IP
+    - iPad
+    - iPhone
+    - IT
+    - JAVA
+    - Java, C/C++
+    - JavaScript
+    - JavaScript (ES6+)
+    - JavaScript code
+    - JavaScript Experience
+    - JavaScript frameworks
+    - JavaScript/TypeScript
+    - JetBridge AI Seattle
+    - jQuery
+    - JS
+    - Kubernetes clusters
+    - LAN
+    - LangChain agents
+    - large-scale distributed systems
+    - LaTeX
+    - LESS
+    - Leverage C#
+    - Linux
+    - Linux (CentOS
+    - LlamaIndex Love
+    - M+ ARR
+    - Machine Learning
+    - machine learning models
+    - machine learning principles
+    - machine learning teams
+    - machine learning technologies
+    - machine learning workflows
+    - MacOS
+    - MacOS UI/UX Ability
+    - McDonald
+    - McKenzie
+    - McKesson Corporation
+    - McKinsey Digital
+    - microservice architecture
+    - microservices architecture
+    - Microsoft Azure
+    - Microsoft C#
+    - Microsoft’s mission
+    - MiX Telematics
+    - ML
+    - modern (JavaScript/TypeScript
+    - Modern C++
+    - Mongo
+    - MongoDB, Inc.
+    - multiple #1 rankings
+    - MySQL
+    - MySQL Unit
+    - MySQL/PostgreSQL
+    - NerdWallet Rated
+    - NestJS is a plus
+    - NetApp’s cloud
+    - NetJets Card
+    - NextEra Analytics
+    - NextEra Energy
+    - NLP
+    - No Use AI
+    - Node
+    - Node.js
+    - Node/NestJS
+    - NodeJS Expertise
+    - non-bioMerieux
+    - NoSQL alternatives
+    - NoSQL data solutions
+    - NoSQL data stores
+    - NoSQL databases (e
+    - NoSQL stores
+    - NoSQL Understanding
+    - not just PoCs
+    - Object-Oriented
+    - Object-Oriented design
+    - object-oriented design Familiarity
+    - object-oriented principles
+    - object-oriented programming
+    - object-oriented programming concepts
+    - Objective-C
+    - OS
+    - PDF
+    - peer code reviews
+    - Perl
+    - PhD-level
+    - PhD-level candidates
+    - PHP
+    - PIIC iX
+    - PlayStation
+    - PlayStation Studios
+    - POS+ applications
+    - PostgreSQL
+    - PostgreSQL databases
+    - PostgreSQL LLMs
+    - PsiQuantum’s mission
+    - PsiQuantum’s values
+    - Python
+    - QuickBooks
+    - RAG
+    - REACT
+    - React (TypeScript)
+    - React + TypeScript
+    - React Native
+    - React-based
+    - RedHat
+    - Redshift, TiDB
+    - Redux
+    - relational (PostgreSQL
+    - relational and NoSQL databases
+    - relational and/or NoSQL databases
+    - REST
+    - REST API
+    - REST API development
+    - REST APIs
+    - REST/gRPC APIs
+    - ReSync Bio
+    - RL
+    - Robert LoCascio
+    - robust distributed systems
+    - RUST
+    - s3
+    - SaaS cloud platform
+    - SaaS companies
+    - SaaS providers
+    - SaaS solutions
+    - SaaS Ventures
+    - SageMaker Pipelines
+    - SASS
+    - schools bioMérieux
+    - schools NetJets
+    - schools TikTok
+    - selling B2B SaaS
+    - SFTP
+    - Shell
+    - SOAP
+    - Software Engineer Heliux
+    - source ComfyUI
+    - SPA
+    - SPARK
+    - Spark Capital
+    - Spring
+    - Spring Boot
+    - Spring Framework
+    - SQL
+    - SQL Server NoSQL
+    - SQL Server/MySQL
+    - SQL/NoSQL databases
+    - Strong JavaScript/TypeScript fundamentals
+    - SVN
+    - Swift
+    - TCP
+    - TechCrunch
+    - TensorFlow, Keras
+    - TensorFlow, PyTorch
+    - Test Driven Development
+    - Test-Driven
+    - Test-Driven Development
+    - the NetJets Share
+    - thoughtful code reviews
+    - ThreeJS Backend
+    - TikTok’s efforts
+    - tools (TeamCity
+    - TS
+    - TurboTax
+    - TypeScript
+    - TypeScript / Node
+    - TypeScript / Node.js
+    - TypeScript Backend
+    - TypeScript Infra
+    - UI
+    - UiPath Work
+    - Use AI
+    - VB
+    - Version Control
+    - Version control systems
+    - version control systems (e
+    - version control tools
+    - Vertex AI
+    - Visual Studio
+    - VM
+    - VoIP
+    - VoIP protocols SIP
+    - VoIP systems
+    - VR
+    - WAN
+    - Web Services
+    - Web technologies (C#
+    - WiFi
+    - Win32
+    - WordPress
+    - x3
+    - xAI’s mission
+    - XML
+    - Yarn
+    - you FlexBase
+    - YouTube
+
+Cluster 1: Cloud Infrastructure
+  Central term: noSQL Kubernetes
+  Terms (134):
+    - AKS
+    - AngularJS
+    - Ansible
+    - AppSync
+    - ArcGIS
+    - ArcGIS Enterprise
+    - Azure
+    - Azure DevOps
+    - B2B SaaS
+    - B2C
+    - BDD
+    - BigCommerce
+    - BigTable
+    - cGMP
+    - ClearCase
+    - CMMI L3
+    - Containerization
+    - CoPilot
+    - CouchDB
+    - CSS3
+    - D3 D3
+    - DBT
+    - DeFi primitives
+    - DevOps Engineer
+    - DevOps Experience
+    - DevOps fundamentals
+    - DevOps operations
+    - DevOps practices
+    - DevOps principles
+    - DevOps processes
+    - DevOps tooling
+    - Django
+    - Docker
+    - DuckDuckGo
+    - EC2
+    - ECS
+    - eDiscovery
+    - EKS
+    - ElasticSearch
+    - ELT
+    - EMR
+    - ETL
+    - FP
+    - FreeSWITCH
+    - GCP
+    - GCS
+    - GitHub Actions
+    - GitHub Copilot
+    - GPT
+    - Gradle
+    - GraphQL APIs
+    - gRPC APIs
+    - Hadoop
+    - Haskell
+    - HDFS
+    - HootSuite
+    - IaaS
+    - IntelliJ
+    - IOT
+    - JDBC
+    - JSON
+    - JWT
+    - KAFKA
+    - Leverage MongoDB
+    - LexisNexis
+    - LLM
+    - MariaDB
+    - McKesson
+    - McKinney
+    - MetLife
+    - MFA
+    - Mirai
+    - MongoDB Atlas
+    - MSSQL
+    - MVC
+    - MVVM
+    - NeMo Guardrails
+    - NetApp Inc.
+    - NetApp NetApp
+    - NetSuite
+    - NoSQL
+    - NoSQL Contributions
+    - NoSQL databases
+    - noSQL Kubernetes
+    - NPM
+    - NumPy
+    - OAuth2
+    - OLAP
+    - OLTP
+    - OOP
+    - ORM
+    - PaaS
+    - PageSpeed
+    - PetSmart
+    - PoCs
+    - Postgres
+    - PowerShell
+    - QA
+    - RabbitMQ
+    - RDS
+    - Redis
+    - RPC
+    - Ruby
+    - SaaS
+    - SAML
+    - Scala
+    - schools NetApp
+    - SDK
+    - SNS
+    - SoFi SoFi
+    - SoftBank
+    - SolarWinds
+    - SpaceX
+    - SQS
+    - SSL
+    - SSO
+    - SSR
+    - TDD
+    - TeamCity
+    - Terraform
+    - TLS
+    - trust MongoDB
+    - TSX
+    - UDP
+    - UML
+    - UX
+    - VentureBeat
+    - VisualBasic
+    - VPC
+    - Vue
+    - WebGL
+    - WebSockets
+    - XAML
+    - YAML
+
+
+UNCLUSTERABLE TERMS (no valid embeddings)
+--------------------------------------------------
+  - ActiveMQ
+  - AdapTV
+  - AditiConsulting
+  - AgentCore
+  - AirVet
+  - AllCarTM
+  - AngelList
+  - Angular.js
+  - AngularJSCloud
+  - AppFolio
+  - AppSec
+  - Aquent RoboHead
+  - AreaTM
+  - ArgoCD
+  - Aroris360
+  - AutoGen
+  - AutoSys
+  - BSL3
+  - BackEnd
+  - BashnmacOS
+  - BigBear
+  - BigFuture
+  - BigQuery
+  - BitWarden
+  - Bolt6
+  - BookTM
+  - BookWithMatrix
+  - BountyJobs
+  - BoxGroup
+  - BrickRed
+  - BusinessQ
+  - ByteDancers
+  - C#/
+  - CapCenter
+  - CapCut
+  - CarRentals
+  - CardoMax
+  - CareYaya
+  - ChartJS
+  - ChatGPT
+  - CheapTickets
+  - CircleCI
+  - CitiBike
+  - ClickHouse
+  - ClickUp
+  - CloudFormation
+  - CloudKitchens
+  - CloudWatch
+  - CoFi CoFi
+  - CoFina
+  - CoPallet
+  - CockroachDB
+  - CodeCraftMD
+  - CodeGPT
+  - CodePipeline
+  - CodeSignal
+  - ConsumerDirect
+  - CruisesTM
+  - CryoET
+  - CustomGPT
+  - CyberSecurity
+  - DashApps
+  - DataFrames
+  - DatadogLife
+  - DeFi
+  - DeepMind
+  - DeepQuery
+  - DeepSeek
+  - DevEx
+  - DevRel
+  - DevSecOps
+  - DevX
+  - DinnerPaid
+  - DirectEmployers
+  - DocuGPT
+  - DriverTM
+  - DuckDB
+  - DynamoDB
+  - ES6
+  - EdTech
+  - EngineeringPlatform
+  - EpiSci
+  - EverlawWe
+  - ExosomeDx
+  - Express.js
+  - FOXG1
+  - FactSetter
+  - FactoryOS
+  - FastAPI
+  - FastAPIs
+  - FlashAttention
+  - FlexGen
+  - FlightPulse
+  - FloVision
+  - FluentAssertions
+  - FormAlloy
+  - FreeU
+  - FrostLocker
+  - GKE
+  - GenetiQ
+  - GetWhys
+  - GlobalFoundries
+  - GoLang
+  - GolfForever
+  - GolfNow
+  - GraphQL
+  - GroupTM
+  - HedgeOS
+  - HighQ
+  - HydroJug
+  - IaxaI
+  - IdentityServer
+  - IdentityServer4
+  - Inclusion​ TikTok
+  - InfluxDB
+  - InnovAsian
+  - IvoryCloud
+  - IvyTM
+  - JazzHR
+  - K8S
+  - KloudStax
+  - Kotlin
+  - KuCoin
+  - Kubernetes
+  - LangChain
+  - LangGraph
+  - LeaderFactor
+  - LeapXpert
+  - LeetCode
+  - Lemon8
+  - LendingClub
+  - LetsGetChecked
+  - LinkSquares
+  - LivePerson
+  - LiveRail
+  - LiveRamp
+  - LlamaIndex
+  - LoCascio
+  - LoRA
+  - MLOps
+  - MaaS
+  - MailMend
+  - ManageCasa
+  - MapLibre
+  - McDelivery
+  - MeeBoss
+  - Microservices
+  - MobX
+  - MobiusEngine
+  - MyFundedFutures
+  - MyWellatDell
+  - NeMo
+  - NerdWallet
+  - Nest.js
+  - NestJS
+  - Next.js
+  - NextJS
+  - NodeJs
+  - NuShades
+  - Office.js
+  - OmniVista
+  - OneCAE
+  - OneCastOneCrew
+  - OneTen
+  - OperationsTM
+  - OrthoIndy
+  - PagerDuty
+  - PetaBytes
+  - PhotoRoom
+  - PiMS
+  - PlaygamiTM
+  - PlumbBillPay
+  - PostHog
+  - PostgresSQL
+  - PowerBI
+  - ProSomnus
+  - PromptLayer
+  - PubSub
+  - PubSub Labelbox
+  - PySpark
+  - PyTest
+  - PyTorch
+  - ReBAC
+  - ReSync
+  - ReactJS
+  - RedPajama
+  - RelativityOne
+  - RemoteHunter
+  - ResponseTM
+  - RideController
+  - RiseUp
+  - RoboHead
+  - RxJS
+  - SafeStreets
+  - SageMaker
+  - ScyllaDB
+  - SeatGeek
+  - SecDB
+  - SemiAnalysis
+  - ServiceTitan
+  - SharedPractices
+  - ShipBob
+  - ShipMyCards
+  - Sigma360
+  - SmartAsset
+  - SmartMark
+  - SoGoSurvey
+  - SonarQube
+  - SonyInteractive
+  - SparkExperience
+  - SparkTM
+  - SpecSys
+  - SportsEngine
+  - SpringBoot
+  - SpringCloud
+  - SquarePeg
+  - StackAdapter
+  - StackAdapters
+  - StarRocks
+  - SumUp
+  - TIME100
+  - TeamNextdoor
+  - TechTree
+  - TedTalk
+  - TeradataBI
+  - TheTradeDesk
+  - ThredUp
+  - ThreeJS
+  - TiDB
+  - TikTok TikTok
+  - TileDB
+  - TimescaleDB
+  - TopoDOT
+  - TransSIGHT
+  - TrekTM
+  - TruNeighbor
+  - TrueCar
+  - TrueCode
+  - Tullio
+  - Ubiquity6
+  - UnifyGTM
+  - Utopai
+  - VantageScore
+  - VerQu
+  - VieCure
+  - VirtuOx
+  - Vue.js
+  - VueJS
+  - WD_BLACKTM
+  - WeWork
+  - WebApi
+  - WebAssembly
+  - WebRTC
+  - WebdriverIO
+  - Workhelio
+  - WorldCoin
+  - WorldPay
+  - YoursAt
+  - YoursAt Everlaw
+  - ZeroDrift
+  - automotiveMastermind
+  - bioMerieux
+  - cGxP
+  - comTM
+  - consumerTM
+  - dApps
+  - devOps
+  - eTrigue
+  - fox59
+  - gRPC
+  - iGaming
+  - iPSCs
+  - iTradeNetwork
+  - integratingAI
+  - mTLS
+  - orJira
+  - react.js
+  - rubrikInc
+  - tRPC
+  - vLLM
+  - w/ FastAPI
+  - web2
+  - web3
+  - xUnit

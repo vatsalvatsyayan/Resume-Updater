@@ -1,0 +1,83 @@
+About the job
+
+We anticipate the application window for this opening will close on - 10 Oct 2025
+
+At Medtronic you can begin a life-long career of exploration and innovation, while helping champion healthcare access and equity for all. You’ll lead with purpose, breaking down barriers to innovation in a more connected, compassionate world.
+
+A Day in the Life
+
+We are seeking a highly skilled Software Engineer I to join our dynamic team. The ideal candidate will have a strong background in Java/J2EE development and hands-on experience with AWS cloud services. You will be responsible for designing, developing, and deploying scalable and resilient applications in a cloud-native environment.
+
+This position is an exciting opportunity to work with Medtronic's Diabetes business. Medtronic has announced its intention to separate the Diabetes division to promote future growth and innovation within the business and reallocate investments and resources across Medtronic, subject to applicable information and consultation requirements. This separation provides our team with a bold opportunity to unleash our potential, enabling us to operate with greater speed and agility. As a separate entity, we anticipate leveraging increased investments to drive meaningful innovation and enhance our impact on patient care.
+
+Responsibilities may include the following and other duties may be assigned.
+
+
+Design, develop, and maintain enterprise-grade applications using Java/J2EE technologies.
+Good hands-on experience in developing, building and deploying serverless applications in AWS, including API Gateway, Lambda, Kinesis, Kafka, Amazon MSK, S3, DynamoDB, CloudWatch, and ELK stack. Additionally, experience with creating microservices and scripts for running scheduled jobs on AWS.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Implement monitoring, logging, and alerting solutions using AWS CloudWatch and ELK.
+Participate in code reviews, mentoring, and knowledge sharing.
+Ensure best practices in software engineering, security, and cloud architecture.
+
+
+
+Required Knowledge and Experience: Requires a Baccalaureate degree and 0 years relevant experience.
+
+Nice to Haves:
+
+
+Bachelor's degree or master's degree, degree must be in Computer Science, Engineering, Statistics, Math, or similar field.
+1–2 years of professional experience in software development.
+Strong proficiency in Java/J2EE, Spring/Spring Boot frameworks. Knowledge in Python is an added advantage.
+Experience with AWS services: Lambda, Kinesis, Kafka, MSK, CloudWatch, ELK.
+Experience with RESTful APIs, microservices architecture, and event-driven systems.
+Configuration tools and best practices to include GIT, Bitbucket.
+Familiarity with CI/CD pipelines and DevOps practices.
+Excellent problem-solving and debugging skills.
+Strong communication and collaboration abilities.
+Exposure to Agile/Scrum methodologies.
+
+
+
+Physical Job Requirements
+
+The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position. 
+
+The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. For Office Roles: While performing the duties of this job, the employee is regularly required to be independently mobile. The employee is also required to interact with a computer, and communicate with peers and co-workers. Contact your manager or local HR to understand the Work Conditions and Physical requirements that may be specific to each role.
+
+Benefits & Compensation
+
+Medtronic offers a competitive Salary and flexible Benefits Package
+
+A commitment to our employees lives at the core of our values. We recognize their contributions. They share in the success they help to create. We offer a wide range of benefits, resources, and competitive compensation plans designed to support you at every career and life stage.
+
+Salary ranges for U.S (excl. PR) locations (USD):$74,400.00 - $111,600.00
+
+This position is eligible for a short-term incentive called the Medtronic Incentive Plan (MIP).
+
+The base salary range is applicable across the United States, excluding Puerto Rico and specific locations in California. The offered rate complies with federal and local regulations and may vary based on factors such as experience, certification/education, market conditions, and location. Compensation and benefits information pertains solely to candidates hired within the United States (local market compensation and benefits will apply for others).
+
+The following benefits and additional compensation are available to those regular employees who work 20+ hours per week: Health, Dental and vision insurance, Health Savings Account, Healthcare Flexible Spending Account, Life insurance, Long-term disability leave, Dependent daycare spending account, Tuition assistance/reimbursement, and Simple Steps (global well-being program).
+
+The following benefits and additional compensation are available to all regular employees: Incentive plans, 401(k) plan plus employer contribution and match, Short-term disability, Paid time off, Paid holidays, Employee Stock Purchase Plan, Employee Assistance Program, Non-qualified Retirement Plan Supplement (subject to IRS earning minimums), and Capital Accumulation Plan (available to Vice Presidents and above, or subject to IRS earning minimums).
+
+Regular employees are those who are not temporary, such as interns. Temporary employees are eligible for paid sick time, as required under applicable state law, and the Employee Stock Purchase Plan. Please note some of the above benefits may not apply to workers in Puerto Rico.
+
+Further details are available at the link below:
+
+About Medtronic
+
+Medtronic benefits and compensation plans
+
+We lead global healthcare technology and boldly attack the most challenging health problems facing humanity by searching out and finding solutions.
+
+Our Mission — to alleviate pain, restore health, and extend life — unites a global team of 95,000+ passionate people.
+
+We are engineers at heart— putting ambitious ideas to work to generate real solutions for real people. From the R&D lab, to the factory floor, to the conference room, every one of us experiments, creates, builds, improves and solves. We have the talent, diverse perspectives, and guts to engineer the extraordinary.
+
+Learn more about our business, mission, and our commitment to diversity here.
+
+It is the policy of Medtronic to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, Medtronic will provide reasonable accommodations for qualified individuals with disabilities.
+
+If you are applying to perform work for Medtronic, Inc. (“Medtronic”) in any position which will involve performing at least two (2) hours of work on average each week within the unincorporated areas of Los Angeles County, you can find here a list of all material job duties of the specific job position which Medtronic reasonably believes that criminal history may have a direct, adverse and negative relationship potentially resulting in the withdrawal of a conditional offer of employment. Medtronic will consider for employment qualified job applicants with arrest or conviction records in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.

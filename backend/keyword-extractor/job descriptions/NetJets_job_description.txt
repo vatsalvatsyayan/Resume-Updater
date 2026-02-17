@@ -1,0 +1,508 @@
+NetJets
+
+Software Engineer, Associate (NJUS) 
+
+Columbus, OH · 4 hours ago · Over 100 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+Join the NetJets Team
+
+NetJets, the global private aviation leader for more than 60 years, provides the pinnacle of private travel, defined by a signature commitment to unwavering safety, personalized service, and reliable global access. Discover why NetJets is the ultimate career destination, offering exceptional benefits and growth opportunities.
+
+Purpose of Position
+
+The Flight Operations IT domain manages applications for business capabilities relating to flight scheduling, trip support, and flight support. This developer position will work within the Flight Support team with responsibilities across all supported applications and new development. Flight Support works with business partners including Flight Mission Delivery, Dispatch, and Meteorology. Our business partners rely on us to ensure 'day of flight' operations are safely planned and ready for take-off. The Flight Support team (Business Analysis, Development, and Quality Assurance) plans, develops, and tests work within two-week sprints. Business priority is managed with the Product Owner along with internal IT initiatives.
+
+
+70% Software analysis, design, and development for new features or system enhancements 
+20% Technical debt, security, and internal to IT initiatives 
+10% Support of existing software systems 
+
+
+Tasks And Responsibilities
+
+
+Drive implementation of software through analysis and design activities for new business features or value-based enhancements to existing software. 
+Collaborate with various internal teams like architecture, infrastructure operations, cyber security, and others to implement architecture that encompass broad perspectives and requirements.
+Automate build, test, and deploy code and build pipelines
+Build testing automation and associated processes (Unit test coverage, testing automation, pipeline automation, code scanning, etc.) into the software product.
+Work in an agile team environment to iteratively deliver value.
+
+
+Note
+
+It is not possible to list all required job duties on this form. There may be other important duties assigned, depending on the position. For a list of essential job functions, please refer to the essential functions document for this job.
+
+Education
+
+Bachelor's in Computer Science or Computer Engineering
+
+Certifications and Licenses
+
+Years Of Experience
+
+0-2 years of experience
+
+Core Competencies
+
+Adaptability
+
+Collaboration
+
+Curiosity
+
+Service-Oriented
+
+Strives for Positive Results
+
+Knowledge, Skills, Abilities And Other (KSAOs)
+
+
+Demonstrated ability to learn new technologies based on experience and deliver work that meets requirements on time with minimum defects 
+AWS Serverless development 
+TypeScript, JavaScript, Java, React 
+Kafka 
+EKS 
+NoSQL & SQL databases (DynamoDB, Oracle) 
+DevOps (Jenkins, CDK) 
+Excellent communication and collaboration skills 
+Knowledge and experience in Agile methodologies 
+
+
+How NetJets Supports You
+
+NetJets is proud to provide a variety of attractive benefits to our employees, including many at no cost. Employees have access to no cost options including Medical, Dental, and Vision benefits, with access to robust networks of nationwide providers. NetJets offers benefits so you can LIVEWELL—a comprehensive package to support your Mind, Body, and Life. 
+
+Our Comprehensive Suite Of Benefits Include
+
+
+Medical, Dental, and Vision
+Healthcare Advocacy
+Employee Assistance Program
+Flexible Spending Accounts
+Health Savings Account with annual employer contribution
+Wellness Programs & Discounts
+Paid Time Off
+Parental Leave of Absence
+Life and Accident Insurance
+Voluntary benefits (financial protection plans)
+401(k) plan, with 66% of every dollar you contribute matched by NetJets
+Short and Long-Term Disability
+Legal Plan
+Identity Theft Protection Plans
+Pet Insurance
+Family & Caregiving Support
+… more
+
+Benefits found in job post
+
+401(k)
+
+Set alert for similar jobs
+
+Software Engineer, Columbus, Ohio, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+138
+
+total
+
+138
+
+in the past day
+
+Candidate seniority level
+
+86% Entry level candidates
+
+2% Senior level candidates
+
+Candidate education level
+
+85
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+15
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about NetJets
+Powered by Bing
+
+Company focus areas
+
+• Safety and Technology Integration: NetJets prioritizes safety by integrating cutting-edge safety analytics and operational data through the FlightPulse application, empowering pilots with indispensable information.
+
+...more
+
+Sources: geaerospace.com +1 more
+
+Hiring & headcount
+
+Expanding operations: The 'Operations' department has seen a 4% increase in employee count over the past year, indicating a focus on scaling operational capabilities, which could suggest opportunities for investment in operational efficiency tools and services. Growing sales force: The 'Sales' department has experienced a 7% increase in headcount, highlighting an emphasis on boosting sales efforts, potentially leading to increased demand for sales training, CRM systems, and marketing support. Strengthening engineering: The 'Engineering' department has grown by 10%, reflecting a significant investment in technical and product development, which may present opportunities for investment in engineering tools, software, and innovation initiatives. Enhancing customer support: The 'Customer Success and Support' department has seen an 11% increase in headcount, suggesting a commitment to improving customer service, which could indicate a need for customer support technologies and training programs.
+… more
+
+The latest hiring trend
+
+5,561
+
+Total employees
+
+18%
+
+Company-wide
+
+2 year growth
+
+20%
+
+Information Technology
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+2500
+5000
+7500
+
+Median employee tenure: 5.4 years
+
+NetJets hires candidates from some of these companies and schools
+
+NetJets hired 9 people from University of Southern California. See all
+
+Competitors
+
+NetJets maintains its position as the largest private jet charter company, leveraging its extensive fleet, strong brand reputation, and commitment to customer service. The company faces significant competition from other private jet operators like VistaJet, Flexjet, and Wheels Up, each targeting different market segments with unique value propositions. The competitive landscape is characterized by innovations in fractional ownership, jet cards, and flexible programs to meet evolving customer expectations for seamless and luxurious private air travel.
+… more
+
+Sources: radiotvbuntu.org +2 more
+
+Show Premium Insights
+About the company
+
+NetJets
+
+230,418 followers
+
+Follow
+
+Airlines and Aviation
+
+ • 
+
+5001-10000 employees
+
+ • 
+
+5,561 on LinkedIn
+
+Beginning as the first private jet charter and management company, NetJets has led the industry for decades. In 1986, we revolutionized it with the concept of shared ownership and proceeded to build the largest, most diverse private jet fleet in the world. Today, we are proud to be a Berkshire Hathaway company with an unwavering commitment to safety, service, and global access and unmatched financial stability. We offer a full range of personalized solutions, including the NetJets Share and NetJets Card, that meet—and exceed—the high standards of the world’s most discerning travelers. 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Founding iOS Engineer (Verified job)
+Founding iOS Engineer 
+
+Second Nature Computing
+
+San Francisco Bay Area (On-site)
+
+$150K/yr - $190K/yr + Stock options
+
+Posted on January 4, 2026, 3:25 PM
+1 day ago
+
+Graduate 2026 Software Engineer I, US (Verified job)
+Graduate 2026 Software Engineer I, US 
+
+Uber Technologies Inc
+
+New York, NY
+
+$150K/yr - $158K/yr
+
+3 connections work here
+
+Posted on January 5, 2026, 4:06 PM
+4 hours ago
+
+Graduate 2026 Software Engineer I, US (Verified job)
+Graduate 2026 Software Engineer I, US 
+
+Uber Technologies Inc
+
+Seattle, WA
+
+$150K/yr - $158K/yr
+
+3 connections work here
+
+Posted on January 5, 2026, 4:06 PM
+4 hours ago
+
+Java Software Engineer I (Verified job)
+Java Software Engineer I 
+
+Esri
+
+Redlands, CA
+
+$79K/yr - $129.8K/yr
+
+1 connection works here
+
+Posted on January 5, 2026, 3:18 PM
+5 hours ago
+
+Software Engineer, Full Stack (Verified job)
+Software Engineer, Full Stack 
+
+Scopely
+
+Sunnyvale, CA
+
+$139.5K/yr - $170.5K/yr
+
+8 company alumni work here
+
+Posted on January 5, 2026, 6:44 PM
+2 hours ago
+
+New Grad Program – Associate, Software Engineer (Verified job)
+New Grad Program – Associate, Software Engineer 
+
+Epsilon
+
+Chicago, IL (Hybrid)
+
+$90K/yr
+
+ • 
+
+2 benefits
+
+15 school alumni work here
+
+Posted on January 5, 2026, 1:29 PM
+7 hours ago
+
+New Grad Program – Associate, Software Engineer (Verified job)
+New Grad Program – Associate, Software Engineer 
+
+Epsilon
+
+Westminster, CO (Hybrid)
+
+$90K/yr
+
+ • 
+
+2 benefits
+
+3 company alumni work here
+
+Posted on January 5, 2026, 1:29 PM
+7 hours ago
+
+Senior Search Engineer
+
+Jackson Parker Operating
+
+Cleveland, OH (On-site)
+
+Medical, Vision, Dental, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 1:03 PM
+8 hours ago
+
+ · 
+
+ Easy Apply
+
+New Grad Program – Associate, Software Engineer (Verified job)
+New Grad Program – Associate, Software Engineer 
+
+Epsilon
+
+Irving, TX (Hybrid)
+
+$90K/yr
+
+ • 
+
+2 benefits
+
+3 company alumni work here
+
+Posted on January 5, 2026, 1:29 PM
+7 hours ago
+
+Web Developer I - UI for ArcGIS Enterprise (Verified job)
+Web Developer I - UI for ArcGIS Enterprise 
+
+Esri
+
+Redlands, CA
+
+$79K/yr - $129.8K/yr
+
+1 connection works here
+
+Posted on January 5, 2026, 3:18 PM
+5 hours ago
+
+Software Engineer I (Verified job)
+Software Engineer I 
+
+AMEX
+
+Phoenix, AZ (Hybrid)
+
+$78K/yr - $124.8K/yr
+
+4 connections work here
+
+Posted on January 5, 2026, 9:00 PM
+5 minutes ago
+
+Junior AI Engineer (Verified job)
+Junior AI Engineer 
+
+Accel Entertainment
+
+Chicago, IL (On-site)
+
+$80K/yr - $90K/yr
+
+Posted on January 5, 2026, 3:00 PM
+6 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

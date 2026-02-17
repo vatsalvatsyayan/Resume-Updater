@@ -1,0 +1,456 @@
+SoGal Ventures
+
+Full Stack Engineer: Platform
+
+Stanford, CA · 1 hour ago · 17 people clicked apply
+
+Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+Location
+
+Ireland
+
+Employment Type
+
+Full time
+
+Location Type
+
+Remote
+
+Department
+
+EngineeringPlatform Engineering
+
+About Us
+
+At Pareto.AI, we’re on a mission to enable top talent around the world to participate in the development of cutting-edge AI models.
+
+In coming years, AI models will transform how we work and create thousands of new AI training jobs for skilled talent around the world. We’ve joined forces with top AI and crowd researchers at Anthropic, Character.AI, Imbue, Stanford, and University of Pennsylvania to build a fair and ethical platform for AI developers to collaborate with domain experts to train bespoke AI models.
+
+About This Role
+
+We’re seeking a Full Stack Engineer to join our platform engineering team. You’ll play a pivotal part in developing the next-generation human data collection infrastructure for AI/ML development, driving product strategy, and directly impacting our startup trajectory.
+
+You'd Be a Great Fit At Pareto If
+
+
+You value dedicated teamwork, respect, and curiosity, as well as navigating communication in cross-functional, culturally diverse environments.
+Engineering excellence is your pursuit, demonstrated by your solid understanding of modern front-end technologies (React) and back-end libraries (Django).
+You are not content with the status quo and consistently seek innovative solutions to existing problems, with a commitment to personal and collective growth.
+
+
+Key Responsibilities
+
+
+Full-stack development from architecture and specifications to live deployments.
+Ability to understand translate, breakdown and estimate the product roadmap into features.
+Lead user testing sessions with stakeholders on some of the features you implement.
+An understanding of optimization, security and an eye for code cleanliness.
+Contribute to maintaining a best-in-class quality pipeline, encompassing Linting, CI/CD, and usability tests.
+
+
+What You’ll Need
+
+
+Ambition to be consistently testing and optimizing code and queries.
+2+ years of professional experience with enterprise architecture and a deep understanding of REST/GraphQL API patterns.
+Proficiency in React or a recent JavaScript Framework, as well as knowledge of Storybook and CSS preprocessors.
+Professional experience with Django
+Experience with Webpack bundler and optimizing builds, or the ambition to jump in and learn.
+Knowledge of different database systems (RDBMS) — we use Postgres
+Understanding of securing API endpoints and microservice architecture challenges.
+Familiarity with product and design lifecycles, collaborating with designers and product managers.
+Proven ability to write high-quality, well-tested, and maintainable code.
+Familiarity with current trends and best practices.
+Excellent communication skills and ability to work in a fast-paced environment.
+
+
+Nice To Have
+
+
+Familiarity with GraphQL — such as usage of Apollo, Relay or Graphene.
+Familiarity with Celery, Redis, Webpack.
+Dev ops experience — we have automated pipelines that build AWS clusters.
+Familiarity with or an interest in improving developer tooling — we’re currently running a one-command setup for a full-blown local dev environment that mimics prod!
+Exposure to data science or data engineering.
+
+
+Our Stack
+
+
+Backend:
+Django 5
+Python 3.12
+Celery
+Redis
+Frontend:
+React 18.2
+Infra (AWS):
+Fargate
+ECS
+RDS
+… more
+
+Set alert for similar jobs
+
+Full Stack Engineer, Stanford, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+17
+
+total
+
+17
+
+in the past day
+
+Candidate seniority level
+
+59% Entry level candidates
+
+24% Senior level candidates
+
+Candidate education level
+
+82
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+18
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about SoGal Ventures
+Powered by Bing
+
+The latest hiring trend
+
+36
+
+Total employees
+
+3%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+25
+50
+
+Median employee tenure: 5.8 years
+
+SoGal Ventures hires candidates from some of these companies and schools
+
+SoGal Ventures hired 3 people from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+SoGal Ventures
+
+12,933 followers
+
+Follow
+
+Venture Capital and Private Equity Principals
+
+ • 
+
+2-10 employees
+
+ • 
+
+36 on LinkedIn
+
+SoGal Ventures is a women-led, next-gen venture capital firm investing in very early startups in North America and Asia. We focus on world-class women & diverse entrepreneurs building billion-dollar businesses that change how we live, work, and stay healthy.
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Full Stack Engineer - Agentic AI
+
+Homekey
+
+Palo Alto, CA (On-site)
+
+You’d be a top applicant
+
+Posted on November 6, 2025, 9:43 AM
+2 months ago
+
+Founding Fullstack Engineer
+
+Jampack Labs
+
+New York, NY (Hybrid)
+
+$160K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 3:41 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer – Matching and Scheduling Optimization
+
+Sage Care
+
+Palo Alto, CA (Hybrid)
+
+1 school alumni works here
+
+Posted on December 4, 2025, 10:19 AM
+1 month ago
+
+Frontend / Fullstack Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:55 AM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer, AI Applications
+
+TrueMeter
+
+San Francisco Bay Area (On-site)
+
+Posted on December 2, 2025, 10:53 AM
+1 month ago
+
+Associate Software Engineer (New College Grad 2026) (Verified job)
+Associate Software Engineer (New College Grad 2026) 
+
+Solace
+
+Redwood City, CA (On-site)
+
+1 company alumni works here
+
+Posted on January 14, 2026, 8:28 PM
+3 days ago
+
+Full Stack Software Engineer
+
+Medra 
+
+San Francisco, CA (On-site)
+
+Medical, Dental, 401(k)
+
+Posted on September 10, 2025, 12:13 PM
+4 months ago
+
+Staff Frontend Engineer (Verified job)
+Staff Frontend Engineer 
+
+DOSS.COM
+
+San Francisco, CA (On-site)
+
+$150K/yr - $230K/yr
+
+ • 
+
+Medical, Vision, Dental, 401(k), +1 benefit
+
+2 school alumni work here
+
+Posted on July 31, 2025, 2:50 PM
+6 months ago
+
+Software Engineer, Infrastructure & Data
+
+Lightfield
+
+San Francisco Bay Area (On-site)
+
+Medical, 401(k)
+
+1 school alumni works here
+
+Posted on January 9, 2026, 10:13 AM
+1 week ago
+
+Full-Stack Software Engineer
+
+Recharged
+
+New York, NY (Hybrid)
+
+Posted on December 4, 2025, 2:28 PM
+1 month ago
+
+Software Engineer - Full Stack/Backend
+
+Worldscape
+
+Redmond, WA (On-site)
+
+$100K/yr - $120K/yr
+
+ • 
+
+Medical, Vision, 401(k), +1 benefit
+
+Posted on January 12, 2026, 11:16 AM
+6 days ago
+
+Fullstack Software Engineer
+
+Datalab
+
+New York, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on November 24, 2025, 3:13 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

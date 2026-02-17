@@ -1,0 +1,521 @@
+Ramp
+
+Software Engineer, Data Platform 
+
+New York, NY · 2 hours ago · 92 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$168K/yr - $324.5K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Pat and others in your network
+
+Show all
+About the job
+
+About Ramp
+
+At Ramp, we’re rethinking how modern finance teams function in the age of AI. We believe AI isn’t just the next big wave. It’s the new foundation for how business gets done. We’re investing in that future — and in the people bold enough to build it.
+
+Ramp is a financial operations platform designed to save companies time and money. Our all-in-one solution combines payments, corporate cards, vendor management, procurement, travel booking, and automated bookkeeping with built-in intelligence to maximize the impact of every dollar and hour spent. More than 50,000 businesses, from family-owned farms to e-commerce giants to space startups, have saved $10B and 27.5M hours with Ramp. Founded in 2019, Ramp powers the fastest-growing corporate card and bill payment platform in America, and enables over $100 billion in purchases each year.
+
+Ramp’s investors include Lightspeed Venture Partners, Thrive Capital, Sands Capital, General Catalyst, Founders Fund, Khosla Ventures, Sequoia Capital, Greylock, Redpoint, and ICONIQ, as well as over 100 angel investors who were founders or executives of leading companies. The Ramp team comprises talented leaders from leading financial services and fintech companies—Stripe, Affirm, Goldman Sachs, American Express, Mastercard, Visa, Capital One—as well as technology companies such as Meta, Uber, Netflix, Twitter, Dropbox, and Instacart.
+
+Ramp has been named to Fast Company’s Most Innovative Companies list and LinkedIn’s Top U.S. Startups for more than 3 years, as well as the Forbes Cloud 100, CNBC Disruptor 50, and TIME Magazine’s 100 Most Influential Companies.
+
+About The Role
+
+The Data Platform builds infrastructure and tools that enable Ramp to realize business value from data. We partner closely with stakeholder teams to build this infrastructure and the applications on top of it. This role is particularly focused on building platforms that support the data science development lifecycle. You’ll partner with applied scientists, AI engineers, Risk engineers, and other ML developers on building infrastructure and tools that enable and accelerate the development of machine learning models.
+
+What You’ll Do
+
+
+Build and integrate the components of Ramp's Analytics Platform and Machine Learning Platform.
+Build tools that improve the agility and data experience of Ramp's Applied Scientists, AI Engineers, and Risk Engineers.
+Collaborate with stakeholder teams on building and productionizing machine learning applications.
+Build reliable, scalable, maintainable, and cost-efficient systems across the stack.
+
+
+What You Need
+
+
+Experience with workflow orchestrators like Airflow, Dagster, or Prefect.
+Experience building infrastructure on AWS, GCP, or Azure.
+Knowledge of SQL and experience with Snowflake, Redshift, BigQuery, or similar databases.
+Intuition around analytics and machine learning, and empathy for data science workflows.
+Strong Python programming skills.
+
+
+Nice to Haves
+
+
+Expertise with AWS
+Previous experience building online machine learning systems.
+Previous experience building a feature store.
+Experience with Terraform and Datadog
+Experience building streaming systems.
+
+
+Benefits (for U.S.-based Full-time Employees)
+
+
+100% medical, dental & vision insurance coverage for you
+Partially covered for your dependents
+One Medical annual membership
+401k (including employer match on contributions made while employed by Ramp)
+Flexible PTO
+Fertility HRA (up to $10,000 per year)
+Parental Leave
+Pet insurance
+Centralized home-office equipment ordering for all employees
+Health and Wellness stipend
+In-office perks: lunch, snacks, drinks, and more
+Budget for intra-office travel
+Relocation support to NYC or SF (as needed)
+
+
+Referral Instructions
+
+If you are being referred for the role, please contact that person to apply on your behalf.
+
+Other Notices
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Ramp Applicant Privacy Notice
+… more
+
+Benefits found in job post
+
+Vision insurance, 401(k)
+
+Set alert for similar jobs
+
+Software Engineer, New York, New York, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+92
+
+total
+
+92
+
+in the past day
+
+Candidate seniority level
+
+86% Entry level candidates
+
+7% Senior level candidates
+
+1% VP level candidates
+
+Candidate education level
+
+88
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+12
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about Ramp
+Powered by Bing
+
+Company focus areas
+
+• AI-driven product development: Ramp is heavily investing in AI-driven product development to enhance its financial operations platform and redefine how businesses manage and optimize their financial operations.
+
+...more
+
+Sources: ibsintelligence.com +1 more
+
+Hiring & headcount
+
+Rapid expansion in sales: The 'Sales' department has seen an 89% increase in headcount over the past year, indicating a strong focus on expanding their sales capabilities and market reach. Significant growth in operations: The 'Operations' department has experienced a 168% increase in headcount, suggesting major initiatives to enhance operational efficiency and capacity. Increased focus on customer success: The 'Customer Success and Support' department has grown by 75%, highlighting the company's commitment to improving customer satisfaction and retention. Substantial investment in business development: The 'Business Development' department has grown by 136%, reflecting efforts to drive new business opportunities and strategic partnerships.
+… more
+
+The latest hiring trend
+
+3,569
+
+Total employees
+
+361%
+
+Company-wide
+
+2 year growth
+
+127%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+2000
+4000
+
+Median employee tenure: 0.7 years
+
+Ramp hires candidates from some of these companies and schools
+
+Ramp hired 4 people from University of Southern California. See all
+
+Ramp hired 36 people from University of Southern California. See all
+
+Competitors
+
+Ramp Business Corporation operates in a highly competitive fintech landscape, focusing on financial automation and corporate expense management. The company has rapidly grown, securing significant funding and a high valuation. Key competitors like Brex, Spendesk, and Mercury offer similar financial services and tools, challenging Ramp with diverse features and rewards programs. Ramp's commitment to financial efficiency and automation has positioned it as a leader, but continuous innovation and customer-centric solutions are essential to maintain its competitive edge.
+… more
+
+Sources: startupsavant.com +2 more
+
+Show Premium Insights
+About the company
+
+Ramp
+
+262,246 followers
+
+Follow
+
+Financial Services
+
+ • 
+
+1001-5000 employees
+
+ • 
+
+3,569 on LinkedIn
+
+Ramp is an all-in-one financial operations platform designed to save businesses time and money. Combining corporate cards, expense management, bill payments, accounting automation, procurement, travel, treasury, and more, Ramp empowers finance teams to do their best work. 
+
+More than 45,000 companies, from family-owned farms to space startups, have saved $10B and 27.5M hours with Ramp since its founding in 2019.
+
+Investors include Founders Fund, Thrive Capital, Khosla Ventures, Sequoia, Greylock, Stripe, Goldman Sachs, Coatue, and Redpoint, as well as over 100 angel investors who were founders or executives of leading companies. The Ramp team comprises talented leaders from leading financial services and fintech companies—Stripe, Affirm, Goldman Sachs, American Express, Mastercard, Visa, Capital One—as well as technology companies such as Meta, Uber, Netflix, Twitter, Dropbox, and Instacart.
+
+Ramp has been named to Fast Company's Most Innovative Companies list and LinkedIn's Top U.S. Startups for over 3 years, as well as the Forbes Cloud 100, CNBC Disruptor 50, and TIME Magazine's 100 Most Influential Companies.
+
+Visit our website for a full list of US state licenses & disclosures: https://ramp.com/legal/state-disclosures
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Embedded Software Engineer (C/C# .NET)
+
+ADMET
+
+Norwood, MA (On-site)
+
+$100K/yr - $120K/yr
+
+ • 
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 2:15 PM
+35 minutes ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer - New Grad
+
+Valon
+
+New York, NY (Hybrid)
+
+$130K/yr - $155K/yr
+
+ • 
+
+401(k), +1 benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:37 AM
+12 hours ago
+
+Software Engineer
+
+Hyra
+
+United States (Remote)
+
+$128.2K/yr - $226K/yr
+
+ • 
+
+401(k) benefit
+
+You’d be a top applicant
+
+Posted on January 15, 2026, 2:33 PM
+17 minutes ago
+
+Associate Software Engineer
+
+Cabana
+
+New York City Metropolitan Area (On-site)
+
+$140K/yr - $170K/yr
+
+ • 
+
+4 benefits
+
+Actively reviewing applicants
+
+Posted on January 14, 2026, 5:14 PM
+21 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Infrastructure
+
+Scaled Cognition
+
+San Jose, CA (Hybrid)
+
+$130K/yr - $350K/yr
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 7:08 AM
+7 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+RemoteHunter
+
+United States (Remote)
+
+You’d be a top applicant
+
+Posted on January 15, 2026, 11:52 AM
+2 hours ago
+
+Software Engineer
+
+Valon
+
+San Francisco, CA (On-site)
+
+$140K/yr - $200K/yr
+
+ • 
+
+1 benefit
+
+1 company alumni works here
+
+Posted on January 15, 2026, 2:37 AM
+12 hours ago
+
+Software Engineer
+
+Helic & Co.
+
+United States (Remote)
+
+Posted on January 15, 2026, 6:44 AM
+8 hours ago
+
+ · 
+
+ Easy Apply
+
+Junior Full Stack Engineer
+
+Mentor Talent Acquisition
+
+New York, United States (On-site)
+
+$100K/yr - $170K/yr
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 9:42 AM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+Frontend Engineer | Series B AI Startup
+
+Day One Partners
+
+San Francisco Bay Area (On-site)
+
+$140K/yr - $290K/yr
+
+Actively reviewing applicants
+
+Posted on January 15, 2026, 2:13 PM
+37 minutes ago
+
+ · 
+
+ Easy Apply
+
+Junior Software Engineer
+
+RemoteHunter
+
+United States (Remote)
+
+Posted on January 15, 2026, 1:26 PM
+1 hour ago
+
+Software Engineer
+
+Haystack
+
+Greater St. Louis (Hybrid)
+
+$92K/yr - $147K/yr
+
+ • 
+
+401(k), +1 benefit
+
+Posted on January 15, 2026, 1:58 PM
+52 minutes ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

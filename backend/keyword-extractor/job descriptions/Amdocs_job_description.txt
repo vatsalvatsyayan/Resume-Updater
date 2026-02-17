@@ -1,0 +1,494 @@
+Amdocs
+
+Software Developer 
+
+Plano, TX · 45 minutes ago · 24 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+Job ID: 208003
+
+Required Travel :No Travel
+
+Managerial - No
+
+Location: Plano, Tx
+
+Who are we?
+
+Amdocs helps those who build the future to make it amazing. With our market-leading portfolio of software products and services, we unlock our customers’ innovative potential, empowering them to provide next-generation communication and media experiences for both the individual end user and enterprise customers. Our employees around the globe are here to accelerate service providers’ migration to the cloud, enable them to differentiate in the 5G era, and digitalize and automate their operations. Listed on the NASDAQ Global Select Market, Amdocs had revenue of $5.00 billion in fiscal 2024. For more information, visit www.amdocs.com
+
+At Amdocs, our mission is to empower our employees to 'Live Amazing, Do Amazing' every day. We believe in creating a workplace where you not only excel professionally but also thrive personally. Through our culture of making a real impact, fostering growth, embracing flexibility, and building connections, we enable them to live meaningful lives while making a difference in the world.
+
+
+Work Location Requirement***
+
+
+***Position requires employee to work out of customer office in Plano, Tx 5 days a week***
+
+
+Work Authorization Requirement***
+
+
+***Applicants must be legally authorized to work in the United States for any employer. We are unable to sponsor or take over sponsorship of an employment visa at this time or in the future for this position.***
+
+In one sentence
+
+Responsible for design, development, modification, testing, debugging, and/or maintenance of Artificial Intelligence (AI) software systems.
+
+What will your job look like?
+
+
+ As an AI Engineer, you will develop AI-driven innovative software applications - design, develop, modify, test & debug and/or maintain software code according to functional, non-functional and technical design specifications.
+ You will follow AI trends and Amdocs software engineering standards, applicable software development methodology and release processes, to ensure code is maintainable, scalable, and supportable, and demo the software products to stakeholders.
+ You will investigate issues by reviewing/debugging code, provide fixes and workarounds, and review changes for operability to maintain existing software solutions.
+ You will work within a team, collaborate with customers and add value through participation in peer design/code reviews, provide comments and suggestions, and work with cross functional teams to achieve goals.
+ You will assume technical accountability for your specific work products within an application and provide technical support during solution design for new requirements/enhancements.
+ You will be encouraged to actively look for innovation, continuous improvement, and efficiency in all assigned tasks.
+
+
+All you need is...
+
+
+ Bachelor's or Master’s degree in Science/IT/Computer Science/Computer Engineering or related area.
+ 2+ year’s experience in developing Generative AI/LLM/Agentic AI-based applications using Python and AI frameworks.
+ Demonstrate detailed understanding of AI workflow frameworks - LangGraph, LangChain, AutoGen, CrewAI & Prompt Engineering.
+ Hands-on coding expertise using Python, Databricks, RDBMS (SQL) & NO-SQL (MongoDB), Spark/PySpark
+ Strong understanding of RESTful APIs, Microservices, Software integration, and Security.
+ Familiarity with version control systems and CI/CD pipelines (GitHub, Jenkins)
+ Strong problem-solving abilities and attention to details
+ Passionate to learn and grow as a strong individual contributor, open to exploring new platforms, skills and coding languages.
+
+
+Nice to Have
+
+
+ Kubernetes/Docker and container orchestration knowledge
+ Familiarity with python web frameworks – Flask, FastAPIs, Django
+ Exposure to cloud platforms (Azure, AWS, etc.)
+
+
+Why You Will Love This Job
+
+
+ You will be challenged to design and develop new AI-driven software applications.
+ You will have the opportunity to work in a growing organization, with ever growing opportunities for personal growth.
+ We are a dynamic, multi-cultural organization that constantly innovates and empowers our employees to grow. Our people our passionate, daring, and phenomenal teammates that stand by each other with a dedication to creating a diverse, inclusive workplace!
+ We offer a wide range of stellar benefits including health, dental, vision, and life insurance as well as paid time off, sick time, and parental leave!
+
+
+ Amdocs is an equal opportunity employer. We welcome applicants from all backgrounds and are committed to fostering a diverse and inclusive workforce
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Plano, Texas, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+24
+
+total
+
+24
+
+in the past day
+
+Candidate seniority level
+
+92% Entry level candidates
+
+Candidate education level
+
+96
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+4
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about Amdocs
+Powered by Bing
+
+Company focus areas
+
+• Cloud Migration: Accelerate service providers’ migration to the cloud, enabling them to leverage scalable and flexible infrastructure.
+
+...more
+
+Sources: investors.amdocs.com +1 more
+
+Hiring & headcount
+
+Significant focus on engineering: The 'Engineering' department has seen a 112% increase in job openings over the past year, indicating a major initiative in expanding their engineering capabilities. Growth in IT and finance: The 'Information Technology' and 'Finance' departments have experienced a 50% and 83% increase in job openings respectively, suggesting investments in technology infrastructure and financial operations. Expansion in marketing and media: The 'Marketing' and 'Media and Communication' departments have shown a 133% and 300% increase in job openings over the past three months, highlighting a push towards enhancing their marketing and communication strategies. Stable sales growth: The 'Sales' department has a 44% increase in job openings over the past year, indicating a steady focus on expanding their sales force to drive revenue growth.
+… more
+
+The latest hiring trend
+
+35,087
+
+Total employees
+
+3%
+
+Company-wide
+
+2 year growth
+
+15%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+25000
+50000
+
+Median employee tenure: 5.3 years
+
+Amdocs hires candidates from some of these companies and schools
+
+Amdocs hired 9 people from University of Southern California. See all
+
+Competitors
+
+Amdocs operates in a highly competitive landscape within the telecommunications, media, and entertainment industries. The company provides software and services that help manage customer relationships, monetize services, and automate network operations. Key competitors offer a range of solutions from billing and customer management to network operations and digital transformation services. Amdocs' ability to innovate and integrate new technologies like AI is crucial for maintaining its market position.
+… more
+
+Sources: pestel-analysis.com +1 more
+
+Show Premium Insights
+About the company
+
+Amdocs
+
+1,254,661 followers
+
+Follow
+
+Software Development
+
+ • 
+
+10001+ employees
+
+ • 
+
+35,087 on LinkedIn
+
+Who are we?
+Amdocs helps those who build the future to make it amazing. With our market-leading portfolio of software products and services, we unlock our customers’ innovative potential, empowering them to provide next-generation communication and media experiences for both the individual end user and enterprise customers. Our employees around the globe are here to accelerate service providers’ migration to the cloud, enable them to differentiate in the 5G era, and digitalize and automate their operations. Listed on the NASDAQ Global Select Market, Amdocs had revenue of $5.00 billion in fiscal 2024. For more information, visit  http://www.amdocs.com/
+ 
+At Amdocs, our mission is to empower our employees to 'Live Amazing, Do Amazing' every day. We believe in creating a workplace where you not only excel professionally but also thrive personally. Through our culture of making a real impact, fostering growth, embracing flexibility, and building connections, we enable them to live meaningful lives while making a difference in the world.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Firmware Audio Engineer
+
+Polaro
+
+San Mateo, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 6:02 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+LLM Engineer
+
+Prana Tree
+
+Chicago, IL (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 6:29 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Founding Full Stack Engineer
+
+Topify.ai
+
+San Francisco, CA (On-site)
+
+3 school alumni work here
+
+Posted on January 23, 2026, 12:36 AM
+17 hours ago
+
+ · 
+
+ Easy Apply
+
+Back End Developer, Shopify
+
+PIVOT | Shopify Plus Agency Partner
+
+Mission Viejo, CA (Hybrid)
+
+Posted on January 23, 2026, 2:33 PM
+3 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Engineer
+
+Basic Capital
+
+New York, NY (On-site)
+
+Posted on January 22, 2026, 3:35 PM
+1 day ago
+
+System Engineer
+
+Sonit Systems, LLC
+
+Archbold, OH (On-site)
+
+Medical, 401(k)
+
+Posted on January 23, 2026, 6:41 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+Staff Software Engineer (Verified job)
+Staff Software Engineer 
+
+Trellis
+
+United States (Remote)
+
+$220K/yr
+
+ • 
+
+7 benefits
+
+1 school alumni works here
+
+Posted on January 22, 2026, 1:24 PM
+1 day ago
+
+Infrastructure Engineer - St. Louis Only (Verified job)
+Infrastructure Engineer - St. Louis Only 
+
+Lemonaid Health
+
+St Louis, MO (On-site)
+
+$75K/yr
+
+ • 
+
+Medical, Vision, Dental, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 12:34 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Robotics Firmware Engineer
+
+Zenblen
+
+Chicago, IL (On-site)
+
+Posted on January 22, 2026, 9:16 AM
+1 day ago
+
+Forward Deployed Engineer
+
+Empromptu.ai
+
+San Francisco Bay Area (Remote)
+
+$100K/yr - $150K/yr
+
+You’d be a top applicant
+
+Posted on January 23, 2026, 12:44 PM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+Frontend Engineer
+
+Malachyte
+
+New York City Metropolitan Area (Hybrid)
+
+$140K/yr - $160K/yr
+
+ • 
+
+Medical, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 8:47 AM
+9 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Engineer (Remote)
+
+Refresh
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 3:44 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

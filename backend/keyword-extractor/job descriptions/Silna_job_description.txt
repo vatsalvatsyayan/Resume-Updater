@@ -1,0 +1,40 @@
+About the job
+
+Silna Health streamlines securing treatment approvals from health insurers. Our cutting-edge technology ensures faster access to care, reduced administrative burden for clinical staff, and timely payments for providers. Based in NYC, we partner with healthcare providers nationwide and are well funded by top-tier VCs.
+
+Required Qualifications
+
+
+Authentic intellectual curiosity, specifically as it pertains to software. You should like computers. 
+Backend experience. 
+
+
+Description
+
+As Silna scales our technology platform to a broader customer base, we are expanding on a few efforts:
+
+
+Clinical case management. At times insurance companies require clinician action, and we’re pulling an email based process into a proper case management system, streamlining the clinical staff's processes. 
+An external facing API. As our customers are leveraging Silna to automate never before automated processes, we have the opportunity to be the standard bearer for the proper data schema for prior authorizations. 
+Integrating cutting edge models into our automation processes. We are integrating new technologies such as OpenAI’s end to end voice model to automate tedious phone calls and Anthropic’s computer use model to automate traditional web portals. 
+
+
+These are just a few of the engineering challenges we are presently tackling, and with healthcare being a relatively greenfield space, there’s constantly room to leverage software to 10x efficiency across clinical staff to the back office. We are bringing on engineers to help us execute across the board. This role reports directly into Silna’s CTO.
+
+You’ll be great for this role if you:
+
+
+Are focused on the problem instead of the technology. We’re not doing cutting edge AI research, we’re leveraging new technologies and applying them to critical healthcare workflows. Doing so effectively requires deep understanding, genuine curiosity, and deep empathy for the patient and clinical staff. 
+Enjoy working in a high speed collaborative environment. If you like being given a Jira board and left alone in the corner, Silna isn’t the right place for you. We’re entirely in person, and each engineer maintains context on what one another is working on. We look for ways we can collaborate and leverage shared solutions for similar engineering problems. 
+Appreciate autonomy, agency, and accountability. Every engineer here is tasked with business outcomes, not a list of tickets. You’ll be working directly with the CTO and COO to strategize on how software can solve business problems, and you’ll be expected to translate customer needs into delivered software. 
+
+
+Tech Stack
+
+Backend is a Flask app connected to a Postgres database, containerized and deployed leveraging ECS
+
+Frontend is a Next app statically built, deployed using s3 + Cloudfront
+
+We focus on simplicity in our technology stack so we can focus on the complexity of our customer's problems
+
+Compensation Range: $130K - $200K

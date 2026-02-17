@@ -1,0 +1,92 @@
+About the job
+
+A Better Built World
+
+At Miter, we’re on a mission to help construction contractors build with confidence. If we’re successful, we’ll make it easier and faster to build critical physical infrastructure - roads, bridges, utilities, data centers, housing, etc.
+
+For decades, construction and field services contractors have had to run their businesses on outdated software: clunky, on-premise systems created in the 1980s and 1990s.
+
+That’s where Miter comes in. We’re using AI and embedded payments to rebuild the core HR, finance, and operations systems that underpin our physical economy. Using Miter, contractors like Marathon Electrical, W.J. O’Neil, and Truebeck Construction are building stronger teams, controlling job costs, and accelerating jobsite execution.
+
+This idea is resonating. Since we launched in 2022, we’ve grown to thousands of customers and tens of millions in ARR, making us one of the fastest growing vertical software companies ever. To double-down on our momentum, we’ve raised $50M+ from top investors (Bessemer, Coatue, and Battery) who share our belief that we’re just getting started.
+
+Hybrid vs. Remote Approach:
+
+We believe the magic of Miter comes from working side by side. We also believe in work flexibility. For roles that are listed as hybrid, our approach is—three to four days a week in the office—giving us the chance to connect, brainstorm, and build stronger relationships. If you live within a reasonable commute to either our New York City or San Francisco offices, we ask that you work in our hybrid approach.
+
+Otherwise, for roles listed as remote or in other cities where we don't have an office location, there is no requirement to work in our hybrid approach. We do travel a few times a year for onboarding, company wide, and team specific offsites!
+
+About the Team and How We Work:
+
+Building the OS for the built world is no small feat. We’ll need to ship a LOT of high quality code in the coming years, and to do so, we’re building an engineering culture centered around craft, ownership, and collaboration. >25% of our engineers and product managers are ex-founders, and we hire for slope, not intercept. Being a place where you can just build things requires talent density and some unique ways of doing things.
+
+A few ways we’re different:
+
+
+No rules…rules: Many engineering teams design processes and rules around the lowest common denominator. Not us! We trust brilliant engineers to deliver magical customer outcomes and introduce processes and rules only when necessary. 
+Full-full-stack: Our technology stack (TypeScript everywhere!) and processes are designed to encourage engineers to run their projects end-to-end. This usually involves writing technical blueprints, implementing full-stack solutions, and talking to customers directly to get feedback. 
+Lean and AI-native: AI is turning 10x engineers into 100x engineers. We believe lean, talent-dense, AI-native teams will outship much larger teams with less talent density. 
+Blueprints and building blocks: One of our core Miter values is “build the blueprint”. Writing things down clarifies our thinking and aligns our teams. This also applies to building fundamental building blocks and abstractions that make developers’ lives easier. 
+We feel our customers’ pain and celebrate their success: We encourage engineers to build direct relationships with customers, feel their pain, and celebrate their success. We love fast feedback loops. 
+We’re meritocratic: We value results and hard work. We reward engineers who consistently ship and deliver for customers with increased scope and compensation. 
+
+
+What You'll Do:
+
+
+Design, build, and maintain products/systems that power our core platform. 
+Collaborate with product managers and other engineers to deliver high-quality experiences. 
+Actively participate in blueprinting, code reviews, and technical documentation for your team. 
+
+
+What You'll Need:
+
+
+2+ years of professional software development experience. 
+Strong problem-solving skills. 
+A growth mindset and curiosity to understand business context and user needs. 
+Strong work ethic and reliability when owning tasks and deliverables. 
+A team-oriented attitude with humility and openness to new ideas. 
+
+
+Our Tech Stack:
+
+
+React + React Native
+Node/Express
+MongoDB
+Render
+Check
+Stripe (Issuing, Treasury)
+Typescript 
+
+
+Our Interview Process:
+
+
+Recruiter and/or Hiring Manager Intro
+A technical screen where we pair on a real-life problem 
+A (virtual) onsite!
+Practical coding exercise
+Systems design exercise
+Miter values with CEO
+Product collaboration with PM
+
+Our Benefits:
+
+
+Competitive Compensation: We offer competitive (well above “market”) salary, commission, and equity packages. 
+Medical Insurance: Comprehensive medical, dental, FSA, vision plans to suit you and your family’s needs. 
+401(k) Retirement Plan: Company-matched contributions to help you plan for your future. 
+Unlimited PTO: Take the time you need to recharge and be your best self. 
+Parental Leave: Generous 16-week paid leave for all parents, including adoptive and foster parents. 
+Learning & Development: We offer every employee an annual educational allowance to explore external professional development. 
+Office Extras: Snacks, coffee, lunch, and commuter benefits for in-office Mitosaurs. 
+Community: Multiple company-wide and team-specific offsites per year. 
+
+
+Equal Opportunity:
+
+Miter provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive workforce and welcome people from all backgrounds, experiences, perspectives, and abilities.
+
+Compensation Range: $160K - $200K

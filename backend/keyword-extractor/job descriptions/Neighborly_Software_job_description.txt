@@ -1,0 +1,312 @@
+Neighborly Software
+
+Software Engineer I
+
+Atlanta, GA · 2 hours ago · Over 100 applicants
+
+Promoted by hirer · No response insights available yet
+
+Hybrid
+Full-time
+Easy Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+About the job
+
+Who We Are
+
+Neighborly Software is a dynamic and rapidly growing software company dedicated to innovation and excellence. Neighborly Software was built to help communities make a difference in the lives of low-income families and vulnerable populations. Our mission is simple, “Helping Communities, Help People.” We live this every day through our Neighbors and by volunteering serving in our local communities. Headquartered in Atlanta, GA, we offer a cloud-based technology platform for the administration and disbursement of governments funds for programs such as Housing, Economic, Community Development, Disaster Recovery/MIT, Home Energy Rebate Programs, and Housing Choice Voucher programs. Since 2016 we have delivered software solutions to 540+ public and private sector entities across the country, making us the proud market leaders of our industry. We were recently voted as one of the "Best And Brightest Companies to work for". Our office is located in the amazing Atlanta Tech Village.
+
+
+
+
+Software Engineer I (Sustaining Engineering)
+
+
+
+
+We are looking for a Software Engineer I who can assist in the analysis, investigation, and resolution of platform production items to support neighbors (clients), client-success, and client-support teams. This role focuses on maintaining system stability, executing tactical data updates, and learning the architecture of an enterprise SaaS platform.
+
+
+
+
+What You Will Be Doing
+
+Key Responsibilities:
+
+Feature & Code Delivery
+
+Implement well-defined features, fixes, and enhancements following established coding standards and SDLC processes
+Participate in code reviews and apply feedback to improve code quality and consistency
+Support small automation or tooling enhancements for repetitive tasks
+
+Support, Troubleshooting &Operations
+
+Investigate and resolve assigned support tickets and basic production defects
+Perform initial debugging, contribute to RCA documentation for moderate-severity issues, and escalate complex cases appropriately
+Participate in on-call rotations and provide timely, clear updates during incident handling
+
+Collaboration & Process Alignment
+
+Work with Product, QA, Security, DevOps, and Client-Facing teams to clarify requirements and support issue investigations
+Follow established communication and incident-management processes to ensure consistent, reliable handoffs and responsiveness
+Contribute to maintaining documentation related to features, fixes, and operational learnings
+
+
+
+
+Qualifications
+
+BS/MS degree or equivalent in Computer Science, Information Systems, or related field
+Proficiency in C#/.NET, React, Azure Services(preferred) or AWS
+Exposure to services in Azure (or equivalent in AWS): ADF, API-Management, Service Bus, Power BI, Azure Functions
+Experience working with monitoring tools App Insights etc.
+Familiarity with Azure DevOps, SDLC Tools like JIRA/Confluence
+Ability to debug and fix application issues
+
+
+
+
+Why You’ll Love Working Here:
+
+Comprehensive Benefits – Enjoy Medical, Dental, Vision, and Company-Paid Life Insurance
+401K Contributions – We invest in your future, with a generous match
+Exceptional Perks – Paid Parental Leave, Employee Recognition Programs, and more!
+Generous Time Off – PTO, Paid Holidays, and Charity Hours to support volunteer opportunities
+
+
+
+
+Neighborly Software is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.
+
+… more
+
+Benefits found in job post
+
+401(k), Medical insurance, Vision insurance, Dental insurance
+
+Set alert for similar jobs
+
+Software Engineer, Atlanta, Georgia, United States
+
+Off
+See how you compare to other applicants
+Based on LinkedIn data. Excludes subsidiaries.
+Applicants for this job
+
+146
+
+Applicants
+
+146
+
+Applicants in the past day
+
+Applicant seniority level
+
+88% Entry level people applied for this job
+
+6% Senior level people applied for this job
+
+Applicant education level
+
+85
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+14
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Neighborly Software
+Powered by Bing
+
+Company focus areas
+
+• Comprehensive Platform for Housing and Community Development: Neighborly Software focuses on providing a comprehensive platform that supports the full lifecycle of housing, economic development, and community improvement initiatives, from application intake to final reporting.
+
+...more
+
+Sources: blog.neighborlysoftware.com +1 more
+
+Hiring & headcount
+
+Focus on Operations: The 'Operations' department has seen a 30% increase in employee count over the past year, indicating a significant investment in operational capabilities and efficiency. Growth in Marketing: The 'Marketing' department has experienced a 50% increase in headcount, suggesting a strategic push towards enhancing market presence and brand awareness. Expansion in Quality Assurance and Project Management: Both 'Quality Assurance' and 'Program and Project Management' departments have doubled their headcount, reflecting a strong emphasis on improving product quality and project execution. Reduction in Sales and IT: The 'Sales' and 'Information Technology' departments have seen decreases of 13% and 10% respectively, which may indicate a shift in focus or restructuring within these areas.
+… more
+
+The latest hiring trend
+
+100
+
+Total employees
+
+19%
+
+Company-wide
+
+2 year growth
+
+50%
+
+Information Technology
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+50
+100
+150
+
+Median employee tenure: 2.5 years
+
+Competitors
+
+Neighborly Software operates in a competitive landscape with several key players in the property management and community development software market. The company offers web-based solutions for managing grants, loans, and various housing and community development programs. Competitors like Citizenserve, AppFolio Property Manager, and ManageCasa provide alternative platforms with diverse features and integrations, targeting different segments of the market. Neighborly Software's recent integration with HUD's IDIS system highlights its focus on reducing administrative burdens and improving data accuracy, which is crucial for maintaining a competitive edge.
+… more
+
+Sources: softwareworld.co +3 more
+
+Show Premium Insights
+About the company
+
+Neighborly Software
+
+11,804 followers
+
+Follow
+
+Software Development
+
+ • 
+
+51-200 employees
+
+ • 
+
+100 on LinkedIn
+
+Neighborly Software is a cloud-based technology platform that is reimagining the administration of Housing, Economic, Community Development, Disaster Recovery/MIT, and Housing Choice Voucher programs.
+
+Since 2016 we have delivered software solutions for HUD and Treasury program management to 400+ public and private sector entities across the country, making us the proud market leaders for Housing, Economic & Community Development program management, present in over 30% of all HUD entitlements across the country.   
+
+Neighborly Software is on a mission to make a difference and we believe community development is one of the most powerful and sustainable ways to create social and economic good. Our platform helps communities make a lasting difference in the lives of low-income families and vulnerable populations.
+
+We are purpose-driven people who are dedicated to serving something bigger than ourselves. Helping Communities Help People is at the heart of all we do. It's how we designed our software and it’s how we consistently deliver unmatched experiences to our Neighbors and partners.
+
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

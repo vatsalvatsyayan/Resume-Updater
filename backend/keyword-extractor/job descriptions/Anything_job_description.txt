@@ -1,0 +1,103 @@
+About the job
+
+Anything
+
+Anything is the AI product engineer for the next wave of entrepreneurs.
+
+It's an AI agent that turns English into apps. Everything you need make money on the internet built in - mobile, web, design, AI, backend, infra, payments.
+
+Launched Aug 7th. https://x.com/anything
+
+Hit $5m rev and growing quickly
+
+Try it at anything.com
+
+Role
+
+What This Role Is
+
+This role is for people who want to grow faster than they could anywhere else. You will work on real AI systems from day one and take ownership of meaningful product work. You will tackle challenging problems, learn new tools constantly, and operate in an environment where speed, ambition, and personal growth are core expectations. You will be supported by senior engineers but trusted to figure things out, push through ambiguity, and build systems that reach millions of users. This is a place for people who want to develop world class skills early in their career.
+
+You will be expected to move fast with clarity–reasoning through tradeoffs, writing things down when helpful, and choosing solutions that fit the broader system.
+
+How you will operate
+
+
+Break down complex or unclear problems into clear steps and propose practical solutions
+Make thoughtful tradeoffs between speed, correctness, and long-term maintainability
+Build AI powered features using TypeScript and modern AI frameworks
+Collaborate closely with product and design to align on goals and ship with confidence
+Talk with users and use the product yourself to understand real-world needs and opportunities
+Push through obstacles with resourcefulness and a strong problem-solving mindset
+Learn new concepts quickly and apply them to real production challenges
+Stay up to date on the latest in AI research and engineering
+Take on tasks that stretch your abilities and work hard to close skill gaps quickly
+Contribute to a culture of ownership, ambition, and fast-paced learning
+
+
+AI is a rapidly evolving field, and no one here has all the answers. We value humility, openness to feedback, and a willingness to revise your thinking as you learn. Strong opinions are welcome when they are paired with curiosity and respect for evidence.
+
+Primary outcomes
+
+Your success will be measured by:
+
+
+ Independent problem-solving and execution You take goals, investigate unknowns, evaluate options, and deliver solutions without waiting for extensive guidance. 
+ Fast skill growth You significantly expand your technical range within your first months through hands-on work and deliberate learning. 
+ Shipped product impact Your features improve user experience, performance, and product depth in measurable and well-reasoned ways
+
+
+Required Background
+
+Candidates typically show:
+
+
+A strong technical foundation from a top CS program or equivalent hands-on experience building real systems
+Evidence of ambitious, self-driven projects or internships that required problem solving and ownership
+Solid programming fundamentals and comfort with TypeScript
+Exceptional ability to read deeply, reason clearly, and communicate complex ideas
+Curiosity about AI systems and a desire to push beyond easy or obvious solutions
+A personal track record of learning quickly and putting in real effort to master difficult skills
+Experience working in fast-paced environments while balancing care with urgency. 
+
+
+Nice to have
+
+
+Prior internships in AI, backend, or infrastructure engineering
+Previously been one of the first 10 hires at startup
+Personal projects that show initiative, creativity, and independent thinking
+Backgrounds or interests that span technical and non-technical domains (e.g. writing, design, philosophy, economics, etc)
+
+
+Why this role matters
+
+We are building products on the frontier of AI and that requires a team that learns fast, thinks clearly, and works hard. You will grow more in one year here than in several years at a typical company. You will take on challenges that stretch your abilities and solve problems that materially shape the future of the product.
+
+In all roles
+
+We look for:
+
+Intense. Ship fast. Cycles are hours, not weeks. Hard to outwork.
+
+Ownership. Grab the #1 priority and relentless to deliver.
+
+Fearlessness. Risk on. Do the unknown / uncomfortable. Say "good" to bad news.
+
+Taste. Obsess over quality. Know what “great” looks like. No slop.
+
+Play. Curiosity, joy, and energy.
+
+Sound like you?
+
+Come do the most meaningful work of your career.
+
+Applying 
+
+Submit here and we'll reach out if it's a fit.
+
+Note: we get 100s of low quality AI generated applications daily. We do want to meet you if you're excellent and really care.
+
+If you want to stand out, after you submit, send resume + a short note to marcus@anything.com w/ subject line "[Role] | Your Name" (bullets work!)
+
+Compensation Range: $125K - $200K

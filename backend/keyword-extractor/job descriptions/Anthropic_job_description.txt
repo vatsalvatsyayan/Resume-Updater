@@ -1,0 +1,492 @@
+Anthropic
+
+Finance AI Engineer
+
+San Francisco, CA · 7 minutes ago · 6 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$205K/yr - $265K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Apuroopa and others in your network
+
+Show all
+About the job
+
+About Anthropic
+
+Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
+
+About The Role
+
+We're looking for a Finance AI Engineer to help build the next generation of AI-powered tools for finance and accounting teams. You'll work at the intersection of finance operations, AI product development, and engineering—partnering closely with our Finance team to transform how finance professionals interact with data, process documents, and automate their workflows using Claude.
+
+This role offers the opportunity to take full ownership of complex problems at the frontier of AI application in finance. You'll build Claude Skills and workflows that encode deep institutional knowledge about financial data, accounting conventions, and business logic. Your work will span both internal tools for Anthropic's finance team and insights that inform external products—directly contributing to our mission of building safe and beneficial AI systems.
+
+In This Role You Will
+
+
+Partner with Anthropic's Finance team to build Claude-powered tools that transform how finance professionals interact with data, process documents, and automate their workflows 
+Embed with FP&A, accounting, and finance systems teams to identify high-value automation opportunities and translate them into production-ready AI workflows 
+Design and implement systems that handle OCR, document parsing, and data extraction to transform unstructured finance documents (invoices, contracts, statements) into structured, actionable data 
+Develop deep institutional knowledge of Anthropic's financial data architecture (BigQuery warehouse, accounting conventions, business logic) and encode that knowledge into AI-powered tools 
+Own the full lifecycle from discovery through deployment: scoping requirements with finance users, building prototypes, gathering feedback, and iterating to production 
+Contribute to the underlying Finance AI platform architecture, including evaluation frameworks, scheduled workflows, and collaboration features 
+Build AI-powered workflows that enable natural language queries against financial data systems, automated reporting, and document processing pipelines 
+Create technical documentation and provide hands-on guidance to finance teams on how to leverage AI tools effectively 
+
+
+Responsibilities
+
+
+Have experience working embedded with finance or accounting teams, understanding their workflows, terminology, and pain points 
+Can speak fluently about financial concepts: revenue recognition, accruals, close processes, SOX controls, FP&A reporting cycles 
+Have strong software engineering fundamentals and ability to build end-to-end applications 
+Have strong SQL skills and experience working with data warehouses (BigQuery, Snowflake) to build analytical products 
+Have experience with document processing (OCR), natural language processing, or working with unstructured data 
+Have a track record of building trust with non-technical stakeholders and shipping products they actually use 
+Thrive building prototypes or MVPs quickly and iteratively in fast-paced environments 
+Are excited about AI's potential to transform knowledge work and care about building systems that are safe and beneficial 
+
+
+Strong Candidates May Also Have
+
+
+Experience building natural language interfaces to data systems (text-to-SQL, conversational analytics) 
+Experience with LLMs, prompt engineering, and AI application development 
+Familiarity with financial data structures, accounting systems (ERP platforms like Oracle, Workday, NetSuite) 
+Prior experience with financial processes including close, reporting, and compliance workflows 
+Familiarity with the unique challenges of AI evaluation: measuring accuracy, handling edge cases, building user trust 
+Prior experience at a high-growth startup where finance processes were still being built 
+
+
+The annual compensation range for this role is listed below.
+
+For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.
+
+Annual Salary
+
+$205,000—$265,000 USD
+
+Logistics
+
+Education requirements: We require at least a Bachelor's degree in a related field or equivalent experience.
+
+Location-based hybrid policy: Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.
+
+Visa sponsorship: We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.
+
+We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.
+
+Your safety matters to us. To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.
+
+How We're Different
+
+We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.
+
+The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI & Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.
+
+Come work with us!
+
+Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage: Learn about our policy for using AI in our application process
+… more
+
+Set alert for similar jobs
+
+Artificial Intelligence Engineer, San Francisco, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+6
+
+total
+
+6
+
+in the past day
+
+Candidate seniority level
+
+67% Entry level candidates
+
+17% Senior level candidates
+
+Candidate education level
+
+100
+
+%
+
+have a Master's Degree (Similar to you)
+Exclusive Job Seeker Insights about Anthropic
+Powered by Bing
+
+Company focus areas
+
+• AI Safety and Research: Focus on building reliable, interpretable, and steerable AI systems to ensure safety and ethical use of AI technologies.
+
+...more
+
+Sources: anthropic.com +1 more
+
+Hiring & headcount
+
+Significant growth in engineering: The 'Engineering' department has seen a 104% increase in headcount over the past year, indicating a major focus on expanding technical capabilities and product development. Expansion in sales and marketing: The 'Sales' and 'Marketing' departments have experienced a 168% and 197% increase in headcount respectively, suggesting a strong push towards market penetration and revenue growth. Increased focus on research and development: The 'Research' department has grown by 267%, highlighting a substantial investment in innovation and new product development. Growth in support functions: The 'Human Resources' and 'Administrative' departments have increased by 124% and 181% respectively, indicating a need for enhanced internal support and infrastructure to manage the company's rapid growth.
+… more
+
+The latest hiring trend
+
+3,810
+
+Total employees
+
+537%
+
+Company-wide
+
+2 year growth
+
+491%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+2500
+5000
+
+Median employee tenure: 0.7 years
+
+Anthropic hires candidates from some of these companies and schools
+
+Anthropic hired 6 people from University of Southern California. See all
+
+Anthropic hired 51 people from University of Southern California. See all
+
+Competitors
+
+Anthropic PBC is a significant player in the AI landscape, particularly known for its focus on AI safety and ethical considerations. Its flagship product, Claude, competes directly with other leading AI models like OpenAI's ChatGPT and Google's Gemini. The company emphasizes a 'constitutional AI' approach, aiming to develop AI systems that are safe and beneficial for humanity. The competitive landscape is marked by rapid technological advancements and increasing integration of AI into various business and consumer applications.
+… more
+
+Sources: seoaves.com +2 more
+
+Show Premium Insights
+About the company
+
+Anthropic
+
+1,920,991 followers
+
+Following
+
+Research Services
+
+ • 
+
+501-1000 employees
+
+ • 
+
+3,810 on LinkedIn
+
+We're an AI research company that builds reliable, interpretable, and steerable AI systems. Our first product is Claude, an AI assistant for tasks at any scale.
+
+Our research interests span multiple areas including natural language, human feedback, scaling laws, reinforcement learning, code generation, and interpretability. 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Software Engineer
+
+RealStack AI
+
+New York, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 1:51 PM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Blockchain Infra Engineer
+
+Kite
+
+San Francisco Bay Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on October 19, 2025, 5:34 AM
+3 months ago
+
+ · 
+
+ Easy Apply
+
+Associate Software Engineer (New College Grad 2026) (Verified job)
+Associate Software Engineer (New College Grad 2026) 
+
+Solace
+
+Redwood City, CA (On-site)
+
+1 company alumni works here
+
+Posted on January 14, 2026, 8:28 PM
+6 days ago
+
+Embedded Software Engineer
+
+CN-Seamless, Inc.
+
+Raleigh, NC (On-site)
+
+$100K/yr - $140K/yr
+
+ • 
+
+401(k) benefit
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 3:35 PM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+AI Software Developer (EdTech & SaaS Focus)
+
+Creative Design Group, Inc.
+
+Burbank, CA (Remote)
+
+$130K/yr
+
+Actively reviewing applicants
+
+Posted on January 13, 2026, 9:08 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Applied AI Engineer— Agentic Workflows
+
+HedgeOS
+
+New York, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on January 13, 2026, 7:19 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+AI Lead Engineer
+
+CEF.AI
+
+San Francisco, CA (Hybrid)
+
+$100K/yr - $200K/yr
+
+Posted on January 6, 2026, 10:13 PM
+2 weeks ago
+
+Artificial Intelligence Engineer
+
+Merato
+
+New York, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 9:18 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Frontend / Fullstack Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:55 AM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Web Developer-Shopify Plus
+
+HydroJug
+
+Ogden, UT (On-site)
+
+Actively reviewing applicants
+
+Posted on January 9, 2026, 12:41 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Applied AI Engineer
+
+Propy Inc.
+
+New York, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on January 14, 2026, 7:50 AM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer (Agentic AI) | New York
+
+Lyzr AI
+
+New York City Metropolitan Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 5:49 AM
+5 days ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

@@ -1,0 +1,82 @@
+About the job
+
+About Neuralink:
+
+We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.
+
+Team Description:
+
+The Next Gen team at Neuralink is developing the next generation of brain-computer interfaces. We are laying the groundwork for intuitive, high-dimensional, and bidirectional interfaces between brains and machines, with the goal of helping people challenged by a variety of neurological disorders and conditions. Our team consists of scientists and engineers, working closely together to define the engineering requirements for these future products.
+
+Job Description and Responsibilities:
+
+As a Software Engineer, you will write, test and deploy software that interacts with our neural interfaces and other data acquisition systems to decode and modulate brain activity. We are looking for hands-on engineers who are excited to own the end-to-end engineering of next-generation software systems for the control of assistive robotic arms (CONVOY), visual prostheses (Blindsight), and medical imaging data pipelines. Successful candidates will be highly adaptable, able to deploy their core technical and creative skills to tackle a wide range of problems, and have a keen sense of urgency. The job responsibilities will include:
+
+
+Developing, validating, testing, and deploying software systems
+Writing algorithms to decode and modulate neural activity
+Designing user experiences centered around neural control of devices
+Mentoring others in achieving engineering excellence through code review, design review, and technical presentations
+Presenting results in a collaborative setting
+Working with neuroengineers and animal training specialists to support research sessions
+
+
+Required Qualifications: 
+
+
+
+
+Bachelor's degree in computer science, a related field, or equivalent work experience
+Fluent in modern front-end and/or mobile development tools (Typescript, Swift) and a high-performance backend language (Python, Golang)
+HW/SW debugging skills with lab equipment
+A strong understanding of engineering first principles
+You are mission-driven and goal-oriented in your approach to solving problems
+You are resourceful, flexible, and adaptable; no task is too big or too small
+Excellent communication and collaboration skills
+
+
+Preferred Qualifications: 
+
+
+
+
+Hands-on experience writing software that interacts with robotics, control theory, human-robot interaction, or real-time systems
+Working knowledge of compiled and system languages, ideally C/C++ or Rust
+Experience developing software for macOS or iOS, in Objective-C/Swift
+
+
+About You:
+
+
+You find large challenges exciting and enjoy discovering and defining problems as much as solving them.
+You deliver. You may enjoy thoughtful conversations about problems and perfecting designs, but in the end, you know that what matters is delivering reliable solutions.
+You are a cross-disciplinary team member. You are excited to work with and learn from software, mechanical, electrical, materials, and neural engineers
+You are comfortable communicating across teams
+You feel a sense of urgency to get things done sooner rather than later
+Resourceful, flexible and adaptable; no task is too big or too small
+You are comfortable working closely with animals in a research environment
+
+
+Expected Compensation:
+
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees' success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.
+
+Base Salary Range:
+
+$113,000—$188,000 USD
+
+What We Offer:
+
+Full-time employees are eligible for the following benefits listed below.
+
+
+An opportunity to change the world and work with some of the smartest and most talented experts from different fields
+Growth potential; we rapidly advance team members who have an outsized impact
+Excellent medical, dental, and vision insurance through a PPO plan
+Paid holidays
+Commuter benefits
+Meals provided
+Equity (RSUs) *Temporary Employees & Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
+Parental leave *Temporary Employees & Interns excluded
+Flexible time off *Temporary Employees & Interns excluded

@@ -1,0 +1,74 @@
+About the job
+
+Biohub is leading the new era of AI-powered biology to cure or prevent disease through its 501c3 medical research organization, with the support of the Chan Zuckerberg Initiative.
+
+ The Team
+
+Biohub supports the science and technology that will make it possible to help scientists cure, prevent, or manage all diseases by the end of this century. While this may seem like an audacious goal, in the last 100 years, biomedical science has made tremendous strides in understanding biological systems, advancing human health, and treating disease. 
+
+Achieving our mission will only be possible if scientists are able to better understand human biology. To that end, we have identified four grand challenges that will unlock the mysteries of the cell and how cells interact within systems — paving the way for new discoveries that will change medicine in the decades that follow:
+
+Building an AI-based virtual cell model to predict and understand cellular behavior
+Developing state-of-the-art imaging systems to observe living cells in action
+Instrumenting tissues to better understand inflammation, a key driver of many diseases
+Engineering and harnessing the immune system for early detection, prevention, and treatment of disease
+The Opportunity
+
+The Data Services team manages and processes scientific datasets specifically designed to enable biological modeling. It is responsible for data validation, wrangling, testing, storage, and retrieval. We handle over 89 million unique cells worth of single cell transcriptomic data, over 15 thousand cryoET tomograms that are in imaging datasets as large as 20TB and counting, and will be expanding to support larger scale and additional imaging, sequencing, and literature modalities. Our resources provide access to open source data that is structured and used by tens of thousands of scientists each month to quickly query and form hypotheses on understanding how genetic variants in cells impact disease risk, define drug toxicities, and eventually discover better therapies.
+
+As a software engineer on the Data Engineering team, you will help implement all the data needs for our platforms, CELLxGENE Discover, CryoET, as well as the new platform we are building that has a focus on data for AI and the virtual cell, in order to enable scientists to further interrogate our very large and growing corpus of data without any need to download the data itself or have any computational expertise. You will work on a collaborative, multidisciplinary team to develop solutions for our scientist users to accelerate their workflows and accelerate the pace of scientific discovery.
+
+No prior biology experience is required for this role. You will have the opportunity to pair with Computational Biologists to develop solutions for our users and be able to learn about biology from experts on our team.
+
+Our tech stack: Python, Terraform, AWS infrastructure, TileDB.
+
+What You'll Do
+Design, build, and maintain robust, scalable data pipelines for ingesting, processing, and storing large volumes of structured and unstructured data.
+Develop and optimize ETL processes, ensuring data quality, validation, and consistency across diverse sources.
+Implement and manage data storage solutions, including data warehouses, data lakes, and distributed databases, ensuring secure and performant to handle massive volumes of single-cell transcriptomics data and imaging data.
+Monitor and troubleshoot data pipelines, build proactive exception handling, and ensure high reliability and uptime of production systems.
+Document processes, maintain data models, and support data governance, lineage, and compliance initiatives.
+Utilize modern tools and technologies, such as Argo Workflows, Kubernetes, AWS, Docker, and CI/CD pipelines.
+Actively contribute to team problem-solving, project planning, and process improvements with a mindset for innovation and social impact.
+Create user-friendly APIs to enable researchers and scientists to easily access and explore the curated data.
+Develop scalable, maintainable, and testable software systems and participate in team conversations and efforts on engineering excellence.
+Collaborate with data scientists, computational biologists, researchers, analysts, and other engineers to understand data requirements and deliver practical solutions that drive analytics, research, and AI/ML applications.
+Have opportunities to learn about scientific data and technologies, though no prior experience is required!
+What You'll Bring
+2+ years of experience as Software Engineer with data building data pipelines.
+Proficiency in programming languages (Python, Java) and SQL.
+Experience with big data, AWS(EC2, S3, EKS, IAM, SQS etc), Docker, and Argo Workflows.
+Strong data modeling, database design, and data integration skills, including ETL and pipeline orchestration tools.
+Strong fundamentals in systems design, data structures, algorithms, and object oriented programming principles.
+Familiarity with CI/CD, data governance, and observability/monitoring tools.
+Excellent communication, teamwork, and analytical problem-solving abilities.
+Passion for the CZI mission, innovation, and open, collaborative culture.
+Computer Science Engineering degree.
+Strong problem solving and analytical skills.
+Excellent written and verbal communication skills.
+Enthusiasm to ramp up on technologies and learn a new science domain.
+Must be self-driven and comfortable supporting data needs of multiple systems and products.
+
+Nice to have
+
+Experience working with Biology, Imaging or Sequencing data
+Experience working with data formats related to biodata and solving challenges with that data.
+Experience building AI Agents related to data movement or ETL.
+Compensation
+
+The Redwood City, CA base pay range for a new hire in this role is $153,000-$230,000. New hires are typically hired into the lower portion of the range, enabling employee growth in the range over time. Actual placement in range is based on job-related skills and experience, as evaluated throughout the interview process. 
+
+Work Mode
+
+As we grow, we’re excited to strengthen in-person connections and cultivate a collaborative, team-oriented environment. This role is a hybrid position requiring you to be onsite for at least 60% of the working month, approximately 3 days a week, with specific in-office days determined by the team’s manager. The exact schedule will be at the hiring manager's discretion and communicated during the interview process.
+
+Benefits for the Whole You 
+
+We’re thankful to have an incredible team behind our work. To honor their commitment, we offer a wide range of benefits to support the people who make all we do possible. 
+
+Provides a generous employer match on employee 401(k) contributions to support planning for the future.
+Paid time off to volunteer at an organization of your choice. 
+Funding for select family-forming benefits. 
+Relocation support for employees who need assistance moving
+
+If you’re interested in a role but your previous experience doesn’t perfectly align with each qualification in the job description, we still encourage you to apply as you may be the perfect fit for this or another role.

@@ -1,0 +1,103 @@
+About the job
+
+ 
+
+About the Company
+
+Armada is an edge computing startup that provides computing infrastructure to remote areas where connectivity and cloud infrastructure is limited, as well as areas where data needs to be processed locally for real-time analytics and AI at the edge. We’re looking to bring on the most brilliant minds to help further our mission of bridging the digital divide with advanced technology infrastructure that can be rapidly deployed anywhere.
+
+ 
+
+ 
+
+About the Role
+
+We are looking for a talented and experienced Software Developer experienced in developing backend services using cloud native technologies. As a member of this team, you will design, build, and maintain scalable and high-performance backend services. You will work closely with the product, frontend, and DevOps teams to deliver robust solutions that power our cutting-edge products that run in the cloud and the edge.
+
+ 
+
+Location. This role is office-based at our Bellevue, Washington office. 
+
+ 
+
+What You'll Do (Key Responsibilities)
+
+Design, develop, and maintain efficient, reusable, and reliable code, preferably using Go (Golang).
+Build and enhance SDKs and APIs to facilitate customer integration and interaction with the marketplace platform.
+Collaborate with cross-functional teams (frontend, product, DevOps) to define, design, and ship new features.
+Optimize applications for maximum speed and scalability, ensuring high availability and responsiveness.
+Write unit tests and integration tests to ensure code quality.
+Identify bottlenecks and bugs and devise solutions to these problems.
+Work with cloud platforms (AWS, GCP, Azure) and deploy applications in containerized environments (Docker, Kubernetes).
+Maintain code documentation and architecture design records.
+Participate in code reviews, providing constructive feedback to peers.
+
+ 
+
+Required Qualifications:
+
+2+ years of backend development experience, preferably with Go (Golang).
+Experience building SDKs and APIs for public marketplace use.
+Proven experience in designing and implementing CI/CD pipelines for Kubernetes deployments.
+Familiarity with SQL/NoSQL databases (e.g., MySQL, PostgreSQL, MongoDB, Redis).
+Knowledge of concurrency in Go, and an understanding of Go routines and channels.
+Experience with cloud platforms (AWS, GCP, Azure) and working in distributed cloud-native environments.
+Proficiency in version control systems (Git).
+Familiarity with containerization using Docker and Kubernetes.
+Experience with unit testing, integration testing, and performance tuning.
+U.S. Citizenship required.
+
+ 
+
+Citizenship Requirements
+
+For select roles, due to the nature of our clientele and the technologies involved, there may be specific nationality or citizenship indicated in the required qualifications section. These roles may involve access to sensitive information that is subject to export control regulations or other legal restrictions. In such cases, employment offers will be contingent upon your ability to comply with these requirements.
+
+ 
+
+Compensation & Benefits
+
+For U.S. Based candidates: To ensure fairness and transparency, the base salary range for this role for candidates in the U.S. are listed, varying based on location experience, skills, and qualifications.
+
+In addition to the salary, this role will also be offered equity and subsidized benefits (details available upon request).
+
+ 
+
+ Benefits
+
+Competitive base salary and equity
+Medical, dental, and vision (subsidized cost)
+Health savings accounts (HSA), flexible spending accounts (FSA), and dependent care FSAs (DCFSA)
+Retirement plan options, including 401(k) and Roth 401(k)
+Unlimited paid time off (PTO)
+15 paid company holidays per year
+
+#535
+
+ 
+
+Compensation: $128,000 USD - $160,000 USD
+
+ 
+
+ 
+
+You're a Great Fit if You're
+
+A go-getter with a growth mindset. You're intellectually curious, have strong business acumen, and actively seek opportunities to build relevant skills and knowledge 
+A detail-oriented problem-solver. You can independently gather information, solve problems efficiently, and deliver results with a "get-it-done" attitude 
+Thrive in a fast-paced environment. You're energized by an entrepreneurial spirit, capable of working quickly, and excited to contribute to a growing company
+A collaborative team player. You focus on business success and are motivated by team accomplishment vs personal agenda 
+Highly organized and results-driven. Strong prioritization skills and a dedicated work ethic are essential for you 
+
+ 
+
+Equal Opportunity Statement
+
+At Armada, we are committed to fostering a work environment where everyone is given equal opportunities to thrive. As an equal opportunity employer, we strictly prohibit discrimination or harassment based on race, color, gender, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other characteristic protected by law. This policy applies to all employment decisions, including hiring, promotions, and compensation. Our hiring is guided by qualifications, merit, and the business needs at the time.
+
+ 
+
+Unsolicited Resumes and Candidates
+
+Armada does not accept unsolicited resumes or candidate submissions from external agencies or recruiters. All candidates must apply directly through our careers page. Any resumes submitted by agencies without a prior signed agreement will be considered unsolicited and Armada will not be obligated to pay any fees.

@@ -1,0 +1,471 @@
+Texas Instruments
+
+Software Engineer 
+
+Lehi, UT · 3 minutes ago · 10 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+Job Description
+
+Position Overview:
+
+Texas Instruments is seeking a full-stack software development engineer who is experienced with AI code generation platforms and tools. This role is critical to accelerating our digital transformation through rapid development of quality and test solutions using cutting-edge development techniques. The position offers the opportunity to revolutionize how our Smart Manufacturing and Automation team builds software while establishing best practices and scaling development capabilities across the organization.
+
+The ideal candidate is someone who is not just a software engineer, but is also experienced with leveraging platforms like Claude Code, GitHub Copilot, Cursor and emerging agentic frameworks to dramatically accelerate development while maintaining high quality standards. You'll be building solutions that directly impact manufacturing quality and test operations while helping transform how our entire team approaches software development.
+
+The Smart Manufacturing and Automation team at Texas Instruments develops software solutions to address challenges faced by manufacturing and engineering teams. As a global organization, we strive to create solutions that are compatible with all TI sites. We invite you to join our team as we leverage modern technologies to deliver software and data solutions that enhance quality and productivity in semiconductor manufacturing.
+
+Primary Responsibilities
+
+
+Build and sustain full-stack web applications that support manufacturing and engineering teams
+Rapidly develop and deploy applications, scripts, and automation solutions using AI code generation platforms (Claude, Copilot, Cursor, etc.)
+Work with project managers and internal customers to define requirements and develop solutions that meet manufacturing needs
+Provide data solutions/pipelines that enhance software applications
+Host software and data solutions in containerized production environment
+Create automation for releasing code into production (CI/CD)
+Review and provide feedback on code releases
+Document software systems, usage requirements, and troubleshooting guides for other team members
+Deliver high quality software in a timely manner
+Make applications compatible with other TI sites and data systems
+Automate repetitive tasks to drive increased efficiency
+Support and enhance legacy software solutions
+Mentor team members across the organizations on proper software development and management techniques
+
+
+Qualifications
+
+Minimum Requirements:
+
+
+Bachelor of Science degree in Computer Science, Engineering, Software Engineering, Mathematics, or another related field
+2+ years of experience with full-stack development without co-development tools
+Demonstrated experience with AI agentic frameworks (such as Claude, Copilot, Cursor or similar AI co-development tools) for accelerating programming tasks. 
+
+
+Preferred Qualifications
+
+
+Experience with React/JavaScript/TypeScript or other frontend web development frameworks
+Experience with Python or other coding languages
+Experience with FastAPI or other backend web development python frameworks
+Experience with relational database management systems (Oracle, MSSQL, PostgresSQL) and SQL
+Experience with container orchestration, CI/CD, and other DevOps philosophies and practices. Including Kubernetes, Airflow, Jenkins, Docker, etc. 
+Experience with developing software systems in a Linux OS environment
+Strong focus on gathering customer requirements and meeting customer needs
+Demonstrated ability to work in teams and collaborate effectively across several different functions
+Demonstrated ability to take the initiative and drive for results
+Strong critical thinking and problem-solving skills
+Good listener and excellent verbal and written communication skills
+Strong time management skills that enable on-time project delivery
+Passion for the job and willingness to dig in and learn from those around you
+
+
+About Us
+
+Why TI?
+
+
+Engineer your future. We empower our employees to truly own their career and development. Come collaborate with some of the smartest people in the world to shape the future of electronics.
+We're different by design. Diverse backgrounds and perspectives are what push innovation forward and what make TI stronger. We value each and every voice, and look forward to hearing yours. Meet the people of TI 
+Benefits that benefit you. We offer competitive pay and benefits designed to help you and your family live your best life. Your well-being is important to us.
+
+
+About Texas Instruments
+
+Texas Instruments Incorporated (Nasdaq: TXN) is a global semiconductor company that designs, manufactures and sells analog and embedded processing chips for markets such as industrial, automotive, personal electronics, communications equipment and enterprise systems. At our core, we have a passion to create a better world by making electronics more affordable through semiconductors. This passion is alive today as each generation of innovation builds upon the last to make our technology more reliable, more affordable and lower power, making it possible for semiconductors to go into electronics everywhere. Learn more at TI.com .
+
+Texas Instruments is an equal opportunity employer and supports a diverse, inclusive work environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, disability, genetic information, national origin, gender, gender identity and expression, age, sexual orientation, marital status, veteran status, or any other characteristic protected by federal, state, or local laws.
+
+If you are interested in this position, please apply to this requisition.
+
+About The Team
+
+TI does not make recruiting or hiring decisions based on citizenship, immigration status or national origin. However, if TI determines that information access or export control restrictions based upon applicable laws and regulations would prohibit you from working in this position without first obtaining an export license, TI expressly reserves the right not to seek such a license for you and either offer you a different position that does not require an export license or decline to move forward with your employment.
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Lehi, Utah, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+10
+
+total
+
+10
+
+in the past day
+
+Candidate seniority level
+
+100% Entry level candidates
+
+Candidate education level
+
+100
+
+%
+
+have a Master's Degree (Similar to you)
+Exclusive Job Seeker Insights about Texas Instruments
+Powered by Bing
+
+Company focus areas
+
+• Focus on Analog and Embedded Processing Products: Texas Instruments prioritizes the design and manufacturing of analog and embedded processing products, which are central to their business model. These products offer more opportunities per customer and greater value for investments.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Engineering growth: The 'Engineering' department has seen a 2% increase in headcount, indicating a focus on expanding their engineering capabilities, which could suggest new product development or enhancements. Sales expansion: The 'Sales' department has experienced a 3% increase in headcount, highlighting a strategic push to boost sales efforts and market reach. Administrative and support services: The 'Administrative' and 'Customer Success and Support' departments have grown by 5% and 3% respectively, suggesting an investment in improving internal operations and customer satisfaction. Legal and healthcare services: The 'Legal' and 'Healthcare Services' departments have seen significant increases of 6% and 19% respectively, indicating a focus on compliance, legal matters, and employee health initiatives.
+… more
+
+The latest hiring trend
+
+32,569
+
+Total employees
+
+7%
+
+Company-wide
+
+2 year growth
+
+8%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+20000
+40000
+
+Median employee tenure: 7.5 years
+
+Texas Instruments hires candidates from some of these companies and schools
+
+Texas Instruments hired 12 people from University of Southern California. See all
+
+Texas Instruments hired 97 people from University of Southern California. See all
+
+Competitors
+
+Texas Instruments (TI) is a leading player in the semiconductor industry, particularly in analog and embedded processing solutions. The company is known for its extensive product portfolio and strong market presence across various sectors including automotive, industrial, and personal electronics. TI's strategic focus on manufacturing capacity expansion and innovation in AI capabilities positions it well against competitors like Analog Devices, Infineon Technologies, and NXP Semiconductors. The competitive landscape is characterized by ongoing consolidation and market realignment, with TI maintaining robust financial performance and strategic innovations to stay ahead.
+… more
+
+Sources: benzinga.com +3 more
+
+Show Premium Insights
+About the company
+
+Texas Instruments
+
+1,087,666 followers
+
+Follow
+
+Semiconductor Manufacturing
+
+ • 
+
+10001+ employees
+
+ • 
+
+32,066 on LinkedIn
+
+We are a global semiconductor company that designs, manufactures and sells analog and embedded processing chips for markets such as industrial, automotive, personal electronics, enterprise systems and communications equipment. At our core, we have a passion to create a better world by making electronics more affordable through semiconductors. This passion is alive today as each generation of innovation builds upon the last to make our technology more reliable, more affordable and lower power, making it possible for semiconductors to go into electronics everywhere. Learn more at TI.com. 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Firmware Audio Engineer
+
+Polaro
+
+San Mateo, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 6:02 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+System Engineer
+
+Sonit Systems, LLC
+
+Archbold, OH (On-site)
+
+Medical, 401(k)
+
+Posted on January 23, 2026, 6:41 AM
+11 hours ago
+
+ · 
+
+ Easy Apply
+
+LLM Engineer
+
+Prana Tree
+
+Chicago, IL (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 6:29 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Staff Software Engineer (Verified job)
+Staff Software Engineer 
+
+Trellis
+
+United States (Remote)
+
+$220K/yr
+
+ • 
+
+7 benefits
+
+1 school alumni works here
+
+Posted on January 22, 2026, 1:24 PM
+1 day ago
+
+Founding Full Stack Engineer
+
+Topify.ai
+
+San Francisco, CA (On-site)
+
+3 school alumni work here
+
+Posted on January 23, 2026, 12:36 AM
+17 hours ago
+
+ · 
+
+ Easy Apply
+
+Back End Developer, Shopify
+
+PIVOT | Shopify Plus Agency Partner
+
+Mission Viejo, CA (Hybrid)
+
+Posted on January 23, 2026, 2:33 PM
+3 hours ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Engineer (Verified job)
+Artificial Intelligence Engineer 
+
+Stuut
+
+San Francisco Bay Area (On-site)
+
+Vision, 401(k)
+
+Posted on January 22, 2026, 2:18 PM
+1 day ago
+
+Artificial Intelligence Engineer Audio (Verified job)
+Artificial Intelligence Engineer Audio 
+
+Stuut
+
+San Francisco Bay Area (On-site)
+
+Vision, 401(k)
+
+Posted on January 22, 2026, 1:16 PM
+1 day ago
+
+Full Stack Software Engineer
+
+Basic Capital
+
+New York, NY (On-site)
+
+Posted on January 22, 2026, 3:35 PM
+1 day ago
+
+Forward Deployed Engineer
+
+Empromptu.ai
+
+San Francisco Bay Area (Remote)
+
+$100K/yr - $150K/yr
+
+You’d be a top applicant
+
+Posted on January 23, 2026, 12:44 PM
+5 hours ago
+
+ · 
+
+ Easy Apply
+
+Frontend Engineer
+
+Malachyte
+
+New York City Metropolitan Area (Hybrid)
+
+$140K/yr - $160K/yr
+
+ • 
+
+Medical, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 8:47 AM
+9 hours ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

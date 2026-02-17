@@ -1,0 +1,50 @@
+About the job
+
+About Anyscale
+
+At Anyscale, we're on a mission to democratize distributed computing and make it accessible to software developers of all skill levels. We’re commercializing Ray, a popular open-source project that's creating an ecosystem of libraries for scalable machine learning. Companies like OpenAI, Uber, Spotify, Instacart, Cruise, and many more, have Ray in their tech stacks to accelerate the progress of AI applications out into the real world.
+
+With Anyscale, we’re building the best place to run Ray, so that any developer or data scientist can scale an ML application from their laptop to the cluster without needing to be a distributed systems expert.
+
+Proud to be backed by Andreessen Horowitz, NEA, and Addition with $250+ million raised to date.
+
+We Are Looking For Passionate And Motivated Individuals Coming Out Of Academia Who Are Excited To Build Tools To Power The Next Generation Of Cloud Applications. See Our Other Listings To Get a Sense Of The Teams And Projects That Are Currently Hiring, Which Touch Upon Some Of The Following Areas
+
+
+ Distributed systems
+ Machine learning
+ Platform
+ Observability
+ Production serving
+ Reinforcement Learning
+ LLMs
+
+
+As part of this role, you will
+
+
+Develop high quality software to empower software developers and simplify programming
+Work with a team of leading distributed systems and machine learning experts
+Communicate your work to a broader audience through talks, tutorials, and blog posts
+Help us to build and shape a world class company
+
+
+We'd love to hear from you if you
+
+
+Are passionate about the intersection of machine learning and distributed systems
+Are interested in working at a startup and making an impact
+Have relevant software engineering internship experiences at tech companies 
+Have side projects that showcase their passion for programming outside of the classroom setting 
+Have a MS or PhD in a relevant field and will have completed your degree and be available for a full time position in 2025
+
+
+Compensation
+
+
+At Anyscale, we take a market based approach to compensation. We are data-driven, transparent, and consistent. The salary range for this role is $149,000 - $155,000 As the market data changes over time, the target rate for this role may be adjusted.
+
+
+Anyscale Inc. is an Equal Opportunity Employer. Candidates are evaluated without regard to age, race, color, religion, sex, disability, national origin, sexual orientation, veteran status, or any other characteristic protected by federal or state law.
+
+Anyscale Inc. is an E-Verify company and you may review the Notice of E-Verify Participation and the Right to Work posters in English and Spanish

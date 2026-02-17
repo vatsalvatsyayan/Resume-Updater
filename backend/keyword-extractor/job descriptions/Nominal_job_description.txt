@@ -1,0 +1,449 @@
+Nominal
+
+Software Engineer - Infrastructure 
+
+Los Angeles, CA · 10 hours ago · 92 people clicked apply
+
+Responses managed off LinkedIn
+
+$130K/yr - $230K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+About Nominal
+
+Nominal is building the software infrastructure that powers the world’s most advanced hardware systems — from spacecraft and autonomous vehicles to next-generation industrial machines. Our platform ingests high-rate telemetry, validates complex autonomy software in real time, and helps engineering teams iterate faster without sacrificing safety or precision. We’re a small, fast-moving team of engineers and operators who own problems end-to-end, work across disciplines, and thrive on solving challenges at the intersection of hardware and software. As a dual-use platform, we're serving top-tier commercial and defense customers, including the U.S. Navy, United States Air Force, Shield AI, and Anduril.
+
+We’re backed by top-tier investors — Sequoia, General Catalyst, Founders Fund, Lux Capital, and Lightspeed Ventures — who share our mission to accelerate innovation in mission-critical systems. Our team brings experience from SpaceX, Palantir, Anduril, Applied Intuition, and other leading companies, united by a common goal: enabling hardware engineers to push the boundaries of advanced technology with speed, safety, and precision.
+
+We're looking for an Infrastructure Software Engineer, where you'll develop and maintain the platform that Nominal builds upon. You will also collaborate on deployment infrastructure, AI adoption, and custom tooling required to accelerate our developers and clients. The mission is simple: accelerate and optimize every facet of our software infrastructure.
+
+🚀 About The Role
+
+
+Build and maintain the developer tooling that makes Nominal unique.
+Design and scale our infrastructure across air-gapped, cloud, and on-prem environments.
+Work with engineers from other parts of the company to support specific customer needs.
+Help set the technical direction of Nominal’s internal development platform and grow junior engineers.
+Stay on top of new developments in infrastructure tooling, AI tooling, and hardware development.
+
+
+⚡ Skills That Accelerate Us
+
+
+2+ years building and maintaining developer tooling, infrastructure, and/or open-source projects.
+Strong at picking up new languages and comfortable writing clean, maintainable code.
+General experience with cloud services (AWS, Azure, or GCP) and tools like Docker and Kubernetes.
+Familiarity with CI/CD, monorepos, build tools, and general developer automations.
+Strong plus if you have some distributed systems experience
+Willingness to try out the newest tooling and open-source projects to accelerate our development cycle
+Ability to explain your ideas clearly to others, whether they’re technical or non-technical.
+
+
+✨ Benefits/Perks
+
+
+🏥 100% coverage of medical, dental, and vision insurance
+🏖️ Unlimited PTO and sick leave
+🍽️ Free lunch, snacks, and coffee
+🚀 Professional Development Stipend
+🛠️ In-office hardware lab with a $250 project stipend
+✈️ Annual company retreat
+
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin. 
+
+ITAR Requirements
+
+To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C.
+
+
+1157, or (iv) Asylee under 8 U.S.C.
+1158, or be eligible to obtain the required authorizations from the U.S. Department of State. Learn more about the ITAR here.
+
+
+Compensation
+
+The base pay range for this role is $130,000 – $230,000 per year.
+… more
+
+Benefits found in job post
+
+Vision insurance
+
+Set alert for similar jobs
+
+Software Engineer, Los Angeles, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+92
+
+total
+
+92
+
+in the past day
+
+Candidate seniority level
+
+92% Entry level candidates
+
+5% Senior level candidates
+
+Candidate education level
+
+91
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+9
+
+%
+
+have a Bachelor's Degree
+Exclusive Job Seeker Insights about Nominal
+Powered by Bing
+
+The latest hiring trend
+
+145
+
+Total employees
+
+480%
+
+Company-wide
+
+2 year growth
+
+450%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+100
+200
+
+Median employee tenure: 0.7 years
+
+Nominal hires candidates from some of these companies and schools
+
+Nominal hired 2 people from University of Southern California. See all
+
+Nominal hired 3 people from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+Nominal
+
+11,798 followers
+
+Follow
+
+Software Development
+
+ • 
+
+51-200 employees
+
+ • 
+
+145 on LinkedIn
+
+Nominal builds the essential software stack that enables hardware teams to test and iterate as rapidly as software teams. Nominal empowers engineers to continuously monitor, validate, and deploy innovations, transforming how mission-critical hardware is built and operated.
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Founding Engineer
+
+A4Assist
+
+San Francisco, CA (On-site)
+
+$150K/yr - $300K/yr
+
+ • 
+
+Vision, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 19, 2026, 10:07 AM
+10 minutes ago
+
+ · 
+
+ Easy Apply
+
+Backend Infrastructure Engineer
+
+Envoy AI
+
+San Francisco, CA (On-site)
+
+$160K/yr - $185K/yr
+
+Posted on January 16, 2026, 1:24 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (Verified job)
+Software Engineer 
+
+Realtor.com
+
+Austin, TX (Hybrid)
+
+Medical, Vision, Dental, 401(k), +4 benefits
+
+1 company alumni works here
+
+Posted on January 16, 2026, 1:40 PM
+2 days ago
+
+Associate AI Software Engineer (Verified job)
+Associate AI Software Engineer 
+
+Center for Diagnostic Imaging (CDI)
+
+St Louis Park, MN
+
+$65K/yr - $100K/yr
+
+3 school alumni work here
+
+Posted on January 16, 2026, 2:35 PM
+2 days ago
+
+Software Development Engineer I (Verified job)
+Software Development Engineer I 
+
+GM Financial
+
+Fort Worth, TX
+
+401(k), +1 benefit
+
+1 company alumni works here
+
+Posted on January 17, 2026, 4:36 AM
+2 days ago
+
+Full Stack Engineer
+
+Atomicwork
+
+San Francisco Bay Area (Hybrid)
+
+Posted on January 18, 2026, 11:38 PM
+10 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer Full Stack & Application Development II (Full Time) – United States (Verified job)
+Software Engineer Full Stack & Application Development II (Full Time) – United States 
+
+Cisco
+
+Hillsboro, OR (On-site)
+
+Vision, 401(k), +1 benefit
+
+84 company alumni work here
+
+Posted on January 16, 2026, 11:52 AM
+2 days ago
+
+Fullstack Software Engineer (Verified job)
+Fullstack Software Engineer 
+
+Cloudflare, Inc.
+
+Austin, TX (Hybrid)
+
+1 connection works here
+
+Posted on January 16, 2026, 4:54 PM
+2 days ago
+
+Software Engineer Full Stack & Application Development II (Full Time) – United States (Verified job)
+Software Engineer Full Stack & Application Development II (Full Time) – United States 
+
+Cisco
+
+Boston, MA (On-site)
+
+Vision, 401(k), +1 benefit
+
+84 company alumni work here
+
+Posted on January 16, 2026, 11:52 AM
+2 days ago
+
+Front-End Engineer (Verified job)
+Front-End Engineer 
+
+NVIDIA
+
+Santa Clara, CA
+
+$136K/yr - $218.5K/yr
+
+5 connections work here
+
+Posted on January 16, 2026, 6:53 PM
+2 days ago
+
+Software Engineer, Full Stack (Verified job)
+Software Engineer, Full Stack 
+
+Sift
+
+San Francisco, CA (Hybrid)
+
+$150K/yr - $200K/yr
+
+1 company alumni works here
+
+Posted on January 19, 2026, 2:41 AM
+7 hours ago
+
+Back End Developer (Verified job)
+Back End Developer 
+
+IBM
+
+Rochester, MN (On-site)
+
+1 connection works here
+
+Posted on January 17, 2026, 3:57 AM
+2 days ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

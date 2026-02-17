@@ -1,0 +1,47 @@
+About the job
+
+Who We Are
+
+Nuro is a self-driving technology company on a mission to make autonomy accessible to all. Founded in 2016, Nuro is building the world’s most scalable driver, combining cutting-edge AI with automotive-grade hardware. Nuro licenses its core technology, the Nuro Driver™, to support a wide range of applications, from robotaxis and commercial fleets to personally owned vehicles. With technology proven over years of self-driving deployments, Nuro gives the automakers and mobility platforms a clear path to AVs at commercial scale—empowering a safer, richer, and more connected future.
+
+About The Role
+
+The Routing Team builds critical services that determine the routes our robots take to reach their destinations safely and efficiently. The team also owns a suite of simulation tools that have deep influence on the company’s strategy on robot deployment and business expansion. We are constantly working towards computing more efficient routes and providing more accurate ETAs, to empower both L2 and L4 AV commercialization.
+
+About The Work
+
+
+You will work on building and scaling the backend systems for the Routing team. This includes everything from designing microservices, optimizing our routing algorithms, understanding road network graphs, building monitoring and analytics infrastructure etc.
+You will work with product, strategy, and operations teams to design and build new user experiences, and define our product strategy and roadmap.
+
+
+About You 
+
+
+Technical excellence.
+You have experience of building and scaling real-time server-side applications. You have worked on large-scale complex algorithm problems, and know how to balance correctness and performance.
+You are proficient in C++, Go, or Python.
+You know how to choose the right storage technology for the job. You have experience with a wide-range of databases, including relational (PostgreSQL, MySQL), non-relational (BigTable, Cassandra, Redis, etc), and data warehouses (BigQuery, Snowflake, etc).
+You know your way around RPC frameworks (gRPC, Thrift) and pubsub systems (Kafka, Cloud PubSub, Celery, etc).
+You have extensive experience working with cloud providers (GCP, AWS, etc).
+You have experience working with Docker & Kubernetes, or are willing to learn.
+You have a wide-range of technical skills, you love learning new technologies and you’re a quick learner.
+You have a passion for making lives easier for developers. You love working on tooling that will help engineers more easily troubleshoot, debug, and profile their applications.
+You have the knack for making the right tradeoffs. You know when it makes sense to take the quick-and-dirty vs the scalable approach. You can move fluently between the two.
+You care about users. You like to work closely with product and design to build the best product for our consumers. 
+You are a great communicator, and you regularly chat with PMs, UXRs, other engineers, and cross-functional stakeholders on product requirements and designs.
+You are impact-driven. You care deeply that your work makes a significant impact on the lives of millions of people.
+
+
+Bonus Points
+
+
+Experience with routing algorithms
+Experience with map data and graph data structures
+Experience with robotics
+Experience with ETA modeling 
+
+
+At Nuro, your base pay is one part of your total compensation package. For this position, the reasonably expected base pay range is between $145,000 and $170,000 for the level at which this job has been scoped. Your base pay will depend on several factors, including your experience, qualifications, education, location, and skills. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for an annual performance bonus, equity, and a competitive benefits package
+
+At Nuro, we celebrate differences and are committed to a diverse workplace that fosters inclusion and psychological safety for all employees. Nuro is proud to be an equal opportunity employer and expressly prohibits any form of workplace discrimination based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other legally protected characteristics.

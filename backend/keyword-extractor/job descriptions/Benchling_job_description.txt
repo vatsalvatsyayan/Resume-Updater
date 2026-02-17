@@ -1,0 +1,527 @@
+Benchling
+
+Software Engineer, Backend (Performance and Observability) 
+
+San Francisco, CA · 9 hours ago · 83 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$141.1K/yr - $190.9K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Vance and others in your network
+
+Show all
+About the job
+
+Biotechnology is rewriting life as we know it, from the medicines we take, to the crops we grow, the materials we wear, and the household goods that we rely on every day. But moving at the new speed of science requires better technology.
+
+Benchling’s mission is to unlock the power of biotechnology. The world’s most innovative biotech companies use Benchling’s R&D Cloud to power the development of breakthrough products and accelerate time to milestone and market.
+
+Come help us bring modern software to modern science.
+
+Role Overview
+
+The Performance Engineering team develops internal libraries and tooling that implement Observability best practices and collaborates with application and infrastructure teams to improve performance throughout our stack. In this role, you’ll complement deep Software Development Experience with Observability and SRE principles to directly improve Benchling’s customer experience and enable us to scale to meet increasing demand and expanding product offerings. You will have broad authority to identify and implement performance improvements, and influence engineering priorities through a unique perspective.
+
+Responsibilities
+
+
+Design, develop, and implement internal libraries and tooling that adhere to industry best practices in Observability.
+Have the autonomy to identify, propose, and implement performance improvements across the technology stack.
+Build resources that allow application and infrastructure teams to understand performance bottlenecks and areas for improvement.
+Collaborate with cross-functional teams to address performance issues impacting customers.
+Directly contribute to overall customer experience by identifying and resolving performance-related challenges.
+Own projects end-to-end, from initial design, to prototype, to large-scale rollout.
+Facilitate knowledge sharing within the team and across engineering to build a culture of continuous performance improvement.
+
+
+Qualifications
+
+
+Have 2+ years of experience in software engineering.
+Build software with a product-first approach. You ship code quickly and care about the real world impact of your code.
+Have strong abilities in problem solving and iterating on feedback.
+Enjoy ownership and building key pieces of product, while collaborating with other teams.
+Have used modern Observability tools and practices.
+Are interested in learning more about life science (prior knowledge is not required; desire to learn is a must).
+Willing to work onsite in our SF office 3 days a week.
+
+
+How We Work
+
+We offer a flexible hybrid work arrangement that prioritizes in-office collaboration. Employees are expected to be on-site 3 days per week (Monday, Tuesday, and Thursday).
+
+SALARY RANGE
+
+Benchling takes a market-based approach to pay. The candidate's starting pay will be determined based on job-related skills, experience, qualifications, interview performance, and work location. For this role the base salary range is $141,104 to $190,906.
+
+To help you determine which zone applies to your location, please see this resource. If you have questions regarding a specific location's zone designation, please contact a recruiter for additional information.
+
+Total Compensation Includes The Following
+
+
+Competitive total rewards package
+Broad range of medical, dental, and vision plans for employees and their dependents
+Fertility healthcare and family-forming benefits
+Four months of fully paid parental leave
+401(k) + Employer Match
+Commuter benefits for in-office employees and a generous home office set up stipend for remote employees
+Mental health benefits, including therapy and coaching, for employees and their dependents
+Monthly Wellness stipend
+Learning and development stipend
+Generous and flexible vacation
+Company-wide Winter holiday shutdown
+Sabbaticals for 5-year and 10-year anniversaries
+
+
+#BI-Hybrid
+
+Benchling welcomes everyone.
+
+We believe diversity enriches our team so we hire people with a wide range of identities, backgrounds, and experiences.
+
+We are an equal opportunity employer. That means we don’t discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We also consider for employment qualified applicants with arrest and conviction records, consistent with applicable federal, state and local law, including but not limited to the San Francisco Fair Chance Ordinance.
+
+
+… more
+
+Benefits found in job post
+
+401(k), Commuter benefits
+
+Set alert for similar jobs
+
+Software Engineer, San Francisco, California, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+83
+
+total
+
+83
+
+in the past day
+
+Candidate seniority level
+
+89% Entry level candidates
+
+6% Senior level candidates
+
+Candidate education level
+
+77
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+19
+
+%
+
+have a Bachelor's Degree
+
+
+3
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Benchling
+Powered by Bing
+
+Company focus areas
+
+• AI Integration: Integrate powerful AI tools into its R&D Cloud to transform drug discovery and accelerate scientific breakthroughs. This includes the acquisition of AI startups ReSync Bio and Sphinx Bio.
+
+...more
+
+Sources: benchling.com +1 more
+
+Hiring & headcount
+
+Focus on research and development: The 'Research' department has seen a 60% increase in employee count, indicating a significant investment in R&D initiatives, which could lead to new product developments and innovations. Growth in finance and accounting: The 'Finance' and 'Accounting' departments have experienced a 44% and 38% increase in headcount respectively, suggesting a focus on strengthening financial operations and management. Expansion in marketing and human resources: The 'Marketing' and 'Human Resources' departments have grown by 31% and 14% respectively, indicating efforts to enhance brand presence and improve employee management and recruitment. Increase in sales and project management: The 'Sales' and 'Program and Project Management' departments have seen a 15% and 8% increase in headcount respectively, highlighting a focus on boosting sales efforts and improving project execution and management.
+… more
+
+The latest hiring trend
+
+796
+
+Total employees
+
+13%
+
+Company-wide
+
+2 year growth
+
+5%
+
+Engineering
+
+2 year growth
+
+Chart
+Chart with 25 data points.
+The chart has 1 X axis displaying Time. Data ranges from 2024-01-01 00:00:00 to 2026-01-01 00:00:00.
+The chart has 1 Y axis displaying values. Data ranges from 759 to 915.
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+500
+1000
+End of interactive chart.
+
+Median employee tenure: 4 years
+
+Benchling hires candidates from some of these companies and schools
+
+Benchling hired 3 people from University of Southern California. See all
+
+Benchling hired 266 people from University of Southern California. See all
+
+Competitors
+
+Benchling is a leading provider of cloud-based software for biotech R&D, offering a unified platform that integrates ELN, LIMS, and workflow automation. It is highly regarded for its user-friendly interface and real-time collaboration features, making it a preferred choice for biotech startups and academic consortia. However, it faces competition from companies like Dotmatics, LabWare, and PerkinElmer, which offer deeper integration and scalability for large pharmaceutical and manufacturing workflows.
+… more
+
+Sources: scispot.com +2 more
+
+Show Premium Insights
+About the company
+
+Benchling
+
+59,302 followers
+
+Follow
+
+Software Development
+
+ • 
+
+501-1000 employees
+
+ • 
+
+795 on LinkedIn
+
+Biotechnology is rewriting life as we know it, from the medicines we take, to the crops we grow, the materials we wear, and the household goods that we rely on every day. But moving at the new speed of science requires better technology.
+
+Benchling’s mission is to unlock the power of biotechnology. The world’s most innovative biotech companies use Benchling’s R&D Cloud to power the development of breakthrough products and accelerate time to milestone and market. 
+
+Come help us bring modern software to modern science. 
+
+https://www.benchling.com/careers/ 
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Software Engineer
+
+Scint AI
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on February 1, 2026, 2:30 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer - Embedded
+
+RideController
+
+Kansas City Metropolitan Area (On-site)
+
+Actively reviewing applicants
+
+Posted on February 2, 2026, 6:23 PM
+15 minutes ago
+
+ · 
+
+ Easy Apply
+
+Senior Backend & Infrastructure Engineer (Equity-Only)
+
+TwinWise AI
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 31, 2026, 7:00 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (Verified job)
+Software Engineer 
+
+Harry's, Inc.
+
+New York, NY (Hybrid)
+
+$110K/yr - $130K/yr
+
+ • 
+
+401(k) benefit
+
+Posted on February 2, 2026, 6:17 PM
+21 minutes ago
+
+Junior Engineer (Verified job)
+Junior Engineer 
+
+360 Privacy
+
+Brentwood, TN (Hybrid)
+
+$80K/yr - $100K/yr
+
+1 school alumni works here
+
+Posted on February 2, 2026, 6:36 PM
+1 minute ago
+
+Infrastructure Engineer, Core
+
+Ferrum Health
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 30, 2026, 5:09 PM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer I (Verified job)
+Software Engineer I 
+
+Chewy
+
+Boston, MA (On-site)
+
+$103K/yr - $164.5K/yr
+
+ • 
+
+401(k) benefit
+
+1 connection works here
+
+Posted on February 2, 2026, 6:17 PM
+21 minutes ago
+
+Software Engineer 1 (New Grad) (Verified job)
+Software Engineer 1 (New Grad) 
+
+College Board
+
+United States (Remote)
+
+$106K/yr - $125K/yr
+
+5 company alumni work here
+
+Posted on February 2, 2026, 4:43 PM
+1 hour ago
+
+Clinical Software Engineer I (on-site) (Verified job)
+Clinical Software Engineer I (on-site) 
+
+Abbott Laboratories
+
+Los Angeles, CA
+
+$73.9K/yr - $116K/yr
+
+1 connection works here
+
+Posted on February 2, 2026, 1:24 PM
+5 hours ago
+
+AI Engineer - Healthcare Innovation (Verified job)
+AI Engineer - Healthcare Innovation 
+
+AbbaDox
+
+Aventura, FL (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 30, 2026, 6:52 AM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer Full Stack & Application Development I (Intern) – United States (Verified job)
+Software Engineer Full Stack & Application Development I (Intern) – United States 
+
+Cisco
+
+Boston, MA (On-site)
+
+Vision, 401(k), +1 benefit
+
+1 connection works here
+
+Posted on February 2, 2026, 6:17 PM
+21 minutes ago
+
+Software Engineer (Embedded & Application Development, US Citizen Only)
+
+IST PRECISION
+
+Mooresville, NC (On-site)
+
+Medical, Vision, Dental, 401(k)
+
+Posted on February 1, 2026, 5:34 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

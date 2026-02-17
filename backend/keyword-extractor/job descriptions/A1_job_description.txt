@@ -1,0 +1,424 @@
+A1
+
+Backend Engineer, AI
+
+Palo Alto, CA · 13 hours ago · Over 100 applicants
+
+Promoted by hirer · No response insights available yet
+
+Hybrid
+Full-time
+Easy Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+About the job
+
+About the Role
+
+A1 is building a proactive AI system that carries work forward across conversations, tools, and time.
+
+You will build the systems that power every AI interaction users experience. Your work will sit at the intersection of models, orchestration, APIs, and product behavior - where correctness, latency, and reliability actually matter.
+
+
+
+
+Focus
+Build and operate backend systems that serve AI-powered features in production.
+Design inference pipelines, orchestration layers, and service boundaries around models.
+Own production concerns: monitoring, logging, alerting, and incident response.
+Optimize latency and throughput across inference, caching, batching, and streaming.
+
+
+
+
+Ideal Experiences
+Strong backend engineering fundamentals in production environments.
+Experience running high-throughput, low-latency services.
+Familiarity with AI inference patterns (LLMs, embeddings, multimodal).
+Comfortable debugging distributed systems under load.
+Bias toward shipping and learning from production behavior.
+
+
+
+
+Tech Stack
+Python
+NodeJs
+Pytorch
+OpenAI / Anthropic / open-source LLMs
+SQl & noSQL
+Kubernetes
+Docker
+How We Work
+
+Our organization is very flat and our team is small, highly motivated, and focused on engineering and product excellence. All members are expected to be hands-on and to contribute directly to the company’s mission.
+
+Interview process
+
+If there appears to be a fit, we'll reach to schedule 3, but no more than 4 interviews.
+
+Applications are evaluated by our technical team members. Interviews will be conducted via virtual meetings and/or onsite.
+
+We value transparency and efficiency, so expect a prompt decision. If you've demonstrated the exceptional skills and mindset we're looking for, we'll extend an offer to join us. This isn't just a job offer; it's an invitation to be part of a team that's bringing AI to have practical benefits to billions globally.
+
+… more
+
+Requirements added by the job poster
+
+• Authorized to work in the United States
+
+Set alert for similar jobs
+
+Back End Developer, Palo Alto, California, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to other applicants
+Based on LinkedIn data. Excludes subsidiaries.
+Applicants for this job
+
+199
+
+Applicants
+
+199
+
+Applicants in the past day
+
+Applicant seniority level
+
+88% Entry level people applied for this job
+
+5% Senior level people applied for this job
+
+Applicant education level
+
+94
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+5
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+There’s not enough quality data on this company just yet
+
+Once there are 30 complete member profiles from this company, we’ll be able to show you the company’s growth and hiring trends
+
+About the company
+
+A1
+
+3,412 followers
+
+Follow
+
+Software Development
+
+ • 
+
+51-200 employees
+
+ • 
+
+3 on LinkedIn
+
+Our mission is to automate every chore, errand, and task in your life.
+
+We are building a proactive assistant that turns conversations into structured to-dos, provides valuable context and suggestions as things evolve, and performs lightweight research to complete tasks end-to-end.
+
+The focus is on common but wide-ranging use cases to bring AI benefits to billions of general users globally.
+
+Our name originates from “Application One,” reflecting our focus on what we believe is the first and most important AI application for all consumers.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Web Developer
+
+Baszucki Group
+
+San Mateo, CA (Hybrid)
+
+$110K/yr - $140K/yr
+
+ • 
+
+Vision, 401(k)
+
+Posted on January 26, 2026, 4:40 PM
+2 days ago
+
+Full Stack Engineer
+
+Novaflow (YC S25)
+
+San Francisco, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 1:53 PM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (AI)
+
+Medra
+
+San Francisco, CA (On-site)
+
+Medical, Dental, 401(k)
+
+Posted on December 12, 2025, 11:58 AM
+1 month ago
+
+Software Engineer
+
+RealStack AI
+
+New York, NY (On-site)
+
+Actively reviewing applicants
+
+Posted on January 7, 2026, 1:51 PM
+3 weeks ago
+
+ · 
+
+ Easy Apply
+
+Founding Software Engineer (Entry Level) (Verified job)
+Founding Software Engineer (Entry Level) 
+
+Ruli
+
+San Francisco Bay Area (Hybrid)
+
+$110K/yr - $150K/yr
+
+Actively reviewing applicants
+
+Posted on November 4, 2025, 9:14 AM
+3 months ago
+
+ · 
+
+ Easy Apply
+
+We're Hiring! Backend Developer (Verified job)
+We're Hiring! Backend Developer 
+
+Hidonix Industries
+
+Santa Monica, CA (On-site)
+
+$90K/yr - $100K/yr
+
+Actively reviewing applicants
+
+Posted on January 20, 2026, 4:55 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Web Developer
+
+Criterion Research, LLC
+
+Houston, TX (Hybrid)
+
+Medical, Dental, 401(k)
+
+Actively reviewing applicants
+
+Posted on January 27, 2026, 8:54 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Backend / Fullstack Engineer
+
+Uplift
+
+Berkeley, CA (Hybrid)
+
+Medical benefit
+
+Posted on November 22, 2025, 8:53 AM
+2 months ago
+
+Backend Software Engineer
+
+Onyx Odds
+
+New York, NY (On-site)
+
+$170K/yr - $250K/yr
+
+1 school alumni works here
+
+Posted on January 17, 2026, 1:15 PM
+1 week ago
+
+Full Stack Engineer
+
+BackOps AI
+
+San Francisco Bay Area (Hybrid)
+
+Posted on January 15, 2026, 4:24 PM
+2 weeks ago
+
+Founding Full Stack Engineer
+
+Reval
+
+Los Angeles Metropolitan Area (On-site)
+
+You’d be a top applicant
+
+Posted on January 27, 2026, 8:03 AM
+2 days ago
+
+Full Stack Engineer (Full-Time) — BIOVERSE
+
+Bioverse
+
+New York, United States (On-site)
+
+$80K/yr - $95K/yr
+
+ • 
+
+Medical, Vision, Dental
+
+Actively reviewing applicants
+
+Posted on January 27, 2026, 7:22 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

@@ -1,0 +1,42 @@
+About the job
+
+About The Team
+
+We build infrastructure and tools that power metrics for autonomous vehicles and delivery robots. Our goal is to shorten the feedback loop: make it straightforward to develop, run, and use metrics at scale. Metric calculations are often complex compute graphs (multiple languages) with heavy compute; across millions of miles and simulations, they produce terabytes of results. A key part of the job is choosing storage layouts and schemas that keep inserts efficient and reads fast.
+
+About The Role
+
+You will design, develop, and operate the platform for metrics: data models and storage, scalable pipelines, and a developer-friendly framework for writing, testing, and shipping metrics. The role includes close collaboration with metric authors and with metric users—development, analytics, and QA—and ensuring reliable end-to-end deliveryof metric results.
+
+What You’ll Do
+
+
+Own the metrics platform: clear schemas, storage/layouts for efficient inserts and fast reads, simple versioning.
+Build and maintain the framework for writing/running metrics (interfaces, examples, local run, CI/compat checks).
+Create a test system for metrics and pipelines (unit / contract / regression on synthetic and sampled data).
+Operate the compute and storage paths in production; monitor, debug, and keep the system stable and cost-aware.
+Partner with metric authors and with development/analytics/QA to plan changes and land them safely.
+
+
+What You’ll Need
+
+
+Python in production, including async (e.g., asyncio, aiohttp, FastAPI).
+Strong SQL (JOINs, window functions, CTEs); ability to read plans and speed up slow queries.
+Data structures & algorithms—know when O(nlog⁡n)O(n \log n)O(nlogn) matters and choose the right structures.
+Experience with databases: PostgreSQL, ClickHouse; understanding OLAP vs. OLTP trade-offs.
+Workflow orchestration experience (Airflow / Argo / Prefect / Dagster—any is fine).
+Data libs & validation: NumPy, pandas, Pydantic (or equivalents).
+Containers & orchestration: Docker, Kubernetes.
+Experience building web services (Django / FastAPI / Flask—stack flexible).
+
+
+Nice to Have
+
+
+C++ exposure (reading, small changes, or components in the compute graph).
+Infrastructure for ML-adjacent metrics/evaluation.
+Parquet & object-storage layout/partitioning; Kafka/task queues; basic observability (logs/metrics/traces).
+
+
+Candidates are required to be authorized to work in the U.S. The employer is not offering relocation sponsorship, and remote work options are not available.

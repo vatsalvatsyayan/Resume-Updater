@@ -1,0 +1,490 @@
+Cognizant
+
+Software Engineer 
+
+San Jose, CA · 24 minutes ago · 32 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Afsar and others in your network
+
+Show all
+About the job
+
+Practice - AIA - Artificial Intelligence and Analytics
+
+ 
+
+About AI & Analytics: Artificial intelligence (AI) and the data it collects and analyzes will soon sit at the core of all intelligent, human-centric businesses. By decoding customer needs, preferences, and behaviors, our clients can understand exactly what services, products, and experiences their consumers need. Within AI & Analytics, we work to design the future—a future in which trial-and-error business decisions have been replaced by informed choices and data-supported strategies.
+
+By applying AI and data science, we help leading companies to prototype, refine, validate, and scale their AI and analytics products and delivery models. Cognizant’s AIA practice takes insights that are buried in data and provides businesses a clear way to transform how they source, interpret and consume their information. Our clients need flexible data structures and a streamlined data architecture that quickly turns data resources into informative, meaningful intelligence.
+
+Job Summary
+
+We are seeking a talented Software Engineer to design, develop, and deliver scalable microservices and distributed systems. The role involves building high-quality software in an agile environment, leveraging modern technologies such as Go, Java, Python, Docker, Kubernetes, and cloud platforms. You will collaborate with cross-functional teams to transform ideas into robust solutions, implement CI/CD practices, and ensure performance, reliability, and security across applications. Strong problem-solving, debugging, and analytical skills are essential.
+
+In This Role, You Will
+
+
+ Develop scalable microservices applications and solutions
+ Design, implement, and test high-quality software, often in an agile development environment using CI/CD pipelines.
+ Collaborate with cross-functional to drive features from concept to reality.
+ Work on large-scale distributed systems and performance-oriented applications.
+
+
+What You Need To Have To Be Considered
+
+
+ Proficiency in Go (GoLang), Java (including J2EE, Spring, Spring Boot), and Python is essential.
+ Strong experience with Docker and Kubernetes for deploying and managing containerized applications.
+ Proven experience in designing and building applications using microservices architecture and associated principles.
+ Familiarity with major cloud providers (AWS, GCP, Azure) and cloud-native technologies.
+ Experience with both SQL/RDBMS (Postgres, MySQL) and NoSQL databases (MongoDB, Redis, Elasticsearch).
+ Experience with tools like Git, Jenkins, Kafka, and a strong understanding of CI/CD practices.
+ A Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent experience).
+ Strong analytical, problem-solving, and debugging skills are consistently emphasized.
+
+
+Applications will be accepted until 12 Jan 2026.
+
+Salary And Other Compensation
+
+The hourly salary for this position is between $[67,000- 76,500] depending on experience and other qualifications of the successful candidate.
+
+This position is also eligible for Cognizant’s discretionary annual incentive program, based on performance and subject to the terms of Cognizant’s applicable plans.
+
+Benefits: Cognizant offers the following benefits for this position, subject to applicable eligibility requirements:
+
+
+ Medical/Dental/Vision/Life Insurance
+ Paid holidays plus Paid Time Off
+ 401(k) plan and contributions
+ Long-term/Short-term Disability
+ Paid Parental Leave
+ Employee Stock Purchase Plan
+… more
+
+Benefits found in job post
+
+401(k)
+
+Set alert for similar jobs
+
+Software Engineer, San Jose, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+32
+
+total
+
+32
+
+in the past day
+
+Candidate seniority level
+
+69% Entry level candidates
+
+3% Senior level candidates
+
+Candidate education level
+
+90
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+7
+
+%
+
+have a Bachelor's Degree
+
+
+3
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Cognizant
+Powered by Bing
+
+Company focus areas
+
+• AI and Digital Transformation: Cognizant focuses on helping clients modernize technology, reimagine processes, and transform experiences to stay ahead in a fast-changing world driven by AI. Significant investments are planned in AI capabilities to meet client needs and harness AI's value.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Focus on Engineering: The 'Engineering' department has seen a 3% increase in headcount, indicating a strategic investment in technical capabilities and innovation. Growth in Business Development: The 'Business Development' function has grown by 5%, suggesting a push towards expanding market reach and client acquisition. Expansion in Customer Success and Support: With a 12% increase in headcount, the 'Customer Success and Support' department is growing, highlighting a focus on enhancing client satisfaction and retention. Increase in Administrative and Healthcare Services: Both 'Administrative' and 'Healthcare Services' functions have seen significant growth of 13% and 14% respectively, indicating new initiatives in operational efficiency and healthcare-related services.
+… more
+
+The latest hiring trend
+
+350,588
+
+Total employees
+
+5%
+
+Company-wide
+
+2 year growth
+
+14%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+200000
+400000
+
+Median employee tenure: 4 years
+
+Cognizant hires candidates from some of these companies and schools
+
+Cognizant hired 8 people from University of Southern California. See all
+
+Cognizant hired 69 people from University of Southern California. See all
+
+Competitors
+
+Cognizant operates in a highly competitive landscape, facing significant competition from major IT services firms such as Accenture, Infosys, and Tata Consultancy Services (TCS). The company leverages its expertise in digital transformation, AI, and cloud computing to help businesses modernize their operations and improve efficiency. Cognizant's strategic focus on AI-driven solutions and its strong presence in North America position it well against its competitors.
+… more
+
+Sources: globalnewzlive.com +2 more
+
+Show Premium Insights
+About the company
+
+Cognizant
+
+8,904,486 followers
+
+Follow
+
+IT Services and IT Consulting
+
+ • 
+
+10001+ employees
+
+ • 
+
+342,031 on LinkedIn
+
+Cognizant (Nasdaq-100: CTSH) engineers modern businesses. We help our clients modernize technology, reimagine processes and transform experiences so they can stay ahead in our fast-changing world. Together, we’re improving everyday life. See how at www.cognizant.com or @cognizant.
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Founding Fullstack Engineer
+
+Jampack Labs
+
+New York, NY (Hybrid)
+
+$160K/yr - $250K/yr
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 3:41 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+We're Hiring! Backend Developer (Verified job)
+We're Hiring! Backend Developer 
+
+Hidonix Industries
+
+Santa Monica, CA (On-site)
+
+$90K/yr - $100K/yr
+
+1 company alumni works here
+
+Posted on January 6, 2026, 3:59 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Developer – Margin Trading
+
+Solayer Labs
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 1:45 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full-Stack Developer — AI Agent Platform for Financial Services (Google Cloud / Vertex AI)
+
+Insomniac Hedge Fund Guy
+
+United States (Remote)
+
+$60/hr - $70/hr
+
+Posted on January 4, 2026, 11:43 AM
+2 days ago
+
+Programmer/Quantitative Developer
+
+Nipun Capital, L.P.
+
+Foster City, CA (On-site)
+
+$100K/yr - $120K/yr
+
+You’d be a top applicant
+
+Posted on January 6, 2026, 12:30 PM
+6 hours ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer (Verified job)
+Software Engineer 
+
+Cognizant
+
+San Jose, CA (Hybrid)
+
+2 connections work here
+
+Posted on January 6, 2026, 6:14 PM
+24 minutes ago
+
+Javascript Developer
+
+CADflow.ai
+
+El Segundo, CA (Hybrid)
+
+$110K/yr - $180K/yr + Bonus, Stock options
+
+ • 
+
+Medical, Vision, Dental, 401(k)
+
+1 company alumni works here
+
+Posted on January 6, 2026, 6:19 PM
+19 minutes ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer (Verified job)
+Senior Software Engineer 
+
+Asseta AI
+
+New York, NY (On-site)
+
+$170K/yr - $230K/yr
+
+Actively reviewing applicants
+
+Posted on January 5, 2026, 7:46 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Compute (Verified job)
+Software Engineer, Compute 
+
+Hex
+
+New York City Metropolitan Area (On-site)
+
+$176K/yr - $220K/yr
+
+ • 
+
+6 benefits
+
+1 school alumni works here
+
+Posted on January 6, 2026, 10:28 AM
+8 hours ago
+
+Entry Level Programming Opportunity
+
+Year Up United
+
+Pleasant Hill, CA (On-site)
+
+4 school alumni work here
+
+Posted on January 6, 2026, 5:01 PM
+1 hour ago
+
+Software Engineer
+
+DV Commodities
+
+New York, United States (On-site)
+
+$120K/yr - $150K/yr
+
+ • 
+
+8 benefits
+
+Posted on January 6, 2026, 12:28 PM
+6 hours ago
+
+Software Engineer, Full Stack (Knowledge Innovation) (Verified job)
+Software Engineer, Full Stack (Knowledge Innovation) 
+
+OpenAI
+
+San Francisco, CA
+
+$255K/yr - $405K/yr
+
+2 connections work here
+
+Posted on January 6, 2026, 6:14 PM
+24 minutes ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

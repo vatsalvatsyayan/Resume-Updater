@@ -1,0 +1,488 @@
+Roblox
+
+Software Engineer, Ads & Brands 
+
+San Mateo, CA · 2 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$153.1K/yr - $195.8K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California and others in your network
+
+Show all
+About the job
+
+Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators.
+
+At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there.
+
+A career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.
+
+With Roblox’s daily active users growing at a record pace, we are building the next generation of advertising in an immersive metaverse. Our team sits at the core of the Roblox ecosystem, serving billions of impressions while providing the critical infrastructure that connects global brands with our massive community of creators.
+
+We are seeking a Software Engineer to join the Ads Experience team. You will work alongside experienced engineers and product leaders to build the full spectrum of our monetization experience, including Advertiser Experience (Roblox Ads Manager), Brand Experience (Brand Ads & Integrations), and Publisher Experience (Creator Monetization & Commerce).
+
+This is a unique opportunity to grow your career by solving complex technical challenges. You will help build the features that define how advertising works within a 3D metaverse, balancing user experience with a massive real-time economy.
+
+You Will
+
+
+Build the Roblox Ads Manager: Design and implement full-stack features for our flagship advertising platform. You will write high-quality code for both the React/TypeScript frontend and Go/C# backend services to help advertisers create campaigns and view real-time reporting.
+Implement Brand Ad Offering: Collaborate with senior engineers to build the logic and delivery mechanisms for immersive 3D ad units, ensuring they load performantly within games.
+Support Creator Success: Develop tools and dashboards that allow game creators to onboard easily, manage their ad inventory, and track their revenue and engagement metrics.
+Maintain System Reliability: Write comprehensive unit and integration tests, participate in code reviews, and help monitor production systems to ensure our high-scale services remain reliable and fast.
+Collaborate Cross-Functionally: Partner with Product Managers and Designers to understand requirements, scope small-to-medium features, and deliver polished user experiences.
+Innovate with AI: Help integrate AI-powered capabilities into our workflows, such as connecting Generative AI models to our creative tools or assisting in building intelligent campaign recommendations.
+
+
+You Have
+
+
+1-3 years of experience in software engineering (internships included), with a track record of delivering high-quality production code.
+Coding Proficiency: Strong programming skills in at least one modern language (e.g., Go, C#, Java, Python, or C++).
+Full-Stack Interest: Experience with or a strong desire to work across the stack, including modern frontend frameworks (React, TypeScript) and backend services.
+Problem-Solving Skills: A solid understanding of computer science fundamentals, data structures, and algorithms, with an aptitude for debugging complex issues.
+Curiosity & Drive: A willingness to learn new technologies quickly, whether it's 3D engine, distributed systems patterns, or ad-tech concepts.
+Education: A Bachelor's degree (or equivalent professional experience) in Computer Science or a related engineering field.
+
+
+Please note the Company may not be able to employ candidates who have United States work authorization related to certain U.S. visa categories, or support future F-1 or H-1B sponsorship at this time.
+
+For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future. All full-time employees are also eligible for equity compensation and for benefits as described on this page.
+
+Annual Salary Range
+
+$153,120—$195,780 USD
+
+Roles that are based in an office are onsite Tuesday, Wednesday, and Thursday, with optional presence on Monday and Friday (unless otherwise noted).
+
+Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Roblox also provides reasonable accommodations to candidates with qualifying disabilities or religious beliefs during the recruiting process.
+… more
+
+Set alert for similar jobs
+
+Software Engineer, San Mateo, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+266
+
+total
+
+266
+
+in the past day
+
+Candidate seniority level
+
+85% Entry level candidates
+
+6% Senior level candidates
+
+Candidate education level
+
+73
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+25
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Roblox
+Powered by Bing
+
+Company focus areas
+
+• Enhanced Safety Measures: Roblox is implementing age-based communication to limit interactions between adults and minors, setting new safety standards for online gaming.
+
+...more
+
+Sources: ir.roblox.com +1 more
+
+Hiring & headcount
+
+Significant growth in Engineering: The 'Engineering' department has seen a 25% increase in headcount, indicating a major focus on expanding technical capabilities and product development. Expansion in Business Development and Operations: Both 'Business Development' and 'Operations' departments have experienced substantial growth with 61% and 60% increases respectively, suggesting new business initiatives and operational scaling. Rapid increase in Sales and Media and Communication: The 'Sales' and 'Media and Communication' departments have grown by 155% and 68% respectively, highlighting a strong push towards market expansion and enhanced communication strategies. Emerging focus on Healthcare Services: The 'Healthcare Services' department has seen a remarkable 414% increase, indicating a significant new initiative in this sector, potentially opening up new market opportunities.
+… more
+
+The latest hiring trend
+
+8,178
+
+Total employees
+
+64%
+
+Company-wide
+
+2 year growth
+
+52%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+5000
+10000
+
+Median employee tenure: 1.9 years
+
+Roblox hires candidates from some of these companies and schools
+
+Roblox hired 22 people from University of Southern California. See all
+
+Roblox hired 104 people from University of Southern California. See all
+
+Competitors
+
+Roblox Corporation operates in a highly competitive landscape within the metaverse and user-generated content (UGC) gaming industry. The company faces significant competition from other metaverse platforms like Decentraland, The Sandbox, and Meta Horizon Worlds. Roblox's strategic focus on user engagement, monetization of virtual experiences, and leveraging augmented reality technologies are key to maintaining its competitive edge. The company's ability to balance user growth with financial performance is crucial in an increasingly crowded market.
+… more
+
+Sources: csimarket.com +2 more
+
+Show Premium Insights
+About the company
+
+Roblox
+
+241,411 followers
+
+Follow
+
+Software Development
+
+ • 
+
+1001-5000 employees
+
+ • 
+
+8,178 on LinkedIn
+
+Roblox's vision is to reimagine the way people come together. Our mission is to connect a billion people with optimism and civility.
+
+What is Roblox?
+
+Roblox is a platform where people come together virtually to share experiences. Every day, tens of millions of people from around the world come to Roblox to learn, work, play, connect, communicate, and socialize in immersive digital experiences all built by a global community of creators.
+
+Powered by Creators
+
+Roblox is powered by a global community of millions of developers and creators who produce their own immersive multiplayer experiences each month using Roblox Studio, our intuitive desktop design tool. Any experience imaginable can be created on Roblox.
+
+How Popular?
+
+Roblox is ranked as one of the top entertainment platforms for audiences under the age of 18 based on average monthly visits and time spent (Comscore). Our popularity is driven purely by the community with millions of people signing up through word of mouth every month.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Founding Engineer
+
+Reval Recruiting
+
+Los Angeles Metropolitan Area (On-site)
+
+You’d be a top applicant
+
+Posted on January 19, 2026, 9:17 AM
+1 day ago
+
+Senior Time & Attendance / Payroll Developer   :: Remote
+
+TrueCode Inc
+
+United States (Remote)
+
+Posted on January 19, 2026, 2:30 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Claude Code Expert
+
+CustomGPT.ai
+
+Needham, MA (On-site)
+
+$140K/yr - $170K/yr
+
+Actively reviewing applicants
+
+Posted on January 18, 2026, 5:29 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Research Engineer
+
+Company.ai
+
+San Francisco Bay Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 19, 2026, 2:32 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer
+
+Onyx Odds
+
+New York, NY (On-site)
+
+$170K/yr - $250K/yr
+
+1 school alumni works here
+
+Posted on January 17, 2026, 1:15 PM
+3 days ago
+
+We're Hiring! Backend Developer (Verified job)
+We're Hiring! Backend Developer 
+
+Hidonix Industries
+
+Santa Monica, CA (On-site)
+
+$90K/yr - $100K/yr
+
+1 company alumni works here
+
+Posted on January 20, 2026, 4:55 PM
+17 minutes ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer (GTM)
+
+GetWhys
+
+Boise, ID (Hybrid)
+
+Vision, 401(k)
+
+Posted on January 18, 2026, 7:26 AM
+2 days ago
+
+Back-End Software Engineer (Go)
+
+Wizer - Free Security Awareness Training
+
+United States (Remote)
+
+Actively reviewing applicants
+
+Posted on January 19, 2026, 6:47 PM
+22 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Sparrow
+
+New York City Metropolitan Area (On-site)
+
+$150K/yr - $200K/yr
+
+ • 
+
+Vision, 401(k)
+
+Posted on January 20, 2026, 2:54 PM
+2 hours ago
+
+ · 
+
+ Easy Apply
+
+Senior Engineer
+
+Tesser
+
+New York City Metropolitan Area (Hybrid)
+
+You’d be a top applicant
+
+Posted on January 20, 2026, 8:04 AM
+9 hours ago
+
+ · 
+
+ Easy Apply
+
+Lead GTM Engineer (Verified job)
+Lead GTM Engineer 
+
+Rutter
+
+New York, NY (Hybrid)
+
+You’d be a top applicant
+
+Posted on January 20, 2026, 6:29 AM
+10 hours ago
+
+Software Engineer, Frontend (All Levels) (Verified job)
+Software Engineer, Frontend (All Levels) 
+
+Zip
+
+San Francisco, CA (Hybrid)
+
+$150K/yr - $220K/yr
+
+ • 
+
+401(k), +1 benefit
+
+3 company alumni work here
+
+Posted on January 20, 2026, 4:03 AM
+13 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

@@ -1,0 +1,43 @@
+About the job
+
+About Persona
+
+Persona is the configurable identity platform built for businesses in a digital-first world. Verifying individuals and organizations is harder — but more important — than ever, with AI enabling fraudsters to launch sophisticated accounts at scale and regulations evolving rapidly.
+
+We’ve built Persona to support practically every use case and industry — that’s why we’re able to serve a wide range of leading companies. For example, Instacart relies on Persona to verify shoppers who onboard onto their platform before delivering groceries to your doorstep. Meanwhile, OpenAI relies on Persona to keep bad actors out, protecting one of the world’s most powerful AI platforms from large-scale abuse in a time when AI is reshaping the way we work and live.
+
+We’re growing rapidly and looking for exceptional people to join us!
+
+About The Role
+
+As a member of our Infrastructure team at Persona, you will be responsible for building, operating, and monitoring the foundational components upon which our services are built. You will help empower our engineering organization to deliver product features to our customers rapidly, with high scalability, excellent resilience, and cost-effectiveness. Our infrastructure team operates remotely in the United States (with teammates in each time zone!), but commits to visiting our San Francisco HQ once a quarter to work together in person.
+
+What You'll Do At Persona
+
+
+Embrace and champion engineering best practices within the product engineering teams
+Work closely with product teams to plan and build scalable, resilient and cost-effective infrastructure systems that meet launch goals, reach new markets and scale with product demand
+Partner with fellow engineering teams to deliver on complex initiatives together
+Develop simple, elegant solutions to complex problems
+You will work in a solution stack that extends all the way from complex back-end data through web services to highly usable web-based user interfaces
+You will be able to directly shape system design, development methodologies, and implementation technologies
+
+
+What You'll Bring To Persona
+
+
+BA/BS in computer science, software engineering or equivalent experience
+2+ years of work experience as an infrastructure engineer working with cloud-based infrastructure, online data stores and infrastructure-as-code pipelines
+Experience in cloud-based infrastructure, familiarity with modern networking concepts and experience managing infrastructure using infrastructure-as-code practices
+Experience managing and scaling containerized software deployment systems such as Kubernetes
+Experience in Software development in one or more of the general-purpose programming languages: Ruby, Go, Python, Java, etc
+Experience in working in high-energy small startup environments
+Knowledge of and expertise in software engineering best practices for software development life cycle, including requirements gathering, design, coding standards, code reviews, source control management, build processes, testing, and operations
+Ability to communicate effectively with users, technical teams, and management
+Strong problem-solving skills
+Ability to thrive in a fully remote infrastructure engineering team environment
+
+
+Full-time Employee Benefits And Perks
+
+For full-time employees (excluding internship and contractor opportunities), Persona offers a wide range of benefits, including medical, dental, and vision, 3% 401(k) contribution, unlimited PTO, quarterly mental health days, family planning benefits, professional development stipend, wellness benefits, among others. While we believe competitive compensation and benefits are a critical aspect of you deciding to join us, we do hope you consider why our core values and culture are right for you. If you’d like to better understand what it’s like working at Persona, feel free to check out our reviews on Glassdoor.

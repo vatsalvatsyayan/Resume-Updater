@@ -1,0 +1,510 @@
+Stripe
+
+Security Engineer, New Grad 
+
+Seattle, WA · 2 hours ago · Over 100 people clicked apply
+
+Promoted by hirer • Responses managed off LinkedIn
+
+$129K/yr - $193.4K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Chao Wang 
+
+• 3rd
+
+Data for B2B growth
+
+School alum from University of Southern California
+
+Message
+About the job
+
+Who we are
+
+About Stripe
+
+Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.
+
+About The Team
+
+Stripe offers an interesting middle ground between joining a small startup and going to work for a multinational company. We have systems and processes optimized for early-career professionals. You will be in an environment that prizes rigor, discipline, and reliability—from our products, from our ways of working, and from our colleagues. You will learn how the best teams put together extremely reliable systems, and you will be responsible for operating these systems, with adequate backup when things get tough.
+
+The Security organization is dedicated to building and maintaining a secure financial infrastructure platform. By joining this team, you will be on the front lines, engineering solutions that protect the sensitive data and systems underpinning a huge portion of the world's economy. You will contribute to core security functions like threat detection and rapid incident response, building and scaling the platforms that manage vulnerabilities, and proactively performing offensive security assessments to identify weaknesses before they can be exploited. This is a chance to apply software engineering principles and new technologies such as AI to solve complex, high-stakes security challenges, ultimately ensuring that Stripe's mission to increase the GDP of the internet is achieved securely.
+
+What you’ll do
+
+As a Security Engineer New Grad you will have the opportunity to work across various security disciplines and own projects from start to finish. Your work will focus on securing Stripe's complex environment by applying software engineering principles to security challenges.
+
+
+You will learn and apply the principles of secure-by-default design by working closely with product and infrastructure engineering teams.
+You'll develop a foundational understanding of various security domains, such as threat detection, incident response, vulnerability management, or offensive security.
+You'll learn to act as a security subject matter expert, tailoring answers to both engineers and non-engineers.
+You'll contribute to the development of internal tools and automation to scale security efforts across Stripe.
+You will participate in threat modeling discussions, learning to balance security requirements with product advancement and user experience.
+
+
+
+Responsibilities
+
+
+Work on cross-functional projects, directly collaborating with other engineers
+Give meaningful feedback on code reviews and technical designs
+Contribute to our overall security posture by continuously improving security processes, tooling, and defenses.
+Develop a deep understanding of Stripe’s security primitives, frameworks, and invariants.
+Provide actionable insights to help identify, prevent, detect, and respond to anomalous or potentially malicious activity.
+
+
+
+Who you are
+
+We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+
+Minimum Requirements
+
+
+Currently enrolled in a Bachelor’s or Master’s program in Computer Science or related field (graduating by Summer 2026) 
+Some experience and familiarity with programming, either through side projects or classwork. We work mostly in Java, Ruby, Python, JavaScript, Scala, and Go. We believe new programming languages can be learned if the fundamentals and general knowledge are present
+Experience from either previous internships or working collaboratively on multi-person coding projects (in a university or professional setting)
+Ability to learn unfamiliar systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts
+Aptitude to think like an attacker and reason through different approaches to reducing security risk.
+
+
+
+Preferred Qualifications
+
+
+Experience in code review practices, and an understanding of how to safely update production systems
+Familiarity with navigating and managing work in large code bases
+Prior experience or course work in cyber security, digital forensics, or incident response (e.g., through log analysis or capture-the-flag events).
+Familiarity with foundational security concepts such as the OWASP Top 10 web application vulnerabilities.
+Basic knowledge of SQL or experience analyzing medium to large data sets.
+Exposure to cloud computing platforms such as AWS, Azure, or Google Cloud Platform.
+An adversarial mindset, understanding the goals, behaviors, and TTPs (tactics, techniques, and procedures) of threat actors.
+
+
+
+In-office expectations
+
+Office-assigned Stripes in most of our locations are currently expected to spend at least 50% of the time in a given month in their local office or with users. This expectation may vary depending on role, team and location. For example, Stripes in our Bucharest, Romania site have an 80% in-office expectation, and those in Stripe Delivery Center roles in Mexico City, Mexico and Bengaluru, India work 100% from the office. Also, some teams have greater in-office attendance requirements, to appropriately support our users and workflows, which the hiring manager will discuss. This approach helps strike a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility when possible.
+
+Pay and benefits
+
+The annual US base salary range for this role is $129,000 - $193,400. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location. Applicants interested in this role and who are not located in the US may request the annual salary range for their location during the interview process.
+
+Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends.
+
+Set alert for similar jobs
+
+Security Engineer, Seattle, Washington, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+144
+
+total
+
+144
+
+in the past day
+
+Candidate seniority level
+
+74% Entry level candidates
+
+8% Senior level candidates
+
+1% Manager level candidates
+
+Candidate education level
+
+77
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+22
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about Stripe
+Powered by Bing
+
+Company focus areas
+
+• AI and Fraud Prevention: Leverage AI-driven tools to combat payment fraud and enhance security for businesses. Stripe is focusing on using advanced AI technologies to mitigate the growing damage caused by payment fraud.
+
+...more
+
+Sources: independent.co.uk +1 more
+
+Hiring & headcount
+
+Significant growth in sales: The 'Sales' department has seen a 34% increase in employee count, indicating a strong focus on expanding their sales capabilities and potential for increased revenue generation. Expansion in education and administrative functions: The 'Education' and 'Administrative' departments have experienced a 52% and 45% increase in headcount respectively, suggesting new initiatives in training, development, and administrative support. Increased focus on customer success and support: The 'Customer Success and Support' department has grown by 26%, highlighting an emphasis on improving customer satisfaction and retention. Growth in consulting and community services: The 'Consulting' and 'Community and Social Services' departments have seen a 51% and 26% increase in headcount respectively, indicating new projects or initiatives in these areas.
+… more
+
+The latest hiring trend
+
+13,724
+
+Total employees
+
+55%
+
+Company-wide
+
+2 year growth
+
+7%
+
+Information Technology
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+10000
+20000
+
+Median employee tenure: 2 years
+
+Stripe hires candidates from some of these companies and schools
+
+Stripe hired 23 people from University of Southern California. See all
+
+Stripe hired 167 people from University of Southern California. See all
+
+Competitors
+
+Stripe operates in a highly competitive fintech landscape, with significant competition from companies like PayPal, Square, and Adyen. Stripe's focus on user experience, security, and innovative solutions such as AI-driven commerce and blockchain initiatives has helped it maintain a strong market position. The company's recent valuation of $91.5 billion and its strategic investments in AI and blockchain technology underscore its commitment to staying ahead in the evolving payment processing industry.
+… more
+
+Sources: fangwallet.org +2 more
+
+Show Premium Insights
+About the company
+
+Stripe
+
+1,224,656 followers
+
+Following
+
+Technology, Information and Internet
+
+ • 
+
+5001-10000 employees
+
+ • 
+
+13,724 on LinkedIn
+
+Stripe builds programmable financial services. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Headquartered in San Francisco and Dublin, the company aims to increase the GDP of the internet.
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Solutions Engineer
+
+Roe
+
+San Francisco Bay Area (Hybrid)
+
+$80K/yr - $100K/yr
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 2:05 PM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer, Safeguards
+
+Anthropic
+
+San Francisco, CA (Hybrid)
+
+$320K/yr - $425K/yr
+
+3 connections work here
+
+Posted on January 5, 2026, 5:35 PM
+3 hours ago
+
+IT Engineer (Verified job)
+IT Engineer 
+
+Paradigm
+
+San Francisco, CA (On-site)
+
+4 benefits
+
+3 school alumni work here
+
+Posted on December 16, 2025, 10:06 AM
+2 weeks ago
+
+Backend / Security Engineer
+
+Triage
+
+San Francisco Bay Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 4:33 PM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Founding Engineer
+
+Caylex
+
+San Francisco, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 2, 2025, 3:40 PM
+1 month ago
+
+ · 
+
+ Easy Apply
+
+Artificial Intelligence Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:48 AM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Smart Contract Engineer
+
+Ostium
+
+New York City Metropolitan Area (Hybrid)
+
+Actively reviewing applicants
+
+Posted on August 21, 2025, 11:29 PM
+4 months ago
+
+ · 
+
+ Easy Apply
+
+System Engineer
+
+TransSIGHT
+
+Los Angeles, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on October 28, 2025, 8:03 AM
+2 months ago
+
+ · 
+
+ Easy Apply
+
+AI Engineer
+
+Triage
+
+San Francisco Bay Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 2, 2026, 4:24 PM
+3 days ago
+
+ · 
+
+ Easy Apply
+
+Frontend / Fullstack Engineer
+
+AIDA
+
+Palo Alto, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on December 22, 2025, 8:55 AM
+2 weeks ago
+
+ · 
+
+ Easy Apply
+
+Backend Software Engineer - Embedded
+
+Emulate, Inc.
+
+Boston, MA (Hybrid)
+
+$100K/yr - $130K/yr
+
+ • 
+
+Vision, 401(k), +1 benefit
+
+2 school alumni work here
+
+Posted on November 23, 2025, 12:30 PM
+1 month ago
+
+Security Engineer (Verified job)
+Security Engineer 
+
+Benchling
+
+San Francisco, CA (Hybrid)
+
+$208K/yr - $281K/yr
+
+ • 
+
+401(k), +1 benefit
+
+2 company alumni work here
+
+Posted on December 31, 2025, 2:50 AM
+5 days ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

@@ -1,0 +1,500 @@
+American Express
+
+Software Engineer 
+
+Phoenix, AZ · 13 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$78K/yr - $124.8K/yr
+Hybrid
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Ananyaa and others in your network
+
+Show all
+About the job
+
+
+At American Express, our culture is built on a 175-year history of innovation, shared values and Leadership Behaviors, and an unwavering commitment to back our customers, communities, and colleagues. As part of Team Amex, you'll experience this powerful backing with comprehensive support for your holistic well-being and many opportunities to learn new skills, develop as a leader, and grow your career.
+
+Here, your voice and ideas matter, your work makes an impact, and together, you will help us define the future of American Express.
+
+Responsibilities:
+
+ 
+
+Provide hands-on support for the runtime operation of our applications, ensuring high availability and performance, drive Mean Time to Restore service level targets.
+Participate in incident response and root cause analysis efforts to ensure the stability and resilience of the applications.
+Collaborate with software engineering and infrastructure teams to troubleshoot and resolve runtime issues, including performance bottlenecks, scalability challenges, and system failures.
+Contribute to the design and implementation of monitoring, alerting, and logging solutions to proactively identify and address potential runtime issues.
+Work closely with cross-functional teams to understand the application architecture and provide input on runtime and operational requirements early in the software development lifecycle.
+Support and monitoring of software across test, integration, and production environments using Continuous Integration and Continuous Delivery tools, e.g., Jenkins, etc.
+Automate deployments in test or production environments using standard
+Explores new automation techniques to refine the agility, speed and quality of engineering initiatives and efforts
+Contribute to the development and maintenance of runtime automation and tooling to streamline operational processes, improve efficiency, and reduce toil.
+Drive automation and ensure automated test scripts are completed for new features.
+Manage time effectively and work independently and as part of a team.
+Mentor peers and demonstrate a passion for continuous learning environment for the team.
+Good attitude, communication, willingness to learn and collaborate.
+Bring a culture of innovation, ideas, and continuous improvement.
+Challenging status quo, demonstrate risk taking, and implement creative ideas.
+
+ 
+
+Qualifications:
+
+ 
+
+BS degree in Computer Science, Computer Engineering, other technical discipline.  
+Work experience in software engineering, app support or infrastructure operations or runtime engineering.
+A working understanding of cloud infrastructure, distributed systems, and containerization technologies, with experience in supporting critical business applications being a plus.
+Familiarity with monitoring and logging tools, and incident management best practices, to ensure reliability and performance of applications in a production environment.
+Solid programming and scripting skills, with hands on experience to automate operational tasks using tools such as /Python, Bash, Selenium, Linux and Ansible.
+Experience in design and developing mission critical highly available enterprise applications and Java applications performance tuning.
+Excellent problem-solving and troubleshooting abilities, focused on understanding, and resolving runtime issues quickly.
+Practical experience with implementation of system integration solutions, such as, APIs and Data integration layers (Batch & Real-Time).
+Experience with Continuous Integration and Continuous Delivery environment and platforms, such as GIT, Maven, and Jenkins
+Effective communication skills with ability to explain concepts to product managers and business partners and translate technical terms to meet business needs.  
+Excellent collaboration skills, with the ability to work effectively in a cross-functional environment.
+Hands on experience with relational and NoSQL databases such as DB2, Redis, Postgres, Couchbase etc.
+Experience in JCL, COBOL & DB2 is preferred.
+
+Salary Range: $78,000.00 to $124,750.00 annually + bonus + benefits
+
+The above represents the expected salary range for this job requisition. Ultimately, in determining your pay, we’ll consider your location, experience, and other job-related factors.
+
+We back you with benefits that support your holistic well-being so you can be and deliver your best. This means caring for you and your loved ones' physical, financial, and mental health, as well as providing the flexibility you need to thrive personally and professionally:
+Competitive base salaries 
+Bonus incentives 
+6% Company Match on retirement savings plan 
+Free financial coaching and financial well-being support 
+Comprehensive medical, dental, vision, life insurance, and disability benefits 
+Flexible working model with hybrid, onsite or virtual arrangements depending on role and business need 
+20+ weeks paid parental leave for all parents, regardless of gender, offered for pregnancy, adoption or surrogacy 
+Free access to global on-site wellness centers staffed with nurses and doctors (depending on location) 
+Free and confidential counseling support through our Healthy Minds program 
+Career development and training opportunities
+
+For a full list of Team Amex benefits, visit our Colleague Benefits Site.
+
+American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law. American Express will consider for employment all qualified applicants, including those with arrest or conviction records, in accordance with the requirements of applicable state and local laws, including, but not limited to, the California Fair Chance Act, the Los Angeles County Fair Chance Ordinance for Employers, and the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance. For positions covered by federal and/or state banking regulations, American Express will comply with such regulations as it relates to the consideration of applicants with criminal convictions.
+
+We back our colleagues with the support they need to thrive, professionally and personally. That's why we have Amex Flex, our enterprise working model that provides greater flexibility to colleagues while ensuring we preserve the important aspects of our unique in-person culture. Depending on role and business needs, colleagues will either work onsite, in a hybrid model (combination of in-office and virtual days) or fully virtually.
+
+US Job Seekers - Click to view the “Know Your Rights” poster. If the link does not work, you may access the poster by copying and pasting the following URL in a new browser window: https://www.eeoc.gov/poster
+
+Employment eligibility to work with American Express in the United States is required as the company will not pursue visa sponsorship for these positions. 
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Phoenix, Arizona, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+165
+
+total
+
+165
+
+in the past day
+
+Candidate seniority level
+
+80% Entry level candidates
+
+12% Senior level candidates
+
+Candidate education level
+
+82
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+17
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Master of Business Administration
+Exclusive Job Seeker Insights about American Express
+Powered by Bing
+
+Company focus areas
+
+• Investing in Growth Initiatives: American Express is focused on investing in growth initiatives, including acquiring high spending, high credit-quality customers, enhancing value propositions, and driving Card Member engagement.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Expanding finance and accounting: The 'Finance' and 'Accounting' departments have shown significant increases in headcount by 7% and 12% respectively, indicating a strong focus on financial management and accounting operations. Growth in administrative and legal functions: The 'Administrative' and 'Legal' departments have experienced notable increases in headcount by 18% and 13% respectively, suggesting an emphasis on administrative support and legal compliance. Focus on education and healthcare services: The 'Education' and 'Healthcare Services' departments have seen substantial increases in headcount by 44% and 22% respectively, highlighting new initiatives in employee training and healthcare services. Stable growth in engineering and business development: The 'Engineering' and 'Business Development' departments have shown steady increases in headcount by 4% and 5% respectively, indicating ongoing investments in technical development and business expansion.
+… more
+
+The latest hiring trend
+
+81,560
+
+Total employees
+
+13%
+
+Company-wide
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+50000
+100000
+
+Median employee tenure: 4.5 years
+
+American Express hires candidates from some of these companies and schools
+
+American Express hired 19 people from University of Southern California. See all
+
+American Express hired 138 people from University of Southern California. See all
+
+Competitors
+
+American Express operates in a highly competitive financial services industry, primarily competing with Visa, Mastercard, and Discover. The company differentiates itself through premium services and exclusive experiences, such as '1850 by American Express,' aimed at enhancing customer loyalty and long-term growth. However, it faces challenges in international acceptance compared to its competitors, which are accepted in more countries worldwide.
+… more
+
+Sources: finance.yahoo.com +3 more
+
+Show Premium Insights
+About the company
+
+American Express
+
+3,281,476 followers
+
+Follow
+
+Financial Services
+
+ • 
+
+10001+ employees
+
+ • 
+
+81,560 on LinkedIn
+
+At American Express, we know that with the right backing, people and businesses have the power to progress in incredible ways. Whether we’re supporting our customers’ financial confidence to move ahead, taking commerce to new heights, or encouraging people to explore the world, our colleagues are constantly striving to uphold our powerful backing promise to our customers and each other every day. 
+ 
+These beliefs have been our North Star for 170 years as our business transformed – from helping evacuate travelers during World Wars, to ensuring the safety of our customers’ funds during the Great Depression in the U.S., to creating the Shop Small® movement to help small businesses recover from the Financial Crisis, to providing aid to communities impacted by many natural disasters and so much more.  
+ 
+For generations, the key to our success has been the determination and resilience of our American Express colleagues. Now, as a globally integrated payments company, we work together to provide customers with access to products, insights and world-class experiences that enrich lives and build business success. Join us and let’s lead the way together. 
+
+Learn more about us at: 
+https://www.americanexpress.com/careers
+https://www.americanexpress.com/
+https://www.facebook.com/AmericanExpressUS
+https://www.instagram.com/americanexpress/
+https://twitter.com/americanexpress
+https://www.youtube.com/user/AmericanExpress
+
+See our community guidelines at: 
+https://www.americanexpress.com/en-us/company/community-guidelines/
+
+If you have a customer service issue or question, please visit www.americanexpress.com/contactus
+
+
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+
+Company photos
+
+More jobs
+
+Firmware Audio Engineer
+
+Polaro
+
+San Mateo, CA (On-site)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 6:02 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Founding Software Engineer
+
+Vigy AI
+
+San Francisco, CA (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 2:54 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Founding Engineer
+
+Reval
+
+Los Angeles Metropolitan Area (On-site)
+
+You’d be a top applicant
+
+Posted on January 23, 2026, 2:10 PM
+1 day ago
+
+Founding Full Stack Engineer
+
+Topify.ai
+
+San Francisco, CA (On-site)
+
+3 school alumni work here
+
+Posted on January 23, 2026, 12:36 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Technical Co Founder (CTO)
+
+Nomad
+
+United States (Remote)
+
+$1/yr - $2/yr
+
+Actively reviewing applicants
+
+Posted on January 22, 2026, 3:56 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Founding Research Engineer
+
+Agentrys
+
+Santa Clara, CA (Hybrid)
+
+You’d be a top applicant
+
+Posted on January 22, 2026, 3:20 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Web Developer (Shopify)
+
+TOSSWARE
+
+Buena Park, CA (Hybrid)
+
+Dental, 401(k)
+
+You’d be a top applicant
+
+Posted on January 23, 2026, 2:13 PM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+CheckRx
+
+San Diego, CA (On-site)
+
+$80K/yr - $160K/yr
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 9:28 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Engineer
+
+Fixated
+
+Los Angeles Metropolitan Area (On-site)
+
+2 school alumni work here
+
+Posted on January 24, 2026, 12:26 AM
+16 hours ago
+
+ · 
+
+ Easy Apply
+
+Senior AOSP Engineer
+
+Cyber Dive
+
+Mesa, AZ (On-site)
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 8:48 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer
+
+G2M Insights
+
+Denver, CO (Hybrid)
+
+Actively reviewing applicants
+
+Posted on January 23, 2026, 11:50 AM
+1 day ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

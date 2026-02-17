@@ -1,0 +1,526 @@
+Tomo
+
+Software Engineer - Python 
+
+United States · 5 hours ago · Over 100 people clicked apply
+
+Responses managed off LinkedIn
+
+$130K/yr - $160K/yr
+Remote
+Contract
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+Who We Are
+
+Tomo is a digital mortgage company on a mission to eliminate the greed and complexity in lending, helping homebuyers save thousands of dollars. Our AI-driven customer experience makes the lending process faster, less frustrating, and more affordable. By passing these savings directly to homebuyers, we eliminate excessive fees and inflated rates that cost Americans billions each year. Backed by top-tier venture investors, including Ribbit, Citi Ventures, NFX and Progressive Insurance, Tomo is poised to become one of the most valuable fintech startups of our generation.
+
+You’ll be joining our demand generation or efficiency teams, whose missions are to build transparent, delightful experiences to demystify the mortgage process, empower homebuyers to purchase with confidence, and improve our internal capability to deliver those experiences.
+
+Location: Remote, US. Teammates located near Seattle, WA, Detroit, MI or New York, NY may work from our offices whenever they choose to.
+
+Reports To: Engineering Manager
+
+Type: Full-Time; Remote
+
+We’re Looking For Someone Who
+
+
+Has empathy for homebuyers and enjoys building technology that improves their journey from discovery to closing.
+Brings their own unique background and experiences to the team, adding fresh ideas and perspectives.
+Thrives in a startup environment with ambiguity and enjoys collaborating to figure out the best path forward.
+Is a team-first engineer who jumps in to fight fires, provides constructive feedback, and thinks about both the customer and Tomo as a whole.
+Learns continuously and stays current with new trends and technologies, especially in backend engineering and AI.
+Has experience leveraging LLMs in software engineering and is excited to push our capabilities further.
+Works independently and makes sound decisions without requiring heavy oversight.
+Enjoys working with a geographically distributed team (US)
+
+
+You'll Be
+
+
+Building and maintaining scalable Python microservices
+Contributing to API design and integration patterns across services
+Deploying and supporting systems in production as part of an on-call rotation
+Following healthy engineering practices, including code review, iterative delivery, automated testing, and continuous deployment
+Collaborating closely with product managers, designers, and frontend engineers to deliver seamless customer experiences
+Leveraging AWS infrastructure, Kubernetes, and modern DevOps tooling to ensure reliability and performance
+
+
+You'll Need
+
+
+2+ years of experience delivering meaningful software projects to production
+Understanding of modern software engineering practices, including logging, monitoring, continuous deployment, and automated testing
+Proficiency with Python and building backend systems using microservice architectures
+Interest in using AI tools as part of your developer workflow
+To be inquisitive, ready to engage in vibrant debate, make difficult decisions quickly, and learn continuously.
+
+
+You Might Also Have
+
+
+Experience integrating or optimizing LLM-powered workflows.
+Experience with SEO, site performance, and tools like PageSpeed Insights
+Experience with observability tools like Datadog
+Understanding of AWS, containerization (Docker), and orchestration (Kubernetes).
+Familiarity with financial services, fintech, real estate, or home lending technology
+Experience with modern frontend frameworks or API contract design.
+
+
+Benefits
+
+We strive to anticipate your needs in order for you to be a healthy, motivated, and happy team member. We provide a variety of competitive benefits including (but not limited to):
+
+
+Equity Ownership: All teammates receive stock options—we win together
+Comprehensive Medical, Dental, and Vision plans for you and your dependents with some plans 100% covered
+Work-life balance and a generous paid time off policy
+In order to support teammates who become parents, Tomo Mortgage provides paid parental leave
+401(k) retirement plan
+
+
+Compensation Range: $130K - $160K
+
+
+… more
+
+Benefits found in job post
+
+401(k)
+
+Set alert for similar jobs
+
+Software Engineer, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+439
+
+total
+
+439
+
+in the past day
+
+Candidate seniority level
+
+80% Entry level candidates
+
+12% Senior level candidates
+
+Candidate education level
+
+75
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+22
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have an Associate's Degree
+
+
+2
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Tomo
+Powered by Bing
+
+Company focus areas
+
+• Leveraging AI to streamline mortgage processes: Tomo is using artificial intelligence to streamline the underwriting process and speed up mortgage approvals, aiming to stay profitable despite high rates and low volume.
+
+...more
+
+Sources: propmodo.com +1 more
+
+Hiring & headcount
+
+Significant growth in Finance: The Finance department has seen a 145% increase in headcount over the past year, indicating a major focus on financial operations and possibly new financial initiatives or expansions. Expansion in Sales and Operations: Both the Sales and Operations departments have experienced substantial growth, with increases of 53% and 69% respectively, suggesting a strategic push to enhance sales capabilities and operational efficiency. Real Estate and Human Resources growth: The Real Estate and Human Resources departments have grown by 150% and 100% respectively, pointing towards new investments in physical assets and workforce management. Overall headcount increase: The company's total headcount has increased by 53% over the past year, reflecting a broad-based expansion and potential new business ventures or scaling of existing operations.
+… more
+
+The latest hiring trend
+
+225
+
+Total employees
+
+64%
+
+Company-wide
+
+2 year growth
+
+5%
+
+Engineering
+
+2 year growth
+
+Chart
+Chart with 25 data points.
+The chart has 1 X axis displaying Time. Data ranges from 2024-01-01 00:00:00 to 2026-01-01 00:00:00.
+The chart has 1 Y axis displaying values. Data ranges from 133 to 225.
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+100
+200
+300
+End of interactive chart.
+
+Median employee tenure: 1.4 years
+
+Tomo hires candidates from some of these companies and schools
+
+Tomo hired 2 people from University of Southern California. See all
+
+Competitors
+
+Tomo operates in a highly competitive mortgage industry, leveraging AI to streamline the homebuying process and offer competitive rates. The company distinguishes itself by focusing on purchase-only loans and providing significant savings at closing. With recent funding and expansion efforts, Tomo aims to enhance its product offerings and grow its market presence.
+… more
+
+Sources: coverager.com +3 more
+
+Show Premium Insights
+About the company
+
+Tomo
+
+12,460 followers
+
+Follow
+
+Real Estate
+
+ • 
+
+51-200 employees
+
+ • 
+
+225 on LinkedIn
+
+Tomo is slashing the cost of getting a mortgage with some serious AI and automation muscle. The result? Faster closings, fewer headaches, and a way to make homeownership something everyone can get in on.
+
+Wanna know more? Check us out at tomo.com.
+
+NMLS #2059741
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Next.js / React Website Designer & Developer
+
+True Social Marketing
+
+United States (Remote)
+
+Posted on January 30, 2026, 8:46 AM
+6 hours ago
+
+ · 
+
+ Easy Apply
+
+Full Stack Software Engineer (Verified job)
+Full Stack Software Engineer 
+
+SentiLink
+
+Seattle, WA (Remote)
+
+$145K/yr - $205K/yr
+
+ • 
+
+Medical, 401(k)
+
+2 school alumni work here
+
+Posted on January 24, 2026, 4:11 AM
+6 days ago
+
+Software Engineering Specialist 1 (Verified job)
+Software Engineering Specialist 1 
+
+Crowe
+
+The Woodlands, TX (Remote)
+
+$113K/yr - $267.5K/yr
+
+8 company alumni work here
+
+Posted on January 18, 2026, 2:04 AM
+1 week ago
+
+Full Stack Software Engineer (Verified job)
+Full Stack Software Engineer 
+
+SentiLink
+
+Austin, TX (Remote)
+
+$145K/yr - $205K/yr
+
+ • 
+
+Medical, 401(k)
+
+2 school alumni work here
+
+Posted on January 24, 2026, 4:11 AM
+6 days ago
+
+Full Stack Software Engineer, AI
+
+SandboxAQ
+
+United States (Remote)
+
+$113K/yr - $186K/yr
+
+3 company alumni work here
+
+Posted on January 29, 2026, 3:48 AM
+1 day ago
+
+Software Development Engineer I
+
+Mercor
+
+United States (Remote)
+
+$50/hr - $150/hr
+
+1 connection works here
+
+Posted on January 30, 2026, 2:56 PM
+27 minutes ago
+
+Full Stack Software Engineer (Verified job)
+Full Stack Software Engineer 
+
+SentiLink
+
+Los Angeles, CA (Remote)
+
+$145K/yr - $205K/yr
+
+ • 
+
+Medical, 401(k)
+
+2 school alumni work here
+
+Posted on January 24, 2026, 4:11 AM
+6 days ago
+
+Software Engineer
+
+Hyra
+
+California, United States (Remote)
+
+$106.2K/yr - $143.8K/yr
+
+Posted on January 30, 2026, 2:09 PM
+1 hour ago
+
+Software Engineer (Verified job)
+Software Engineer 
+
+Evolent Health
+
+United States (Remote)
+
+$95K/yr - $105K/yr
+
+ • 
+
+Medical benefit
+
+5 school alumni work here
+
+Posted on January 30, 2026, 1:52 PM
+1 hour ago
+
+Senior Salesforce Developer
+
+Cirrius Solutions Inc.
+
+United States (Remote)
+
+Posted on January 30, 2026, 1:35 PM
+1 hour ago
+
+Senior Developer Advocate (Developer Evangelist)
+
+Typesense
+
+United States (Remote)
+
+$150K/yr - $170K/yr
+
+ • 
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 21, 2026, 2:33 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+Remote ServiceNow Finance & Supply Chain Developer
+
+OmniVista Consulting— CMMI L3, 8(a), EDWOSB, ISO 9001, 20000, 27001
+
+Washington DC-Baltimore Area (Remote)
+
+Actively reviewing applicants
+
+Posted on January 20, 2026, 3:38 PM
+1 week ago
+
+ · 
+
+ Easy Apply
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

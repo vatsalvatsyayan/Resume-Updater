@@ -1,0 +1,61 @@
+About the job
+
+Description
+
+At Audible, we believe stories have the power to transform lives. It’s why we work with some of the world’s leading creators to produce and share audio storytelling with our millions of global listeners. We are dreamers and inventors who come from a wide range of backgrounds and experiences to empower and inspire each other. Imagine your future with us.
+
+About This Role
+
+As a Software Engineer, it’s up to you to define, design and refine the tech that keeps us one step ahead of listeners. Anticipate. Innovate. Bring challenging ideas and we’ll support you with the latest tech, tools and systems that you need to succeed. You’ll be essential in ensuring the team can reach their potential; working closely with them, reviewing their work, mentoring, and supporting them to develop. Together, you’ll build and maintain our platform to bring thousands of stories to millions of listeners and unleash the power of the human voice.
+
+About You
+
+You feel pride in every step forward, however big, or small; to you, each challenge represents a well-executed venture to support our listeners. If you’re looking to build on your skills and grow into a leader, this is your next step. We look for people who take responsibility, set their standards high and see every failure as an opportunity to learn. You’re looking for an environment where you can thrive. With opportunities to challenge yourself and a talented team by your side, you’ll find what you’re looking for at Audible.
+
+As a Software Engineer, you will...
+
+
+ Design, develop, and test software components and applications for a leading global provider of audiobooks
+ Collaborate on an agile engineering team, writing scalable and maintainable code and influencing team decisions
+ Collaborate with stakeholders to envision, design, develop, test, and launch customer-centric software solutions
+ Utilize technology to tackle challenging problems and deliver high-quality code on schedule
+ Demonstrate proficiency in a wide range of data structures and algorithms, applying them effectively
+ Independently clarify technical requirements, assess development estimates, and employ diverse design approaches
+ Conduct code reviews and provide constructive feedback to team members
+ Foster continuous improvement in software quality, customer experience, and product maintainability
+ Mentor and lead developers, fostering curiosity and deep technical understanding
+
+
+About Audible
+
+Audible is the leading producer and provider of audio storytelling. We spark listeners’ imaginations, offering immersive, cinematic experiences full of inspiration and insight to enrich our customers daily lives. We are a global company with an entrepreneurial spirit. We are dreamers and inventors who are passionate about the positive impact Audible can make for our customers and our neighbors. This spirit courses throughout Audible, supporting a culture of creativity and inclusion built on our People Principles and our mission to build more equitable communities in the cities we call home.
+
+Basic Qualifications
+
+
+ Programming experience with at least one modern language such as Java, C++, C# or React including object-oriented design
+ 1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems
+ 2+ years of non-internship professional software development experience
+ Experience writing clear, maintainable and extensible code
+
+
+Preferred Qualifications
+
+
+ Strong problem-solving skills with the ability to navigate highly complex and ambiguous situations
+ Experience building and delivering software systems to internal or external customers
+ Knowledge of AWS or similar cloud-based infrastructure and/or developer tools
+ Strong verbal and written communication skills, enabling effective messaging with both technical and non-technical audiences
+ A high-quality bar: documentation, unit testing, code reviews, test automation, continuous integration & deployment
+ Able to work through ambiguous problems independently, willing to take ownership
+ Able to make improvements to the team’s development and testing processes
+
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+
+Company - Audible, Inc.
+
+Job ID: A3061877

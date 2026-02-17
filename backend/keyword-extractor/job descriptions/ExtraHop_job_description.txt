@@ -1,0 +1,74 @@
+About the job
+
+ExtraHop is reinventing Network Detection and Response (NDR) to help enterprises and organziations stay ahead of emerging threats with unmatched network visibility, context, and control.
+
+Today's attackers bypass traditional security defenses through identity-based entry, move invisibly across cloud, on-premise, and data center networks using encryption and trusted applications, and exploit and exit whenever they want. But all of that movement is visible on the network... if you can see it.
+
+By combining the power of NDR with Network Performance Management (NPM), Intrusion Detection Systems (IDS), and forensics in a single, integrated platform, ExtraHop can decrypt and unlock complete packet-level data at wire speed, analyze and correlate it across all your networks, applications, devices, and users with cloud-scale machine learning, and provide a single interface to the SOC to detect, investigate, and remediate modern cyber risks in real time.
+
+Position Summary
+
+Founded by engineers, ExtraHop is a technology start-up located in downtown Seattle that delivers elegant solutions for the IT industry's most challenging problems. The ExtraHop system is an application-aware wire-data processing technology that keeps network applications running at light speed.
+
+Software Engineer I roles are entry-level engineering positions responsible for contributing to software development projects, building scalable and reliable systems, and learning industry best practices under guidance of senior engineers.
+
+We're looking for the right people to join us as we design and build the most cutting-edge products in operational intelligence. We're hiring those who want to solve problems and have the skills and attention to detail to back up their ideas. We move quickly and have a passion for building elegant, scalable solutions.
+
+Key Responsibilities
+
+
+Contribute to the automation of infrastructure and processes using modern tools.
+Support continuous integration pipelines, automated testing, and frequent release cycles.
+Assist in the development and maintenance of products and services, with attention to security, scalability, and stability. 
+Participate in the design and implementation of reliable systems, including monitoring and remediation.
+Engage with modern software technologies to enhance platform capabilities and reduce manual effort.
+
+
+Required Qualifications
+
+
+Bachelor's degree in Computer Science, Engineering or a related discipline
+0 to 1+ years of software engineering experience, new grads encouraged to apply
+Knowledge of at least one modern programming language (e.g., Linux, Go, Python, Java or similar)
+Self-starter with a strong problem-solving skills, curiosity, and ability to learn quickly
+Effective communication and collaboration skills
+Collaborates effectively with team members and cross-functional stakeholders across the organization
+Thrives in dynamic environments, demonstrating adaptability and focus under pressure
+Maintains consistent and reliable attendance, supporting team and project need
+
+
+The salary range for this role is $110,000 - $125,000 + bonus + benefits
+
+ABOUT EXTRAHOP: 
+
+
+
+ExtraHop empowers enterprises to stay ahead of evolving threats with the most comprehensive approach to network detection and response (NDR). Since 2007, the company has helped organizations across the globe extract real-time insights from their hybrid networks with the most in-depth network telemetry.
+
+ExtraHop NDR uniquely integrates network threat detection, network performance management (NPM), intrusion detection (IDS), and packet forensics into a single console with 100GB+ sensors, real-time decryption, and cloud-scale machine learning - delivering complete network visibility, unmatched context for data-driven security decisions, and improved SOC productivity.
+
+ExtraHop is recognized by leading organizations for both its innovation in the market and its commitment to building a world-class team. We are the only NDR vendor recognized as a leader by all major analyst firms including the 2024 Gartner® Magic Quadrant for Network Detection and Response™, the 2023 Forrester® Wave for Network Analysis and Visibility, the 2024 IDC® Marketscape for NDR, and the 2024 Gigamon® Radar Report for Network Detection and Response.
+
+OTHER BENEFITS: 
+
+Employees' wellbeing is top of mind for the ExtraHop team. Employees and their families will have the option to participate in the following benefits:
+
+
+Health, Dental, and Vision Benefits
+Flexible PTO, Sick Time Prorated Based on Date of Hire, and All Federal Holidays (US Only) + 3 Days of Paid Volunteer Time
+Non-Commissioned Positions may be eligible to participate in the Annual Discretionary Bonus Plan
+FSA and Dependent Care Accounts + EAP, where applicable
+Educational Reimbursement
+401k with Employer Match or Pension where applicable
+Pet Insurance (US Only)
+Parental Leave (US Only)
+Hybrid and Remote Work Model
+
+
+Our people are our most important competitive advantage, leading the charge against cyber criminals. Join the fight today!
+
+To learn more, visit www.extrahop.com or follow us on LinkedIn.
+
+Create a Job Alert
+
+Interested in building your career at ExtraHop? Get future opportunities sent straight to your email.

@@ -1,0 +1,494 @@
+Gap Inc.
+
+Software Engineer 
+
+Pleasanton, CA · 10 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$161.6K/yr - $166.6K/yr
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Sunny Cheng 
+
+• 2nd
+
+International Relations Global Business | First Gen @ USC
+
+School alum from University of Southern California
+
+Follow
+About the job
+
+About Gap Inc.
+
+Our brands bridge the gaps we see in the world. Old Navy democratizes style to ensure everyone has access to quality fashion at every price point. Athleta unleashes the potential of every woman, regardless of body size, age or ethnicity. Banana Republic believes in sustainable luxury for all. And Gap inspires the world to bring individuality to modern, responsibly made essentials.    
+
+This simple idea—that we all deserve to belong, and on our own terms—is core to who we are as a company and how we make decisions. Our team is made up of thousands of people across the globe who take risks, think big, and do good for our customers, communities, and the planet. Ready to  learn fast, create with audacity and lead boldly? Join our team.
+
+About The Role
+
+Partner with Product Managers, Solution Architects, and Engineering peers to define, analyze, and estimate levels of effort to deliver at-scale solutions to meet business requirements. Gain an extensive understanding of key dependencies with external and internal teams to collaborate on cross-functional initiatives. Write well-written, self-documenting code that follows best practices and design patterns. Maximize system uptime / availability and ensuring functional & performance SLAs are met and establish end-to-end monitoring and alerting for various systems. Practice relentless automation, continuous integration, and continuous delivery. Embrace and implement best-in-class DevOps practices with end-to-end “design, build and run” responsibilities with the aim of operating a low-touch Production environment.
+
+Salary Range: $161,637 - $166,637 USD
+
+Employee pay will vary based on factors such as qualifications, experience, skill level, competencies and work location. We will meet minimum wage or minimum of the pay range (whichever is higher) based on city, county and state requirements.
+
+What You'll Do
+
+
+Utilizing Java and Spring Boot to architect and implement scalable backend services and RESTful APIs, supporting high-throughput enterprise applications with modular service design.
+Designing microservices architectures using containerization (Docker) and orchestration tools (Kubernetes), enabling independent deployment, fault tolerance, and horizontal scalability in Azure cloud. Experience with Kafka messaging infrastructure for building scalable, event-driven systems and ensuring reliable, asynchronous communication between microservices.
+Writing optimized SQL queries and managing PostgreSQL databases, including schema design, indexing strategies, and performance tuning for transactional and analytical workloads.
+Implementing CI/CD pipelines using Jenkins and GitHub Actions / ArgoCD to automate build, test, and deployment workflows across multiple environments, ensuring rapid and reliable software delivery.
+Leading Agile development teams, participating in sprint planning, retrospectives, and backlog grooming, and using Jira to manage epics, user stories, and team velocity.
+Developing and executing BDD test scenarios using Cucumber and Gherkin to validate business logic and ensure feature completeness from a user-centric perspective.
+Managing enterprise job scheduling using CA Workload Automation (AutoSys) to orchestrate batch jobs, monitor dependencies, and ensure SLA compliance across distributed systems.
+
+
+Who You Are
+
+
+Masters’s degree or foreign degree equivalent in Computer Science, Information Technology Management or related field and two (2) years of experience in the related role or job offered.
+
+
+Benefits at Gap Inc.
+
+
+Merchandise discount for our brands: 50% off regular-priced merchandise at Old Navy, Gap, Banana Republic and Athleta, and 30% off at Outlet for all employees.
+One of the most competitive Paid Time Off plans in the industry.*
+Employees can take up to five “on the clock” hours each month to volunteer at a charity of their choice.*
+Extensive 401(k) plan with company matching for contributions up to four percent of an employee’s base pay.*
+Employee stock purchase plan.*
+Medical, dental, vision and life insurance.*
+See more of the benefits we offer.
+For eligible employees
+
+
+Gap Inc. is an equal-opportunity employer and is committed to providing a workplace free from harassment and discrimination. We are committed to recruiting, hiring, training and promoting qualified people of all backgrounds, and make all employment decisions without regard to any protected status. We have received numerous awards for our long-held commitment to equality and will continue to foster a diverse and inclusive environment of belonging. In 2022, we were recognized by Forbes as one of the World's Best Employers and one of the Best Employers for Diversity.
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Pleasanton, California, United States
+
+Off
+Put your best foot forward with your application
+
+Hire a resume writer
+
+Get a resume review
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+931
+
+total
+
+931
+
+in the past day
+
+Candidate seniority level
+
+88% Entry level candidates
+
+8% Senior level candidates
+
+Candidate education level
+
+89
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+10
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Gap Inc.
+Powered by Bing
+
+Company focus areas
+
+• Financial and Operational Rigor: Gap aims to maintain and build upon financial and operational rigor through an optimized cost structure and disciplined inventory management.
+
+...more
+
+Sources: sec.gov +1 more
+
+Hiring & headcount
+
+Expanding engineering and accounting: The 'Engineering' and 'Accounting' departments have shown significant increases in job openings by 126% and 125% respectively, indicating a strong focus on these areas which could suggest new projects or technological advancements. Growth in business development and arts and design: The 'Business Development' and 'Arts and Design' departments have seen job openings increase by 80%, suggesting initiatives in expanding business opportunities and enhancing creative aspects. Stable growth in sales and operations: The 'Sales' and 'Operations' departments have experienced a steady increase in headcount by 4%, indicating ongoing efforts to strengthen these core functions. Focus on product management and community services: The 'Product Management' and 'Community and Social Services' departments have seen headcount increases by 7% and 8% respectively, highlighting new initiatives in product development and community engagement.
+… more
+
+The latest hiring trend
+
+70,761
+
+Total employees
+
+8%
+
+Company-wide
+
+2 year growth
+
+0%
+
+Engineering
+
+2 year growth
+
+Chart
+Chart with 25 data points.
+The chart has 1 X axis displaying Time. Data ranges from 2024-01-01 00:00:00 to 2026-01-01 00:00:00.
+The chart has 1 Y axis displaying values. Data ranges from 65303 to 70761.
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+50000
+100000
+End of interactive chart.
+
+Median employee tenure: 7.3 years
+
+Gap Inc. hires candidates from some of these companies and schools
+
+Gap Inc. hired 10 people from University of Southern California. See all
+
+Gap Inc. hired 191 people from University of Southern California. See all
+
+Competitors
+
+Gap Inc. operates in a highly competitive retail landscape, facing significant competition from both established brands and innovative newcomers. The company is focusing on brand reinvigoration, digital growth, and strategic changes to reclaim its market position. Key competitors are leveraging new merchandising strategies, evolving consumer targeting, and fresh approaches to affordable fashion to challenge Gap's market share.
+… more
+
+Sources: retailboss.co +3 more
+
+Show Premium Insights
+About the company
+
+Gap Inc.
+
+550,099 followers
+
+Follow
+
+Retail
+
+ • 
+
+10001+ employees
+
+ • 
+
+16,520 on LinkedIn
+
+Gap Inc., a house of iconic brands, is the largest specialty apparel company in America. Its Old Navy, Gap, Banana Republic, and Athleta brands offer clothing, accessories, and lifestyle products for men, women and children. Since 1969, Gap Inc. has created products and experiences that shape culture, while doing right by employees, communities and the planet. Gap Inc. products are available worldwide through company-operated stores, franchise stores, and e-commerce sites. Fiscal year 2023 net sales were $14.9 billion. For more information, please visit www.gapinc.com.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Full Stack Developer
+
+Easy Street Capital
+
+Irvine, CA (On-site)
+
+Medical, Vision, Dental, 401(k), +3 benefits
+
+1 school alumni works here
+
+Posted on January 30, 2026, 2:06 PM
+59 minutes ago
+
+ · 
+
+ Easy Apply
+
+Software Engineer – AI Expert
+
+Mercor
+
+United States (Remote)
+
+$50/hr - $150/hr
+
+6 company alumni work here
+
+Posted on January 30, 2026, 2:56 PM
+9 minutes ago
+
+Software Engineer, New Grad (2026 Start) (Verified job)
+Software Engineer, New Grad (2026 Start) 
+
+Zip
+
+San Francisco, CA (Hybrid)
+
+$140K/yr - $145K/yr
+
+ • 
+
+401(k), +1 benefit
+
+3 company alumni work here
+
+Posted on January 30, 2026, 1:18 PM
+1 hour ago
+
+Python Developer, Associate / Chicago, IL (Verified job)
+Python Developer, Associate / Chicago, IL 
+
+ BlackRock, Inc.
+
+Chicago, IL (Hybrid)
+
+19 company alumni work here
+
+Posted on January 30, 2026, 8:28 AM
+6 hours ago
+
+Developer - Software Engineer I (Verified job)
+Developer - Software Engineer I 
+
+Blue Origin
+
+Denver, CO (On-site)
+
+$101.4K/yr - $154.9K/yr
+
+ • 
+
+401(k) benefit
+
+21 company alumni work here
+
+Posted on January 30, 2026, 2:52 PM
+12 minutes ago
+
+Developer - Software Engineer I (Verified job)
+Developer - Software Engineer I 
+
+Blue Origin
+
+Greater Seattle Area (On-site)
+
+$101.4K/yr - $154.9K/yr
+
+ • 
+
+401(k) benefit
+
+21 company alumni work here
+
+Posted on January 30, 2026, 2:52 PM
+12 minutes ago
+
+Associate Software Engineer (Verified job)
+Associate Software Engineer 
+
+Jerry
+
+Palo Alto, CA (On-site)
+
+401(k) benefit
+
+2 school alumni work here
+
+Posted on January 30, 2026, 11:16 AM
+3 hours ago
+
+Software Development Engineer I
+
+Mercor
+
+United States (Remote)
+
+$50/hr - $150/hr
+
+1 connection works here
+
+Posted on January 30, 2026, 2:56 PM
+9 minutes ago
+
+Developer - Software Engineer I (Verified job)
+Developer - Software Engineer I 
+
+Blue Origin
+
+Reston, VA (On-site)
+
+$101.4K/yr - $154.9K/yr
+
+ • 
+
+401(k) benefit
+
+21 company alumni work here
+
+Posted on January 30, 2026, 2:52 PM
+12 minutes ago
+
+Software Engineer (entry) (Verified job)
+Software Engineer (entry) 
+
+Jerry
+
+Palo Alto, CA (On-site)
+
+401(k) benefit
+
+2 school alumni work here
+
+Posted on January 30, 2026, 11:16 AM
+3 hours ago
+
+Software Engineer
+
+Hyra
+
+California, United States (Remote)
+
+$106.2K/yr - $143.8K/yr
+
+Posted on January 30, 2026, 2:09 PM
+55 minutes ago
+
+Software Engineer (Verified job)
+Software Engineer 
+
+Evolent Health
+
+United States (Remote)
+
+$95K/yr - $105K/yr
+
+ • 
+
+Medical benefit
+
+5 school alumni work here
+
+Posted on January 30, 2026, 1:52 PM
+1 hour ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

@@ -1,0 +1,286 @@
+Qualtrics
+
+Software Engineer II - DSX 
+
+Provo, UT · 1 hour ago · 80 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+School alumni from University of Southern California
+
+Show all
+About the job
+
+At Qualtrics, we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for convention—but most of all it requires close-knit, high-functioning teams with an unwavering dedication to serving our customers.
+
+When you join one of our teams, you’ll be part of a nimble group that’s empowered to set aggressive goals and move fast to achieve them. Strategic risks are encouraged and complex problems are solved together, by passing the mic and iterating until the best solution comes to light. You won’t have to look to find growth opportunities—ready or not, they’ll find you. From retail to government to healthcare, we’re on a mission to bring humanity, connection, and empathy back to business. Join over 5,000 people across the globe who think that’s work worth doing.
+
+Software Development Engineer II - Data Analytics Platform Team
+
+Why We Have This Role
+
+Our team is a collection of deeply passionate engineers who are riding the groundbreaking of cloud computing and web scalability! We build the data analytics platform infrastructure and applications that help company leaders gain insights about our company’s data. This allows Qualtrics to make sound decisions on technology and customer experience investments. If you have a Bachelor’s degree and 2+ years of experience as a software engineer working on internal data platforms and infrastructure, Qualtrics could be the place for you!
+
+How You’ll Find Success
+
+
+Defining and driving data architecture that drives our success as a company
+Shown ability to troubleshoot and identify the root cause of issues
+Demonstrated skill and passion for operational excellence
+Ability to retain composure under stressful conditions, communicate effectively with wide array of individuals at Qualtrics, and get the right things done
+Ability to understand large systems, drilling down to code level
+
+
+How You’ll Grow
+
+
+Passionate about data and getting data to the hand of people and effectively get their job done
+Passioned about building infrastructure that scales to the needs of the business
+Curious and constantly learning on your own and from others
+You get satisfaction from helping others succeed, and you constantly seek ways to improve
+You can identify gaps, propose solutions to important problems, then take it to resolution
+
+
+Things You’ll Do
+
+
+Developing scalable, fast, robust, and simple self-service data analytics solutions to solve complex business problems
+Help us shape our data governance process and streamlining data accessibility
+Close collaboration with your team to collect and incorporate feedback into your feature design
+Drive operational excellence by investigating production issues, driving root cause analysis and follow-up actions for mitigation
+Improve performance, availability, reliability, scale, throughput and latency
+Work with your team in order to meet customer work you're doing, understand the decisions that are being made and make your voice heard
+
+
+What We’re Looking For On Your Resume
+
+
+Bachelor's degree in Computer Science, IT, or related field
+2+ years of professional coding experience with any programming language (Prefer experience in TypeScript/JavaScript/React/Python)
+Experience with web infrastructure and distributed systems
+Experience with software engineering best practices (e.g. unit testing, code reviews, design, continuous delivery, git, test automation and build\deploy systems)
+Ability to work in a fast-paced and agile development environment and to learn new frameworks/stacks
+Experience building data infrastructure is a plus
+
+
+What You Should Know About This Team
+
+
+Our environment is primarily Python, TypeScript/JavaScript, AWS, Kubernetes and Docker.
+Some of our tools that we use day to day: Redshift, Airflow, dbt.
+In our collaborative culture, you’ll find plenty of opportunities to impact our full-stack products in the realm of data; from data processing and storage to data visualization & analysis and from the orchestration and scheduling of data intensive applications at a scale to the monitoring, alerting and observability of data health metrics.
+
+
+Our Team’s Favorite Perks And Benefits
+
+
+We spend 10% of our time on individual engineering growth activities every quarter
+We participate in personalized Career Action Planning. You will work with your manager to design a plan based on your life experiences, values, and career aspirations (inside and outside Qualtrics) that helps you achieve your career goals at Qualtrics
+Full time employees receive an annual experience bonus after their first year of employment. Qualtrics Experience Bonus is a program designed to provide experiences to our employees they might not otherwise have.
+Variable allowances for wellness, meals, transportation, and more.
+
+
+The Qualtrics Hybrid Work Model: Our hybrid work model is elegantly simple: we all gather in the office three days a week; Mondays and Thursdays, plus one day selected by your organizational leader. These purposeful in-person days in thoughtfully designed offices help us do our best work and harness the power of collaboration and innovation. For the rest of the week, work where you want, owning the integration of work and life. #hybrid
+
+Qualtrics is an equal opportunity employer meaning that all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other protected characteristic.
+
+ Applicants in the United States of America have rights under Federal Employment Laws:Family & Medical Leave Act, Equal Opportunity Employment, Employee Polygraph Protection Act
+
+Qualtrics is committed to the inclusion of all qualified individuals. As part of this commitment, Qualtrics will ensure that persons with disabilities are provided with reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please let your Qualtrics contact/recruiter know.
+
+Not finding a role that’s the right fit for now? Qualtrics Insiders is the one-stop shop for all things Qualtrics Life. Sign up for exclusive access to content created with you in mind and get the scoop on what we have going on at Qualtrics - upcoming events, behind the scenes stories from the team, interview tips, hot jobs, and more. No spam - we promise! You'll hear from us two times a month max with fresh, totally tailored info - so be sure to stay connected as you explore your best role and company fit.
+… more
+
+Set alert for similar jobs
+
+Software Engineer, Provo, Utah, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+80
+
+total
+
+80
+
+in the past day
+
+Candidate seniority level
+
+95% Entry level candidates
+
+4% Senior level candidates
+
+Candidate education level
+
+95
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+4
+
+%
+
+have a Bachelor's Degree
+
+
+1
+
+%
+
+have a Doctor of Philosophy
+Exclusive Job Seeker Insights about Qualtrics
+Powered by Bing
+
+Company focus areas
+
+• Driving adoption of XM platform: Qualtrics aims to increase the adoption of its Experience Management (XM) platform across various industries and regions. This involves enhancing user engagement and expanding the platform's capabilities.
+
+...more
+
+Sources: fernfortuniversity.com +1 more
+
+Hiring & headcount
+
+Engineering expansion: The 'Engineering' department has seen a 20% increase in headcount, indicating a significant investment in product development and innovation. Quality Assurance growth: The 'Quality Assurance' function has experienced a 42% increase in employees, suggesting a focus on improving product quality and reliability. Administrative and Education focus: Both 'Administrative' and 'Education' departments have grown by 43% and 30% respectively, highlighting an emphasis on internal support and training initiatives. Marketing and Legal investments: The 'Marketing' and 'Legal' departments have increased by 4% and 7% respectively, pointing to enhanced efforts in market outreach and legal compliance.
+… more
+
+The latest hiring trend
+
+6,099
+
+Total employees
+
+13%
+
+Company-wide
+
+2 year growth
+
+9%
+
+Engineering
+
+2 year growth
+
+Loading chart...
+
+Median employee tenure: 3.1 years
+
+Qualtrics hires candidates from some of these companies and schools
+
+Qualtrics hired 5 people from University of Southern California. See all
+
+Qualtrics hired 27 people from University of Southern California. See all
+
+Competitors
+
+Qualtrics International is a leader in the experience management (XM) market, leveraging its comprehensive, AI-driven platform to distinguish itself from competitors. The company has demonstrated consistent revenue growth and strategic innovation, particularly through significant acquisitions like Press Ganey Forsta. The competitive landscape includes both direct and indirect rivals, with companies like Medallia, SoGoSurvey, and Luminoso offering alternative solutions in the XM space.
+… more
+
+Sources: zonkafeedback.com +3 more
+
+Show Premium Insights
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))

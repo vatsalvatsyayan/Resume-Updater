@@ -1,0 +1,111 @@
+About the job
+
+Position: Software Engineer
+
+ 
+
+Our Value is in our People:
+
+Praeses will allow you to work with cutting-edge technology alongside some of the brightest people in the industry. Every employee here has a voice in what we do and how we do it, and we are all passionate about our work. We believe in collaboration and creating an open platform to share ideas. We are focused on your success and provide an environment designed to foster personal and professional growth. Our benefits are competitive, and our culture makes this both a fun and rewarding place to be.
+
+ 
+
+About the position:
+
+The Software Engineer is responsible for designing, developing, testing, and maintaining software applications in alignment with business requirements and technical specifications. This role involves writing clean, efficient, and well-documented code, participating in code reviews, and collaborating closely with product managers, designers, and other engineers to deliver high-quality solutions. The Software Engineer is also expected to contribute to system architecture discussions, identify areas for improvement in existing systems, and support deployment and maintenance activities in production environments. Listed below is an outline of the major duties and responsibilities that you will be expected to perform in this role:
+
+
+
+
+· Lead design, development, testing, and delivery of complex full-stack features 
+
+· Troubleshoot, debug, and enhance existing software solutions 
+
+· Perform high-impact code reviews that elevate team standards and system quality 
+
+· Facilitate and guide SCRUM ceremonies to align development with project goals 
+
+· Mentor team members, resolve blocking issues, and foster knowledge sharing and collaboration 
+
+· Drive discussions with stakeholders to define project scope and requirements 
+
+· Champion emerging tools, design patterns, and practices that improve team performance and productivity 
+
+· Ensure application security, performance, and long-term maintainability 
+
+· Lead the design of complete software solutions in order to solve complex problems 
+
+· Explore and implement appropriate technologies to deliver shippable solutions in a dynamic environment 
+
+ 
+
+Required Experience and Qualifications: 
+
+· Bachelor’s degree in Computer Science, or related technical field.
+
+· A minimum of 2 years of experience in software development, or a related role. 
+
+· Excellent verbal and written communication skills.
+
+· Familiarity with industry-standard software development processes and technologies (GitHub/Lab, Jira, SCRUM, etc.).
+
+· Experience with modern software development tools. 
+
+· Creative problem-solver with a strong analytical mindset 
+
+· Motivated by solving challenging problems and continuously learning 
+
+· Firm understanding of usability design principles.
+
+ 
+
+Preferred Additional Experience and Qualifications: 
+
+· Experience working with CUI or related sensitive data.
+
+· Experience working on federal defense contracts. 
+
+· Experience with Azure CI/CD or deployment.
+
+· Proficiency with the Microsoft Office suite of software.
+
+· CompTIA Security+ Certification.
+
+
+
+
+What will set you apart:
+
+· Use creativity and ingenuity to solve challenging problems.
+
+· Remain well-organized and efficient, with an ability to multitask and triage obligations.
+
+· Be adaptable to an ever-changing, exploratory environment.
+
+· Possess a high attention to detail.
+
+· Have a goal-oriented mindset with a commitment to continued learning.
+
+· Experience as a technical leader on Web Development teams 
+
+
+
+
+Compensation Range:
+
+$65,000-$85,000 annual
+
+
+
+
+About Praeses:
+
+Praeses is a family-owned, privately held software company located in Shreveport, LA. Since its founding more than 35 years ago, Praeses has developed products and associated services for private industry as well as federal, state, and local government with solutions that specialize in data fusion and visualization. The company solves complex problems through expert software development and a laser focus on customer needs and is growing at a rapid pace. Today, Praeses’ products are utilized by customers across the country and our employee footprint of talented individuals extends from coast to coast. 
+
+ 
+
+Praeses provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. 
+
+ 
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.

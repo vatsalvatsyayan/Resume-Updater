@@ -1,0 +1,36 @@
+About the job
+
+Lucid Software is the leader in visual collaboration, helping teams see and build the future from idea to reality. Our products, business, and workplace culture have received numerous awards, such as being named to the Forbes Cloud 100 and a Fortune Best Workplace in Technology. Lucid is a hybrid workplace, allowing employees to work remotely, from one of our offices, or a combination of the two depending on the needs of the role and team. At Lucid, we hold true to our core values of teamwork over ego, innovation in everything we do, individual empowerment, initiative, and ownership, and passion and excellence in every area. We value diversity and are dedicated to creating an environment that is respectful and inclusive for everyone.
+
+As a Software Engineer at Lucid Software you will be helping to build our world-class web applications that push the boundaries of what is possible in your browser. They are powerful HTML5/JavaScript applications that use a state of the art tech stack like Angular, TypeScript, Scala, and AWS to craft a user experience that feels like a desktop application.
+
+We are looking for extraordinary Software Engineers to join our team once they have completed their schooling this upcoming year. We want developers who are ready to build creative applications that customers love. You will have a significant influence on our strategy by helping to define product features, drive the system architecture, and spearhead best practices to create a quality product. If you know how to deliver, are deeply technical and highly innovative, and relish the opportunity to delight customers with pioneering solutions to challenging problems, we want to talk to you!
+
+Responsibilities:
+
+
+Design, develop, test, deploy, maintain, and improve software
+Manage project priorities, deadlines, and deliverables
+Collaborate with team members to set and achieve team goals
+Other duties as assigned
+
+
+Requirements:
+
+
+Will have completed a BS or MS Degree in Computer Science or in a related technical field with a minor in Computer Science
+High academic performance in Computer Science courses
+Commitment to teamwork and strong communication skills (to both business and technical partners)
+
+
+Preferred Qualifications:
+
+
+Experience with JavaScript
+Experience with CSS/HTML/DOM manipulation
+Understanding of MySQL or other relational database
+Bias towards finding solutions vs. shutting down ideas
+Detail oriented and organized
+
+
+Important Note: These qualifications are what we are generally looking for but don't expect you to meet them all. We know that everyone is an individual and brings with them additional knowledge and capabilities that will bring value with them to the job. We have an excellent mentorship program to help new employees come up to speed. If you tick off half or so of the bullet points and the others sound like areas you want to develop in, please apply.

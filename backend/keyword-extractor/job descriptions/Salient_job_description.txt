@@ -1,0 +1,462 @@
+Salient
+
+Forward Deployed Software Engineer
+
+San Francisco, CA · 20 hours ago · Over 100 people clicked apply
+
+Promoted by hirer · Responses managed off LinkedIn
+
+$140K/yr - $200K/yr
+On-site
+Full-time
+Apply
+Save
+Use AI to assess how you fit
+
+Show match details
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+
+Alec Jenab
+
+• 2nd
+
+applied ai @ salient
+
+School alum from University of Southern California
+
+Connect
+About the job
+
+About Us
+
+We’re building the AI infrastructure powering the future of financial operations - starting with automating the most painful and complex workflows in loan servicing.
+
+
+Backed by a16z and Y Combinator, with $65M raised in Series A funding.
+8-figure ARR < 2 years already serving > 20% of the auto lending industry, and processing millions of real customer calls and transactions daily.
+Fully deployed with major financial institutions - not just PoCs.
+We are expanding into new financial services segments!
+In-person office culture in San Francisco, CA.
+
+
+We're fully integrated with our customers, own the full stack, and are moving fast to bring modern AI into regulated industries where precision, reliability, and performance matter most.
+
+About The Role
+
+We're seeking a Forward Deployed Software Engineer to work directly with our customers to implement our technology and build any required customizations. In this role, you will apply your problem-solving ability, creativity, and technical skills to be a customer’s first resource for implementing AI agents in their company. This role is critical in helping us deliver reliable, compliant, and efficient customer service solutions to millions of borrowers.
+
+Responsibilities
+
+
+You will own the end-to-end implementation and execution of high-stakes customer engagements and projects, determining what the customer requirements are and how best to apply our Voice AI Agent solution
+Implement and build new features with customers, and implement them in the core engineering product
+
+
+Requirements
+
+
+Relevant college and post-college work experience in a fast moving work environment
+Customer-facing polish, with ability to extract requirements and run discovery - strong communicator
+Ownership mindset — someone who treats every deployment like a mission-critical project
+Strong hands on coder with proven proficiency in programming languages in either Python, Typescript or Javascript
+Excellence in technical documentation and cross-team communication
+Ability to collaborate with technical and non-technical customers, and comfortable working in a dynamic environment with evolving objectives and many iterations with customers
+Ability to work 4 days a week from our San Francisco office (open to candidates willing to relocate)
+
+
+At Salient, we’re building at the edge of AI - fast, focused, and with real ownership. Sprints and major launches move quickly, and we look for people who are energized by that pace and ready to collaborate in person 4 days a week in our San Francisco office.
+
+We also offer a benefits package designed to support our full-time employees: medical, dental, and vision coverage, a generous 401(k), and catered lunches.
+
+Compensation Range: $140K - $200K
+
+
+… more
+
+Benefits found in job post
+
+401(k)
+
+Set alert for similar jobs
+
+Software Engineer, San Francisco, California, United States
+
+Off
+See how you compare to others who clicked apply
+Based on LinkedIn data. Excludes subsidiaries.
+Candidates who clicked apply
+
+128
+
+total
+
+128
+
+in the past day
+
+Candidate seniority level
+
+76% Entry level candidates
+
+10% Senior level candidates
+
+Candidate education level
+
+79
+
+%
+
+have a Master's Degree (Similar to you)
+
+
+18
+
+%
+
+have a Bachelor's Degree
+
+
+2
+
+%
+
+have a Master of Business Administration
+
+
+1
+
+%
+
+have other degrees
+Exclusive Job Seeker Insights about Salient
+Powered by Bing
+
+The latest hiring trend
+
+47
+
+Total employees
+
+840%
+
+Company-wide
+
+2 year growth
+
+450%
+
+Engineering
+
+2 year growth
+
+Jan 2024
+May 2024
+Sep 2024
+Jan 2025
+May 2025
+Sep 2025
+Jan 2026
+0
+25
+50
+
+Median employee tenure: 0.6 years
+
+Salient hires candidates from some of these companies and schools
+
+Salient hired 1 person from University of Southern California. See all
+
+Show Premium Insights
+About the company
+
+Salient
+
+4,914 followers
+
+Follow
+
+Technology, Information and Internet
+
+ • 
+
+11-50 employees
+
+ • 
+
+46 on LinkedIn
+
+Salient enables US consumer lenders to increase recovery, resolve disputes and losses faster, reduce manual servicing workload, and strengthen exam readiness, all through AI agents purpose-built for regulated lending.
+
+Our platform uses compliance-first agents to automate complex workflows across collections, customer service, QA/compliance review, disputes and chargebacks, and total-loss mitigation. Every agent is designed around US supervisory expectations and uses borrower-level memory to deliver consistent, context-aware interactions.
+
+Built to integrate with the systems lenders already use, Salient helps banks, credit unions, auto lenders, and fintechs operate more efficiently without compromising compliance or borrower outcomes.
+… more
+
+Interested in working with us in the future?
+
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates. Learn more
+
+I’m interested
+More jobs
+
+Full Stack Engineer (Agentic AI) | New York
+
+Lyzr AI
+
+New York City Metropolitan Area (On-site)
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 5:49 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+C# Developer - Front Office Trading Desk Support
+
+INFOTRON
+
+Manhattan, NY (Hybrid)
+
+You’d be a top applicant
+
+Posted on January 18, 2026, 11:43 AM
+2 hours ago
+
+Founding Engineer
+
+Story Inc.
+
+Salt Lake City, UT (Hybrid)
+
+Medical benefit
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 8:10 AM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Python Software Engineer (Verified job)
+Python Software Engineer 
+
+Alvarez and Marsal
+
+New York, NY
+
+$70/hr - $90/hr
+
+8 company alumni work here
+
+Posted on January 16, 2026, 6:39 PM
+1 day ago
+
+Client Technology - Software Engineering (Verified job)
+Client Technology - Software Engineering 
+
+EY
+
+Austin, TX (On-site)
+
+$134.2K/yr - $258.3K/yr
+
+ • 
+
+401(k) benefit
+
+2 connections work here
+
+Posted on January 17, 2026, 4:19 AM
+1 day ago
+
+Python Software Engineer (Verified job)
+Python Software Engineer 
+
+Alvarez and Marsal
+
+Tampa, FL
+
+$70/hr - $90/hr
+
+8 company alumni work here
+
+Posted on January 16, 2026, 6:39 PM
+1 day ago
+
+Senior Software Engineer
+
+Neural Payments
+
+Cincinnati Metropolitan Area (Hybrid)
+
+$120K/yr - $150K/yr
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 1:19 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Senior Software Engineer
+
+Neural Payments
+
+Nashville Metropolitan Area (Hybrid)
+
+$120K/yr - $150K/yr
+
+Actively reviewing applicants
+
+Posted on January 16, 2026, 1:16 PM
+2 days ago
+
+ · 
+
+ Easy Apply
+
+Cloud Developer Intern (Verified job)
+Cloud Developer Intern 
+
+IBM
+
+Chicago, IL (Hybrid)
+
+1 connection works here
+
+Posted on January 17, 2026, 3:58 AM
+1 day ago
+
+Python Software Engineer (Verified job)
+Python Software Engineer 
+
+Alvarez and Marsal
+
+Chicago, IL
+
+$70/hr - $90/hr
+
+8 company alumni work here
+
+Posted on January 16, 2026, 6:39 PM
+1 day ago
+
+Entry Level Back End Developer 2026 (Verified job)
+Entry Level Back End Developer 2026 
+
+IBM
+
+Sandy Springs, GA (Hybrid)
+
+1 connection works here
+
+Posted on January 17, 2026, 3:59 AM
+1 day ago
+
+Software Engineer
+
+Heliux
+
+San Francisco, CA (On-site)
+
+1 school alumni works here
+
+Posted on January 18, 2026, 2:32 AM
+11 hours ago
+
+See more jobs like this
+
+Need to hire fast?
+
+Post a job
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+العربية (Arabic)
+বাংলা (Bangla)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+Ελληνικά (Greek)
+English (English)
+Español (Spanish)
+فارسی (Persian)
+Suomi (Finnish)
+Français (French)
+हिंदी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+עברית (Hebrew)
+日本語 (Japanese)
+한국어 (Korean)
+मराठी (Marathi)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+ਪੰਜਾਬੀ (Punjabi)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+తెలుగు (Telugu)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))
