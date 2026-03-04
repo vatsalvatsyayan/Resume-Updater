@@ -434,21 +434,6 @@ tests/test-data/job3/
 python -m tests.test_cover_letter job3
 ```
 
-### Inspecting a Fixture Without Calling Gemini
-
-To verify a fixture loads and parses correctly without making an API call:
-
-```bash
-# From backend/ with venv activated
-python
->>> import sys; sys.path.insert(0, ".")
->>> from tests.test_cover_letter import load_fixture
->>> from pathlib import Path
->>> req = load_fixture(Path("tests/test-data/job1"))
->>> print(req.company_name, "|", req.role_name)
->>> print(req.job_description[:200])
-```
-
 ---
 
 ## Development
