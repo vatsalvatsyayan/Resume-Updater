@@ -1,0 +1,85 @@
+{
+  "personalInfo": {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "portfolioWebsite": "https://jane.dev",
+    "githubUrl": "https://github.com/janedoe",
+    "linkedinUrl": "https://linkedin.com/in/janedoe"
+  },
+  "education": [
+    {
+      "universityName": "Example University",
+      "courseName": "B.S. Computer Science",
+      "courseType": "Bachelor's",
+      "major": "Computer Science",
+      "gpa": "3.8",
+      "location": "Boston, MA",
+      "startDate": "2018-09",
+      "endDate": "2022-05",
+      "isPresent": false
+    }
+  ],
+  "workExperience": [
+    {
+      "companyName": "Tech Corp",
+      "position": "Software Engineer",
+      "location": "Remote",
+      "startDate": "2022-06",
+      "endDate": null,
+      "isPresent": true,
+      "summary": "Full-stack development and API design",
+      "description": "Built and maintained REST APIs using Python and FastAPI. Led migration of legacy monolith to microservices. Collaborated with product and design on React frontends. Improved deployment pipeline reducing release time by 40%."
+    },
+    {
+      "companyName": "StartupXYZ",
+      "position": "Junior Developer",
+      "location": "New York, NY",
+      "startDate": "2021-01",
+      "endDate": "2022-05",
+      "isPresent": false,
+      "summary": "Backend and tooling",
+      "description": "Developed internal tools in Python. Wrote unit and integration tests. Participated in code reviews and sprint planning."
+    }
+  ],
+  "projects": [
+    {
+      "projectName": "Open Source CLI Tool",
+      "link": "https://github.com/janedoe/dev-cli",
+      "techStack": ["Python", "Click", "Docker"],
+      "summary": "Developer productivity CLI",
+      "description": "Designed and shipped a CLI used by 10k+ developers. Handles config management and local dev setup. Received 500+ GitHub stars."
+    },
+    {
+      "projectName": "Portfolio Website",
+      "link": "https://jane.dev",
+      "techStack": ["React", "TypeScript", "Vite"],
+      "summary": "Personal portfolio and blog",
+      "description": "Built with React and Tailwind. SSR and SEO optimized. Integrated with headless CMS."
+    }
+  ],
+  "skills": {
+    "programmingLanguages": ["Python", "JavaScript", "TypeScript"],
+    "frameworks": ["React", "FastAPI", "Django"],
+    "databases": ["PostgreSQL", "MongoDB"],
+    "toolsAndTechnologies": ["Docker", "Git", "CI/CD", "Linux"],
+    "cloud": ["AWS"],
+    "ai": [],
+    "other": []
+  },
+  "certifications": [
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuingOrganization": "Amazon Web Services",
+      "issueDate": "2023-06",
+      "expiryDate": null,
+      "hasNoExpiry": false,
+      "credentialId": null,
+      "credentialUrl": null
+    }
+  ],
+  "volunteer": [],
+  "leadership": [],
+  "jobDescription": "We are looking for a Senior Software Engineer with 3+ years of experience in Python and React. You will own backend services and collaborate with product and design. Experience with AWS and distributed systems is a plus. Strong communication and ownership are required.",
+  "roleName": "Senior Software Engineer",
+  "companyName": "Acme Inc"
+}

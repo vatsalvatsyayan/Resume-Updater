@@ -1,0 +1,6 @@
+# Resume Generator Service - dependencies only (no backend/frontend deps)
+pydantic>=2.0.0
+google-generativeai>=0.8.0
+fpdf2>=2.7.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
