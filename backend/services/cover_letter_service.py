@@ -1,5 +1,5 @@
 from schemas.cover_letter import CoverLetterRequest
-from services import llm_client
+from services import llm_client, company_research_service
 
 
 def _extract_profile_summary(profile_data: dict) -> dict:
@@ -75,49 +75,88 @@ def _extract_profile_summary(profile_data: dict) -> dict:
     }
 
 
-def _build_prompt(request: CoverLetterRequest, profile: dict) -> str:
+def _build_prompt(
+    request: CoverLetterRequest,
+    profile: dict,
+    company_research: str | None,
+) -> str:
     tone_guidance = {
-        "professional": "formal, polished, and business-appropriate",
-        "enthusiastic": "warm, energetic, and passion-forward while remaining professional",
-        "concise": "direct and succinct — every sentence earns its place",
+        "professional": "Clear, honest, and business-appropriate — no fluff or corporate jargon",
+        "enthusiastic": "Warm, energetic, and passion-forward — honest and conversational, never over-the-top",
+        "concise": "Direct and succinct — every sentence earns its place, no filler",
     }
 
-    return f"""You are an expert career coach and professional cover letter writer.
+    company_research_block = (
+        f"{company_research}"
+        if company_research
+        else "Not available. Do not reference any company-specific mission, values, or initiatives beyond what is explicitly stated in the job description."
+    )
 
-Write a compelling cover letter for {profile['name']} applying to the role of {request.role_name} at {request.company_name}.
+    return f"""# Role
+You are an expert Career Coach and Copywriter specializing in "honest conversation" cover letters. Your goal is to write a cover letter that feels human, avoids corporate jargon, and focuses on solving the hiring manager's specific pain points.
 
-## Candidate Profile (from optimized resume)
-Name: {profile['name']}
+# Task
+Write a cover letter for {profile['name']} applying to the role of {request.role_name} at {request.company_name}.
 
-### Work Experience
-{profile['experience']}
+# Instructions & Logic
+1. Identify Pain Points: Analyze the [Job Description] below. Pick the top 3 tasks or responsibilities mentioned. These are the hiring manager's pain points.
+2. The Two-Column Match: Connect those 3 tasks to specific achievements from [My Resume/Experience]. Use numbers and outcomes wherever present (e.g., "improved accuracy by 91%", "saved $4.25M annually").
+3. Speak the Dialect: Use the exact terminology from the job description (e.g., if they say "RAG pipeline," don't say "retrieval system").
+4. Company Research: Use the [Company Research] section to show genuine interest in their mission or a specific initiative. If company research is not available, skip this — do not invent details.
+5. Structure:
+   - Paragraph 1: Who {profile['name']} is and the specific problem they can help {request.company_name} solve.
+   - Paragraph 2–3: Evidence-based achievements directly linked to the top 3 JD tasks. Be specific and quantified.
+   - Paragraph 4: Why this specific company or initiative resonates — reference [Company Research] if available.
+   - Closing: A clear, confident call to action.
 
-### Key Skills
-{profile['skills']}
+# Constraints
+- Tone: {tone_guidance[request.tone]}
+- Length: Strictly under 4 paragraphs (plus a one-line closing). Under 400 words total.
+- Focus: Context over a list of jobs. Answer "why should they care about my skills?"
+- Honesty: If a JD requirement is missing from the resume, do not include it in the cover letter. Do not pretend the skill exists.
+- Avoid corporate buzzwords, generic phrases like 'I am passionate about' and any fluff or gimmicky language.
+- Do NOT invent facts, credentials, or experiences not present in the resume or company research.
+- Do NOT use placeholder text like "[Your Name]" — use {profile['name']} throughout.
+- Output plain text only — no markdown, no bullet points, no section headers.
 
-### Education
-{profile['education']}
+# Input Data
 
-### Notable Projects
-{profile['projects']}
-
-## Job Description
+[Job Description]:
 {request.job_description}
 
-## Writing Instructions
-- Tone: {tone_guidance[request.tone]}
-- Length: 3–4 paragraphs, under 400 words total
-- Paragraph 1 (Opening): State the specific role and company; explain why {profile['name']} is excited about this particular opportunity at {request.company_name}
-- Paragraph 2–3 (Body): Directly connect 2–3 of the strongest experiences or skills above to the requirements in the job description; use specific, concrete examples and quantified achievements where available
-- Paragraph 4 (Closing): Reiterate enthusiasm, include a call to action, and express readiness to discuss further
-- Do NOT invent facts, credentials, or experiences that are not present in the candidate profile above
-- Do NOT include any placeholder text like "[Your Name]" — use the actual name provided
-- Output plain text only; no markdown, no bullet points, no headers
+[My Resume/Experience]:
+Name: {profile['name']}
+
+Work Experience:
+{profile['experience']}
+
+Key Skills:
+{profile['skills']}
+
+Education:
+{profile['education']}
+
+Notable Projects:
+{profile['projects']}
+
+[Company Research]:
+{company_research_block}
 """
 
 
 def generate_cover_letter(request: CoverLetterRequest) -> str:
-    """Build a prompt from the request and call the LLM to generate a cover letter."""
+    """Generate a cover letter by combining profile extraction, company research,
+    and LLM-based writing.
+
+    Flow:
+        1. Extract structured profile summary from the optimized resume JSON
+        2. Attempt company research (non-blocking — skipped gracefully on failure)
+        3. Build the prompt and call Gemini → cover letter
+
+    For quality evaluation of the generated cover letter, use the offline
+    LLM-as-a-judge tool in tests/evaluation/cover_letter_evaluator.py.
+    """
     profile = _extract_profile_summary(request.profile_data)
-    prompt = _build_prompt(request, profile)
+    company_research = company_research_service.research(request.company_name)
+    prompt = _build_prompt(request, profile, company_research)
     return llm_client.generate(prompt)

@@ -53,16 +53,19 @@ backend/
 │   └── cover_letter.py         # CoverLetterRequest / CoverLetterResponse
 ├── services/                   # Business logic layer
 │   ├── llm_client.py           # Gemini API wrapper
-│   └── cover_letter_service.py # Prompt builder + cover letter generation
+│   ├── cover_letter_service.py # Prompt builder + cover letter generation
+│   └── company_research_service.py # DuckDuckGo search + scrape + Gemini summary
 ├── tests/
-│   ├── test_cover_letter.py    # Integration test runner
-│   └── test-data/              # Per-job fixture directories
-│       ├── job1/
-│       │   ├── optimized_resume.json
-│       │   └── job_description.txt
-│       └── job2/
-│           ├── optimized_resume.json
-│           └── job_description.txt
+│   ├── test_cover_letter.py    # Integration test runner (generation + optional evaluation)
+│   ├── test-data/              # Per-job fixture directories
+│   │   ├── job1/
+│   │   │   ├── optimized_resume.json
+│   │   │   └── job_description.txt
+│   │   └── job2/
+│   │       ├── optimized_resume.json
+│   │       └── job_description.txt
+│   └── evaluation/
+│       └── cover_letter_evaluator.py  # LLM-as-a-judge offline quality evaluator
 ├── main.py                     # FastAPI application entry point
 ├── requirements.txt            # Python dependencies
 └── .env.example                # Environment variables template
@@ -300,7 +303,15 @@ If you see JSON responses, your API is working correctly!
 
 ### Overview
 
-`POST /cover-letter/generate` accepts an optimized resume (as JSON), a job description, and target company/role details. It builds a structured prompt and calls the Gemini LLM to produce a plain-text cover letter.
+`POST /cover-letter/generate` accepts an optimized resume (as JSON), a job description, and target company/role details. It:
+1. Extracts a structured profile summary from the resume
+2. Discovers the company's About page via DuckDuckGo, scrapes it, and summarizes it using Gemini (**company research**)
+3. Builds a prompt combining the profile, job description, and company research
+4. Calls Gemini a second time to produce the final plain-text cover letter
+
+Company research is **non-blocking** — if the About page cannot be found or scraped, the cover letter is still generated without that section.
+
+> **TODO (caching):** `company_research_service.research()` makes a DuckDuckGo search + HTTP scrape + Gemini call on every request. Add a cache keyed by normalized company name (lowercase, stripped) with a TTL of ~24 hours to avoid redundant work when multiple users apply to the same company. Viable options: in-memory dict (simple, lost on restart) or a MongoDB collection with a `createdAt` TTL index (persistent, shared across workers). See also the TODO comment in `services/company_research_service.py`.
 
 ### Environment Setup
 
@@ -414,6 +425,58 @@ python -m tests.test_cover_letter job1
 ```
 
 Generated cover letters are saved to `tests/output/<job>_cover_letter.txt`.
+
+### Cover Letter Quality Evaluation
+
+The evaluator in `tests/evaluation/cover_letter_evaluator.py` is an **offline LLM-as-a-judge tool** for measuring the quality of generated cover letters at scale. It is not part of the production API.
+
+It evaluates each generated cover letter against the 8 constraints defined in the cover letter prompt, making one Gemini call per constraint:
+
+| # | Constraint | What is checked |
+|---|---|---|
+| 1 | `tone` | No fluff, buzzwords, or corporate jargon |
+| 2 | `paragraph_count` | Strictly ≤ 4 paragraphs |
+| 3 | `word_count` | Under 400 words |
+| 4 | `focus` | Context over job list — answers "why should they care?" |
+| 5 | `honesty` | Missing skills framed as growth opportunities, not fabricated |
+| 6 | `no_invented_facts` | Every claim traceable to the resume |
+| 7 | `no_placeholder_text` | Actual candidate name used, no `[Your Name]` tokens |
+| 8 | `plain_text` | No markdown, bullets, or section headers |
+
+Each constraint returns `1` (pass) or `0` (fail). Final accuracy = `total_score / 8`.
+
+**Run generation + evaluation together:**
+```bash
+# All jobs
+python -m tests.test_cover_letter --evaluate
+
+# Specific job
+python -m tests.test_cover_letter job1 --evaluate
+```
+
+Outputs per job:
+- `tests/output/<job>_cover_letter.txt` — the generated cover letter
+- `tests/output/<job>_evaluation.json` — per-constraint scores, total score, and accuracy
+
+**Sample `job1_evaluation.json`:**
+```json
+{
+  "scores": {
+    "tone": 1,
+    "paragraph_count": 1,
+    "word_count": 1,
+    "focus": 1,
+    "honesty": 1,
+    "no_invented_facts": 1,
+    "no_placeholder_text": 1,
+    "plain_text": 1
+  },
+  "total_score": 8,
+  "accuracy": 1.0
+}
+```
+
+When evaluating multiple jobs, an **aggregate accuracy summary** is printed at the end — useful for tracking service quality as you add more fixtures.
 
 ### Adding a New Job Fixture
 
@@ -671,7 +734,9 @@ If all checkboxes are checked, you're ready to develop!
 - **PyMongo**: Official MongoDB driver for Python
 - **python-dotenv**: Environment variable management
 - **httpx**: HTTP client for making requests
-- **google-genai**: Google Gemini API SDK for LLM-based cover letter generation
+- **google-genai**: Google Gemini API SDK for LLM-based cover letter generation and company research summarization
+- **duckduckgo-search**: DuckDuckGo search client (no API key required) for discovering company About page URLs
+- **beautifulsoup4**: HTML parser for extracting visible text from scraped web pages
 
 ## Team Collaboration
 
@@ -717,7 +782,7 @@ git commit -m "Add python-jose dependency for JWT handling"
 - `venv/` directory (virtual environment)
 - `__pycache__/` directories
 - `.pyc` files
-- `tests/output/` directory (generated cover letters — runtime artifacts)
+- `tests/output/` directory (generated cover letters and evaluation JSON files — runtime artifacts)
 
 These are already in `.gitignore` but be mindful when adding files.
 

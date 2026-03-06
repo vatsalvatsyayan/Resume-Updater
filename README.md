@@ -101,8 +101,10 @@ frontend/src/
 | Command | Description |
 |---------|-------------|
 | `python main.py` | Start the API server |
-| `python -m tests.test_cover_letter` | Run cover letter generation against all test-data fixtures |
-| `python -m tests.test_cover_letter job1` | Run cover letter generation for a specific job fixture only |
+| `python -m tests.test_cover_letter` | Generate cover letters for all test-data fixtures |
+| `python -m tests.test_cover_letter job1` | Generate cover letter for a specific job fixture only |
+| `python -m tests.test_cover_letter --evaluate` | Generate + evaluate all jobs (LLM-as-a-judge, 8 Gemini calls per job) |
+| `python -m tests.test_cover_letter job1 --evaluate` | Generate + evaluate a specific job only |
 
 ### Frontend
 
