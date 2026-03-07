@@ -8,6 +8,73 @@ export interface ApiResponse<T = unknown> {
   error?: string;
 }
 
+/** Payload for POST /resumes/generate/pdf – matches backend ResumeGeneratorInput */
+export interface ResumeGeneratorPayload {
+  personalInfo: ProfileFormData['personalInfo'];
+  education: ProfileFormData['education'];
+  workExperience: ProfileFormData['workExperience'];
+  projects: ProfileFormData['projects'];
+  skills: ProfileFormData['skills'];
+  certifications: ProfileFormData['certifications'];
+  volunteer: ProfileFormData['volunteer'];
+  leadership: ProfileFormData['leadership'];
+  jobDescription: string;
+  roleName: string;
+  companyName: string;
+}
+
+/** Tailor form fields (company, role, job description) */
+export interface TailorFormData {
+  companyName: string;
+  roleName: string;
+  jobDescription: string;
+}
+
+/** Build JSON body for resume generation from profile + tailor form. */
+export function buildResumePayload(
+  profile: ProfileFormData,
+  tailor: TailorFormData
+): ResumeGeneratorPayload {
+  const stripId = <T extends Record<string, unknown>>(obj: T): Omit<T, 'id'> => {
+    const { id: _, ...rest } = obj;
+    return rest as Omit<T, 'id'>;
+  };
+  return {
+    personalInfo: profile.personalInfo,
+    education: profile.education.map(stripId),
+    workExperience: profile.workExperience.map(stripId),
+    projects: profile.projects.map(stripId),
+    skills: profile.skills,
+    certifications: profile.certifications.map(stripId),
+    volunteer: profile.volunteer.map(stripId),
+    leadership: profile.leadership.map(stripId),
+    jobDescription: tailor.jobDescription,
+    roleName: tailor.roleName,
+    companyName: tailor.companyName,
+  };
+}
+
+/** POST /resumes/generate/pdf with payload; returns PDF blob. */
+export async function generateResumePdf(payload: ResumeGeneratorPayload): Promise<Blob> {
+  const response = await fetch(`${API_BASE_URL}/resumes/generate/pdf`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(payload),
+  });
+  if (!response.ok) {
+    const err = await response.json().catch(() => ({}));
+    const detail = err.detail;
+    const message =
+      typeof detail === 'string'
+        ? detail
+        : Array.isArray(detail)
+          ? detail.map((d: { msg?: string }) => d.msg || JSON.stringify(d)).join(', ')
+          : response.statusText || 'Failed to generate PDF';
+    throw new Error(message);
+  }
+  return response.blob();
+}
+
 export async function submitRegistration(data: ProfileFormData): Promise<ApiResponse> {
   const response = await fetch(`${API_BASE_URL}/user/registration`, {
     method: 'POST',

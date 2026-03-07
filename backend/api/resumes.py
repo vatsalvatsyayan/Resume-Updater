@@ -34,7 +34,7 @@ async def generate_tailored_resume_pdf(body: ResumeGeneratorInput):
     try:
         _, pdf_bytes = generate_resume(body.model_dump(), output_pdf_path=None)
         return Response(
-            content=pdf_bytes,
+            content=bytes(pdf_bytes),
             media_type="application/pdf",
             headers={"Content-Disposition": "attachment; filename=resume.pdf"},
         )

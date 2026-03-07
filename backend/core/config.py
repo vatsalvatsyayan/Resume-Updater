@@ -1,5 +1,10 @@
+from pathlib import Path
+
 from pydantic_settings import BaseSettings
 from typing import List, Optional
+
+# .env lives in backend/; config is in backend/core/ so go up one more level
+_ENV_PATH = Path(__file__).resolve().parent.parent / ".env"
 
 
 class Settings(BaseSettings):
@@ -15,10 +20,10 @@ class Settings(BaseSettings):
     GOOGLE_API_KEY: Optional[str] = None
     GEMINI_API_KEY: Optional[str] = None
     RESUME_LLM_PROVIDER: str = "gemini"
-    RESUME_LLM_MODEL: str = "gemini-2.0-flash"
+    RESUME_LLM_MODEL: str = "gemini-2.5-flash"
 
     class Config:
-        env_file = ".env"
+        env_file = str(_ENV_PATH)
         case_sensitive = True
 
     @property

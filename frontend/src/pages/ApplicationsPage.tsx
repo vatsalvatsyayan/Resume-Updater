@@ -5,6 +5,8 @@ import { toast } from 'sonner';
 import { Header } from '@/components/layout';
 import { TailorResumeModal, type TailorResumeFormData } from '@/components/modals';
 import { cn } from '@/lib/cn';
+import { buildResumePayload, generateResumePdf } from '@/lib/api';
+import { sampleResumeProfile } from '@/data/sampleResume';
 
 interface Application {
   id: number;
@@ -46,16 +48,24 @@ export function ApplicationsPage() {
   const handleTailorSubmit = async (data: TailorResumeFormData) => {
     setIsSubmitting(true);
     try {
-      // TODO: Send to API for resume tailoring
-      console.log('Tailoring resume for:', data);
-
-      // Simulate API call
-      await new Promise((resolve) => setTimeout(resolve, 1000));
-
+      const payload = buildResumePayload(sampleResumeProfile, data);
+      const blob = await generateResumePdf(payload);
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `resume-${data.companyName.replace(/\s+/g, '-')}-${data.roleName.replace(/\s+/g, '-')}.pdf`;
+      a.style.display = 'none';
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(() => {
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      }, 200);
       setIsModalOpen(false);
-      toast.success(`Resume tailoring started for ${data.companyName}!`);
+      toast.success(`Resume for ${data.companyName} (${data.roleName}) downloaded!`);
     } catch (error) {
-      toast.error('Failed to start resume tailoring. Please try again.');
+      const message = error instanceof Error ? error.message : 'Failed to generate resume';
+      toast.error(message);
     } finally {
       setIsSubmitting(false);
     }

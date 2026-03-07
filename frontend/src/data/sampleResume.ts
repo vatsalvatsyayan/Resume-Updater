@@ -1,0 +1,137 @@
+import type { ProfileFormData } from '@/types/form.types';
+
+/** Sample resume/profile from backend sample_resume_input1.json (richer content). */
+export const sampleResumeProfile: ProfileFormData = {
+  personalInfo: {
+    name: 'Jane Doe',
+    email: 'mail@janedoe.edu',
+    portfolioWebsite: 'https://abc.co.in',
+    githubUrl: 'https://github.com/abc',
+    linkedinUrl: 'https://linkedin.com/in/abc',
+  },
+  education: [
+    {
+      universityName: 'North Carolina State University',
+      courseName: 'Master of Computer Science',
+      courseType: "Master's",
+      major: 'Computer Science',
+      gpa: '4.0/4.0',
+      location: 'Raleigh, NC',
+      startDate: '2022-08',
+      endDate: '2024-05',
+      isPresent: false,
+    },
+    {
+      universityName: 'K J College of Engineering',
+      courseName: 'Bachelor of Technology in Computer Engineering',
+      courseType: "Bachelor's",
+      major: 'Computer Engineering',
+      gpa: '9.1/10.0',
+      location: 'Surat, India',
+      startDate: '2015-08',
+      endDate: '2019-05',
+      isPresent: false,
+    },
+  ],
+  workExperience: [
+    {
+      companyName: 'Microsoft',
+      position: 'Software Engineer',
+      location: 'Redmond, WA',
+      startDate: '2024-06',
+      endDate: null,
+      isPresent: true,
+      summary: 'Full stack software engineer in Experiences + Devices organization.',
+      description:
+        "Working on full stack systems across cloud services and applications within Microsoft's Experiences + Devices organization.",
+    },
+    {
+      companyName: 'Amazon',
+      position: 'Software Development Engineer Intern',
+      location: 'Seattle, WA',
+      startDate: '2023-05',
+      endDate: '2023-08',
+      isPresent: false,
+      summary: 'Full stack mobile and cloud development.',
+      description:
+        'Developed mobile app features using React Native, backend APIs in Java, and AWS services. Integrated an AWS Textract powered OCR feature that reduced manual effort for 50K+ monthly users by 85%.',
+    },
+    {
+      companyName: 'Microsoft',
+      position: 'Technology Consultant',
+      location: 'Hyderabad, India',
+      startDate: '2019-07',
+      endDate: '2022-07',
+      isPresent: false,
+      summary: 'Full stack development and cloud consulting using Azure.',
+      description:
+        'Built web apps using Angular and React with backend APIs in C# and Java. Developed an IoT healthcare research platform using Azure FHIR, IoT Hub, Functions, and App Service to collect Fitbit device data. Implemented cloud governance with Azure Policy for banking clients. Led DevOps automation pipelines with Azure DevOps and GitHub Actions, implemented infrastructure as code with ARM Templates and Terraform, and automated configuration with Ansible, PowerShell, and Unix Shell.',
+    },
+  ],
+  projects: [
+    {
+      projectName: 'DevOps LLM GitHub Bot',
+      link: 'https://github.com/apps/devops-llm-bot',
+      techStack: ['LLMs', 'GitHub', 'Automation'],
+      summary: 'AI-powered GitHub bot for CI workflow automation.',
+      description:
+        'Designed and implemented a GitHub bot powered by large language models to automatically generate CI workflows, improving developer productivity and DevOps automation.',
+    },
+    {
+      projectName: 'Azure Secure Password Manager',
+      link: '',
+      techStack: ['Azure AD', 'Azure KeyVault', 'Azure VNet', 'Azure APIM'],
+      summary: 'Enterprise-grade password management system on Azure.',
+      description:
+        'Engineered a highly secure password management platform using Azure security and networking services, enabling secure credential storage and controlled access.',
+    },
+    {
+      projectName: 'Azure DevOps GitHub Actions Bridge',
+      link: '',
+      techStack: ['Azure DevOps', 'GitHub Actions'],
+      summary: 'DevOps integration tool used across Microsoft projects.',
+      description:
+        'Developed an internal DevOps IP solution bridging Azure DevOps library groups with GitHub Actions workflows, later released as an open source tool on GitHub Marketplace.',
+    },
+    {
+      projectName: 'Oncue Reminder App',
+      link: '',
+      techStack: ['Android', 'Java', 'Bluetooth'],
+      summary: 'Bluetooth-based proximity reminder mobile app.',
+      description:
+        'Built an Android reminder app that triggers notifications based on proximity to people via Bluetooth. Won first prize in an app development marathon and reached 500+ downloads on Google Play.',
+    },
+  ],
+  skills: {
+    programmingLanguages: ['C#', 'Java', 'Python', 'Ruby', 'JavaScript', 'SQL'],
+    frameworks: ['Angular', 'React', 'React Native', 'Ruby on Rails', 'Django'],
+    databases: ['Azure SQL', 'CosmosDB', 'Redis'],
+    toolsAndTechnologies: [
+      'Azure DevOps',
+      'GitHub Actions',
+      'Terraform',
+      'ARM Templates',
+      'Ansible',
+      'Kubernetes',
+    ],
+    cloud: ['Azure', 'AWS', 'Firebase'],
+    ai: ['Large Language Models', 'OCR', 'AWS Textract'],
+    other: [
+      'IoT Hub',
+      'Azure FHIR',
+      'App Gateway',
+      'Load Balancer',
+      'VNet',
+      'VPN',
+      'Storage',
+      'Cognitive Services',
+    ],
+  },
+  certifications: [
+    { name: 'Azure Solutions Architect', issuingOrganization: '' },
+    { name: 'Azure DevOps Engineer', issuingOrganization: '' },
+    { name: 'Kubernetes Certified Application Developer', issuingOrganization: '' },
+  ],
+  volunteer: [],
+  leadership: [],
+};

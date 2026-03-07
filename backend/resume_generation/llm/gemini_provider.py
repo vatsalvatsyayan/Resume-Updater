@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import os
 from typing import Optional
 
 from .base import LLMConfig, LLMProvider
@@ -20,11 +19,7 @@ class GeminiProvider(LLMProvider):
                     "google-generativeai is required for Gemini. "
                     "Install with: pip install google-generativeai"
                 ) from e
-            api_key = (
-                self._config.api_key
-                or os.environ.get("GOOGLE_API_KEY")
-                or os.environ.get("GEMINI_API_KEY")
-            )
+            api_key = self._config.api_key
             if not api_key:
                 raise ValueError(
                     "Gemini API key required. Set GOOGLE_API_KEY or GEMINI_API_KEY."

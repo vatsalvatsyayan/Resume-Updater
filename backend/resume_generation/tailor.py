@@ -136,7 +136,7 @@ def tailor_resume(data: ResumeGeneratorInput, llm_config: Optional[LLMConfig] = 
     if llm_config is None:
         llm_config = LLMConfig(
             provider="gemini",
-            model="gemini-2.0-flash",
+            model="gemini-2.5-flash",
             max_output_tokens=8192,
             temperature=0.3,
         )
