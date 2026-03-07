@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from typing import Any, Dict, Optional
 from motor.motor_asyncio import AsyncIOMotorDatabase
+from pymongo import ReturnDocument
 from pymongo.errors import DuplicateKeyError
 
 
@@ -31,7 +32,24 @@ class UserRepo:
     async def get(self, email: str) -> Optional[Dict[str, Any]]:
         return await self.col.find_one({"email": email}, {"_id": 0})
 
+    async def upsert(self, email: str, extra: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
+        """
+        Create user if missing, otherwise update existing user.
+        Returns latest user document (without _id).
+        """
+        doc: Dict[str, Any] = {"email": email}
+        if extra:
+            doc.update(extra)
+
+        updated = await self.col.find_one_and_update(
+            {"email": email},
+            {"$set": doc},
+            projection={"_id": 0},
+            return_document=ReturnDocument.AFTER,
+            upsert=True,
+        )
+        return updated
+
     async def delete(self, email: str) -> bool:
         res = await self.col.delete_one({"email": email})
         return res.deleted_count == 1
-

@@ -46,6 +46,22 @@ class ResumeRepo:
         """
         return await self.col.find_one({"email": email}, {"_id": 0})
 
+    async def upsert(self, email: str, payload: Dict[str, Any]) -> Dict[str, Any]:
+        """
+        Create resume if missing, otherwise replace/update the stored profile.
+        Returns latest resume document (without _id).
+        """
+        doc = self._normalize_payload(email, payload)
+
+        updated = await self.col.find_one_and_update(
+            {"email": email},
+            {"$set": doc},
+            projection={"_id": 0},
+            return_document=ReturnDocument.AFTER,
+            upsert=True,
+        )
+        return updated
+
     async def replace(self, email: str, payload: Dict[str, Any], upsert: bool = False) -> Optional[Dict[str, Any]]:
         """
         Replace entire resume document. If upsert=True, create if missing.
@@ -87,4 +103,3 @@ class ResumeRepo:
         """
         res = await self.col.delete_one({"email": email})
         return res.deleted_count == 1
-

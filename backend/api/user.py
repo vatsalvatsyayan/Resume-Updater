@@ -25,40 +25,50 @@ def _enforce_same_user(caller_email: str, target_email: str) -> None:
         )
 
 
-@router.post("/registration", status_code=status.HTTP_201_CREATED)
+@router.post("/registration", status_code=status.HTTP_200_OK)
 async def register_user(
     data: dict,
     db: AsyncIOMotorDatabase = Depends(get_database),
     x_user_email: str | None = Header(default=None, alias="X-User-Email"),
 ):
     """
-    Register a user and initialize their resume/profile.
-    Expects JSON body with at least: { "email": "...", education/work_experience/projects/skills... }
+    Frontend submit-profile entrypoint.
+
+    Behavior:
+    - If user/profile does not exist -> create
+    - If user/profile already exists -> update
+    - Always return the latest stored profile
     """
     caller = _require_email_header(x_user_email)
 
     email = data.get("email")
     if not email or not isinstance(email, str):
-        raise HTTPException(status_code=400, detail="Body must include a valid 'email' field (string).")
+        raise HTTPException(
+            status_code=400,
+            detail="Body must include a valid 'email' field (string).",
+        )
 
     _enforce_same_user(caller, email)
 
     user_repo = UserRepo(db)
     resume_repo = ResumeRepo(db)
 
-    # Create user if not exists (ignore duplicate)
-    created_user = await user_repo.create(email=email)  # None if already exists
+    # Optional user-level fields you want to keep in users collection
+    # Add more fields here if frontend sends them
+    user_extra = {}
+    for key in ["name", "phone", "location"]:
+        if key in data:
+            user_extra[key] = data[key]
 
-    # Create resume if not exists (ignore duplicate)
-    created_resume = await resume_repo.create(email=email, payload=data)  # None if already exists
-
-    # Return the current resume (source of truth)
-    profile = await resume_repo.get(email=email)
+    # Upsert both collections
+    user_doc = await user_repo.upsert(email=email, extra=user_extra)
+    profile_doc = await resume_repo.upsert(email=email, payload=data)
 
     return {
-        "message": "Registration successful" if (created_user or created_resume) else "Already registered",
+        "message": "Profile submitted successfully",
         "email": email,
-        "profile": profile,
+        "user": user_doc,
+        "profile": profile_doc,
     }
 
 
@@ -76,44 +86,6 @@ async def get_profile(
     if not doc:
         raise HTTPException(status_code=404, detail="Profile not found")
     return doc
-
-
-@router.put("/profile/{email}")
-async def replace_profile(
-    email: str,
-    data: dict,
-    db: AsyncIOMotorDatabase = Depends(get_database),
-    x_user_email: str | None = Header(default=None, alias="X-User-Email"),
-):
-    caller = _require_email_header(x_user_email)
-    _enforce_same_user(caller, email)
-
-    # Optional: enforce email in body if present
-    if "email" in data and isinstance(data["email"], str) and data["email"].lower() != email.lower():
-        raise HTTPException(status_code=400, detail="If provided, body.email must match path email")
-
-    repo = ResumeRepo(db)
-    updated = await repo.replace(email=email, payload=data, upsert=False)
-    if not updated:
-        raise HTTPException(status_code=404, detail="Profile not found")
-    return updated
-
-
-@router.patch("/profile/{email}")
-async def patch_profile(
-    email: str,
-    patch: dict,
-    db: AsyncIOMotorDatabase = Depends(get_database),
-    x_user_email: str | None = Header(default=None, alias="X-User-Email"),
-):
-    caller = _require_email_header(x_user_email)
-    _enforce_same_user(caller, email)
-
-    repo = ResumeRepo(db)
-    updated = await repo.patch(email=email, patch=patch)
-    if not updated:
-        raise HTTPException(status_code=404, detail="Profile not found")
-    return updated
 
 
 @router.delete("/profile/{email}", status_code=status.HTTP_204_NO_CONTENT)
@@ -134,4 +106,3 @@ async def delete_profile(
     if not deleted_resume and not deleted_user:
         raise HTTPException(status_code=404, detail="Nothing to delete (user/profile not found)")
     return None
-
