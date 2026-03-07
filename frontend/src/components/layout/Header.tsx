@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { FileText, Plus, LogIn, UserPlus } from 'lucide-react';
 import { cn } from '@/lib/cn';
 import { Button } from '@/components/ui';
+import {SignedIn,SignedOut,UserButton,useClerk,} from "@clerk/clerk-react";
 
 interface HeaderProps {
   className?: string;
@@ -11,8 +12,16 @@ interface HeaderProps {
 
 export function Header({ className, onAddClick }: HeaderProps) {
   const location = useLocation();
+  const clerk = useClerk(); // Clerk hook
   const isAppPage = location.pathname === '/profile' || location.pathname === '/applications';
   const currentTab = location.pathname === '/applications' ? 'applications' : 'profile';
+  const openSignIn = () => {
+    clerk.openSignIn({ redirectUrl: "/profile" });
+  };
+
+  const openSignUp = () => {
+    clerk.openSignUp({ redirectUrl: "/profile" });
+  };
 
   return (
     <motion.header
@@ -67,20 +76,32 @@ export function Header({ className, onAddClick }: HeaderProps) {
             </div>
           )}
 
-
-          {/* Auth buttons - shown on landing page */}
-          {location.pathname === '/' && (
+          {/* Auth Section */}
+          {location.pathname === "/" && (
             <div className="flex items-center gap-3">
-              <Link to="/profile">
-                <Button size="sm" leftIcon={<LogIn className="w-4 h-4" />}>
+              <SignedOut>
+                <Button
+                  size="sm"
+                  leftIcon={<LogIn className="w-4 h-4" />}
+                  onClick={openSignIn} // trigger Clerk
+                >
                   Log In
                 </Button>
-              </Link>
-              <Link to="/profile">
-                <Button variant="outline" size="sm" leftIcon={<UserPlus className="w-4 h-4" />}>
+
+                <Button
+                  variant="outline"
+                  size="sm"
+                  leftIcon={<UserPlus className="w-4 h-4" />}
+                  onClick={openSignUp} //  trigger Clerk
+                >
                   Sign Up
                 </Button>
-              </Link>
+              </SignedOut>
+
+              {/* Show when signed IN */}
+              <SignedIn>
+                <UserButton afterSignOutUrl="/" />
+              </SignedIn>
             </div>
           )}
 

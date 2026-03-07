@@ -11,6 +11,7 @@ import {
 } from 'lucide-react';
 import { Button } from '@/components/ui';
 import { Header } from '@/components/layout';
+import { useClerk } from "@clerk/clerk-react";
 
 const features = [
   {
@@ -31,6 +32,18 @@ const features = [
 ];
 
 export function LandingPage() {
+  const clerk = useClerk();
+
+  const handleOpenSignIn = (e?: React.MouseEvent) => {
+    e?.preventDefault();
+    clerk.openSignIn({ redirectUrl: "/profile" });
+  };
+
+  const handleOpenSignUp = (e?: React.MouseEvent) => {
+    e?.preventDefault();
+    clerk.openSignUp({ redirectUrl: "/profile" });
+  };
+
   return (
     <div className="min-h-screen bg-slate-50">
       <Header />
@@ -96,12 +109,12 @@ export function LandingPage() {
               {/* CTA Buttons */}
               <div className="flex flex-wrap gap-4">
                 <Link to="/profile">
-                  <Button size="lg" leftIcon={<LogIn className="w-5 h-5" />}>
+                  <Button size="lg" leftIcon={<LogIn className="w-5 h-5" />} onClick={handleOpenSignIn}>
                     Log In
                   </Button>
                 </Link>
                 <Link to="/profile">
-                  <Button variant="outline" size="lg" leftIcon={<UserPlus className="w-5 h-5" />}>
+                  <Button variant="outline" size="lg" leftIcon={<UserPlus className="w-5 h-5" />}onClick={handleOpenSignUp}>
                     Sign Up
                   </Button>
                 </Link>

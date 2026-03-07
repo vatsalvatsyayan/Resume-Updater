@@ -8,13 +8,19 @@ export interface ApiResponse<T = unknown> {
   error?: string;
 }
 
-export async function submitRegistration(data: ProfileFormData): Promise<ApiResponse> {
+export async function submitRegistration(data: ProfileFormData, email: string): Promise<ApiResponse> {
+  console.log('Request email:', email);
+  const bodyData = {
+    ...data,
+    email: email,
+  };
   const response = await fetch(`${API_BASE_URL}/user/registration`, {
     method: 'POST',
     headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify(data),
+    'Content-Type': 'application/json',
+    'X-User-Email': email,
+  },
+    body: JSON.stringify(bodyData),
   });
 
   const result = await response.json();

@@ -24,9 +24,10 @@ import { submitRegistration } from '@/lib/api';
 import { useUIStore } from '@/stores/uiStore';
 import type { ProfileFormData } from '@/types/form.types';
 import { defaultProfileFormData } from '@/types/form.types';
-
+import { useUser } from "@clerk/clerk-react";
 export function ProfileFormPage() {
   const navigate = useNavigate();
+  const { user } = useUser(); 
   const { isSubmitting, setIsSubmitting, setSubmitError } = useUIStore();
 
   const methods = useForm<ProfileFormData>({
@@ -39,11 +40,24 @@ export function ProfileFormPage() {
   const { handleSubmit, reset, formState } = methods;
 
   const onSubmit = useCallback(async (data: ProfileFormData) => {
+    console.log('User object from Clerk:', user);
+    console.log('User email:', user?.primaryEmailAddress?.emailAddress);
+    
+    if (!user?.primaryEmailAddress?.emailAddress) {
+      setSubmitError("User email not found");
+      toast.error("Unable to get your email. Please log out and sign in again.");
+      return;
+    }
+
+    const userEmail = user.primaryEmailAddress.emailAddress;
+    console.log('Email to send:', userEmail);
+    console.log('Data being submitted:', data);
+
     setIsSubmitting(true);
     setSubmitError(null);
 
     try {
-      await submitRegistration(data);
+      await submitRegistration(data, userEmail);
       toast.success('Profile saved successfully!');
       navigate('/success');
     } catch (error) {
@@ -55,7 +69,8 @@ export function ProfileFormPage() {
     } finally {
       setIsSubmitting(false);
     }
-  }, [navigate, setIsSubmitting, setSubmitError]);
+  }, [navigate, user, setIsSubmitting, setSubmitError]);
+
 
   const handleReset = useCallback(() => {
     if (window.confirm('Are you sure you want to reset the form? All data will be lost.')) {
