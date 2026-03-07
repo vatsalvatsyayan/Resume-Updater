@@ -35,19 +35,19 @@ export function buildResumePayload(
   profile: ProfileFormData,
   tailor: TailorFormData
 ): ResumeGeneratorPayload {
-  const stripId = <T extends Record<string, unknown>>(obj: T): Omit<T, 'id'> => {
-    const { id: _, ...rest } = obj;
-    return rest as Omit<T, 'id'>;
+  const stripId = (obj: object): Record<string, unknown> => {
+    const { id: _, ...rest } = obj as Record<string, unknown>;
+    return rest;
   };
   return {
     personalInfo: profile.personalInfo,
-    education: profile.education.map(stripId),
-    workExperience: profile.workExperience.map(stripId),
-    projects: profile.projects.map(stripId),
+    education: profile.education.map((e) => stripId(e)) as unknown as ProfileFormData['education'],
+    workExperience: profile.workExperience.map((e) => stripId(e)) as unknown as ProfileFormData['workExperience'],
+    projects: profile.projects.map((p) => stripId(p)) as unknown as ProfileFormData['projects'],
     skills: profile.skills,
-    certifications: profile.certifications.map(stripId),
-    volunteer: profile.volunteer.map(stripId),
-    leadership: profile.leadership.map(stripId),
+    certifications: profile.certifications.map((c) => stripId(c)) as unknown as ProfileFormData['certifications'],
+    volunteer: profile.volunteer.map((v) => stripId(v)) as unknown as ProfileFormData['volunteer'],
+    leadership: profile.leadership.map((l) => stripId(l)) as unknown as ProfileFormData['leadership'],
     jobDescription: tailor.jobDescription,
     roleName: tailor.roleName,
     companyName: tailor.companyName,
