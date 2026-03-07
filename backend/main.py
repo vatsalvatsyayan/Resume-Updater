@@ -4,8 +4,7 @@ from contextlib import asynccontextmanager
 
 from core.config import settings
 from db.mongodb import connect_to_mongo, close_mongo_connection
-from api import health, resumes, user
-
+from api import health, resumes, user, application
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -32,6 +31,7 @@ app.add_middleware(
 app.include_router(health.router)
 app.include_router(resumes.router)
 app.include_router(user.router)
+app.include_router(application.router)
 
 
 @app.get("/")

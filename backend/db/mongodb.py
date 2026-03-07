@@ -14,9 +14,15 @@ async def connect_to_mongo():
     mongodb.client = AsyncIOMotorClient(settings.MONGODB_URL)
     mongodb.db = mongodb.client[settings.MONGODB_DB_NAME]
 
-    # Email-keyed collections
+    # Existing collections
     await mongodb.db["users"].create_index("email", unique=True)
     await mongodb.db["resumes"].create_index("email", unique=True)
+
+    # New applications collection
+    await mongodb.db["applications"].create_index("email")
+    await mongodb.db["applications"].create_index(
+        [("email", 1), ("company_name", 1), ("role_name", 1)]
+    )
 
     print(f"Connected to MongoDB at {settings.MONGODB_URL}")
 
