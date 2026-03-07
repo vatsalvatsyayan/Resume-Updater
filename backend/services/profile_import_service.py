@@ -2,11 +2,8 @@ from __future__ import annotations
 
 import io
 import re
-from html import unescape
 from typing import Iterable
-from urllib.parse import urlparse
 
-import httpx
 from fastapi import HTTPException, UploadFile, status
 from schemas.profile_import import (
     Certification,
@@ -215,7 +212,6 @@ class ProfileImportService:
         self,
         resume_file: UploadFile | None = None,
         resume_text: str | None = None,
-        linkedin_url: str | None = None,
     ) -> tuple[ImportedProfileData, list[str], list[str]]:
         data = ImportedProfileData()
         warnings: list[str] = []
@@ -234,14 +230,6 @@ class ProfileImportService:
                 warnings.append(
                     "The uploaded resume could be read, but very little structured data was extracted."
                 )
-
-        if linkedin_url:
-            linkedin_data, linkedin_warnings = await self._parse_linkedin_profile(
-                linkedin_url
-            )
-            data = self._merge_profile_data(data, linkedin_data)
-            warnings.extend(linkedin_warnings)
-            sources.append("linkedin")
 
         return data, self._unique_strings(warnings), self._unique_strings(sources)
 
@@ -327,75 +315,6 @@ class ProfileImportService:
                 section_map.get("leadership", "")
             ),
         )
-
-    async def _parse_linkedin_profile(
-        self,
-        linkedin_url: str,
-    ) -> tuple[ImportedProfileData, list[str]]:
-        normalized_url = self._normalize_linkedin_url(linkedin_url)
-        data = ImportedProfileData(
-            personalInfo=PersonalInfo(linkedinUrl=normalized_url)
-        )
-        warnings: list[str] = []
-
-        html = await self._fetch_public_profile(normalized_url)
-        if not html:
-            guessed_name = self._guess_name_from_url(normalized_url)
-            if guessed_name:
-                data.personalInfo.name = guessed_name
-            warnings.append(
-                "LinkedIn import is best-effort and only works reliably for public profiles."
-            )
-            return data, warnings
-
-        title = self._extract_meta_content(html, "og:title") or self._extract_title(
-            html
-        )
-        description = self._extract_meta_content(html, "og:description")
-
-        clean_name = self._clean_linkedin_name(title)
-        if clean_name:
-            data.personalInfo.name = clean_name
-        elif guessed_name := self._guess_name_from_url(normalized_url):
-            data.personalInfo.name = guessed_name
-
-        if description:
-            headline = self._strip_linkedin_suffix(description)
-            work_experience = self._work_from_headline(headline)
-            if work_experience:
-                data.workExperience.append(work_experience)
-
-        if not data.personalInfo.name and not data.workExperience:
-            warnings.append(
-                "LinkedIn returned limited public metadata, so only the profile URL could be imported."
-            )
-
-        return data, warnings
-
-    async def _fetch_public_profile(self, url: str) -> str | None:
-        headers = {
-            "User-Agent": (
-                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36"
-            ),
-            "Accept-Language": "en-US,en;q=0.9",
-        }
-
-        try:
-            async with httpx.AsyncClient(
-                follow_redirects=True, timeout=8.0, headers=headers
-            ) as client:
-                response = await client.get(url)
-        except httpx.HTTPError:
-            return None
-
-        if response.status_code >= 400:
-            return None
-
-        if "Sign in" in response.text and "LinkedIn" in response.text:
-            return None
-
-        return response.text
 
     def _normalize_text(self, text: str) -> str:
         text = text.replace("\r\n", "\n").replace("\r", "\n").replace("\xa0", " ")
@@ -894,69 +813,6 @@ class ProfileImportService:
         lowered = value.lower()
         return any(hint in lowered for hint in COMPANY_HINTS)
 
-    def _normalize_linkedin_url(self, value: str) -> str:
-        cleaned = value.strip()
-        if not cleaned.startswith(("http://", "https://")):
-            cleaned = f"https://{cleaned}"
-
-        parsed = urlparse(cleaned)
-        if "linkedin.com" not in parsed.netloc.lower():
-            raise HTTPException(
-                status_code=status.HTTP_400_BAD_REQUEST,
-                detail="The provided URL is not a LinkedIn profile URL.",
-            )
-        if not parsed.path.startswith(("/in/", "/pub/")):
-            raise HTTPException(
-                status_code=status.HTTP_400_BAD_REQUEST,
-                detail="Provide a LinkedIn public profile URL, such as linkedin.com/in/username.",
-            )
-
-        return parsed._replace(query="", fragment="").geturl().rstrip("/")
-
-    def _guess_name_from_url(self, url: str) -> str:
-        parsed = urlparse(url)
-        slug = parsed.path.rstrip("/").split("/")[-1]
-        slug = re.sub(r"-?\d+$", "", slug)
-        slug = slug.replace("-", " ").replace("_", " ").strip()
-        return slug.title()
-
-    def _extract_meta_content(self, html: str, property_name: str) -> str | None:
-        pattern = re.compile(
-            rf'<meta[^>]+(?:property|name)=["\']{re.escape(property_name)}["\'][^>]+content=["\']([^"\']+)["\']',
-            re.IGNORECASE,
-        )
-        match = pattern.search(html)
-        return unescape(match.group(1)).strip() if match else None
-
-    def _extract_title(self, html: str) -> str | None:
-        match = re.search(r"<title>(.*?)</title>", html, re.IGNORECASE | re.DOTALL)
-        return unescape(match.group(1)).strip() if match else None
-
-    def _clean_linkedin_name(self, value: str | None) -> str:
-        if not value:
-            return ""
-        cleaned = self._strip_linkedin_suffix(value)
-        if any(
-            token in cleaned.lower() for token in ("sign in", "log in", "join linkedin")
-        ):
-            return ""
-        return cleaned
-
-    def _strip_linkedin_suffix(self, value: str) -> str:
-        return re.sub(r"\s*[|\-]\s*linkedin.*$", "", value, flags=re.IGNORECASE).strip()
-
-    def _work_from_headline(self, headline: str) -> WorkExperience | None:
-        if " at " not in headline.lower():
-            return None
-        position, company = re.split(
-            r"\sat\s", headline, maxsplit=1, flags=re.IGNORECASE
-        )
-        return WorkExperience(
-            position=position.strip(),
-            companyName=company.strip(),
-            summary=headline.strip(),
-        )
-
     def _merge_profile_data(
         self,
         base: ImportedProfileData,
@@ -971,7 +827,7 @@ class ProfileImportService:
         ):
             current_value = getattr(base.personalInfo, field_name)
             incoming_value = getattr(incoming.personalInfo, field_name)
-            if incoming_value and (not current_value or field_name == "linkedinUrl"):
+            if incoming_value and not current_value:
                 setattr(base.personalInfo, field_name, incoming_value)
 
         base.education = self._merge_model_lists(

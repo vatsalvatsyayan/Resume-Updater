@@ -21,18 +21,16 @@ async def register_user(data: dict):
 async def import_profile(
     resume_file: UploadFile | None = File(default=None),
     resume_text: str | None = Form(default=None),
-    linkedin_url: str | None = Form(default=None),
 ):
-    if not any([resume_file, resume_text, linkedin_url]):
+    if not any([resume_file, resume_text]):
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
-            detail="Provide a resume file, resume text, or LinkedIn profile URL.",
+            detail="Provide a resume file or resume text.",
         )
 
     data, warnings, sources = await profile_import_service.import_profile(
         resume_file=resume_file,
         resume_text=resume_text,
-        linkedin_url=linkedin_url,
     )
 
     return ProfileImportResponse(
