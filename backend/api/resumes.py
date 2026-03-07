@@ -17,29 +17,43 @@ async def get_all_resumes():
     }
 
 
+# Generate tailored resume + base64 PDF
 @router.post("/generate", status_code=status.HTTP_200_OK)
 async def generate_tailored_resume(body: ResumeGeneratorInput):
     try:
         tailored, pdf_bytes = generate_resume(body.model_dump(), output_pdf_path=None)
+
         pdf_b64 = base64.b64encode(pdf_bytes).decode("ascii")
-        return {"tailored_resume": tailored.model_dump(), "pdf_base64": pdf_b64}
+
+        return {
+            "tailored_resume": tailored.model_dump(),
+            "pdf_base64": pdf_b64
+        }
+
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e))
+
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
 
+# Generate only PDF file
 @router.post("/generate/pdf", response_class=Response)
 async def generate_tailored_resume_pdf(body: ResumeGeneratorInput):
     try:
         _, pdf_bytes = generate_resume(body.model_dump(), output_pdf_path=None)
+
         return Response(
             content=pdf_bytes,
             media_type="application/pdf",
-            headers={"Content-Disposition": "attachment; filename=resume.pdf"},
+            headers={
+                "Content-Disposition": "attachment; filename=resume.pdf"
+            },
         )
+
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e))
+
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 

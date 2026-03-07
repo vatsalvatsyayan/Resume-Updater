@@ -15,7 +15,7 @@ class Settings(BaseSettings):
     GOOGLE_API_KEY: Optional[str] = None
     GEMINI_API_KEY: Optional[str] = None
     RESUME_LLM_PROVIDER: str = "gemini"
-    RESUME_LLM_MODEL: str = "gemini-2.0-flash"
+    RESUME_LLM_MODEL: str = "gemini-2.5-flash"
 
     class Config:
         env_file = ".env"
