@@ -40,19 +40,22 @@ curl http://localhost:8000/health
 
 ```
 backend/
-├── api/              # API route handlers (routers)
-│   ├── health.py     # Health check endpoints
-│   └── resumes.py    # Resume-related endpoints
-├── core/             # Core application configuration
-│   └── config.py     # Settings and environment variables
-├── db/               # Database connections and utilities
-│   └── mongodb.py    # MongoDB connection setup
-├── models/           # Database models
-├── schemas/          # Pydantic schemas for request/response validation
-├── services/         # Business logic layer
-├── main.py           # FastAPI application entry point
-├── requirements.txt  # Python dependencies
-└── .env.example      # Environment variables template
+├── api/                    # API route handlers (routers)
+│   ├── health.py           # Health check endpoints
+│   └── resumes.py          # Resume-related endpoints (incl. /generate, /generate/pdf)
+├── core/                   # Core application configuration
+│   └── config.py           # Settings and environment variables
+├── db/                     # Database connections and utilities
+│   └── mongodb.py          # MongoDB connection setup
+├── resume_generation/      # Resume tailoring + PDF (functional module)
+│   ├── schemas/            # Input/output Pydantic schemas
+│   ├── llm/                # LLM provider abstraction (e.g. Gemini)
+│   ├── tailor.py           # Tailor profile to job (LLM)
+│   ├── pdf.py              # Build one-page PDF from tailored resume
+│   └── generator.py        # generate_resume() entry point
+├── main.py                 # FastAPI application entry point
+├── requirements.txt        # Python dependencies
+└── .env.example            # Environment variables template
 ```
 
 ## Setup Instructions
@@ -276,6 +279,21 @@ If you see JSON responses, your API is working correctly!
 - `POST /resumes` - Create a new resume
 - `PUT /resumes/{resume_id}` - Update a resume
 - `DELETE /resumes/{resume_id}` - Delete a resume
+
+### Resume generation (AI tailoring + PDF)
+
+The backend can generate a job-tailored resume and PDF from a profile and job description.
+
+- **`POST /resumes/generate`** – Request body: JSON with profile (personalInfo, education, workExperience, projects, skills, certifications, volunteer, leadership) plus **`jobDescription`** (required, min 50 chars), optional **`roleName`**, **`companyName`**, **`maxProjects`** (1–20, cap how many projects to include; the service picks the most relevant). Response: `{ "tailored_resume": {...}, "pdf_base64": "..." }`.
+- **`POST /resumes/generate/pdf`** – Same body. Response: binary PDF (`application/pdf`) with `Content-Disposition: attachment; filename=resume.pdf`.
+
+**Environment variables** (optional; required for generation to work):
+
+- `GOOGLE_API_KEY` or `GEMINI_API_KEY` – Gemini API key (e.g. from [Google AI Studio](https://aistudio.google.com/apikey)).
+- `RESUME_LLM_PROVIDER` – Default `gemini`.
+- `RESUME_LLM_MODEL` – Default `gemini-2.0-flash`. Use e.g. `gemini-2.5-flash` if your quota is for that model.
+
+Input shape matches the frontend profile form. The service uses an LLM to select and reorder content and rewrite bullets for the job, then renders a single-page PDF. Generated PDF never exceeds one page. Example request body: `backend/sample_resume_input.json`. Test with: `curl -X POST http://localhost:8000/resumes/generate -H "Content-Type: application/json" -d @sample_resume_input.json` (requires `GOOGLE_API_KEY` or `GEMINI_API_KEY` in `.env`).
 
 ## Development
 

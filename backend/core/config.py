@@ -1,5 +1,5 @@
 from pydantic_settings import BaseSettings
-from typing import List
+from typing import List, Optional
 
 
 class Settings(BaseSettings):
@@ -11,6 +11,11 @@ class Settings(BaseSettings):
     MONGODB_DB_NAME: str = "resume_updater"
 
     CORS_ORIGINS: str = "http://localhost:3000,http://localhost:5173"
+
+    GOOGLE_API_KEY: Optional[str] = None
+    GEMINI_API_KEY: Optional[str] = None
+    RESUME_LLM_PROVIDER: str = "gemini"
+    RESUME_LLM_MODEL: str = "gemini-2.0-flash"
 
     class Config:
         env_file = ".env"

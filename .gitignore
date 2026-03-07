@@ -103,3 +103,6 @@ logs/
 
 # Node modules (if any frontend dependencies)
 node_modules/
+
+# Generated resume PDF (backend)
+backend/generated_resume.pdf

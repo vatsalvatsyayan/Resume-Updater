@@ -1,10 +1,3 @@
-"""
-Google Gemini LLM provider.
-
-Uses the free tier (Gemini 2.0 Flash or 2.5 Flash). Set GOOGLE_API_KEY or
-GEMINI_API_KEY in the environment.
-"""
-
 from __future__ import annotations
 
 import os
@@ -14,8 +7,6 @@ from .base import LLMConfig, LLMProvider
 
 
 class GeminiProvider(LLMProvider):
-    """Google Gemini API (gemini-2.0-flash recommended for free tier)."""
-
     def __init__(self, config: LLMConfig) -> None:
         self._config = config
         self._client = None
@@ -64,21 +55,15 @@ class GeminiProvider(LLMProvider):
         full_prompt = prompt
         if system_prompt:
             full_prompt = f"{system_prompt}\n\n{prompt}"
-
         gen_config = {}
         if max_tokens is not None:
             gen_config["max_output_tokens"] = max_tokens
         if temperature is not None:
             gen_config["temperature"] = temperature
-
         if gen_config:
-            response = model.generate_content(
-                full_prompt,
-                generation_config=gen_config,
-            )
+            response = model.generate_content(full_prompt, generation_config=gen_config)
         else:
             response = model.generate_content(full_prompt)
-
         if not response.text:
             raise RuntimeError(
                 "Gemini returned empty response. "
