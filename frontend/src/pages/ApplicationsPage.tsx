@@ -5,6 +5,7 @@ import { toast } from 'sonner';
 import { Header } from '@/components/layout';
 import { TailorResumeModal, type TailorResumeFormData } from '@/components/modals';
 import { cn } from '@/lib/cn';
+import { useUser } from '@clerk/clerk-react';
 
 interface Application {
   id: number;
@@ -42,19 +43,44 @@ function getScoreDisplay(score: number) {
 export function ApplicationsPage() {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const { user } = useUser();
 
   const handleTailorSubmit = async (data: TailorResumeFormData) => {
+    const email = user?.primaryEmailAddress?.emailAddress;
+  
+    if (!email) {
+      toast.error('No signed-in user email found.');
+      return;
+    }
+  
     setIsSubmitting(true);
     try {
-      // TODO: Send to API for resume tailoring
-      console.log('Tailoring resume for:', data);
-
-      // Simulate API call
-      await new Promise((resolve) => setTimeout(resolve, 1000));
-
+      const payload = {
+        email,
+        companyName: data.companyName,
+        roleName: data.roleName,
+        jobDescription: data.jobDescription,
+      };
+  
+      const response = await fetch('http://127.0.0.1:8000/applications', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'X-User-Email': email,
+        },
+        body: JSON.stringify(payload),
+      });
+  
+      const result = await response.json();
+  
+      if (!response.ok) {
+        throw new Error(result.detail || 'Failed to start resume tailoring');
+      }
+  
       setIsModalOpen(false);
       toast.success(`Resume tailoring started for ${data.companyName}!`);
     } catch (error) {
+      console.error(error);
       toast.error('Failed to start resume tailoring. Please try again.');
     } finally {
       setIsSubmitting(false);
