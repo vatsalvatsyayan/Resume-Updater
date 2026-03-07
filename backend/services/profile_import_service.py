@@ -10,6 +10,7 @@ import httpx
 from fastapi import HTTPException, UploadFile, status
 from schemas.profile_import import (
     Certification,
+    CourseType,
     Education,
     ImportedProfileData,
     Leadership,
@@ -184,7 +185,7 @@ SKILL_LABELS = {
     "ai": {"ai", "ml", "machine learning", "artificial intelligence"},
 }
 
-DEGREE_KEYWORDS = {
+DEGREE_KEYWORDS: dict[CourseType, set[str]] = {
     "Bachelor's": {"bachelor", "b.s", "bs", "b.a", "ba", "b.eng", "undergraduate"},
     "Master's": {"master", "m.s", "ms", "m.eng", "mba", "graduate"},
     "PhD": {"phd", "ph.d", "doctorate"},
@@ -774,7 +775,7 @@ class ProfileImportService:
             return major_match.group(1).strip()
         return ""
 
-    def _detect_course_type(self, text: str) -> str:
+    def _detect_course_type(self, text: str) -> CourseType:
         lowered = text.lower()
         for course_type, keywords in DEGREE_KEYWORDS.items():
             if any(keyword in lowered for keyword in keywords):
