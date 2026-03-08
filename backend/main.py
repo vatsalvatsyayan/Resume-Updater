@@ -20,6 +20,32 @@ app = FastAPI(
     lifespan=lifespan
 )
 
+# main.py (add after `app = FastAPI()`)
+
+from fastapi import Request
+from fastapi.exceptions import RequestValidationError
+from fastapi.responses import JSONResponse
+import logging
+
+logger = logging.getLogger("uvicorn.error")
+
+@app.exception_handler(RequestValidationError)
+async def validation_exception_handler(request: Request, exc: RequestValidationError):
+    # Try to read request body safely
+    try:
+        body = await request.json()
+    except Exception:
+        # If body is not JSON or already read, attempt to get raw bytes
+        try:
+            body = (await request.body()).decode("utf-8", errors="replace")
+        except Exception:
+            body = "<could not parse body>"
+    # Log details to console with full context
+    logger.error("RequestValidationError: %s %s\nRequest body: %s\nErrors: %s",
+                 request.method, request.url.path, body, exc.errors())
+    # Return the default JSON response so client still sees the 422
+    return JSONResponse(status_code=422, content={"detail": exc.errors()})
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=settings.cors_origins_list,
