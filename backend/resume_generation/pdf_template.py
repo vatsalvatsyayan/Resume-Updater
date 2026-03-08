@@ -186,6 +186,35 @@ def _write_bullet(pdf, text: str, opts: dict) -> None:
     pdf.multi_cell(0, lh, _pdf_safe("- " + text))
 
 
+def _write_multiline_truncate(
+    pdf, text: str, max_lines: int, opts: dict, indent: float = 0, truncate_at_sep: Optional[str] = None
+) -> None:
+    """Cap long text to ~max_lines; truncate at word boundary (or at truncate_at_sep for comma lists), add '...', then multi_cell."""
+    if not text:
+        return
+    safe = _pdf_safe(text)
+    max_chars = max(80, max_lines * 50)
+    if len(safe) > max_chars:
+        cut = safe[: max_chars - 3].rstrip()
+        if truncate_at_sep:
+            last_sep = cut.rfind(truncate_at_sep)
+            if last_sep > max_chars // 2:
+                safe = cut[: last_sep].rstrip().rstrip(",") + "..."
+            else:
+                safe = cut + "..."
+        else:
+            last_space = cut.rfind(" ")
+            if last_space > max_chars // 2:
+                safe = cut[: last_space] + "..."
+            else:
+                safe = cut + "..."
+    margin = opts["margin"]
+    lh = opts["lh"]
+    if indent:
+        pdf.set_x(margin + indent)
+    pdf.multi_cell(0, lh, safe)
+
+
 def build_pdf_template(
     resume: TailoredResume,
     output: Optional[Union[str, Path]] = None,
@@ -252,8 +281,7 @@ def build_pdf_template(
                 return pdf, opts["truncated"], pdf.get_y()
             _write_section_header(pdf, "Summary", max_y, opts)
             pdf.set_font("Helvetica", "", opts["font_body"])
-            safe = _pdf_safe(resume.professionalSummary)
-            pdf.multi_cell(0, lh, safe)
+            _write_multiline_truncate(pdf, resume.professionalSummary, max_lines=6, opts=opts)
             pdf.ln(3 * scale)
 
         # Education
@@ -279,7 +307,7 @@ def build_pdf_template(
                 if e.highlight:
                     pdf.set_x(margin_use + 5)
                     pdf.set_font("Helvetica", "", opts["font_small"])
-                    pdf.multi_cell(0, lh, _pdf_safe(e.highlight[:200] + ("..." if len(e.highlight) > 200 else "")))
+                    _write_multiline_truncate(pdf, e.highlight, max_lines=2, opts=opts, indent=5)
                     pdf.set_font("Helvetica", "", opts["font_body"])
                 pdf.ln(2 * scale)
 
@@ -324,7 +352,8 @@ def build_pdf_template(
                 return pdf, opts["truncated"], pdf.get_y()
             _write_section_header(pdf, "Skills", max_y, opts)
             pdf.set_font("Helvetica", "", opts["font_body"])
-            pdf.multi_cell(0, lh, _pdf_safe(", ".join(resume.skills)))
+            skills_text = ", ".join(resume.skills)
+            _write_multiline_truncate(pdf, skills_text, max_lines=4, opts=opts, truncate_at_sep=", ")
             pdf.ln(3 * scale)
 
         # Certifications
