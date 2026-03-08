@@ -90,6 +90,8 @@ def _pdf_safe(text: str) -> str:
         .replace("\u2019", "'")
         .replace("\u201c", '"')
         .replace("\u201d", '"')
+        .replace("\u2026", "")   # Unicode ellipsis …
+        .replace("...", "")      # ASCII ellipsis - never draw in resume
     )
 
 
@@ -189,25 +191,25 @@ def _write_bullet(pdf, text: str, opts: dict) -> None:
 def _write_multiline_truncate(
     pdf, text: str, max_lines: int, opts: dict, indent: float = 0, truncate_at_sep: Optional[str] = None
 ) -> None:
-    """Cap long text to ~max_lines; truncate at word boundary (or at truncate_at_sep for comma lists), add '...', then multi_cell."""
+    """Cap long text to ~max_lines; truncate at word boundary (or at truncate_at_sep). No ellipsis added."""
     if not text:
         return
     safe = _pdf_safe(text)
     max_chars = max(80, max_lines * 50)
     if len(safe) > max_chars:
-        cut = safe[: max_chars - 3].rstrip()
+        cut = safe[:max_chars].rstrip()
         if truncate_at_sep:
             last_sep = cut.rfind(truncate_at_sep)
             if last_sep > max_chars // 2:
-                safe = cut[: last_sep].rstrip().rstrip(",") + "..."
+                safe = cut[: last_sep].rstrip().rstrip(",")
             else:
-                safe = cut + "..."
+                safe = cut
         else:
             last_space = cut.rfind(" ")
             if last_space > max_chars // 2:
-                safe = cut[: last_space] + "..."
+                safe = cut[: last_space]
             else:
-                safe = cut + "..."
+                safe = cut
     margin = opts["margin"]
     lh = opts["lh"]
     if indent:
