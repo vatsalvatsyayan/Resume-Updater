@@ -152,28 +152,29 @@ def _write_block_with_date(
     max_y: float,
     opts: dict,
 ) -> None:
-    """Write block title (line1) with optional date right-aligned on same line, then line2 below."""
+    """Write block title (line1) with optional date right-aligned, then line2 below. Uses multi_cell so long text wraps instead of cutting off."""
     if not _need_room(pdf, max_y, 10, opts):
         return
     margin = opts["margin"]
     fb, fsm = opts["font_body"], opts["font_small"]
     lh = opts["lh"]
+    w_left = PAGE_WIDTH_MM - margin * 2 - 38
     pdf.set_font("Helvetica", "B", fb)
-    # Same line: line1 left, date right
     if date_str:
-        w_left = PAGE_WIDTH_MM - margin * 2 - 38
-        pdf.cell(w_left, lh, _pdf_safe(line1))
+        # Line1 in left column (wraps); then date on same visual line or next line
+        pdf.multi_cell(w_left, lh, _pdf_safe(line1))
         pdf.set_font("Helvetica", "", fsm)
         pdf.set_text_color(90, 90, 90)
+        pdf.cell(w_left, lh, "")
         pdf.cell(0, lh, _pdf_safe(date_str), align="R", new_x="LMARGIN", new_y="NEXT")
         pdf.set_text_color(0, 0, 0)
         pdf.set_font("Helvetica", "B", fb)
     else:
-        pdf.cell(0, lh, _pdf_safe(line1), new_x="LMARGIN", new_y="NEXT")
+        pdf.multi_cell(0, lh, _pdf_safe(line1), new_x="LMARGIN", new_y="NEXT")
     if line2:
         pdf.set_font("Helvetica", "", fsm)
         pdf.set_text_color(90, 90, 90)
-        pdf.cell(0, lh, _pdf_safe(line2), new_x="LMARGIN", new_y="NEXT")
+        pdf.multi_cell(0, lh, _pdf_safe(line2), new_x="LMARGIN", new_y="NEXT")
         pdf.set_text_color(0, 0, 0)
     pdf.set_font("Helvetica", "", fb)
 
@@ -237,7 +238,7 @@ def build_pdf_template(
         if contact_parts:
             pdf.set_font("Helvetica", "", opts["font_contact"])
             pdf.set_text_color(80, 80, 80)
-            pdf.cell(0, 5 * scale, _pdf_safe("  |  ".join(contact_parts)), new_x="LMARGIN", new_y="NEXT")
+            pdf.multi_cell(0, 5 * scale, _pdf_safe("  |  ".join(contact_parts)), new_x="LMARGIN", new_y="NEXT")
             pdf.set_text_color(0, 0, 0)
         y_after_header = pdf.get_y() + 2 * scale
         _draw_hline(pdf, y_after_header, margin_use, PAGE_WIDTH_MM - margin_use)
@@ -252,8 +253,6 @@ def build_pdf_template(
             _write_section_header(pdf, "Summary", max_y, opts)
             pdf.set_font("Helvetica", "", opts["font_body"])
             safe = _pdf_safe(resume.professionalSummary)
-            if len(safe) > 450:
-                safe = safe[:447].rstrip() + "..."
             pdf.multi_cell(0, lh, safe)
             pdf.ln(3 * scale)
 
@@ -337,10 +336,10 @@ def build_pdf_template(
                 if not _need_room(pdf, max_y, 10, opts):
                     break
                 pdf.set_font("Helvetica", "B", opts["font_body"])
-                pdf.cell(0, lh, _pdf_safe(c.name), new_x="LMARGIN", new_y="NEXT")
+                pdf.multi_cell(0, lh, _pdf_safe(c.name), new_x="LMARGIN", new_y="NEXT")
                 pdf.set_font("Helvetica", "", opts["font_small"])
                 pdf.set_text_color(80, 80, 80)
-                pdf.cell(0, lh, _pdf_safe(c.issuingOrganization), new_x="LMARGIN", new_y="NEXT")
+                pdf.multi_cell(0, lh, _pdf_safe(c.issuingOrganization), new_x="LMARGIN", new_y="NEXT")
                 pdf.set_text_color(0, 0, 0)
                 pdf.set_font("Helvetica", "", opts["font_body"])
                 pdf.ln(1 * scale)
