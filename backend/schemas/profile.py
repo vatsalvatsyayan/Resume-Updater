@@ -190,16 +190,15 @@ class Skills(CamelModel):
 
 
 class Certification(CamelModel):
-    # your screenshots showed certification fields in snake_case:
-    # { name, issuing_organization, issue_date, expiry_date, has_no_expiry, credential_id, credential_url }
+    # frontend sends: { id, name, issuingOrganization, issueDate, expiryDate, hasNoExpiry, credentialId, credentialUrl }
     id: Optional[str] = None
     name: Optional[str] = None
-    issuing_organization: Optional[str] = Field(None, alias="issuing_organization")
-    issue_date: Optional[str] = Field(None, alias="issue_date")
-    expiry_date: Optional[str] = Field(None, alias="expiry_date")
-    has_no_expiry: Optional[bool] = Field(False, alias="has_no_expiry")
-    credential_id: Optional[str] = Field(None, alias="credential_id")
-    credential_url: Optional[str] = Field(None, alias="credential_url")
+    issuing_organization: Optional[str] = None
+    issue_date: Optional[str] = None 
+    expiry_date: Optional[str] = None
+    has_no_expiry: Optional[bool] = Field(False)
+    credential_id: Optional[str] = None
+    credential_url: Optional[str] = None
 
 
 class VolunteerEntry(CamelModel):
