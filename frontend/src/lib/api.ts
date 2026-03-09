@@ -32,6 +32,28 @@ export async function submitRegistration(data: ProfileFormData, email: string): 
   return result;
 }
 
+export async function getProfile(email: string): Promise<ProfileFormData | null> {
+  const response = await fetch(`${API_BASE_URL}/user/profile/${encodeURIComponent(email)}`, {
+    method: 'GET',
+    headers: {
+      'Content-Type': 'application/json',
+      'X-User-Email': email,
+    },
+  });
+
+  if (response.status === 404) {
+    return null;
+  }
+
+  const result = await response.json();
+
+  if (!response.ok) {
+    throw new Error(result.detail || result.message || 'Failed to load profile');
+  }
+
+  return result;
+}
+
 export async function checkHealth(): Promise<boolean> {
   try {
     const response = await fetch(`${API_BASE_URL}/health`);
