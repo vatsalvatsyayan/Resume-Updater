@@ -1,121 +1,31 @@
-import { Link, useLocation } from 'react-router-dom';
-import { motion } from 'framer-motion';
-import { FileText, Plus, LogIn, UserPlus } from 'lucide-react';
-import { cn } from '@/lib/cn';
-import { Button } from '@/components/ui';
-import {SignedIn,SignedOut,UserButton,useClerk,} from "@clerk/clerk-react";
+import { useUser, UserButton } from "@clerk/clerk-react";
 
 interface HeaderProps {
-  className?: string;
-  onAddClick?: () => void;
+  onTailorResume?: () => void;
 }
 
-export function Header({ className, onAddClick }: HeaderProps) {
-  const location = useLocation();
-  const clerk = useClerk(); // Clerk hook
-  const isAppPage = location.pathname === '/profile' || location.pathname === '/applications';
-  const currentTab = location.pathname === '/applications' ? 'applications' : 'profile';
-  const openSignIn = () => {
-    clerk.openSignIn({ redirectUrl: "/profile" });
-  };
-
-  const openSignUp = () => {
-    clerk.openSignUp({ redirectUrl: "/profile" });
-  };
+export function Header({ onTailorResume }: HeaderProps) {
+  const { user } = useUser();
 
   return (
-    <motion.header
-      initial={{ opacity: 0, y: -20 }}
-      animate={{ opacity: 1, y: 0 }}
-      className={cn(
-        'sticky top-0 z-50',
-        'backdrop-blur-xl bg-white/80 border-b border-slate-200/50',
-        className
-      )}
-    >
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-16">
-          {/* Logo */}
-          <Link to="/" className="flex items-center gap-3 group">
-            <div className="relative">
-              <div className="absolute inset-0 bg-amber-400 rounded-xl blur-lg opacity-50 group-hover:opacity-75 transition-opacity" />
-              <div className="relative p-2 bg-slate-900 rounded-xl">
-                <FileText className="w-5 h-5 text-white" />
-              </div>
-            </div>
-            <span className="text-lg font-bold text-slate-900 tracking-tight">
-              ResuYOU 🥳
-            </span>
-          </Link>
+    <header className="border-b bg-white">
+      <div className="mx-auto flex h-16 max-w-5xl items-center justify-between px-4">
+        <div className="text-lg font-semibold">Resume Updater</div>
 
-          {/* Tab Navigation - shown on app pages */}
-          {isAppPage && (
-            <div className="flex items-center gap-1 bg-slate-100 p-1 rounded-xl">
-              <Link
-                to="/profile"
-                className={cn(
-                  'px-4 py-2 text-sm font-medium rounded-lg transition-all',
-                  currentTab === 'profile'
-                    ? 'bg-white text-slate-900 shadow-sm'
-                    : 'text-slate-600 hover:text-slate-900'
-                )}
-              >
-                User Profile
-              </Link>
-              <Link
-                to="/applications"
-                className={cn(
-                  'px-4 py-2 text-sm font-medium rounded-lg transition-all',
-                  currentTab === 'applications'
-                    ? 'bg-white text-slate-900 shadow-sm'
-                    : 'text-slate-600 hover:text-slate-900'
-                )}
-              >
-                Applications
-              </Link>
-            </div>
-          )}
-
-          {/* Auth Section */}
-          {location.pathname === "/" && (
-            <div className="flex items-center gap-3">
-              <SignedOut>
-                <Button
-                  size="sm"
-                  leftIcon={<LogIn className="w-4 h-4" />}
-                  onClick={openSignIn} // trigger Clerk
-                >
-                  Log In
-                </Button>
-
-                <Button
-                  variant="outline"
-                  size="sm"
-                  leftIcon={<UserPlus className="w-4 h-4" />}
-                  onClick={openSignUp} //  trigger Clerk
-                >
-                  Sign Up
-                </Button>
-              </SignedOut>
-
-              {/* Show when signed IN */}
-              <SignedIn>
-                <UserButton afterSignOutUrl="/" />
-              </SignedIn>
-            </div>
-          )}
-
-          {/* Add button - shown on applications page */}
-          {location.pathname === '/applications' && onAddClick && (
+        <div className="flex items-center gap-4">
+          {onTailorResume && (
             <button
-              className="p-2 bg-slate-900 text-white rounded-xl hover:bg-slate-800 transition-colors"
-              onClick={onAddClick}
+              type="button"
+              onClick={onTailorResume}
+              className="rounded-md bg-slate-900 px-4 py-2 text-sm font-medium text-white hover:bg-slate-800"
             >
-              <Plus className="w-5 h-5" />
+              Tailor Resume
             </button>
           )}
+
+          {user && <UserButton />}
         </div>
       </div>
-    </motion.header>
+    </header>
   );
 }

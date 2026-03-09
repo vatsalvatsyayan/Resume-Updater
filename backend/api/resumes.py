@@ -1,5 +1,10 @@
+import base64
+
 from fastapi import APIRouter, HTTPException, status
-from typing import List
+from fastapi.responses import Response
+
+from resume_generation import generate_resume
+from resume_generation.schemas.input_schema import ResumeGeneratorInput
 
 router = APIRouter(prefix="/resumes", tags=["Resumes"])
 
@@ -10,6 +15,42 @@ async def get_all_resumes():
         "message": "Get all resumes endpoint",
         "resumes": []
     }
+
+
+@router.post("/generate", status_code=status.HTTP_200_OK)
+async def generate_tailored_resume(body: ResumeGeneratorInput):
+    try:
+        tailored, pdf_bytes = generate_resume(body.model_dump(), output_pdf_path=None)
+        pdf_b64 = base64.b64encode(pdf_bytes).decode("ascii")
+
+        return {
+            "tailored_resume": tailored.model_dump(),
+            "pdf_base64": pdf_b64
+        }
+
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@router.post("/generate/pdf", response_class=Response)
+async def generate_tailored_resume_pdf(body: ResumeGeneratorInput):
+    try:
+        _, pdf_bytes = generate_resume(body.model_dump(), output_pdf_path=None)
+
+        return Response(
+            content=bytes(pdf_bytes),
+            media_type="application/pdf",
+            headers={"Content-Disposition": "attachment; filename=resume.pdf"},
+        )
+
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 
 @router.get("/{resume_id}", status_code=status.HTTP_200_OK)
