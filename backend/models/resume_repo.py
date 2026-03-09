@@ -23,6 +23,7 @@ class ResumeRepo:
     @staticmethod
     def _ensure_defaults(payload: Dict[str, Any]) -> Dict[str, Any]:
         # Normalize incoming payload to full resume document with defaults
+        vol_list = payload.get("volunteer_experience", payload.get("volunteer", []))
         doc = {
             "user_id": payload.get("user_id") or payload.get("email"),
             "email": payload.get("email"),
@@ -32,11 +33,10 @@ class ResumeRepo:
             "projects": payload.get("projects", []),
             "skills": payload.get("skills", DEFAULT_SKILLS.copy()),
             "certifications": payload.get("certifications", []),
-            "volunteer_experience": payload.get("volunteer_experience",
-                                           payload.get("volunteer", [])),
+            "volunteer_experience": vol_list,
+            "volunteer": vol_list,
             "leadership_experience": payload.get("leadership_experience", []),
         }
-        # don't include created/updated here; handled by upsert/replace
         return doc
 
     async def create(self, email: str, payload: Dict[str, Any]) -> Optional[Dict[str, Any]]:
@@ -90,14 +90,15 @@ class ResumeRepo:
         certifications, volunteer_experience, leadership_experience.
         """
         allowed = {
-            "personal_info",
-            "education",
-            "work_experience",
-            "projects",
-            "skills",
-            "certifications",
-            "volunteer_experience",
-            "leadership_experience",
+        "personal_info",
+        "education",
+        "work_experience",
+        "projects",
+        "skills",
+        "certifications",
+        "volunteer_experience",  # keep
+        "volunteer",             # add
+        "leadership_experience",
         }
         update_fields = {k: v for k, v in patch.items() if k in allowed}
         if not update_fields:
