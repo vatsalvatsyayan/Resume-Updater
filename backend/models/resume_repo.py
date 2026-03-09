@@ -22,13 +22,7 @@ class ResumeRepo:
 
     @staticmethod
     def _ensure_defaults(payload: Dict[str, Any]) -> Dict[str, Any]:
-
-        # define this FIRST (outside the dict)
-        vol_list = payload.get(
-            "volunteer_experience",
-            payload.get("volunteer", [])
-        )
-
+        # Normalize incoming payload to full resume document with defaults
         doc = {
             "user_id": payload.get("user_id") or payload.get("email"),
             "email": payload.get("email"),
@@ -38,14 +32,11 @@ class ResumeRepo:
             "projects": payload.get("projects", []),
             "skills": payload.get("skills", DEFAULT_SKILLS.copy()),
             "certifications": payload.get("certifications", []),
-
-            # now use the variable
-            "volunteer_experience": vol_list,
-            "volunteer": vol_list,  # <-- THIS is the added line
-
+            "volunteer_experience": payload.get("volunteer_experience",
+                                           payload.get("volunteer", [])),
             "leadership_experience": payload.get("leadership_experience", []),
         }
-
+        # don't include created/updated here; handled by upsert/replace
         return doc
 
     async def create(self, email: str, payload: Dict[str, Any]) -> Optional[Dict[str, Any]]:
@@ -105,8 +96,7 @@ class ResumeRepo:
             "projects",
             "skills",
             "certifications",
-            "volunteer_experience",   # keep for backwards compatibility
-            "volunteer",              # add this so patching 'volunteer' works
+            "volunteer_experience",
             "leadership_experience",
         }
         update_fields = {k: v for k, v in patch.items() if k in allowed}
