@@ -40,19 +40,35 @@ curl http://localhost:8000/health
 
 ```
 backend/
-├── api/              # API route handlers (routers)
-│   ├── health.py     # Health check endpoints
-│   └── resumes.py    # Resume-related endpoints
-├── core/             # Core application configuration
-│   └── config.py     # Settings and environment variables
-├── db/               # Database connections and utilities
-│   └── mongodb.py    # MongoDB connection setup
-├── models/           # Database models
-├── schemas/          # Pydantic schemas for request/response validation
-├── services/         # Business logic layer
-├── main.py           # FastAPI application entry point
-├── requirements.txt  # Python dependencies
-└── .env.example      # Environment variables template
+├── api/                        # API route handlers (routers)
+│   ├── health.py               # Health check endpoints
+│   ├── resumes.py              # Resume-related endpoints
+│   └── cover_letter.py         # Cover letter generation endpoint
+├── core/                       # Core application configuration
+│   └── config.py               # Settings and environment variables
+├── db/                         # Database connections and utilities
+│   └── mongodb.py              # MongoDB connection setup
+├── models/                     # Database models
+├── schemas/                    # Pydantic schemas for request/response validation
+│   └── cover_letter.py         # CoverLetterRequest / CoverLetterResponse
+├── services/                   # Business logic layer
+│   ├── llm_client.py           # Gemini API wrapper
+│   ├── cover_letter_service.py # Prompt builder + cover letter generation
+│   └── company_research_service.py # DuckDuckGo search + scrape + Gemini summary
+├── tests/
+│   ├── test_cover_letter.py    # Integration test runner (generation + optional evaluation)
+│   ├── test-data/              # Per-job fixture directories
+│   │   ├── job1/
+│   │   │   ├── optimized_resume.json
+│   │   │   └── job_description.txt
+│   │   └── job2/
+│   │       ├── optimized_resume.json
+│   │       └── job_description.txt
+│   └── evaluation/
+│       └── cover_letter_evaluator.py  # LLM-as-a-judge offline quality evaluator
+├── main.py                     # FastAPI application entry point
+├── requirements.txt            # Python dependencies
+└── .env.example                # Environment variables template
 ```
 
 ## Setup Instructions
@@ -173,6 +189,7 @@ MONGODB_DB_NAME=resume_updater
 # API Keys (Add your actual API keys)
 # OPENAI_API_KEY=your_openai_api_key_here
 # ANTHROPIC_API_KEY=your_anthropic_api_key_here
+GEMINI_API_KEY=your_gemini_api_key_here   # Required for cover letter generation
 
 # CORS Origins (comma-separated)
 CORS_ORIGINS=http://localhost:3000,http://localhost:5173
@@ -276,6 +293,211 @@ If you see JSON responses, your API is working correctly!
 - `POST /resumes` - Create a new resume
 - `PUT /resumes/{resume_id}` - Update a resume
 - `DELETE /resumes/{resume_id}` - Delete a resume
+
+### Cover Letter
+- `POST /cover-letter/generate` - Generate a cover letter from an optimized resume and job description
+
+---
+
+## Cover Letter Generation Service
+
+### Overview
+
+`POST /cover-letter/generate` accepts an optimized resume (as JSON), a job description, and target company/role details. It:
+1. Extracts a structured profile summary from the resume
+2. Discovers the company's About page via DuckDuckGo, scrapes it, and summarizes it using Gemini (**company research**)
+3. Builds a prompt combining the profile, job description, and company research
+4. Calls Gemini a second time to produce the final plain-text cover letter
+
+Company research is **non-blocking** — if the About page cannot be found or scraped, the cover letter is still generated without that section.
+
+> **TODO (caching):** `company_research_service.research()` makes a DuckDuckGo search + HTTP scrape + Gemini call on every request. Add a cache keyed by normalized company name (lowercase, stripped) with a TTL of ~24 hours to avoid redundant work when multiple users apply to the same company. Viable options: in-memory dict (simple, lost on restart) or a MongoDB collection with a `createdAt` TTL index (persistent, shared across workers). See also the TODO comment in `services/company_research_service.py`.
+
+### Environment Setup
+
+Set your Gemini API key in `backend/.env`:
+
+```env
+GEMINI_API_KEY=your_gemini_api_key_here
+```
+
+Get a key from: https://aistudio.google.com/app/apikey
+
+### Request / Response Contract
+
+**Request body (`CoverLetterRequest`):**
+
+```json
+{
+  "profile_data": { ... },
+  "job_description": "Full text of the job description (min 20 chars)",
+  "company_name": "Amazon",
+  "role_name": "New Grad Software Engineer",
+  "tone": "professional"
+}
+```
+
+| Field | Type | Required | Notes |
+|---|---|---|---|
+| `profile_data` | object | Yes | Optimized resume JSON (see shape below) |
+| `job_description` | string | Yes | Minimum 20 characters |
+| `company_name` | string | Yes | Target company name |
+| `role_name` | string | Yes | Target role title |
+| `tone` | string | No | `"professional"` (default) / `"enthusiastic"` / `"concise"` |
+
+**Response body (`CoverLetterResponse`):**
+
+```json
+{
+  "cover_letter": "Dear Hiring Manager, ...",
+  "company_name": "Amazon",
+  "role_name": "New Grad Software Engineer"
+}
+```
+
+**Error codes:**
+
+| Code | Reason |
+|---|---|
+| `422` | Invalid request body (Pydantic validation failed) |
+| `503` | `GEMINI_API_KEY` not set in `.env` |
+| `502` | Gemini API call failed |
+
+### Expected `profile_data` Shape
+
+`profile_data` must be the **optimized resume** produced by the resume optimization service. The cover letter service reads the following fields:
+
+```json
+{
+  "Name": "John Doe",
+  "Target role": "Software Engineer",
+  "Target company": "Amazon",
+  "Experience": [
+    {
+      "Company": "USC Annenberg",
+      "Role": "Software Developer",
+      "Duration": "Sep 2024 – Present",
+      "Responsibilities": [
+        "Built X using Y, achieving Z result"
+      ]
+    }
+  ],
+  "Skills": {
+    "Technical": ["Python", "AWS", "Docker"],
+    "Frameworks": ["FastAPI", "React"]
+  },
+  "Education": [
+    {
+      "Institution": "University of Southern California",
+      "Degree": "Master of Science in Computer Science",
+      "Duration": "Aug 2024 – May 2026",
+      "GPA": "3.71"
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "Educational Chatbot",
+      "Description": "RAG-based chatbot with 97% accuracy"
+    }
+  ]
+}
+```
+
+**Notes for the resume optimization team:**
+- `"Name"`, `"Target role"`, `"Target company"` are top-level string fields
+- `"Experience[].Responsibilities"` is a flat list of strings (job1 style), OR `"Experience[].Projects[].Details"` is a list of strings per sub-project (job2 style) — both are supported
+- `"Skills"` can have any category names — all values are flattened into one list
+- `"Projects[].Description"` (string) and `"Projects[].Details"` (list of strings) are both supported
+
+### Testing the Service Locally
+
+The test runner in `tests/test_cover_letter.py` loads fixture files from `tests/test-data/` and calls the service directly — no server needed.
+
+**Run all jobs:**
+```bash
+# From backend/ with venv activated
+python -m tests.test_cover_letter
+```
+
+**Run a specific job only:**
+```bash
+python -m tests.test_cover_letter job1
+```
+
+Generated cover letters are saved to `tests/output/<job>_cover_letter.txt`.
+
+### Cover Letter Quality Evaluation
+
+The evaluator in `tests/evaluation/cover_letter_evaluator.py` is an **offline LLM-as-a-judge tool** for measuring the quality of generated cover letters at scale. It is not part of the production API.
+
+It evaluates each generated cover letter against the 8 constraints defined in the cover letter prompt, making one Gemini call per constraint:
+
+| # | Constraint | What is checked |
+|---|---|---|
+| 1 | `tone` | No fluff, buzzwords, or corporate jargon |
+| 2 | `paragraph_count` | Strictly ≤ 4 paragraphs |
+| 3 | `word_count` | Under 400 words |
+| 4 | `focus` | Context over job list — answers "why should they care?" |
+| 5 | `honesty` | Missing skills framed as growth opportunities, not fabricated |
+| 6 | `no_invented_facts` | Every claim traceable to the resume |
+| 7 | `no_placeholder_text` | Actual candidate name used, no `[Your Name]` tokens |
+| 8 | `plain_text` | No markdown, bullets, or section headers |
+
+Each constraint returns `1` (pass) or `0` (fail). Final accuracy = `total_score / 8`.
+
+**Run generation + evaluation together:**
+```bash
+# All jobs
+python -m tests.test_cover_letter --evaluate
+
+# Specific job
+python -m tests.test_cover_letter job1 --evaluate
+```
+
+Outputs per job:
+- `tests/output/<job>_cover_letter.txt` — the generated cover letter
+- `tests/output/<job>_evaluation.json` — per-constraint scores, total score, and accuracy
+
+**Sample `job1_evaluation.json`:**
+```json
+{
+  "scores": {
+    "tone": 1,
+    "paragraph_count": 1,
+    "word_count": 1,
+    "focus": 1,
+    "honesty": 1,
+    "no_invented_facts": 1,
+    "no_placeholder_text": 1,
+    "plain_text": 1
+  },
+  "total_score": 8,
+  "accuracy": 1.0
+}
+```
+
+When evaluating multiple jobs, an **aggregate accuracy summary** is printed at the end — useful for tracking service quality as you add more fixtures.
+
+### Adding a New Job Fixture
+
+1. Create a new directory under `tests/test-data/`:
+```bash
+mkdir backend/tests/test-data/job3
+```
+
+2. Add the two required files:
+```
+tests/test-data/job3/
+├── optimized_resume.json   ← optimized resume in the shape described above
+└── job_description.txt     ← raw job description text
+```
+
+3. Run the test — `job3` is auto-discovered, no code changes needed:
+```bash
+python -m tests.test_cover_letter job3
+```
+
+---
 
 ## Development
 
@@ -499,6 +721,7 @@ Use this checklist when setting up the project for the first time:
 - [ ] Health endpoint works (`curl http://localhost:8000/health` returns JSON)
 - [ ] API docs accessible (http://localhost:8000/docs loads in browser)
 - [ ] Can see "Connected to MongoDB" message in server logs
+- [ ] `GEMINI_API_KEY` set in `.env` (required for cover letter generation)
 
 If all checkboxes are checked, you're ready to develop!
 
@@ -511,6 +734,9 @@ If all checkboxes are checked, you're ready to develop!
 - **PyMongo**: Official MongoDB driver for Python
 - **python-dotenv**: Environment variable management
 - **httpx**: HTTP client for making requests
+- **google-genai**: Google Gemini API SDK for LLM-based cover letter generation and company research summarization
+- **duckduckgo-search**: DuckDuckGo search client (no API key required) for discovering company About page URLs
+- **beautifulsoup4**: HTML parser for extracting visible text from scraped web pages
 
 ## Team Collaboration
 
@@ -552,10 +778,11 @@ git commit -m "Add python-jose dependency for JWT handling"
 
 ### Never Commit
 
-- `.env` file (contains sensitive data)
+- `.env` file (contains sensitive API keys and config)
 - `venv/` directory (virtual environment)
 - `__pycache__/` directories
 - `.pyc` files
+- `tests/output/` directory (generated cover letters and evaluation JSON files — runtime artifacts)
 
 These are already in `.gitignore` but be mindful when adding files.
 
