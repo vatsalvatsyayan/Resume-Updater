@@ -122,7 +122,7 @@ def to_camel(string: str) -> str:
 class CamelModel(BaseModel):
     class Config:
         alias_generator = to_camel
-        allow_population_by_field_name = True
+        # allow_population_by_field_name = True
         populate_by_name = True 
         # If you want, you can also set `allow_population_by_field_name = True`
         # so you can construct models either by snake_case fields or alias names.
@@ -246,5 +246,5 @@ class ResumeProfile(CamelModel):
     leadership_experience: List[LeadershipEntry] = Field(default_factory=list, alias="leadership")
 
     class Config:
-        allow_population_by_field_name = True
+        # allow_population_by_field_name = True
         populate_by_name = True

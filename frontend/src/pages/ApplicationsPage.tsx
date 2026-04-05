@@ -1,18 +1,20 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { Briefcase } from 'lucide-react';
 import { toast, Toaster } from 'sonner';
+import { useUser } from '@clerk/clerk-react';
 
 import { Header } from '@/components/layout';
 import { TailorResumeModal, type TailorResumeFormData } from '@/components/modals';
 import { cn } from '@/lib/cn';
 import {
   buildResumePayload,
+  getProfile,
   generateResumePdf,
   downloadPdfBlob,
 } from '@/lib/api';
 import { useFormStore } from '@/stores/formStore';
-import { defaultProfileFormData } from '@/types/form.types';
+import { defaultProfileFormData, type ProfileFormData } from '@/types/form.types';
 
 interface Application {
   id: number;
@@ -39,12 +41,73 @@ function getScoreDisplay(score: number) {
   return `${score}%`;
 }
 
+function normalizeProfile(profile: any, fallbackEmail = ''): ProfileFormData {
+  return {
+    ...defaultProfileFormData,
+    personalInfo: {
+      ...defaultProfileFormData.personalInfo,
+      name: profile?.personalInfo?.name ?? '',
+      email: profile?.personalInfo?.email ?? profile?.email ?? fallbackEmail,
+      portfolioWebsite: profile?.personalInfo?.portfolioWebsite ?? null,
+      githubUrl: profile?.personalInfo?.githubUrl ?? null,
+      linkedinUrl: profile?.personalInfo?.linkedinUrl ?? null,
+    },
+    education: profile?.education ?? defaultProfileFormData.education,
+    workExperience: profile?.workExperience ?? defaultProfileFormData.workExperience,
+    projects: profile?.projects ?? defaultProfileFormData.projects,
+    skills: {
+      ...defaultProfileFormData.skills,
+      ...(profile?.skills ?? {}),
+    },
+    certifications: profile?.certifications ?? defaultProfileFormData.certifications,
+    volunteer: profile?.volunteer ?? defaultProfileFormData.volunteer,
+    leadership: profile?.leadership ?? defaultProfileFormData.leadership,
+  };
+}
+
 export function ApplicationsPage() {
+  const { user, isLoaded } = useUser();
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [profile, setProfile] = useState<ProfileFormData>(defaultProfileFormData);
+  const [isProfileLoading, setIsProfileLoading] = useState(true);
 
-  const { loadDraft } = useFormStore();
-  const profile = useMemo(() => loadDraft() || defaultProfileFormData, [loadDraft]);
+  const { loadDraft, saveDraft } = useFormStore();
+
+  useEffect(() => {
+    const loadProfile = async () => {
+      if (!isLoaded) return;
+
+      const draft = loadDraft() || defaultProfileFormData;
+      const userEmail = user?.primaryEmailAddress?.emailAddress;
+
+      if (!userEmail) {
+        setProfile(draft);
+        setIsProfileLoading(false);
+        return;
+      }
+
+      try {
+        const savedProfile = await getProfile(userEmail);
+
+        if (savedProfile) {
+          const normalized = normalizeProfile(savedProfile, userEmail);
+          setProfile(normalized);
+          saveDraft(normalized);
+          return;
+        }
+      } catch (error) {
+        console.error('Failed to load saved profile for applications page:', error);
+      }
+
+      setProfile(draft);
+      setIsProfileLoading(false);
+    };
+
+    loadProfile().finally(() => {
+      setIsProfileLoading(false);
+    });
+  }, [isLoaded, loadDraft, saveDraft, user]);
 
   const hasUsableProfile =
     !!profile.personalInfo?.name &&
@@ -102,6 +165,11 @@ export function ApplicationsPage() {
 
           <button
             onClick={() => {
+              if (isProfileLoading) {
+                toast.info('Loading your saved profile...');
+                return;
+              }
+
               if (!hasUsableProfile) {
                 toast.error('Fill and save your profile first.');
                 return;
