@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { useForm, FormProvider } from 'react-hook-form';
+import { useForm, FormProvider, type Resolver, type SubmitHandler } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { motion } from 'framer-motion';
 import { toast, Toaster } from 'sonner';
@@ -33,8 +33,7 @@ export function ProfileFormPage() {
   const [isProfileLoading, setIsProfileLoading] = useState(true);
 
   const methods = useForm<ProfileFormData>({
-    // @ts-ignore
-    resolver: zodResolver(profileFormSchema),
+    resolver: zodResolver(profileFormSchema) as Resolver<ProfileFormData>,
     defaultValues: defaultProfileFormData,
     mode: 'onBlur',
   });
@@ -208,7 +207,7 @@ export function ProfileFormPage() {
     loadProfile();
   }, [isLoaded, user, reset]);
 
-  const onSubmit = useCallback(async (data: ProfileFormData) => {
+  const onSubmit: SubmitHandler<ProfileFormData> = useCallback(async (data) => {
     if (!user?.primaryEmailAddress?.emailAddress) {
       setSubmitError('User email not found');
       toast.error('Unable to get your email. Please log out and sign in again.');
