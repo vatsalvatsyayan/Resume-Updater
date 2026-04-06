@@ -10,5 +10,4 @@ python-multipart==0.0.20
 google-generativeai>=0.8.0
 fpdf2>=2.7.0
 google-genai
-duckduckgo-search
 beautifulsoup4
