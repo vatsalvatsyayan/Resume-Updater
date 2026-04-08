@@ -1,6 +1,6 @@
-import { useCallback } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { useForm, FormProvider } from 'react-hook-form';
+import { useForm, FormProvider, type Resolver, type SubmitHandler } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { motion } from 'framer-motion';
 import { toast, Toaster } from 'sonner';
@@ -20,30 +20,207 @@ import {
 } from '@/components/sections';
 
 import { profileFormSchema } from '@/lib/validation';
-import { submitRegistration } from '@/lib/api';
+import { submitRegistration, getProfile } from '@/lib/api';
 import { useUIStore } from '@/stores/uiStore';
 import type { ProfileFormData } from '@/types/form.types';
 import { defaultProfileFormData } from '@/types/form.types';
+import { useUser } from '@clerk/clerk-react';
 
 export function ProfileFormPage() {
   const navigate = useNavigate();
+  const { user, isLoaded } = useUser();
   const { isSubmitting, setIsSubmitting, setSubmitError } = useUIStore();
+  const [isProfileLoading, setIsProfileLoading] = useState(true);
 
   const methods = useForm<ProfileFormData>({
-    // @ts-ignore - zodResolver types are complex with nested schemas
-    resolver: zodResolver(profileFormSchema),
+    resolver: zodResolver(profileFormSchema) as Resolver<ProfileFormData>,
     defaultValues: defaultProfileFormData,
     mode: 'onBlur',
   });
 
   const { handleSubmit, reset, formState } = methods;
 
-  const onSubmit = useCallback(async (data: ProfileFormData) => {
+  useEffect(() => {
+    const loadProfile = async () => {
+      if (!isLoaded) return;
+
+      const userEmail = user?.primaryEmailAddress?.emailAddress;
+
+      if (!userEmail) {
+        setIsProfileLoading(false);
+        return;
+      }
+
+      try {
+        const profile = await getProfile(userEmail);
+        
+        if (profile) {
+          reset({
+            ...defaultProfileFormData,
+
+            personalInfo: {
+              ...defaultProfileFormData.personalInfo,
+              name: profile.personalInfo?.name ?? '',
+              email: profile.personalInfo?.email ?? profile.email ?? userEmail,
+              portfolioWebsite: profile.personalInfo?.portfolioWebsite ?? '',
+              githubUrl: profile.personalInfo?.githubUrl ?? '',
+              linkedinUrl: profile.personalInfo?.linkedinUrl ?? '',
+            },
+
+            education: (profile.education ?? []).map((edu: any) => ({
+              id: edu.id ?? '',
+              universityName: edu.universityName ?? '',
+              courseName: edu.courseName ?? '',
+              courseType: edu.courseType ?? '',
+              major: edu.major ?? '',
+              gpa: edu.gpa ?? '',
+              location: edu.location ?? '',
+              startDate: edu.startDate ?? '',
+              endDate: edu.endDate ?? '',
+              isPresent: edu.isPresent ?? false,
+            })),
+
+            workExperience: (profile.workExperience ?? []).map((work: any) => ({
+              id: work.id ?? '',
+              companyName: work.companyName ?? '',
+              position: work.position ?? '',
+              location: work.location ?? '',
+              startDate: work.startDate ?? '',
+              endDate: work.endDate ?? '',
+              isPresent: work.isPresent ?? false,
+              summary: work.summary ?? '',
+              description: work.description ?? '',
+            })),
+
+            projects: (profile.projects ?? []).map((project: any) => ({
+              id: project.id ?? '',
+              projectName: project.projectName ?? '',
+              link: project.link ?? '',
+              techStack: project.techStack ?? [],
+              summary: project.summary ?? '',
+              description: project.description ?? '',
+            })),
+
+            skills: {
+              ...defaultProfileFormData.skills,
+              programmingLanguages:
+                profile.skills?.programmingLanguages ??
+                profile.skills?.programming_languages ??
+                [],
+              frameworks: profile.skills?.frameworks ?? [],
+              databases: profile.skills?.databases ?? [],
+              toolsAndTechnologies:
+                profile.skills?.toolsAndTechnologies ??
+                profile.skills?.tools ??
+                [],
+              cloud: profile.skills?.cloud ?? [],
+              ai:
+                profile.skills?.ai ??
+                profile.skills?.ai_ml ??
+                [],
+              other: profile.skills?.other ?? [],
+            },
+
+            certifications: (
+              profile.certifications ??
+              profile.certification ??
+              []
+            ).map((cert: any) => ({
+              id: cert.id ?? '',
+              name: cert.name ?? '',
+              issuingOrganization:
+                cert.issuingOrganization ??
+                cert.issuing_organization ??
+                cert.organization ??
+                '',
+              issueDate:
+                cert.issueDate ??
+                cert.issue_date ??
+                '',
+              expiryDate:
+                cert.expiryDate ??
+                cert.expiry_date ??
+                '',
+              hasNoExpiry:
+                cert.hasNoExpiry ??
+                cert.has_no_expiry ??
+                cert.no_expiry ??
+                false,
+              credentialId:
+                cert.credentialId ??
+                cert.credential_id ??
+                '',
+              credentialUrl:
+                cert.credentialUrl ??
+                cert.credential_url ??
+                '',
+            })),
+
+            volunteer: (
+              profile.volunteer ??
+              profile.volunteerExperience ??
+              profile.volunteer_experience ??
+              []
+            ).map((vol: any) => ({
+              id: vol.id ?? '',
+              organizationName:
+                vol.organizationName ??
+                vol.organization ??
+                '',
+              role: vol.role ?? '',
+              cause: vol.cause ?? '',
+              location: vol.location ?? '',
+              startDate:
+                vol.startDate ??
+                vol.start_date ??
+                '',
+              endDate:
+                vol.endDate ??
+                vol.end_date ??
+                '',
+              isPresent:
+                vol.isPresent ??
+                vol.currentlyVolunteering ??
+                vol.currently_volunteering ??
+                false,
+              description: vol.description ?? '',
+            })),
+
+            leadership: (profile.leadership ?? []).map((lead: any) => ({
+              id: lead.id ?? '',
+              title: lead.title ?? '',
+              organization: lead.organization ?? '',
+              startDate: lead.startDate ?? '',
+              endDate: lead.endDate ?? '',
+              isPresent: lead.isPresent ?? false,
+              description: lead.description ?? '',
+            })),
+          });
+        }
+      } catch (error) {
+        console.error('Failed to load profile:', error);
+      } finally {
+        setIsProfileLoading(false);
+      }
+    };
+
+    loadProfile();
+  }, [isLoaded, user, reset]);
+
+  const onSubmit: SubmitHandler<ProfileFormData> = useCallback(async (data) => {
+    if (!user?.primaryEmailAddress?.emailAddress) {
+      setSubmitError('User email not found');
+      toast.error('Unable to get your email. Please log out and sign in again.');
+      return;
+    }
+
+    const userEmail = user.primaryEmailAddress.emailAddress;
+
     setIsSubmitting(true);
     setSubmitError(null);
 
     try {
-      await submitRegistration(data);
+      await submitRegistration(data, userEmail);
       toast.success('Profile saved successfully!');
       navigate('/success');
     } catch (error) {
@@ -55,7 +232,7 @@ export function ProfileFormPage() {
     } finally {
       setIsSubmitting(false);
     }
-  }, [navigate, setIsSubmitting, setSubmitError]);
+  }, [navigate, user, setIsSubmitting, setSubmitError]);
 
   const handleReset = useCallback(() => {
     if (window.confirm('Are you sure you want to reset the form? All data will be lost.')) {
@@ -64,6 +241,19 @@ export function ProfileFormPage() {
     }
   }, [reset]);
 
+  if (isProfileLoading) {
+    return (
+      <div className="min-h-screen bg-slate-50">
+        <Toaster position="top-right" richColors closeButton />
+        <Header />
+        <SectionNav />
+        <main className="max-w-4xl mx-auto px-4 pb-32 pt-6">
+          <p className="text-slate-600">Loading profile...</p>
+        </main>
+      </div>
+    );
+  }
+
   return (
     <div className="min-h-screen bg-slate-50">
       <Toaster position="top-right" richColors closeButton />
@@ -71,7 +261,6 @@ export function ProfileFormPage() {
       <SectionNav />
 
       <main className="max-w-4xl mx-auto px-4 pb-32 pt-6">
-        {/* Page Header */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -85,9 +274,7 @@ export function ProfileFormPage() {
           </p>
         </motion.div>
 
-        {/* Form */}
         <FormProvider {...methods}>
-          {/* @ts-ignore - handleSubmit type inference issue */}
           <form onSubmit={handleSubmit(onSubmit)} className="space-y-6">
             <PersonalInfoSection />
             <EducationSection />
@@ -98,7 +285,6 @@ export function ProfileFormPage() {
             <VolunteerSection />
             <LeadershipSection />
 
-            {/* Form Actions */}
             <motion.div
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}

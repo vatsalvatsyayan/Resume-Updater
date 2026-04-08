@@ -1,10 +1,14 @@
-from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
 
-from core.config import settings
-from db.mongodb import connect_to_mongo, close_mongo_connection
-from api import health, resumes, user
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+
+from api.resumes import router as resumes_router
+from api.user import router as user_router
+from api.cover_letter import router as cover_letter_router
+from api.application import router as application_router
+from api.health import router as health_router
+from db.mongodb import close_mongo_connection, connect_to_mongo
 
 
 @asynccontextmanager
@@ -16,38 +20,34 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(
     title="Resume Updater API",
-    description="Backend API for Resume Updater application",
     version="1.0.0",
-    lifespan=lifespan
+    lifespan=lifespan,
 )
+
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=settings.cors_origins_list,
+    allow_origins=[
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+        "http://localhost:3000",
+        "http://127.0.0.1:3000",
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-app.include_router(health.router)
-app.include_router(resumes.router)
-app.include_router(user.router)
+
+app.include_router(health_router)
+app.include_router(user_router)
+app.include_router(application_router)
+app.include_router(resumes_router)
+app.include_router(cover_letter_router)
 
 
 @app.get("/")
 async def root():
     return {
-        "message": "Welcome to Resume Updater API",
-        "docs": "/docs",
-        "health": "/health"
+        "message": "Resume Updater backend running"
     }
-
-
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(
-        "main:app",
-        host=settings.HOST,
-        port=settings.PORT,
-        reload=settings.DEBUG
-    )

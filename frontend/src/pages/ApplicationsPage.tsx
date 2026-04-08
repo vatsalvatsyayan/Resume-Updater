@@ -1,10 +1,20 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { Briefcase } from 'lucide-react';
-import { toast } from 'sonner';
+import { toast, Toaster } from 'sonner';
+import { useUser } from '@clerk/clerk-react';
+
 import { Header } from '@/components/layout';
 import { TailorResumeModal, type TailorResumeFormData } from '@/components/modals';
 import { cn } from '@/lib/cn';
+import {
+  buildResumePayload,
+  getProfile,
+  generateResumePdf,
+  downloadPdfBlob,
+} from '@/lib/api';
+import { useFormStore } from '@/stores/formStore';
+import { defaultProfileFormData, type ProfileFormData } from '@/types/form.types';
 
 interface Application {
   id: number;
@@ -26,113 +36,116 @@ function getScoreColor(score: number) {
   return 'text-green-600 bg-green-50';
 }
 
-function getScoreEmoji(score: number) {
-  if (score === 0) return '⏳';
-  if (score <= 30) return '😡';
-  if (score <= 60) return '😐';
-  if (score <= 80) return '🙂';
-  return '🤩';
-}
-
 function getScoreDisplay(score: number) {
   if (score === 0) return 'Pending';
   return `${score}%`;
 }
 
+function normalizeProfile(profile: any, fallbackEmail = ''): ProfileFormData {
+  return {
+    ...defaultProfileFormData,
+    personalInfo: {
+      ...defaultProfileFormData.personalInfo,
+      name: profile?.personalInfo?.name ?? '',
+      email: profile?.personalInfo?.email ?? profile?.email ?? fallbackEmail,
+      portfolioWebsite: profile?.personalInfo?.portfolioWebsite ?? null,
+      githubUrl: profile?.personalInfo?.githubUrl ?? null,
+      linkedinUrl: profile?.personalInfo?.linkedinUrl ?? null,
+    },
+    education: profile?.education ?? defaultProfileFormData.education,
+    workExperience: profile?.workExperience ?? defaultProfileFormData.workExperience,
+    projects: profile?.projects ?? defaultProfileFormData.projects,
+    skills: {
+      ...defaultProfileFormData.skills,
+      ...(profile?.skills ?? {}),
+    },
+    certifications: profile?.certifications ?? defaultProfileFormData.certifications,
+    volunteer: profile?.volunteer ?? defaultProfileFormData.volunteer,
+    leadership: profile?.leadership ?? defaultProfileFormData.leadership,
+  };
+}
+
 export function ApplicationsPage() {
+  const { user, isLoaded } = useUser();
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [profile, setProfile] = useState<ProfileFormData>(defaultProfileFormData);
+  const [isProfileLoading, setIsProfileLoading] = useState(true);
+
+  const { loadDraft, saveDraft } = useFormStore();
+
+  useEffect(() => {
+    const loadProfile = async () => {
+      if (!isLoaded) return;
+
+      const draft = loadDraft() || defaultProfileFormData;
+      const userEmail = user?.primaryEmailAddress?.emailAddress;
+
+      if (!userEmail) {
+        setProfile(draft);
+        setIsProfileLoading(false);
+        return;
+      }
+
+      try {
+        const savedProfile = await getProfile(userEmail);
+
+        if (savedProfile) {
+          const normalized = normalizeProfile(savedProfile, userEmail);
+          setProfile(normalized);
+          saveDraft(normalized);
+          return;
+        }
+      } catch (error) {
+        console.error('Failed to load saved profile for applications page:', error);
+      }
+
+      setProfile(draft);
+      setIsProfileLoading(false);
+    };
+
+    loadProfile().finally(() => {
+      setIsProfileLoading(false);
+    });
+  }, [isLoaded, loadDraft, saveDraft, user]);
+
+  const hasUsableProfile =
+    !!profile.personalInfo?.name &&
+    !!profile.personalInfo?.email;
 
   const handleTailorSubmit = async (data: TailorResumeFormData) => {
+    if (!hasUsableProfile) {
+      toast.error('Please complete and save your profile first.');
+      return;
+    }
+
     setIsSubmitting(true);
+
     try {
-      // TODO: Send to API for resume tailoring
-      console.log('Tailoring resume for:', data);
+      const payload = buildResumePayload(profile, data);
+      const blob = await generateResumePdf(payload);
 
-      // Simulate API call
-      await new Promise((resolve) => setTimeout(resolve, 1000));
+      const safeCompany = data.companyName.replace(/\s+/g, '-');
+      const safeRole = data.roleName.replace(/\s+/g, '-');
+      const filename = `resume-${safeCompany}-${safeRole}.pdf`;
 
+      downloadPdfBlob(blob, filename);
       setIsModalOpen(false);
-      toast.success(`Resume tailoring started for ${data.companyName}!`);
+
+      toast.success(`Resume for ${data.companyName} (${data.roleName}) downloaded!`);
     } catch (error) {
-      toast.error('Failed to start resume tailoring. Please try again.');
+      const message =
+        error instanceof Error ? error.message : 'Failed to generate resume';
+      toast.error(message);
     } finally {
       setIsSubmitting(false);
     }
   };
 
   return (
-    <div className="min-h-screen bg-slate-50">
-      <Header onAddClick={() => setIsModalOpen(true)} />
-
-      <main className="max-w-4xl mx-auto px-4 py-8">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          className="mb-8"
-        >
-          <h1 className="text-3xl font-bold text-slate-900 mb-2">
-            Your Applications
-          </h1>
-          <p className="text-slate-600">
-            Track all your job applications and their match scores.
-          </p>
-        </motion.div>
-
-        {/* Applications List */}
-        <div className="space-y-3">
-          {mockApplications.map((app, index) => (
-            <motion.div
-              key={app.id}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: index * 0.1 }}
-              className={cn(
-                'flex items-center justify-between p-4 rounded-xl',
-                'bg-sky-100 border border-sky-200',
-                'cursor-default'
-              )}
-            >
-              <div className="flex items-center gap-4">
-                <div className="p-2 bg-white rounded-lg shadow-sm">
-                  <Briefcase className="w-5 h-5 text-slate-600" />
-                </div>
-                <div className="flex items-center gap-3">
-                  <span className="font-semibold text-slate-900">
-                    Application {app.id}.
-                  </span>
-                  <span className="text-slate-700">{app.company}.</span>
-                  <span className="text-slate-600">{app.jobTitle}.</span>
-                </div>
-              </div>
-              <div className={cn(
-                'flex items-center gap-2 px-3 py-1.5 rounded-full font-medium',
-                getScoreColor(app.score)
-              )}>
-                <span>{getScoreDisplay(app.score)}</span>
-                <span>{getScoreEmoji(app.score)}</span>
-              </div>
-            </motion.div>
-          ))}
-        </div>
-
-        {/* Empty state hint */}
-        {mockApplications.length === 0 && (
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            className="text-center py-16"
-          >
-            <Briefcase className="w-12 h-12 text-slate-300 mx-auto mb-4" />
-            <h3 className="text-lg font-medium text-slate-600 mb-2">
-              No applications yet
-            </h3>
-            <p className="text-slate-500">
-              Click the + button to create your first application.
-            </p>
-          </motion.div>
-        )}
-      </main>
+    <>
+      <Header />
+      <Toaster richColors position="top-right" />
 
       <TailorResumeModal
         open={isModalOpen}
@@ -140,6 +153,64 @@ export function ApplicationsPage() {
         onSubmit={handleTailorSubmit}
         isLoading={isSubmitting}
       />
-    </div>
+
+      <div className="container mx-auto px-4 py-8">
+        <div className="flex items-center justify-between mb-8">
+          <div>
+            <h1 className="text-3xl font-bold">Your Applications</h1>
+            <p className="text-muted-foreground">
+              Track all your job applications and generate tailored resumes.
+            </p>
+          </div>
+
+          <button
+            onClick={() => {
+              if (isProfileLoading) {
+                toast.info('Loading your saved profile...');
+                return;
+              }
+
+              if (!hasUsableProfile) {
+                toast.error('Fill and save your profile first.');
+                return;
+              }
+              setIsModalOpen(true);
+            }}
+            className="rounded-full bg-black text-white px-4 py-2"
+          >
+            Tailor Resume
+          </button>
+        </div>
+
+        <div className="space-y-4">
+          {mockApplications.map((app, index) => (
+            <motion.div
+              key={app.id}
+              initial={{ opacity: 0, y: 8 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: index * 0.05 }}
+              className="flex items-center justify-between rounded-xl border p-4"
+            >
+              <div className="flex items-center gap-3">
+                <Briefcase className="w-5 h-5 text-slate-500" />
+                <div>
+                  <p className="font-medium">{app.company}</p>
+                  <p className="text-sm text-slate-500">{app.jobTitle}</p>
+                </div>
+              </div>
+
+              <span
+                className={cn(
+                  'rounded-full px-3 py-1 text-sm font-medium',
+                  getScoreColor(app.score)
+                )}
+              >
+                {getScoreDisplay(app.score)}
+              </span>
+            </motion.div>
+          ))}
+        </div>
+      </div>
+    </>
   );
 }

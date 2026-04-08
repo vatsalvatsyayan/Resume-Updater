@@ -15,6 +15,7 @@ A full-stack web application for building professional profiles and generating t
 - Form validation with real-time feedback
 - Resume tailoring modal for job-specific customization
 - Application tracking with match score indicators
+- AI-powered cover letter generation from an optimized resume using Gemini
 - Responsive design
 
 ## Prerequisites
@@ -62,18 +63,22 @@ See `backend/.env.example` for available configuration:
 | `MONGODB_URL` | `mongodb://localhost:27017` | MongoDB connection string |
 | `MONGODB_DB_NAME` | `resume_updater` | Database name |
 | `CORS_ORIGINS` | `http://localhost:3000,http://localhost:5173` | Allowed origins (comma-separated) |
+| `GEMINI_API_KEY` | — | Google Gemini API key (required for cover letter generation) |
 
 ## Project Structure
 
 ```
 backend/
-  api/              # Route handlers (health, user, resumes)
+  api/              # Route handlers (health, user, resumes, cover_letter)
   core/             # App configuration
   db/               # MongoDB connection
   models/           # Database models
-  schemas/          # Pydantic schemas
-  services/         # Business logic
+  schemas/          # Pydantic schemas (includes CoverLetterRequest/Response)
+  services/         # Business logic (cover_letter_service, llm_client)
   keyword-extractor/# Keyword extraction utility + job description dataset
+  tests/
+    test_cover_letter.py  # Integration test runner for cover letter generation
+    test-data/            # Per-job fixture directories (optimized_resume.json + job_description.txt)
   main.py           # Entry point
 
 frontend/src/
@@ -90,6 +95,16 @@ frontend/src/
 ```
 
 ## Scripts
+
+### Backend
+
+| Command | Description |
+|---------|-------------|
+| `python main.py` | Start the API server |
+| `python -m tests.test_cover_letter` | Generate cover letters for all test-data fixtures |
+| `python -m tests.test_cover_letter job1` | Generate cover letter for a specific job fixture only |
+| `python -m tests.test_cover_letter --evaluate` | Generate + evaluate all jobs (LLM-as-a-judge, 8 Gemini calls per job) |
+| `python -m tests.test_cover_letter job1 --evaluate` | Generate + evaluate a specific job only |
 
 ### Frontend
 
