@@ -54,9 +54,10 @@ backend/
 ├── services/                   # Business logic layer
 │   ├── llm_client.py           # Gemini API wrapper
 │   ├── cover_letter_service.py # Prompt builder + cover letter generation
-│   └── company_research_service.py # DuckDuckGo search + scrape + Gemini summary
+│   └── company_research_service.py # Gemini Deep Research agent for company summaries
 ├── tests/
 │   ├── test_cover_letter.py    # Integration test runner (generation + optional evaluation)
+│   ├── test_company_research.py # Integration test runner for company research
 │   ├── test-data/              # Per-job fixture directories
 │   │   ├── job1/
 │   │   │   ├── optimized_resume.json
@@ -305,13 +306,15 @@ If you see JSON responses, your API is working correctly!
 
 `POST /cover-letter/generate` accepts an optimized resume (as JSON), a job description, and target company/role details. It:
 1. Extracts a structured profile summary from the resume
-2. Discovers the company's About page via DuckDuckGo, scrapes it, and summarizes it using Gemini (**company research**)
+2. Runs a **Gemini Deep Research** agent (`deep-research-pro-preview-12-2025`) to produce a structured company summary (mission, values, products/services, recent highlights) scoped to the target role (**company research**)
 3. Builds a prompt combining the profile, job description, and company research
-4. Calls Gemini a second time to produce the final plain-text cover letter
+4. Calls Gemini to produce the final plain-text cover letter
 
-Company research is **non-blocking** — if the About page cannot be found or scraped, the cover letter is still generated without that section.
+Company research is **non-blocking** — if the Deep Research agent fails or times out, the cover letter is still generated without that section.
 
-> **TODO (caching):** `company_research_service.research()` makes a DuckDuckGo search + HTTP scrape + Gemini call on every request. Add a cache keyed by normalized company name (lowercase, stripped) with a TTL of ~24 hours to avoid redundant work when multiple users apply to the same company. Viable options: in-memory dict (simple, lost on restart) or a MongoDB collection with a `createdAt` TTL index (persistent, shared across workers). See also the TODO comment in `services/company_research_service.py`.
+> **Note:** Deep Research runs as a background interaction and is polled every 10 seconds up to a 5-minute ceiling. Expect cover letter generation to take 1–5 minutes per request while the agent runs.
+
+> **TODO (caching):** `company_research_service.research()` invokes the Deep Research agent on every request. Add a cache keyed by normalized company name + role (lowercase, stripped) with a TTL of ~24 hours to avoid redundant calls for the same company/role pair. Viable options: in-memory dict (simple, lost on restart) or a MongoDB collection with a `createdAt` TTL index (persistent, shared across workers). See also the TODO comment in `services/company_research_service.py`.
 
 ### Environment Setup
 
@@ -425,6 +428,33 @@ python -m tests.test_cover_letter job1
 ```
 
 Generated cover letters are saved to `tests/output/<job>_cover_letter.txt`.
+
+### Testing Company Research Locally
+
+The test runner in `tests/test_company_research.py` calls the Deep Research service directly — no server needed. Deep Research can take 1–5 minutes per company.
+
+**Research a specific company:**
+```bash
+# From backend/ with venv activated
+python -m tests.test_company_research "Google"
+```
+
+**Research with a role for focused results:**
+```bash
+python -m tests.test_company_research "Google" --role "Software Engineer"
+```
+
+**Research multiple companies:**
+```bash
+python -m tests.test_company_research "Google" "Stripe" "OpenAI"
+```
+
+**No arguments — runs the default set (Google, Stripe):**
+```bash
+python -m tests.test_company_research
+```
+
+Output is saved to `tests/output/research_<company>.txt` (or `research_<company>_<role>.txt` when a role is provided).
 
 ### Cover Letter Quality Evaluation
 
@@ -734,9 +764,7 @@ If all checkboxes are checked, you're ready to develop!
 - **PyMongo**: Official MongoDB driver for Python
 - **python-dotenv**: Environment variable management
 - **httpx**: HTTP client for making requests
-- **google-genai**: Google Gemini API SDK for LLM-based cover letter generation and company research summarization
-- **duckduckgo-search**: DuckDuckGo search client (no API key required) for discovering company About page URLs
-- **beautifulsoup4**: HTML parser for extracting visible text from scraped web pages
+- **google-genai**: Google Gemini API SDK — used for cover letter generation (`gemini-2.5-flash`) and company research via the Deep Research agent (`deep-research-pro-preview-12-2025`)
 
 ## Team Collaboration
 

@@ -27,9 +27,7 @@ from services import llm_client
 # ---------------------------------------------------------------------------
 CONSTRAINTS: dict[str, str] = {
     "tone": (
-        "Does the cover letter use a clear, honest, and conversational tone? "
-        "It should avoid corporate buzzwords, generic phrases like 'I am passionate about', "
-        "and any fluff or gimmicky language."
+        "Does the cover letter use a clear, professional and conversational tone? "
     ),
     "paragraph_count": (
         "Does the cover letter contain strictly 4 or fewer paragraphs? "

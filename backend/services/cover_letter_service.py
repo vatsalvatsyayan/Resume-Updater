@@ -157,6 +157,7 @@ def generate_cover_letter(request: CoverLetterRequest) -> str:
     LLM-as-a-judge tool in tests/evaluation/cover_letter_evaluator.py.
     """
     profile = _extract_profile_summary(request.profile_data)
-    company_research = company_research_service.research(request.company_name)
+    company_research = company_research_service.research(request.company_name, role=request.role_name)
+    print(f"Company research: {company_research}")
     prompt = _build_prompt(request, profile, company_research)
     return llm_client.generate(prompt)

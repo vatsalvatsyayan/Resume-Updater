@@ -1,13 +1,17 @@
-# --- replace your register_user handler with this version ---
-from fastapi import APIRouter, Depends, Header, HTTPException, status, Body
-from pydantic import ValidationError
-from db.mongodb import get_database
-from models.user_repo import UserRepo
-from models.resume_repo import ResumeRepo
-from schemas.profile import ResumeProfile
 import logging
 
+from fastapi import APIRouter, Body, Depends, File, Form, Header, HTTPException, UploadFile, status
+from pydantic import ValidationError
+
+from db.mongodb import get_database
+from models.resume_repo import ResumeRepo
+from models.user_repo import UserRepo
+from schemas.profile import ResumeProfile
+from schemas.profile_import import ProfileImportResponse
+from services.profile_import_service import ProfileImportService
+
 router = APIRouter(prefix="/user", tags=["User"])
+profile_import_service = ProfileImportService()
 
 def _require_email_header(x_user_email: str | None) -> str:
     if not x_user_email:
@@ -111,3 +115,31 @@ async def get_profile(email: str, db = Depends(get_database), x_user_email: str 
         # if DB has slightly different shape, you can optionally return it as-is; but better to normalize
         return profile_doc
     return profile.model_dump(by_alias=True)
+
+
+@router.post(
+    "/profile-import",
+    response_model=ProfileImportResponse,
+    status_code=status.HTTP_200_OK,
+)
+async def import_profile(
+    resume_file: UploadFile | None = File(default=None),
+    resume_text: str | None = Form(default=None),
+):
+    if not any([resume_file, resume_text]):
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Provide a resume file or resume text.",
+        )
+
+    data, warnings, sources = await profile_import_service.import_profile(
+        resume_file=resume_file,
+        resume_text=resume_text,
+    )
+
+    return ProfileImportResponse(
+        message="Profile data imported successfully.",
+        data=data,
+        warnings=warnings,
+        sources=sources,
+    )

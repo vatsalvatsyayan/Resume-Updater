@@ -7,12 +7,13 @@ _MODEL_NAME = "gemini-2.5-flash"
 
 
 def _get_client() -> genai.Client:
-    if not settings.GEMINI_API_KEY:
+    api_key = settings.effective_google_api_key
+    if not api_key:
         raise HTTPException(
             status_code=503,
-            detail="Gemini API key is not configured. Set GEMINI_API_KEY in .env."
+            detail="Gemini API key is not configured. Set GOOGLE_API_KEY or GEMINI_API_KEY in .env."
         )
-    return genai.Client(api_key=settings.GEMINI_API_KEY)
+    return genai.Client(api_key=api_key)
 
 
 def generate(prompt: str) -> str:
