@@ -52,6 +52,18 @@ export interface ResumeGeneratorPayload {
   maxProjects?: number;
 }
 
+export interface ProfileImportPayload {
+  resumeFile?: File;
+  resumeText?: string;
+}
+
+export interface ProfileImportResponse {
+  message: string;
+  data: Partial<ProfileFormData>;
+  warnings: string[];
+  sources: string[];
+}
+
 function stripId<T extends { id?: string }>(obj: T): Omit<T, 'id'> {
   const { id: _id, ...rest } = obj;
   return rest;
@@ -160,6 +172,35 @@ export async function getProfile(email: string): Promise<any | null> {
 
   if (!response.ok) {
     throw new Error(result.detail || result.message || 'Failed to load profile');
+  }
+
+  return result;
+}
+
+export async function importProfile(
+  payload: ProfileImportPayload,
+  email?: string
+): Promise<ProfileImportResponse> {
+  const formData = new FormData();
+
+  if (payload.resumeFile) {
+    formData.append('resume_file', payload.resumeFile);
+  }
+
+  if (payload.resumeText) {
+    formData.append('resume_text', payload.resumeText);
+  }
+
+  const response = await fetch(`${API_BASE_URL}/user/profile-import`, {
+    method: 'POST',
+    headers: email ? { 'X-User-Email': email } : undefined,
+    body: formData,
+  });
+
+  const result = await parseJsonSafe(response);
+
+  if (!response.ok) {
+    throw new Error(parseError(result.detail, 'Failed to import profile'));
   }
 
   return result;
