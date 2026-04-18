@@ -230,7 +230,10 @@ def generate_cover_letter(request: CoverLetterRequest) -> str:
 
 def generate_cover_letter_pdf(request: CoverLetterRequest) -> bytes:
     """Generate a cover letter and render it as a simple PDF document."""
-    cover_letter = generate_cover_letter(request)
+    if request.existing_cover_letter and request.existing_cover_letter.strip():
+        cover_letter = request.existing_cover_letter.strip()
+    else:
+        cover_letter = generate_cover_letter(request)
 
     pdf = FPDF()
     pdf.set_auto_page_break(auto=True, margin=15)

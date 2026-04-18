@@ -41,7 +41,7 @@ class ApplicationRepo:
         """
         now = datetime.now(timezone.utc)
 
-        return {
+        doc: Dict[str, Any] = {
             "email": email,
             "company_name": payload.get("companyName", "").strip(),
             "role_name": payload.get("roleName", "").strip(),
@@ -50,6 +50,15 @@ class ApplicationRepo:
             "created_at": now,
             "updated_at": now,
         }
+        tailored = payload.get("tailoredResume") or payload.get("tailored_resume")
+        if tailored is not None:
+            doc["tailored_resume"] = tailored
+        cover = payload.get("coverLetter")
+        if cover is None:
+            cover = payload.get("cover_letter")
+        if cover is not None:
+            doc["cover_letter"] = cover
+        return doc
 
     async def create(self, email: str, payload: Dict[str, Any]) -> Dict[str, Any]:
         doc = self._normalize_payload(email, payload)
@@ -98,6 +107,8 @@ class ApplicationRepo:
             "roleName": "role_name",
             "jobDescription": "job_description",
             "status": "status",
+            "tailoredResume": "tailored_resume",
+            "coverLetter": "cover_letter",
         }
 
         update_fields: Dict[str, Any] = {}

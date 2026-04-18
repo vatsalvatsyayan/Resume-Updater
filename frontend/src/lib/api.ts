@@ -22,11 +22,31 @@ export interface TailorFormData {
   jobDescription: string;
 }
 
+export function buildCoverLetterPayload(
+  profile: ProfileFormData,
+  tailor: Pick<TailorFormData, 'jobDescription' | 'companyName' | 'roleName'>,
+  options?: { existing_cover_letter?: string | null }
+): CoverLetterRequestPayload {
+  return {
+    profile_data: profile as unknown as object,
+    job_description: tailor.jobDescription,
+    company_name: tailor.companyName,
+    role_name: tailor.roleName,
+    tone: 'professional',
+    existing_cover_letter: options?.existing_cover_letter ?? undefined,
+  };
+}
+
 export interface ApplicationPayload {
   email: string;
   companyName: string;
   roleName: string;
   jobDescription: string;
+  /** Tailored resume JSON from POST /resumes/generate */
+  tailoredResume?: Record<string, unknown>;
+  /** Plain-text cover letter when generation was requested and succeeded */
+  coverLetter?: string | null;
+  status?: string;
 }
 
 export interface Application {
@@ -35,6 +55,12 @@ export interface Application {
   roleName: string;
   jobDescription: string;
   matchScore?: number;
+  tailoredResume?: Record<string, unknown>;
+  coverLetter?: string | null;
+  status?: string;
+  /** ISO timestamp from Mongo when present */
+  updatedAt?: string;
+  createdAt?: string;
 }
 
 export interface ResumeGeneratorPayload {
@@ -70,6 +96,8 @@ export interface CoverLetterRequestPayload {
   company_name: string;
   role_name: string;
   tone?: 'professional' | 'enthusiastic' | 'concise';
+  /** When set, PDF endpoint renders this text without another LLM call */
+  existing_cover_letter?: string | null;
 }
 
 export interface CoverLetterResponsePayload {
@@ -142,6 +170,11 @@ export function normalizeApplications(apps: any[]): Application[] {
     roleName: app.roleName ?? app.role_name ?? '',
     jobDescription: app.jobDescription ?? app.job_description ?? '',
     matchScore: app.matchScore ?? app.match_score ?? 0,
+    tailoredResume: app.tailoredResume ?? app.tailored_resume,
+    coverLetter: app.coverLetter ?? app.cover_letter ?? null,
+    status: app.status,
+    updatedAt: app.updatedAt ?? app.updated_at,
+    createdAt: app.createdAt ?? app.created_at,
   }));
 }
 
@@ -324,6 +357,15 @@ export async function generateCoverLetterPdf(
   }
 
   return response.blob();
+}
+
+export function base64ToBlob(base64: string, mimeType = 'application/pdf'): Blob {
+  const binary = atob(base64);
+  const bytes = new Uint8Array(binary.length);
+  for (let i = 0; i < binary.length; i++) {
+    bytes[i] = binary.charCodeAt(i);
+  }
+  return new Blob([bytes], { type: mimeType });
 }
 
 export function downloadPdfBlob(blob: Blob, filename = 'tailored_resume.pdf'): void {

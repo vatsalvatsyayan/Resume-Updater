@@ -1,5 +1,6 @@
-from pydantic import BaseModel, Field
 from typing import Literal
+
+from pydantic import BaseModel, Field
 
 
 class CoverLetterRequest(BaseModel):
@@ -13,6 +14,10 @@ class CoverLetterRequest(BaseModel):
     tone: Literal["professional", "enthusiastic", "concise"] = Field(
         default="professional",
         description="Desired tone of the cover letter"
+    )
+    existing_cover_letter: str | None = Field(
+        default=None,
+        description="If set, the PDF endpoint renders this text instead of calling the LLM again.",
     )
 
 
