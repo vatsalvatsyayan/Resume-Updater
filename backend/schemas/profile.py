@@ -113,7 +113,7 @@
 # app/schemas/profile.py
 from __future__ import annotations
 from typing import List, Optional
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, field_validator
 
 def to_camel(string: str) -> str:
     parts = string.split('_')
@@ -150,6 +150,21 @@ class EducationEntry(CamelModel):
     start_date: Optional[str] = Field(None, alias="startDate")
     end_date: Optional[str] = Field(None, alias="endDate")
     currently_enrolled: Optional[bool] = Field(False, alias="isPresent")
+
+    @field_validator("gpa", mode="before")
+    @classmethod
+    def coerce_gpa_str(cls, v: object) -> str | None:
+        """Mongo and some clients send GPA as a number; the form and schema use strings."""
+        if v is None:
+            return None
+        if isinstance(v, bool):
+            return None
+        if isinstance(v, (int, float)):
+            return str(v)
+        if isinstance(v, str):
+            s = v.strip()
+            return s or None
+        return str(v)
 
 
 class WorkEntry(CamelModel):

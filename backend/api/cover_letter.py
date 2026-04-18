@@ -1,4 +1,5 @@
 from fastapi import APIRouter
+from fastapi.responses import Response
 from schemas.cover_letter import CoverLetterRequest, CoverLetterResponse
 from services import cover_letter_service
 
@@ -18,4 +19,16 @@ async def generate_cover_letter(request: CoverLetterRequest) -> CoverLetterRespo
         cover_letter=cover_letter_text,
         company_name=request.company_name,
         role_name=request.role_name,
+    )
+
+
+@router.post("/generate/pdf", response_class=Response)
+async def generate_cover_letter_pdf(request: CoverLetterRequest) -> Response:
+    """Generate a cover letter and return it as a PDF document."""
+    pdf_bytes = cover_letter_service.generate_cover_letter_pdf(request)
+    filename = f"cover-letter-{request.company_name}-{request.role_name}.pdf".replace(" ", "-")
+    return Response(
+        content=pdf_bytes,
+        media_type="application/pdf",
+        headers={"Content-Disposition": f'attachment; filename="{filename}"'},
     )

@@ -39,15 +39,19 @@ function mapProfileToFormData(profile: any, fallbackEmail: string): ProfileFormD
     },
     education: (profile.education ?? []).map((edu: any) => ({
       id: edu.id ?? '',
-      universityName: edu.universityName ?? '',
-      courseName: edu.courseName ?? '',
-      courseType: edu.courseType ?? '',
+      universityName: edu.universityName ?? edu.school ?? '',
+      courseName: edu.courseName ?? edu.degree ?? '',
+      courseType: edu.courseType ?? edu.degree_type ?? edu.degreeType ?? '',
       major: edu.major ?? '',
-      gpa: edu.gpa ?? '',
+      gpa:
+        edu.gpa != null && edu.gpa !== ''
+          ? String(edu.gpa)
+          : '',
       location: edu.location ?? '',
-      startDate: edu.startDate ?? '',
-      endDate: edu.endDate ?? '',
-      isPresent: edu.isPresent ?? false,
+      startDate: edu.startDate ?? edu.start_date ?? '',
+      endDate: edu.endDate ?? edu.end_date ?? '',
+      isPresent:
+        edu.isPresent ?? edu.currently_enrolled ?? edu.currentlyEnrolled ?? false,
     })),
     workExperience: (profile.workExperience ?? []).map((work: any) => ({
       id: work.id ?? '',

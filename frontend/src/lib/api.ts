@@ -64,6 +64,20 @@ export interface ProfileImportResponse {
   sources: string[];
 }
 
+export interface CoverLetterRequestPayload {
+  profile_data: object;
+  job_description: string;
+  company_name: string;
+  role_name: string;
+  tone?: 'professional' | 'enthusiastic' | 'concise';
+}
+
+export interface CoverLetterResponsePayload {
+  cover_letter: string;
+  company_name: string;
+  role_name: string;
+}
+
 function stripId<T extends { id?: string }>(obj: T): Omit<T, 'id'> {
   const { id: _id, ...rest } = obj;
   return rest;
@@ -272,6 +286,41 @@ export async function generateResumePdf(
   if (!response.ok) {
     const err = await parseJsonSafe(response);
     throw new Error(parseError(err.detail, 'Failed to generate PDF'));
+  }
+
+  return response.blob();
+}
+
+export async function generateCoverLetter(
+  payload: CoverLetterRequestPayload
+): Promise<CoverLetterResponsePayload> {
+  const response = await fetch(`${API_BASE_URL}/cover-letter/generate`, {
+    method: 'POST',
+    headers: getAuthHeaders(),
+    body: JSON.stringify(payload),
+  });
+
+  const result = await parseJsonSafe(response);
+
+  if (!response.ok) {
+    throw new Error(parseError(result.detail, 'Failed to generate cover letter'));
+  }
+
+  return result;
+}
+
+export async function generateCoverLetterPdf(
+  payload: CoverLetterRequestPayload
+): Promise<Blob> {
+  const response = await fetch(`${API_BASE_URL}/cover-letter/generate/pdf`, {
+    method: 'POST',
+    headers: getAuthHeaders(),
+    body: JSON.stringify(payload),
+  });
+
+  if (!response.ok) {
+    const err = await parseJsonSafe(response);
+    throw new Error(parseError(err.detail, 'Failed to generate cover letter PDF'));
   }
 
   return response.blob();

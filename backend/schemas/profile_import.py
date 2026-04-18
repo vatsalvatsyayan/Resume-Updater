@@ -1,6 +1,8 @@
 from typing import Literal
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, field_validator
+
+from utils.date_import import coerce_date_scalar
 
 
 CourseType = Literal["Bachelor's", "Master's", "PhD", "Diploma", "Certificate", "Associate", ""]
@@ -25,6 +27,26 @@ class Education(BaseModel):
     endDate: str | None = None
     isPresent: bool = False
 
+    @field_validator("gpa", mode="before")
+    @classmethod
+    def coerce_gpa_to_string(cls, v: object) -> str | None:
+        """LLMs often return GPA as a number; the app stores GPA as a string."""
+        if v is None:
+            return None
+        if isinstance(v, bool):
+            return None
+        if isinstance(v, (int, float)):
+            return str(v)
+        if isinstance(v, str):
+            s = v.strip()
+            return s or None
+        return str(v)
+
+    @field_validator("startDate", "endDate", mode="before")
+    @classmethod
+    def coerce_education_dates(cls, v: object) -> str | None:
+        return coerce_date_scalar(v)
+
 
 class WorkExperience(BaseModel):
     companyName: str = ""
@@ -35,6 +57,11 @@ class WorkExperience(BaseModel):
     isPresent: bool = False
     summary: str | None = None
     description: str | None = None
+
+    @field_validator("startDate", "endDate", mode="before")
+    @classmethod
+    def coerce_work_dates(cls, v: object) -> str | None:
+        return coerce_date_scalar(v)
 
 
 class Project(BaseModel):
@@ -64,6 +91,11 @@ class Certification(BaseModel):
     credentialId: str | None = None
     credentialUrl: str | None = None
 
+    @field_validator("issueDate", "expiryDate", mode="before")
+    @classmethod
+    def coerce_cert_dates(cls, v: object) -> str | None:
+        return coerce_date_scalar(v)
+
 
 class Volunteer(BaseModel):
     organizationName: str = ""
@@ -75,6 +107,11 @@ class Volunteer(BaseModel):
     isPresent: bool = False
     description: str | None = None
 
+    @field_validator("startDate", "endDate", mode="before")
+    @classmethod
+    def coerce_volunteer_dates(cls, v: object) -> str | None:
+        return coerce_date_scalar(v)
+
 
 class Leadership(BaseModel):
     title: str = ""
@@ -83,6 +120,11 @@ class Leadership(BaseModel):
     endDate: str | None = None
     isPresent: bool = False
     description: str | None = None
+
+    @field_validator("startDate", "endDate", mode="before")
+    @classmethod
+    def coerce_leadership_dates(cls, v: object) -> str | None:
+        return coerce_date_scalar(v)
 
 
 class ImportedProfileData(BaseModel):

@@ -1,5 +1,67 @@
 from schemas.cover_letter import CoverLetterRequest
 from services import llm_client, company_research_service
+from fpdf import FPDF
+
+
+def _join_date_range(start: str | None, end: str | None, is_present: bool = False) -> str:
+    start_val = (start or "").strip()
+    end_val = "Present" if is_present else (end or "").strip()
+    if start_val and end_val:
+        return f"{start_val} - {end_val}"
+    return start_val or end_val
+
+
+def _extract_from_original_profile(profile_data: dict) -> dict:
+    personal = profile_data.get("personalInfo") or {}
+    name = (personal.get("name") or "").strip() or "Applicant"
+
+    experience_lines: list[str] = []
+    for job in profile_data.get("workExperience", []):
+        role = (job.get("position") or "").strip()
+        company = (job.get("companyName") or "").strip()
+        duration = _join_date_range(job.get("startDate"), job.get("endDate"), bool(job.get("isPresent")))
+        if role or company or duration:
+            experience_lines.append(f"- {role} at {company} ({duration})".replace("  ", " ").strip())
+        for item in [job.get("description"), job.get("summary")]:
+            if item:
+                experience_lines.append(f"    • {item}")
+
+    skills: list[str] = []
+    skills_obj = profile_data.get("skills") or {}
+    for category in skills_obj.values():
+        if isinstance(category, list):
+            skills.extend(str(s).strip() for s in category if str(s).strip())
+
+    education_lines: list[str] = []
+    for edu in profile_data.get("education", []):
+        degree_parts = [edu.get("courseType"), edu.get("courseName"), edu.get("major")]
+        degree = " ".join(str(part).strip() for part in degree_parts if part and str(part).strip())
+        institution = (edu.get("universityName") or "").strip()
+        duration = _join_date_range(edu.get("startDate"), edu.get("endDate"), bool(edu.get("isPresent")))
+        line = f"{degree} - {institution} ({duration})".replace("  ", " ").strip()
+        gpa = (edu.get("gpa") or "").strip()
+        if gpa:
+            line += f", GPA: {gpa}"
+        if line.strip(" -()"):
+            education_lines.append(line)
+
+    project_lines: list[str] = []
+    for proj in profile_data.get("projects", []):
+        proj_name = (proj.get("projectName") or "").strip()
+        summary = (proj.get("summary") or "").strip()
+        description = (proj.get("description") or "").strip()
+        if proj_name:
+            body = description or summary
+            if body:
+                project_lines.append(f"- {proj_name}: {body}")
+
+    return {
+        "name": name,
+        "experience": "\n".join(experience_lines) or "N/A",
+        "skills": ", ".join(skills[:25]) or "N/A",
+        "education": "\n".join(education_lines) or "N/A",
+        "projects": "\n".join(project_lines[:4]) or "N/A",
+    }
 
 
 def _extract_profile_summary(profile_data: dict) -> dict:
@@ -8,6 +70,9 @@ def _extract_profile_summary(profile_data: dict) -> dict:
     Handles the optimized resume schema produced by the resume optimization
     service, which differs from the raw ProfileFormData frontend shape.
     """
+    if "personalInfo" in profile_data or "workExperience" in profile_data:
+        return _extract_from_original_profile(profile_data)
+
     name = profile_data.get("Name", "Applicant")
 
     # --- Experience ---
@@ -161,3 +226,27 @@ def generate_cover_letter(request: CoverLetterRequest) -> str:
     print(f"Company research: {company_research}")
     prompt = _build_prompt(request, profile, company_research)
     return llm_client.generate(prompt)
+
+
+def generate_cover_letter_pdf(request: CoverLetterRequest) -> bytes:
+    """Generate a cover letter and render it as a simple PDF document."""
+    cover_letter = generate_cover_letter(request)
+
+    pdf = FPDF()
+    pdf.set_auto_page_break(auto=True, margin=15)
+    pdf.add_page()
+    pdf.set_font("Helvetica", size=12)
+
+    for paragraph in cover_letter.split("\n\n"):
+        paragraph_text = paragraph.strip()
+        if not paragraph_text:
+            continue
+        pdf.multi_cell(0, 8, paragraph_text)
+        pdf.ln(2)
+
+    payload = pdf.output(dest="S")
+    if isinstance(payload, bytearray):
+        return bytes(payload)
+    if isinstance(payload, bytes):
+        return payload
+    return payload.encode("latin-1")

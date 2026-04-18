@@ -4,6 +4,8 @@ import json
 import re
 from typing import Optional
 
+from core.config import settings
+
 from .llm import LLMConfig, get_provider
 from .schemas.input_schema import ResumeGeneratorInput
 from .schemas.output_schema import (
@@ -135,8 +137,9 @@ def _parse_tailored_resume(obj: dict) -> TailoredResume:
 def tailor_resume(data: ResumeGeneratorInput, llm_config: Optional[LLMConfig] = None) -> TailoredResume:
     if llm_config is None:
         llm_config = LLMConfig(
-            provider="gemini",
-            model="gemini-2.5-flash",
+            provider=settings.RESUME_LLM_PROVIDER,
+            model=settings.RESUME_LLM_MODEL,
+            api_key=settings.effective_google_api_key or None,
             max_output_tokens=8192,
             temperature=0.3,
         )

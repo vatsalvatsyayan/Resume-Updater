@@ -9,6 +9,7 @@ from pydantic import ValidationError
 
 from schemas.profile_import import ImportedProfileData
 from services import llm_client
+from utils.date_import import normalize_imported_profile
 
 
 class ProfileImportService:
@@ -90,7 +91,19 @@ class ProfileImportService:
             ) from exc
 
         document = Document(io.BytesIO(file_bytes))
-        return "\n".join(paragraph.text for paragraph in document.paragraphs).strip()
+        parts: list[str] = []
+        para_text = "\n".join(p.text for p in document.paragraphs if p.text.strip())
+        if para_text.strip():
+            parts.append(para_text.strip())
+        # Tables often hold job titles + date ranges (paragraph-only extraction misses them).
+        for table in document.tables:
+            rows_out: list[str] = []
+            for row in table.rows:
+                cells = [cell.text.strip() for cell in row.cells]
+                rows_out.append(" | ".join(c for c in cells if c))
+            if rows_out:
+                parts.append("\n".join(rows_out))
+        return "\n\n".join(parts).strip()
 
     def _decode_text_bytes(self, file_bytes: bytes) -> str:
         for encoding in ("utf-8", "utf-16", "latin-1"):
@@ -106,7 +119,8 @@ class ProfileImportService:
             obj = json.loads(self._extract_json(raw))
             if isinstance(obj, dict) and isinstance(obj.get("data"), dict):
                 obj = obj["data"]
-            return ImportedProfileData.model_validate(obj)
+            data = ImportedProfileData.model_validate(obj)
+            return normalize_imported_profile(data)
         except (json.JSONDecodeError, ValidationError, TypeError) as exc:
             raise HTTPException(
                 status_code=status.HTTP_502_BAD_GATEWAY,
@@ -118,7 +132,13 @@ class ProfileImportService:
 
 Return only one valid JSON object. Do not include markdown or explanations.
 Use empty strings, null, false, or [] for missing fields. Do not invent facts.
-Dates should be ISO-like strings when possible, such as YYYY-MM-DD or YYYY-MM.
+
+Dates (required whenever they appear in the resume text):
+- For each education, work experience, volunteer, and leadership entry, set startDate and endDate from the resume. Parse ranges like "Jan 2020 – Mar 2023", "2020-2023", "01/2022 – Present", or years under job titles.
+- Prefer ISO dates: always use YYYY-MM-DD. If only month+year is known, use the first day of that month (e.g. June 2021 -> 2021-06-01). If only a calendar year is known, use YYYY-01-01.
+- If a role is ongoing, set isPresent to true, endDate to null, and startDate to the best-known start.
+- For certifications, fill issueDate and expiryDate the same way when stated.
+- Do not leave date fields null when the resume clearly states time ranges for that entry (even if PDF text is messy).
 
 The JSON object must use exactly this shape:
 {{

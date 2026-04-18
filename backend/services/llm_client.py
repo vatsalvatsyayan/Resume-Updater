@@ -3,8 +3,6 @@ from fastapi import HTTPException
 
 from core.config import settings
 
-_MODEL_NAME = "gemini-2.5-flash"
-
 
 def _get_client() -> genai.Client:
     api_key = settings.effective_google_api_key
@@ -25,7 +23,7 @@ def generate(prompt: str) -> str:
     client = _get_client()
     try:
         response = client.models.generate_content(
-            model=_MODEL_NAME,
+            model=settings.RESUME_LLM_MODEL,
             contents=prompt,
         )
         return response.text

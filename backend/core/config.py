@@ -15,7 +15,8 @@ class Settings(BaseSettings):
     GOOGLE_API_KEY: str = ""
     GEMINI_API_KEY: str = ""
     RESUME_LLM_PROVIDER: str = "gemini"
-    RESUME_LLM_MODEL: str = "gemini-2.0-flash"
+    # google-generativeai / Gemini API — use a current Flash model ID (2.0 IDs are often retired or unavailable).
+    RESUME_LLM_MODEL: str = "gemini-2.5-flash"
 
     model_config = SettingsConfigDict(
         env_file=".env",

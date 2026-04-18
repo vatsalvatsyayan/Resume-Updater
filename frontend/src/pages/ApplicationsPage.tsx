@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { Briefcase } from 'lucide-react';
 import { toast, Toaster } from 'sonner';
@@ -11,6 +12,7 @@ import {
   buildResumePayload,
   getProfile,
   generateResumePdf,
+  generateCoverLetterPdf,
   downloadPdfBlob,
 } from '@/lib/api';
 import { useFormStore } from '@/stores/formStore';
@@ -66,6 +68,7 @@ function normalizeProfile(profile: any, fallbackEmail = ''): ProfileFormData {
 }
 
 export function ApplicationsPage() {
+  const navigate = useNavigate();
   const { user, isLoaded } = useUser();
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -130,9 +133,23 @@ export function ApplicationsPage() {
       const filename = `resume-${safeCompany}-${safeRole}.pdf`;
 
       downloadPdfBlob(blob, filename);
+      let coverLetterNotice = '';
+      if (data.generateCoverLetter) {
+        const coverLetterPdf = await generateCoverLetterPdf({
+          profile_data: profile,
+          job_description: data.jobDescription,
+          company_name: data.companyName,
+          role_name: data.roleName,
+          tone: 'professional',
+        });
+
+        downloadPdfBlob(coverLetterPdf, `cover-letter-${safeCompany}-${safeRole}.pdf`);
+        coverLetterNotice = ' and cover letter';
+      }
+
       setIsModalOpen(false);
 
-      toast.success(`Resume for ${data.companyName} (${data.roleName}) downloaded!`);
+      toast.success(`Resume${coverLetterNotice} for ${data.companyName} (${data.roleName}) downloaded!`);
     } catch (error) {
       const message =
         error instanceof Error ? error.message : 'Failed to generate resume';
@@ -163,23 +180,31 @@ export function ApplicationsPage() {
             </p>
           </div>
 
-          <button
-            onClick={() => {
-              if (isProfileLoading) {
-                toast.info('Loading your saved profile...');
-                return;
-              }
+          <div className="flex items-center gap-3">
+            <button
+              onClick={() => navigate('/profile')}
+              className="rounded-full border border-slate-300 bg-white text-slate-900 px-4 py-2 hover:bg-slate-50"
+            >
+              View Profile
+            </button>
+            <button
+              onClick={() => {
+                if (isProfileLoading) {
+                  toast.info('Loading your saved profile...');
+                  return;
+                }
 
-              if (!hasUsableProfile) {
-                toast.error('Fill and save your profile first.');
-                return;
-              }
-              setIsModalOpen(true);
-            }}
-            className="rounded-full bg-black text-white px-4 py-2"
-          >
-            Tailor Resume
-          </button>
+                if (!hasUsableProfile) {
+                  toast.error('Fill and save your profile first.');
+                  return;
+                }
+                setIsModalOpen(true);
+              }}
+              className="rounded-full bg-black text-white px-4 py-2"
+            >
+              Tailor Resume
+            </button>
+          </div>
         </div>
 
         <div className="space-y-4">
