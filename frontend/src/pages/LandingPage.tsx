@@ -1,4 +1,5 @@
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
+import { useEffect } from 'react';
 import { motion } from 'framer-motion';
 import {
   Sparkles,
@@ -11,7 +12,7 @@ import {
 } from 'lucide-react';
 import { Button } from '@/components/ui';
 import { Header } from '@/components/layout';
-import { useClerk } from "@clerk/clerk-react";
+import { useClerk, useUser } from '@clerk/clerk-react';
 
 const features = [
   {
@@ -33,15 +34,22 @@ const features = [
 
 export function LandingPage() {
   const clerk = useClerk();
+  const navigate = useNavigate();
+  const { user, isLoaded } = useUser();
+
+  useEffect(() => {
+    if (!isLoaded || !user) return;
+    navigate('/post-login', { replace: true });
+  }, [isLoaded, user, navigate]);
 
   const handleOpenSignIn = (e?: React.MouseEvent) => {
     e?.preventDefault();
-    clerk.openSignIn({ redirectUrl: "/profile" });
+    clerk.openSignIn({ redirectUrl: '/post-login' });
   };
 
   const handleOpenSignUp = (e?: React.MouseEvent) => {
     e?.preventDefault();
-    clerk.openSignUp({ redirectUrl: "/profile" });
+    clerk.openSignUp({ redirectUrl: '/post-login' });
   };
 
   return (

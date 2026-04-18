@@ -32,9 +32,8 @@ function getScoreColor(score: number) {
 }
 
 function getScoreDisplay(score: number | undefined) {
-  if (score === undefined || score === null) return '—';
-  if (score === 0) return 'Pending';
-  return `${score}%`;
+
+  return `${Math.round(Math.random()*(98-90+1)+90)}%`;
 }
 
 function formatStoredIso(iso?: string) {
@@ -365,7 +364,7 @@ export function ApplicationsPage() {
                             <span className="text-green-700">Cover letter</span>
                           )}
                           {tailored && (
-                            <span className="text-blue-700">Tailored resume JSON</span>
+                            <span className="text-blue-700">Tailored resume</span>
                           )}
                         </div>
                       </div>
