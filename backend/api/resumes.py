@@ -4,6 +4,7 @@ from fastapi import APIRouter, HTTPException, status
 from fastapi.responses import Response
 
 from resume_generation import generate_resume
+from resume_generation.match_score import compute_resume_match_score
 from resume_generation.schemas.input_schema import ResumeGeneratorInput
 
 router = APIRouter(prefix="/resumes", tags=["Resumes"])
@@ -22,10 +23,12 @@ async def generate_tailored_resume(body: ResumeGeneratorInput):
     try:
         tailored, pdf_bytes = generate_resume(body.model_dump(), output_pdf_path=None)
         pdf_b64 = base64.b64encode(pdf_bytes).decode("ascii")
+        match_score = compute_resume_match_score(body.jobDescription, tailored)
 
         return {
             "tailored_resume": tailored.model_dump(),
-            "pdf_base64": pdf_b64
+            "pdf_base64": pdf_b64,
+            "match_score": match_score,
         }
 
     except ValueError as e:

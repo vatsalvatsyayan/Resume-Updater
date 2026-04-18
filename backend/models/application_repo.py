@@ -58,6 +58,14 @@ class ApplicationRepo:
             cover = payload.get("cover_letter")
         if cover is not None:
             doc["cover_letter"] = cover
+        ms = payload.get("matchScore")
+        if ms is None:
+            ms = payload.get("match_score")
+        if ms is not None:
+            try:
+                doc["match_score"] = int(ms)
+            except (TypeError, ValueError):
+                pass
         return doc
 
     async def create(self, email: str, payload: Dict[str, Any]) -> Dict[str, Any]:
@@ -109,6 +117,7 @@ class ApplicationRepo:
             "status": "status",
             "tailoredResume": "tailored_resume",
             "coverLetter": "cover_letter",
+            "matchScore": "match_score",
         }
 
         update_fields: Dict[str, Any] = {}

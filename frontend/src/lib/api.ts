@@ -46,6 +46,8 @@ export interface ApplicationPayload {
   tailoredResume?: Record<string, unknown>;
   /** Plain-text cover letter when generation was requested and succeeded */
   coverLetter?: string | null;
+  /** Match percentage saved when the tailored resume was generated */
+  matchScore?: number;
   status?: string;
 }
 
@@ -163,13 +165,21 @@ export function buildResumePayload(
   };
 }
 
+/** Parse stored match score; missing or invalid → undefined (shows as —), never fake 0. */
+function coerceApplicationMatchScore(raw: unknown): number | undefined {
+  if (raw === null || raw === undefined) return undefined;
+  const n = typeof raw === 'number' ? raw : Number(raw);
+  if (!Number.isFinite(n) || n <= 0) return undefined;
+  return Math.round(n);
+}
+
 export function normalizeApplications(apps: any[]): Application[] {
   return apps.map((app) => ({
     _id: app._id,
     companyName: app.companyName ?? app.company_name ?? '',
     roleName: app.roleName ?? app.role_name ?? '',
     jobDescription: app.jobDescription ?? app.job_description ?? '',
-    matchScore: app.matchScore ?? app.match_score ?? 0,
+    matchScore: coerceApplicationMatchScore(app.matchScore ?? app.match_score),
     tailoredResume: app.tailoredResume ?? app.tailored_resume,
     coverLetter: app.coverLetter ?? app.cover_letter ?? null,
     status: app.status,

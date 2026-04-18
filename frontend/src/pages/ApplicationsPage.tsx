@@ -24,7 +24,10 @@ import {
 import { useFormStore } from '@/stores/formStore';
 import { defaultProfileFormData, type ProfileFormData } from '@/types/form.types';
 
-function getScoreColor(score: number) {
+function getScoreColor(score: number | undefined) {
+  if (score === undefined || score === null) {
+    return 'text-slate-500 bg-slate-100';
+  }
   if (score === 0) return 'text-slate-500 bg-slate-100';
   if (score <= 30) return 'text-red-600 bg-red-50';
   if (score <= 60) return 'text-amber-600 bg-amber-50';
@@ -32,8 +35,8 @@ function getScoreColor(score: number) {
 }
 
 function getScoreDisplay(score: number | undefined) {
-
-  return `${Math.round(Math.random()*(98-90+1)+90)}%`;
+  if (score === undefined || score === null) return '—';
+  return `${score}%`;
 }
 
 function formatStoredIso(iso?: string) {
@@ -194,6 +197,9 @@ export function ApplicationsPage() {
 
       const tailoredResume = gen.tailored_resume as Record<string, unknown>;
 
+      const rawMatch = gen.match_score ?? (gen as { matchScore?: number }).matchScore;
+      const matchScore = typeof rawMatch === 'number' ? rawMatch : undefined;
+
       let coverLetterText: string | null = null;
       let coverLetterNotice = '';
 
@@ -228,6 +234,7 @@ export function ApplicationsPage() {
           jobDescription: data.jobDescription,
           tailoredResume,
           coverLetter: coverLetterText,
+          matchScore,
           status: 'generated',
         });
         await refreshApplications();
@@ -241,7 +248,9 @@ export function ApplicationsPage() {
       setIsModalOpen(false);
 
       toast.success(
-        `Resume${coverLetterNotice} for ${data.companyName} (${data.roleName}) downloaded!`
+        `Resume${coverLetterNotice} for ${data.companyName} (${data.roleName}) downloaded!${
+          matchScore != null ? ` Job match: ${matchScore}%.` : ''
+        }`
       );
     } catch (error) {
       const message =
@@ -372,9 +381,10 @@ export function ApplicationsPage() {
 
                     <div className="flex items-center gap-3 shrink-0">
                       <span
+                        title="Job match"
                         className={cn(
                           'rounded-full px-3 py-1 text-sm font-medium hidden sm:inline-flex',
-                          getScoreColor(app.matchScore ?? 0)
+                          getScoreColor(app.matchScore)
                         )}
                       >
                         {getScoreDisplay(app.matchScore)}
