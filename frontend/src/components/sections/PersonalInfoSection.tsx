@@ -1,5 +1,5 @@
 import { useFormContext, Controller } from 'react-hook-form';
-import { User, Mail, Globe, Github, Linkedin } from 'lucide-react';
+import { User, Mail, Phone, MapPin, Globe, Github, Linkedin } from 'lucide-react';
 import { Input } from '@/components/ui';
 import { FormSection, FormField } from '@/components/form';
 import type { ProfileFormData } from '@/types/form.types';
@@ -11,7 +11,7 @@ export function PersonalInfoSection() {
     <FormSection
       id="personal"
       title="Personal Information"
-      description="Your basic contact details"
+      description="Contact details for your resume header (phone and location help ATS and recruiters)"
       icon={User}
     >
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -45,6 +45,41 @@ export function PersonalInfoSection() {
                 {...field}
                 error={errors.personalInfo?.email?.message}
                 leftAddon={<Mail className="w-4 h-4" />}
+              />
+            )}
+          />
+        </FormField>
+
+        <FormField fullWidth>
+          <Controller
+            name="personalInfo.phone"
+            control={control}
+            render={({ field }) => (
+              <Input
+                type="tel"
+                label="Phone"
+                placeholder="(555) 123-4567"
+                {...field}
+                value={field.value || ''}
+                error={errors.personalInfo?.phone?.message}
+                leftAddon={<Phone className="w-4 h-4" />}
+              />
+            )}
+          />
+        </FormField>
+
+        <FormField fullWidth>
+          <Controller
+            name="personalInfo.location"
+            control={control}
+            render={({ field }) => (
+              <Input
+                label="City, State / Location"
+                placeholder="e.g. Los Angeles, CA"
+                {...field}
+                value={field.value || ''}
+                error={errors.personalInfo?.location?.message}
+                leftAddon={<MapPin className="w-4 h-4" />}
               />
             )}
           />

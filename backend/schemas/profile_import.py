@@ -1,6 +1,6 @@
 from typing import Literal
 
-from pydantic import BaseModel, Field, field_validator
+from pydantic import AliasChoices, BaseModel, Field, field_validator
 
 from utils.date_import import coerce_date_scalar
 
@@ -11,18 +11,75 @@ CourseType = Literal["Bachelor's", "Master's", "PhD", "Diploma", "Certificate", 
 class PersonalInfo(BaseModel):
     name: str = ""
     email: str = ""
+    phone: str | None = Field(
+        None,
+        validation_alias=AliasChoices(
+            "phone",
+            "phone_number",
+            "phoneNumber",
+            "mobile",
+            "tel",
+            "telephone",
+        ),
+    )
+    location: str | None = Field(
+        None,
+        validation_alias=AliasChoices(
+            "location",
+            "city",
+            "city_state",
+            "cityState",
+            "mailing_address",
+            "mailingAddress",
+            "address",
+        ),
+    )
     portfolioWebsite: str | None = None
     githubUrl: str | None = None
     linkedinUrl: str | None = None
 
+    @field_validator("phone", "location", mode="before")
+    @classmethod
+    def strip_optional_text(cls, v: object) -> str | None:
+        if v is None:
+            return None
+        s = str(v).strip()
+        return s or None
+
 
 class Education(BaseModel):
-    universityName: str = ""
-    courseName: str = ""
+    universityName: str = Field(
+        "",
+        validation_alias=AliasChoices("universityName", "university_name", "school", "institution"),
+    )
+    courseName: str = Field(
+        "",
+        validation_alias=AliasChoices("courseName", "course_name", "degree", "program"),
+    )
     courseType: CourseType = ""
     major: str = ""
-    gpa: str | None = None
-    location: str | None = None
+    gpa: str | None = Field(
+        None,
+        validation_alias=AliasChoices(
+            "gpa",
+            "GPA",
+            "grade_point_average",
+            "gradePointAverage",
+            "cgpa",
+            "CGPA",
+        ),
+    )
+    location: str | None = Field(
+        None,
+        validation_alias=AliasChoices(
+            "location",
+            "campus",
+            "school_location",
+            "schoolLocation",
+            "university_location",
+            "universityLocation",
+        ),
+    )
     startDate: str | None = None
     endDate: str | None = None
     isPresent: bool = False

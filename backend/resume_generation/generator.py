@@ -30,6 +30,21 @@ from .tailor import tailor_resume
 from .llm import LLMConfig
 
 
+def merge_ats_header_contact(tailored: TailoredResume, data: ResumeGeneratorInput) -> TailoredResume:
+    """Prefer profile phone and header location so PDFs stay ATS-aligned even if the LLM omits them."""
+    pi = data.personalInfo
+    phone = (pi.phone or "").strip() or None
+    location = (pi.location or "").strip() or None
+    if not phone and not location:
+        return tailored
+    updates: dict = {}
+    if phone:
+        updates["phone"] = phone
+    if location:
+        updates["location"] = location
+    return tailored.model_copy(update=updates)
+
+
 def input_to_tailored_no_llm(data: Union[ResumeGeneratorInput, dict]) -> TailoredResume:
     """Convert input schema to TailoredResume without calling the LLM (for PDF-only testing)."""
     if isinstance(data, dict):
@@ -107,6 +122,8 @@ def input_to_tailored_no_llm(data: Union[ResumeGeneratorInput, dict]) -> Tailore
     return TailoredResume(
         name=pi.name or "",
         email=pi.email or "",
+        phone=(pi.phone or "").strip() or None,
+        location=(pi.location or "").strip() or None,
         portfolioWebsite=pi.portfolioWebsite,
         githubUrl=pi.githubUrl,
         linkedinUrl=pi.linkedinUrl,
@@ -147,6 +164,7 @@ def generate_resume(
         data = ResumeGeneratorInput.model_validate(data)
     llm_config = _get_llm_config()
     tailored = tailor_resume(data, llm_config)
+    tailored = merge_ats_header_contact(tailored, data)
     if output_pdf_path is not None:
         result = build_pdf(tailored, output=output_pdf_path)
         return tailored, result

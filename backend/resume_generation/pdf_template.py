@@ -22,7 +22,7 @@ PAGE_WIDTH_MM = 210.0
 MARGIN_MM = 15.0
 MARGIN_COMPACT_MM = 10.0
 MIN_SECTION_BUFFER_MM = 14.0
-MIN_SECTION_BUFFER_COMPACT_MM = 10.0
+MIN_SECTION_BUFFER_COMPACT_MM = 6.0
 
 # Normal font sizes (pt)
 FONT_NAME = 14
@@ -47,6 +47,7 @@ FONT_SMALL_S = 10
 # Previously max_lines=6 (~300 chars) clipped longer LLM/edited summaries mid-sentence.
 SUMMARY_TRUNC_MAX_LINES = 12
 SUMMARY_TRUNC_CHARS_PER_LINE_ESTIMATE = 52
+FILL_WHITESPACE_THRESHOLD_MM = 50.0
 
 
 def _content_weight(resume: TailoredResume) -> float:
@@ -277,7 +278,18 @@ def build_pdf_template(
         pdf.set_font("Helvetica", "B", opts["font_name"])
         pdf.set_text_color(30, 30, 30)
         pdf.cell(0, 6 * scale, _pdf_safe(resume.name or "Resume"), new_x="LMARGIN", new_y="NEXT")
-        contact_parts = [p for p in [resume.email, resume.portfolioWebsite, resume.githubUrl, resume.linkedinUrl] if p]
+        contact_parts = [
+            p
+            for p in [
+                resume.email,
+                resume.phone,
+                resume.location,
+                resume.portfolioWebsite,
+                resume.githubUrl,
+                resume.linkedinUrl,
+            ]
+            if p
+        ]
         if contact_parts:
             pdf.set_font("Helvetica", "", opts["font_contact"])
             pdf.set_text_color(80, 80, 80)
@@ -447,6 +459,38 @@ def build_pdf_template(
         out = pdf.output()
         return bytes(out) if isinstance(out, bytearray) else out
 
+    def pruned_resume_variant(base: TailoredResume, level: int) -> TailoredResume:
+        """Progressively trim lower-priority sections to preserve one-page output.
+
+        Priority order (least critical first):
+          1) leadership + volunteer
+          2) project bullets (then project count)
+          3) summary length
+          4) certifications (last to remove)
+        """
+        r = base.model_copy(deep=True)
+        if level >= 1:
+            r.leadership = []
+            r.volunteer = []
+        if level >= 2:
+            for p in r.projects:
+                if p.bullets:
+                    p.bullets = p.bullets[:2]
+        if level >= 3:
+            if len(r.projects) > 2:
+                r.projects = r.projects[:2]
+        if level >= 4 and r.professionalSummary:
+            # Keep summary but tighter.
+            r.professionalSummary = r.professionalSummary[:340].rstrip()
+        if level >= 5:
+            # Last resort: one bullet per project.
+            for p in r.projects:
+                if p.bullets:
+                    p.bullets = p.bullets[:1]
+        if level >= 6:
+            r.certifications = []
+        return r
+
     # Content-based layout: choose spread / normal / compact from resume data
     layout = _content_based_layout(resume)
 
@@ -457,26 +501,59 @@ def build_pdf_template(
 
     if layout == "normal":
         opts_normal = make_opts(MARGIN_MM, FONT_NAME, FONT_CONTACT, FONT_SECTION, FONT_BODY, FONT_SMALL, multi_page=False)
-        pdf, truncated, _ = build_one(opts_normal)
+        pdf, truncated, y_end = build_one(opts_normal)
         if not truncated:
+            # If there is still a lot of empty space, prefer the spread layout for better visual balance.
+            remaining = (PAGE_HEIGHT_MM - MARGIN_MM) - y_end
+            if remaining >= FILL_WHITESPACE_THRESHOLD_MM:
+                opts_spread = make_opts(
+                    MARGIN_MM,
+                    FONT_NAME_S,
+                    FONT_CONTACT_S,
+                    FONT_SECTION_S,
+                    FONT_BODY_S,
+                    FONT_SMALL_S,
+                    multi_page=False,
+                    spacing_scale=1.35,
+                )
+                pdf_spread, spread_truncated, _ = build_one(opts_spread)
+                if not spread_truncated:
+                    return output_pdf(pdf_spread)
             return output_pdf(pdf)
         # Overflow: fall back to compact
         opts_compact = make_opts(MARGIN_COMPACT_MM, FONT_NAME_C, FONT_CONTACT_C, FONT_SECTION_C, FONT_BODY_C, FONT_SMALL_C, multi_page=False, spacing_scale=0.95)
-        pdf, truncated_compact, _ = build_one(opts_compact)
-        if truncated_compact:
-            log.warning(
-                "Resume content exceeds one page even after re-formatting (reduced margins and fonts). "
-                "Some content has been cut off to keep the resume to a single page."
-            )
+        for level in range(0, 7):
+            candidate = pruned_resume_variant(resume, level)
+            saved = resume
+            try:
+                # Render pruned copy at this level.
+                resume = candidate
+                pdf, truncated_compact, _ = build_one(opts_compact)
+            finally:
+                resume = saved
+            if not truncated_compact:
+                return output_pdf(pdf)
+        log.warning(
+            "Resume content exceeds one page even after prioritized trimming. "
+            "Some content has been cut off to keep the resume to a single page."
+        )
         return output_pdf(pdf)
 
     # layout == "compact"
     opts_compact = make_opts(MARGIN_COMPACT_MM, FONT_NAME_C, FONT_CONTACT_C, FONT_SECTION_C, FONT_BODY_C, FONT_SMALL_C, multi_page=False, spacing_scale=0.95)
-    pdf, truncated_compact, _ = build_one(opts_compact)
-    if truncated_compact:
-        log.warning(
-            "Resume content exceeds one page even after re-formatting (reduced margins and fonts). "
-            "Some content has been cut off to keep the resume to a single page."
-        )
+    for level in range(0, 7):
+        candidate = pruned_resume_variant(resume, level)
+        saved = resume
+        try:
+            resume = candidate
+            pdf, truncated_compact, _ = build_one(opts_compact)
+        finally:
+            resume = saved
+        if not truncated_compact:
+            return output_pdf(pdf)
+    log.warning(
+        "Resume content exceeds one page even after prioritized trimming. "
+        "Some content has been cut off to keep the resume to a single page."
+    )
     return output_pdf(pdf)
 

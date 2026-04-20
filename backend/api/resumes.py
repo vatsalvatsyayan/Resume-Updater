@@ -6,7 +6,7 @@ from pydantic import ValidationError
 
 from resume_generation import generate_resume
 from resume_generation.generator import tailored_resume_to_pdf_bytes
-from resume_generation.match_score import compute_resume_match_score
+from resume_generation.match_score import compute_resume_match_evaluation
 from resume_generation.schemas.input_schema import ResumeGeneratorInput
 from resume_generation.tailor import parse_tailored_resume
 
@@ -26,12 +26,10 @@ async def generate_tailored_resume(body: ResumeGeneratorInput):
     try:
         tailored, pdf_bytes = generate_resume(body.model_dump(), output_pdf_path=None)
         pdf_b64 = base64.b64encode(pdf_bytes).decode("ascii")
-        match_score = compute_resume_match_score(body.jobDescription, tailored)
 
         return {
             "tailored_resume": tailored.model_dump(),
             "pdf_base64": pdf_b64,
-            "match_score": match_score,
         }
 
     except ValueError as e:
@@ -88,6 +86,59 @@ async def render_tailored_resume_pdf(body: dict):
         ) from e
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e)) from e
+
+
+@router.post("/evaluate", status_code=status.HTTP_200_OK)
+async def evaluate_tailored_resume(body: dict):
+    """Evaluate tailored resume ATS quality + hallucination risk as a separate on-demand LLM call."""
+    if not isinstance(body, dict):
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Request body must be a JSON object",
+        )
+
+    job_description = body.get("jobDescription") or body.get("job_description")
+    tailored_raw = body.get("tailoredResume") or body.get("tailored_resume")
+    original_profile = body.get("originalProfile") or body.get("original_profile") or {}
+
+    if not isinstance(job_description, str) or len(job_description.strip()) < 20:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="jobDescription must be a non-empty string (min 20 chars)",
+        )
+    if not isinstance(tailored_raw, dict):
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="tailoredResume must be a JSON object",
+        )
+    if not isinstance(original_profile, dict):
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="originalProfile must be a JSON object",
+        )
+
+    try:
+        tailored = parse_tailored_resume(tailored_raw)
+    except ValidationError as e:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=e.errors(include_url=False),
+        ) from e
+    except Exception as e:
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e)) from e
+
+    try:
+        evaluation = compute_resume_match_evaluation(
+            job_description=job_description.strip(),
+            tailored=tailored,
+            original_profile_data=original_profile,
+        )
+        return {
+            "match_score": int(evaluation.get("final_score", 0)),
+            "match_evaluation": evaluation,
+        }
+    except Exception as e:
+        raise HTTPException(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, detail=str(e)) from e
 
 
 @router.get("/{resume_id}", status_code=status.HTTP_200_OK)

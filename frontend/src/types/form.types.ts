@@ -1,6 +1,10 @@
 export interface PersonalInfo {
   name: string;
   email: string;
+  /** ATS-friendly contact line (digits and symbols as you want them to appear). */
+  phone: string | null;
+  /** City, state, or metro for the resume header (not a job office field). */
+  location: string | null;
   portfolioWebsite: string | null;
   githubUrl: string | null;
   linkedinUrl: string | null;
@@ -97,6 +101,8 @@ export interface ProfileFormData {
 export const defaultPersonalInfo: PersonalInfo = {
   name: '',
   email: '',
+  phone: null,
+  location: null,
   portfolioWebsite: null,
   githubUrl: null,
   linkedinUrl: null,

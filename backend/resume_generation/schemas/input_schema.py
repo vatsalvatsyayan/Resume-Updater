@@ -8,6 +8,9 @@ from pydantic import BaseModel, Field
 class PersonalInfoInput(BaseModel):
     name: str = ""
     email: str = ""
+    phone: Optional[str] = None
+    """City, state, or metro line for the resume header (ATS-friendly contact block)."""
+    location: Optional[str] = None
     portfolioWebsite: Optional[str] = None
     githubUrl: Optional[str] = None
     linkedinUrl: Optional[str] = None

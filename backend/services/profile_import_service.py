@@ -120,18 +120,63 @@ class ProfileImportService:
             if isinstance(obj, dict) and isinstance(obj.get("data"), dict):
                 obj = obj["data"]
             data = ImportedProfileData.model_validate(obj)
-            return normalize_imported_profile(data)
+            data = normalize_imported_profile(data)
+            return self._merge_contact_fallback(text, data)
         except (json.JSONDecodeError, ValidationError, TypeError) as exc:
             raise HTTPException(
                 status_code=status.HTTP_502_BAD_GATEWAY,
                 detail=f"LLM did not return valid profile import data: {exc}",
             ) from exc
 
+    def _merge_contact_fallback(
+        self, resume_text: str, data: ImportedProfileData
+    ) -> ImportedProfileData:
+        """Fill phone from raw text when the model omits it but a number is visible."""
+        pi = data.personalInfo
+        if (pi.phone or "").strip():
+            return data
+        extracted = self._extract_phone_from_text(resume_text)
+        if not extracted:
+            return data
+        return data.model_copy(
+            update={"personalInfo": pi.model_copy(update={"phone": extracted})}
+        )
+
+    _PHONE_SEARCH_RE = re.compile(
+        r"(?:\+?\d{1,3}[-.\s]?\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{4}|"
+        r"\(?\d{3}\)?[-.\s]\d{3}[-.\s]\d{4}|"
+        r"\b\d{3}[-.\s]\d{3}[-.\s]\d{4}\b)"
+    )
+
+    def _extract_phone_from_text(self, resume_text: str) -> str | None:
+        # Prefer numbers on the same line as Phone/Mobile/Tel labels
+        for line in resume_text.splitlines():
+            if re.search(r"(?i)\b(phone|mobile|cell|tel\.?|telephone)\b", line):
+                m = self._PHONE_SEARCH_RE.search(line)
+                if m:
+                    return self._normalize_phone_candidate(m.group(0))
+        for m in self._PHONE_SEARCH_RE.finditer(resume_text):
+            cand = self._normalize_phone_candidate(m.group(0))
+            digits = re.sub(r"\D", "", cand)
+            if len(digits) >= 10:
+                return cand
+        return None
+
+    @staticmethod
+    def _normalize_phone_candidate(raw: str) -> str:
+        return re.sub(r"\s+", " ", raw.strip())
+
     def _build_prompt(self, text: str) -> str:
         return f"""Extract structured profile data from this resume for a user profile form.
 
 Return only one valid JSON object. Do not include markdown or explanations.
 Use empty strings, null, false, or [] for missing fields. Do not invent facts.
+
+Contact and education (capture when present in the resume text):
+- personalInfo.phone: digits and symbols exactly as shown (header, summary, or labeled "Phone").
+- personalInfo.location: city and state/region or country as written for the candidate (not job office locations), e.g. "Los Angeles, CA".
+- For each education entry: gpa must be filled when the resume lists GPA/CGPA (e.g. "3.8/4.0", "GPA: 3.95", "Major GPA 3.7").
+- education.location: campus, city, or region of the school if stated (e.g. "Los Angeles" or "Bengaluru, India").
 
 Dates (required whenever they appear in the resume text):
 - For each education, work experience, volunteer, and leadership entry, set startDate and endDate from the resume. Parse ranges like "Jan 2020 – Mar 2023", "2020-2023", "01/2022 – Present", or years under job titles.
@@ -145,6 +190,8 @@ The JSON object must use exactly this shape:
   "personalInfo": {{
     "name": "",
     "email": "",
+    "phone": null,
+    "location": null,
     "portfolioWebsite": null,
     "githubUrl": null,
     "linkedinUrl": null
@@ -244,6 +291,8 @@ Resume text:
             [
                 personal_info.name,
                 personal_info.email,
+                personal_info.phone,
+                personal_info.location,
                 personal_info.portfolioWebsite,
                 personal_info.githubUrl,
                 personal_info.linkedinUrl,

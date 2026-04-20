@@ -73,6 +73,9 @@ class TailoredSection(BaseModel):
 class TailoredResume(BaseModel):
     name: str = ""
     email: str = ""
+    phone: Optional[str] = None
+    """Header line: city/state or metro (not the same as a job's office location)."""
+    location: Optional[str] = None
     portfolioWebsite: Optional[str] = None
     githubUrl: Optional[str] = None
     linkedinUrl: Optional[str] = None

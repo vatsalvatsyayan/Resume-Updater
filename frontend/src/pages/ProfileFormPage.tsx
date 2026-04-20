@@ -33,6 +33,8 @@ function mapProfileToFormData(profile: any, fallbackEmail: string): ProfileFormD
       ...defaultProfileFormData.personalInfo,
       name: profile.personalInfo?.name ?? '',
       email: profile.personalInfo?.email ?? profile.email ?? fallbackEmail,
+      phone: profile.personalInfo?.phone ?? null,
+      location: profile.personalInfo?.location ?? null,
       portfolioWebsite: profile.personalInfo?.portfolioWebsite ?? '',
       githubUrl: profile.personalInfo?.githubUrl ?? '',
       linkedinUrl: profile.personalInfo?.linkedinUrl ?? '',

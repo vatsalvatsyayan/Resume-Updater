@@ -3,6 +3,8 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from core.config import settings
+
 from api.resumes import router as resumes_router
 from api.user import router as user_router
 from api.cover_letter import router as cover_letter_router
@@ -25,14 +27,20 @@ app = FastAPI(
 )
 
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=[
+def _cors_allow_origins() -> list[str]:
+    dev = [
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         "http://localhost:3000",
         "http://127.0.0.1:3000",
-    ],
+    ]
+    extra = [o.strip() for o in settings.CORS_ORIGINS.split(",") if o.strip()]
+    return list(dict.fromkeys([*dev, *extra]))
+
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=_cors_allow_origins(),
     # Vite picks the next free port when 5173 is taken; allow any localhost port for dev.
     allow_origin_regex=r"https?://(localhost|127\.0\.0\.1)(:\d+)?",
     allow_credentials=True,

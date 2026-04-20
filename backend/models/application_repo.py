@@ -66,6 +66,26 @@ class ApplicationRepo:
                 doc["match_score"] = int(ms)
             except (TypeError, ValueError):
                 pass
+        me = payload.get("matchEvaluation")
+        if me is None:
+            me = payload.get("match_evaluation")
+        if isinstance(me, dict):
+            doc["match_evaluation"] = me
+        source_profile = payload.get("sourceProfile")
+        if source_profile is None:
+            source_profile = payload.get("source_profile")
+        if isinstance(source_profile, dict):
+            doc["source_profile"] = source_profile
+        clf = payload.get("coverLetterFeedback")
+        if clf is None:
+            clf = payload.get("cover_letter_feedback")
+        if clf in {"up", "down", None}:
+            doc["cover_letter_feedback"] = clf
+        rf = payload.get("resumeFeedback")
+        if rf is None:
+            rf = payload.get("resume_feedback")
+        if rf in {"up", "down", None}:
+            doc["resume_feedback"] = rf
         return doc
 
     async def create(self, email: str, payload: Dict[str, Any]) -> Dict[str, Any]:
@@ -118,6 +138,10 @@ class ApplicationRepo:
             "tailoredResume": "tailored_resume",
             "coverLetter": "cover_letter",
             "matchScore": "match_score",
+            "matchEvaluation": "match_evaluation",
+            "sourceProfile": "source_profile",
+            "coverLetterFeedback": "cover_letter_feedback",
+            "resumeFeedback": "resume_feedback",
         }
 
         update_fields: Dict[str, Any] = {}

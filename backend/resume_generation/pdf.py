@@ -106,7 +106,18 @@ def build_pdf(
 
     pdf.set_font("Helvetica", "B", font_size_title)
     pdf.cell(0, 6, _pdf_safe(resume.name or "Resume"), new_x="LMARGIN", new_y="NEXT")
-    contact_parts = [p for p in [resume.email, resume.portfolioWebsite, resume.githubUrl, resume.linkedinUrl] if p]
+    contact_parts = [
+        p
+        for p in [
+            resume.email,
+            resume.phone,
+            resume.location,
+            resume.portfolioWebsite,
+            resume.githubUrl,
+            resume.linkedinUrl,
+        ]
+        if p
+    ]
     if contact_parts:
         pdf.set_font("Helvetica", "", font_size_body - 1)
         pdf.set_text_color(80, 80, 80)

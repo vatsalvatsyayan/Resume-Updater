@@ -129,9 +129,11 @@ class CamelModel(BaseModel):
 
 
 class PersonalInfo(CamelModel):
-    # frontend sends personalInfo: { name, email, portfolioWebsite, githubUrl, linkedinUrl }
+    # frontend sends personalInfo: { name, email, phone?, location?, portfolioWebsite, githubUrl, linkedinUrl }
     full_name: Optional[str] = Field(None, alias="name")
     email: Optional[str] = None
+    phone: Optional[str] = None
+    location: Optional[str] = None
     portfolio: Optional[str] = Field(None, alias="portfolioWebsite")
     github: Optional[str] = Field(None, alias="githubUrl")
     linkedin: Optional[str] = Field(None, alias="linkedinUrl")

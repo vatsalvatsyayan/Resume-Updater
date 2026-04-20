@@ -1,5 +1,4 @@
 from pydantic_settings import BaseSettings, SettingsConfigDict
-from typing import List
 
 
 class Settings(BaseSettings):
@@ -10,7 +9,9 @@ class Settings(BaseSettings):
     MONGODB_URL: str = "mongodb://localhost:27017"
     MONGODB_DB_NAME: str = "resume_updater"
 
-    CORS_ORIGINS: str = "http://localhost:3000,http://localhost:5173,http://127.0.0.1:5173"
+    # Comma-separated extra browser origins (e.g. https://your-app.onrender.com). Local dev
+    # origins are always allowed in main.py; this only adds production/staging URLs.
+    CORS_ORIGINS: str = ""
 
     GOOGLE_API_KEY: str = ""
     GEMINI_API_KEY: str = ""

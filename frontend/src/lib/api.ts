@@ -60,7 +60,32 @@ export interface ApplicationPayload {
   coverLetter?: string | null;
   /** Match percentage saved when the tailored resume was generated */
   matchScore?: number;
+  /** Detailed LLM analysis and hallucination checks */
+  matchEvaluation?: ResumeMatchEvaluation;
+  /** Snapshot of profile used to generate this application's outputs */
+  sourceProfile?: ProfileFormData;
+  coverLetterFeedback?: 'up' | 'down' | null;
+  resumeFeedback?: 'up' | 'down' | null;
   status?: string;
+}
+
+export interface HallucinationFinding {
+  claim: string;
+  status: 'supported' | 'uncertain' | 'unsupported';
+  reason: string;
+}
+
+export interface ResumeMatchEvaluation {
+  final_score: number;
+  ats_match_score: number;
+  ats_format_score: number;
+  hallucination_risk_score: number;
+  summary: string;
+  ats_strengths: string[];
+  ats_gaps: string[];
+  format_issues: string[];
+  hallucination_findings: HallucinationFinding[];
+  source?: string;
 }
 
 export interface Application {
@@ -69,6 +94,10 @@ export interface Application {
   roleName: string;
   jobDescription: string;
   matchScore?: number;
+  matchEvaluation?: ResumeMatchEvaluation;
+  sourceProfile?: ProfileFormData;
+  coverLetterFeedback?: 'up' | 'down' | null;
+  resumeFeedback?: 'up' | 'down' | null;
   tailoredResume?: Record<string, unknown>;
   coverLetter?: string | null;
   status?: string;
@@ -90,6 +119,12 @@ export interface ResumeGeneratorPayload {
   roleName: string;
   companyName: string;
   maxProjects?: number;
+}
+
+export interface ResumeEvaluationPayload {
+  jobDescription: string;
+  tailoredResume: Record<string, unknown>;
+  originalProfile: object;
 }
 
 export interface ProfileImportPayload {
@@ -118,6 +153,13 @@ export interface CoverLetterResponsePayload {
   cover_letter: string;
   company_name: string;
   role_name: string;
+}
+
+export interface ResumeGenerateResponsePayload {
+  tailored_resume: Record<string, unknown>;
+  pdf_base64: string;
+  match_score?: number;
+  match_evaluation?: ResumeMatchEvaluation;
 }
 
 function stripId<T extends { id?: string }>(obj: T): Omit<T, 'id'> {
@@ -185,6 +227,44 @@ function coerceApplicationMatchScore(raw: unknown): number | undefined {
   return Math.round(n);
 }
 
+function coerceMatchEvaluation(raw: unknown): ResumeMatchEvaluation | undefined {
+  if (!raw || typeof raw !== 'object') return undefined;
+  const obj = raw as Record<string, unknown>;
+  const asNum = (v: unknown, fallback = 0): number => {
+    const n = typeof v === 'number' ? v : Number(v);
+    return Number.isFinite(n) ? Math.max(0, Math.min(100, Math.round(n))) : fallback;
+  };
+  const asList = (v: unknown): string[] =>
+    Array.isArray(v) ? v.map((x) => String(x)).filter((x) => x.trim() !== '') : [];
+  const rawFindings = Array.isArray(obj.hallucination_findings) ? obj.hallucination_findings : [];
+  const hallucination_findings: HallucinationFinding[] = rawFindings
+    .map((entry) => {
+      if (!entry || typeof entry !== 'object') return null;
+      const e = entry as Record<string, unknown>;
+      const statusRaw = String(e.status ?? 'uncertain').toLowerCase();
+      const status: HallucinationFinding['status'] =
+        statusRaw === 'supported' || statusRaw === 'unsupported' ? statusRaw : 'uncertain';
+      return {
+        claim: String(e.claim ?? ''),
+        status,
+        reason: String(e.reason ?? ''),
+      };
+    })
+    .filter((x): x is HallucinationFinding => !!x);
+  return {
+    final_score: asNum(obj.final_score),
+    ats_match_score: asNum(obj.ats_match_score),
+    ats_format_score: asNum(obj.ats_format_score),
+    hallucination_risk_score: asNum(obj.hallucination_risk_score),
+    summary: String(obj.summary ?? ''),
+    ats_strengths: asList(obj.ats_strengths),
+    ats_gaps: asList(obj.ats_gaps),
+    format_issues: asList(obj.format_issues),
+    hallucination_findings,
+    source: obj.source ? String(obj.source) : undefined,
+  };
+}
+
 export function normalizeApplications(apps: any[]): Application[] {
   return apps.map((app) => ({
     _id: app._id,
@@ -192,6 +272,16 @@ export function normalizeApplications(apps: any[]): Application[] {
     roleName: app.roleName ?? app.role_name ?? '',
     jobDescription: app.jobDescription ?? app.job_description ?? '',
     matchScore: coerceApplicationMatchScore(app.matchScore ?? app.match_score),
+    matchEvaluation: coerceMatchEvaluation(app.matchEvaluation ?? app.match_evaluation),
+    sourceProfile: (app.sourceProfile ?? app.source_profile) as ProfileFormData | undefined,
+    coverLetterFeedback: (app.coverLetterFeedback ?? app.cover_letter_feedback ?? null) as
+      | 'up'
+      | 'down'
+      | null,
+    resumeFeedback: (app.resumeFeedback ?? app.resume_feedback ?? null) as
+      | 'up'
+      | 'down'
+      | null,
     tailoredResume: app.tailoredResume ?? app.tailored_resume,
     coverLetter: app.coverLetter ?? app.cover_letter ?? null,
     status: app.status,
@@ -212,6 +302,10 @@ export type ApplicationPatch = Partial<{
   jobDescription: string;
   status: string;
   matchScore: number;
+  matchEvaluation: ResumeMatchEvaluation;
+  sourceProfile: ProfileFormData;
+  coverLetterFeedback: 'up' | 'down' | null;
+  resumeFeedback: 'up' | 'down' | null;
 }>;
 
 export async function patchApplication(
@@ -367,7 +461,7 @@ export async function getApplications(email: string): Promise<Application[]> {
 
 export async function generateResume(
   payload: ResumeGeneratorPayload
-): Promise<any> {
+): Promise<ResumeGenerateResponsePayload> {
   const response = await fetch(`${API_BASE_URL}/resumes/generate`, {
     method: 'POST',
     headers: getAuthHeaders(),
@@ -380,7 +474,27 @@ export async function generateResume(
     throw new Error(parseError(result.detail, 'Failed to generate resume'));
   }
 
-  return result;
+  return result as ResumeGenerateResponsePayload;
+}
+
+export async function evaluateResumeMatch(
+  payload: ResumeEvaluationPayload
+): Promise<{ match_score: number; match_evaluation?: ResumeMatchEvaluation }> {
+  const response = await fetch(`${API_BASE_URL}/resumes/evaluate`, {
+    method: 'POST',
+    headers: getAuthHeaders(),
+    body: JSON.stringify(payload),
+  });
+
+  const result = await parseJsonSafe(response);
+  if (!response.ok) {
+    throw new Error(parseError(result.detail, 'Failed to evaluate resume'));
+  }
+
+  return {
+    match_score: Number(result.match_score ?? 0),
+    match_evaluation: coerceMatchEvaluation(result.match_evaluation),
+  };
 }
 
 export async function generateResumePdf(

@@ -1,5 +1,5 @@
-export { LandingPage } from './LandingPage';
-export { ProfileFormPage } from './ProfileFormPage';
-export { SuccessPage } from './SuccessPage';
-export { ApplicationsPage } from './ApplicationsPage';
-export { PostLoginRedirect } from './PostLoginRedirect';
+export { LandingPage } from './LandingPage.tsx';
+export { ProfileFormPage } from './ProfileFormPage.tsx';
+export { SuccessPage } from './SuccessPage.tsx';
+export { ApplicationsPage } from './ApplicationsPage.tsx';
+export { PostLoginRedirect } from './PostLoginRedirect.tsx';

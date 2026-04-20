@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useMemo, useState, type ReactNode } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { Briefcase, ChevronDown, ChevronUp, Download, Loader2, Save } from 'lucide-react';
+import { Briefcase, ChevronDown, ChevronUp, Download, Loader2, Save, ThumbsDown, ThumbsUp } from 'lucide-react';
 import { toast, Toaster } from 'sonner';
 import { useUser } from '@clerk/clerk-react';
 
@@ -22,11 +22,13 @@ import {
   generateCoverLetter,
   generateCoverLetterPdf,
   generateResume,
+  evaluateResumeMatch,
   getApplications,
   getProfile,
   patchApplication,
   renderTailoredResumePdf,
   type Application,
+  type ResumeMatchEvaluation,
 } from '@/lib/api';
 import { useFormStore } from '@/stores/formStore';
 import { defaultProfileFormData, type ProfileFormData } from '@/types/form.types';
@@ -44,6 +46,10 @@ function getScoreColor(score: number | undefined) {
 function getScoreDisplay(score: number | undefined) {
   if (score === undefined || score === null) return '—';
   return `${score}%`;
+}
+
+function getEffectiveScore(app: Application): number | undefined {
+  return app.matchEvaluation?.final_score ?? app.matchScore;
 }
 
 function formatStoredIso(iso?: string) {
@@ -84,6 +90,8 @@ function normalizeProfile(profile: any, fallbackEmail = ''): ProfileFormData {
       ...defaultProfileFormData.personalInfo,
       name: profile?.personalInfo?.name ?? '',
       email: profile?.personalInfo?.email ?? profile?.email ?? fallbackEmail,
+      phone: profile?.personalInfo?.phone ?? null,
+      location: profile?.personalInfo?.location ?? null,
       portfolioWebsite: profile?.personalInfo?.portfolioWebsite ?? null,
       githubUrl: profile?.personalInfo?.githubUrl ?? null,
       linkedinUrl: profile?.personalInfo?.linkedinUrl ?? null,
@@ -116,6 +124,8 @@ export function ApplicationsPage() {
   const [resumeJsonDraft, setResumeJsonDraft] = useState('');
   const [busyCover, setBusyCover] = useState<'save' | 'download' | null>(null);
   const [busyResume, setBusyResume] = useState<'save' | 'download' | null>(null);
+  const [busyAnalysis, setBusyAnalysis] = useState<string | null>(null);
+  const [busyFeedback, setBusyFeedback] = useState<string | null>(null);
 
   const { loadDraft, saveDraft } = useFormStore();
 
@@ -243,7 +253,7 @@ export function ApplicationsPage() {
       downloadPdfBlob(pdfBlob, resumeFilename);
 
       const tailoredResume = gen.tailored_resume as Record<string, unknown>;
-
+      const matchEvaluation = gen.match_evaluation as ResumeMatchEvaluation | undefined;
       const rawMatch = gen.match_score ?? (gen as { matchScore?: number }).matchScore;
       const matchScore = typeof rawMatch === 'number' ? rawMatch : undefined;
 
@@ -284,6 +294,8 @@ export function ApplicationsPage() {
           tailoredResume,
           coverLetter: coverLetterText,
           matchScore,
+          matchEvaluation,
+          sourceProfile: profile,
           status: 'generated',
         });
         await refreshApplications();
@@ -369,6 +381,67 @@ export function ApplicationsPage() {
       setBusyCover(null);
     }
   }, [coverDraft, getExpandedApp, hasUsableProfile, profile, user]);
+
+  const handleRunAnalysis = useCallback(async () => {
+    const app = getExpandedApp();
+    const userEmail = user?.primaryEmailAddress?.emailAddress;
+    if (!app?._id || !userEmail) {
+      toast.error('Cannot run analysis: missing application id or sign-in.');
+      return;
+    }
+    if (!app.tailoredResume || typeof app.tailoredResume !== 'object') {
+      toast.error('Generate or save a tailored resume first.');
+      return;
+    }
+    const rowKey = app._id;
+    setBusyAnalysis(rowKey);
+    try {
+      const result = await evaluateResumeMatch({
+        jobDescription: app.jobDescription,
+        tailoredResume: app.tailoredResume,
+        originalProfile: (app.sourceProfile ?? profile) as unknown as object,
+      });
+      await patchApplication(userEmail, app._id, {
+        matchScore: result.match_score,
+        matchEvaluation: result.match_evaluation,
+      });
+      await refreshApplications();
+      toast.success('ATS analysis completed.');
+    } catch (e) {
+      toast.error(e instanceof Error ? e.message : 'Failed to run ATS analysis.');
+    } finally {
+      setBusyAnalysis(null);
+    }
+  }, [getExpandedApp, profile, refreshApplications, user]);
+
+  const handleArtifactFeedback = useCallback(
+    async (app: Application, target: 'coverLetter' | 'resume', selected: 'up' | 'down') => {
+      const userEmail = user?.primaryEmailAddress?.emailAddress;
+      if (!app._id || !userEmail) {
+        toast.error('Cannot save feedback: missing application id or sign-in.');
+        return;
+      }
+      const current = target === 'coverLetter' ? app.coverLetterFeedback : app.resumeFeedback;
+      const next = current === selected ? null : selected;
+      const busyKey = `${app._id}:${target}`;
+      setBusyFeedback(busyKey);
+      try {
+        const updated = await patchApplication(userEmail, app._id, {
+          ...(target === 'coverLetter'
+            ? { coverLetterFeedback: next }
+            : { resumeFeedback: next }),
+        });
+        setApplications((prev) =>
+          prev.map((item) => (item._id === updated._id ? { ...item, ...updated } : item))
+        );
+      } catch (e) {
+        toast.error(e instanceof Error ? e.message : 'Failed to save feedback.');
+      } finally {
+        setBusyFeedback(null);
+      }
+    },
+    [user]
+  );
 
   const handleSaveTailoredResume = useCallback(async () => {
     const app = getExpandedApp();
@@ -510,6 +583,7 @@ export function ApplicationsPage() {
               const tailored = app.tailoredResume;
               const savedLabel = formatStoredIso(app.updatedAt);
               const canPersist = Boolean(app._id);
+              const effectiveScore = getEffectiveScore(app);
 
               return (
                 <motion.div
@@ -553,10 +627,10 @@ export function ApplicationsPage() {
                         title="Job match"
                         className={cn(
                           'rounded-full px-3 py-1 text-sm font-medium hidden sm:inline-flex',
-                          getScoreColor(app.matchScore)
+                          getScoreColor(effectiveScore)
                         )}
                       >
-                        {getScoreDisplay(app.matchScore)}
+                        {getScoreDisplay(effectiveScore)}
                       </span>
                       {isOpen ? (
                         <ChevronUp className="w-5 h-5 text-slate-400" />
@@ -577,11 +651,183 @@ export function ApplicationsPage() {
                         </pre>
                       </StoredBlock>
 
+                      {/* Never use StoredBlock empty= here: without analysis we still show the run button */}
+                      <StoredBlock title="ATS match analysis">
+                        {app.matchEvaluation ? (
+                          <div className="rounded-lg border border-slate-200 bg-white p-3 space-y-3 text-sm">
+                            <div className="grid grid-cols-1 sm:grid-cols-4 gap-2">
+                              <div className="rounded-md bg-slate-50 px-2.5 py-2">
+                                <p className="text-[11px] uppercase tracking-wide text-slate-500">Final</p>
+                                <p className="font-semibold text-slate-900">{app.matchEvaluation.final_score}%</p>
+                              </div>
+                              <div className="rounded-md bg-slate-50 px-2.5 py-2">
+                                <p className="text-[11px] uppercase tracking-wide text-slate-500">ATS match</p>
+                                <p className="font-semibold text-slate-900">{app.matchEvaluation.ats_match_score}%</p>
+                              </div>
+                              <div className="rounded-md bg-slate-50 px-2.5 py-2">
+                                <p className="text-[11px] uppercase tracking-wide text-slate-500">Format</p>
+                                <p className="font-semibold text-slate-900">{app.matchEvaluation.ats_format_score}%</p>
+                              </div>
+                              <div className="rounded-md bg-slate-50 px-2.5 py-2">
+                                <p className="text-[11px] uppercase tracking-wide text-slate-500">Hallucination risk</p>
+                                <p className="font-semibold text-slate-900">{app.matchEvaluation.hallucination_risk_score}%</p>
+                              </div>
+                            </div>
+
+                            {app.matchEvaluation.summary && (
+                              <p className="text-slate-700 text-sm">{app.matchEvaluation.summary}</p>
+                            )}
+
+                            {(app.matchEvaluation.ats_strengths.length > 0 ||
+                              app.matchEvaluation.ats_gaps.length > 0 ||
+                              app.matchEvaluation.format_issues.length > 0 ||
+                              app.matchEvaluation.hallucination_findings.length > 0) && (
+                              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                                <span className="inline-flex w-fit items-center rounded-full bg-emerald-50 px-2 py-0.5 text-xs font-medium text-emerald-700">
+                                  {app.matchEvaluation.ats_strengths.length} strengths
+                                </span>
+                                <span className="inline-flex w-fit items-center rounded-full bg-amber-50 px-2 py-0.5 text-xs font-medium text-amber-700">
+                                  {app.matchEvaluation.ats_gaps.length} gaps
+                                </span>
+                                <span className="inline-flex w-fit items-center rounded-full bg-sky-50 px-2 py-0.5 text-xs font-medium text-sky-700">
+                                  {app.matchEvaluation.format_issues.length} format issues
+                                </span>
+                                <span className="inline-flex w-fit items-center rounded-full bg-rose-50 px-2 py-0.5 text-xs font-medium text-rose-700">
+                                  {app.matchEvaluation.hallucination_findings.length} hallucination checks
+                                </span>
+                              </div>
+                            )}
+
+                            {app.matchEvaluation.ats_strengths.length > 0 && (
+                              <details className="rounded-md border border-slate-200 bg-white">
+                                <summary className="cursor-pointer px-3 py-2 text-xs font-semibold uppercase tracking-wide text-slate-600 hover:bg-slate-50">
+                                  Strengths ({app.matchEvaluation.ats_strengths.length})
+                                </summary>
+                                <ul className="list-disc border-t border-slate-100 px-6 py-2 space-y-1 text-sm text-slate-700">
+                                  {app.matchEvaluation.ats_strengths.map((s, i) => (
+                                    <li key={`strength-${i}`}>{s}</li>
+                                  ))}
+                                </ul>
+                              </details>
+                            )}
+
+                            {app.matchEvaluation.ats_gaps.length > 0 && (
+                              <details className="rounded-md border border-slate-200 bg-white">
+                                <summary className="cursor-pointer px-3 py-2 text-xs font-semibold uppercase tracking-wide text-slate-600 hover:bg-slate-50">
+                                  Gaps ({app.matchEvaluation.ats_gaps.length})
+                                </summary>
+                                <ul className="list-disc border-t border-slate-100 px-6 py-2 space-y-1 text-sm text-slate-700">
+                                  {app.matchEvaluation.ats_gaps.map((s, i) => (
+                                    <li key={`gap-${i}`}>{s}</li>
+                                  ))}
+                                </ul>
+                              </details>
+                            )}
+
+                            {app.matchEvaluation.format_issues.length > 0 && (
+                              <details className="rounded-md border border-slate-200 bg-white">
+                                <summary className="cursor-pointer px-3 py-2 text-xs font-semibold uppercase tracking-wide text-slate-600 hover:bg-slate-50">
+                                  Format issues ({app.matchEvaluation.format_issues.length})
+                                </summary>
+                                <ul className="list-disc border-t border-slate-100 px-6 py-2 space-y-1 text-sm text-slate-700">
+                                  {app.matchEvaluation.format_issues.map((s, i) => (
+                                    <li key={`format-${i}`}>{s}</li>
+                                  ))}
+                                </ul>
+                              </details>
+                            )}
+
+                            {app.matchEvaluation.hallucination_findings.length > 0 && (
+                              <details className="rounded-md border border-slate-200 bg-white">
+                                <summary className="cursor-pointer px-3 py-2 text-xs font-semibold uppercase tracking-wide text-slate-600 hover:bg-slate-50">
+                                  Hallucination checks ({app.matchEvaluation.hallucination_findings.length})
+                                </summary>
+                                <div className="space-y-2 border-t border-slate-100 p-2">
+                                  {app.matchEvaluation.hallucination_findings.map((f, i) => (
+                                    <div key={`hallucination-${i}`} className="rounded border border-slate-200 bg-slate-50 p-2">
+                                      <p className="text-sm text-slate-800">{f.claim}</p>
+                                      <p className="text-xs mt-1 text-slate-600">
+                                        <span
+                                          className={cn(
+                                            'inline-flex rounded px-1.5 py-0.5 text-[10px] font-semibold uppercase',
+                                            f.status === 'supported'
+                                              ? 'bg-emerald-100 text-emerald-800'
+                                              : f.status === 'unsupported'
+                                                ? 'bg-rose-100 text-rose-800'
+                                                : 'bg-amber-100 text-amber-800'
+                                          )}
+                                        >
+                                          {f.status}
+                                        </span>
+                                        {f.reason ? `  ${f.reason}` : ''}
+                                      </p>
+                                    </div>
+                                  ))}
+                                </div>
+                              </details>
+                            )}
+                          </div>
+                        ) : (
+                          <p className="text-sm text-slate-600">
+                            Analysis is now on-demand to keep generation fast.
+                          </p>
+                        )}
+                        <div className="mt-2 mb-3">
+                          <button
+                            type="button"
+                            onClick={handleRunAnalysis}
+                            disabled={!canPersist || !tailored || busyAnalysis === rowKey}
+                            className="inline-flex items-center gap-1.5 rounded-lg border border-slate-300 bg-white px-3 py-1.5 text-sm hover:bg-slate-50 disabled:opacity-50"
+                          >
+                            {busyAnalysis === rowKey ? (
+                              <Loader2 className="w-4 h-4 animate-spin" aria-hidden />
+                            ) : null}
+                            {app.matchEvaluation ? 'Re-run ATS analysis' : 'Run ATS analysis'}
+                          </button>
+                        </div>
+                      </StoredBlock>
+
                       <div>
                         <div className="flex flex-wrap items-center justify-between gap-2 mb-2">
                           <h4 className="text-xs font-semibold uppercase tracking-wide text-slate-500">
                             Cover letter
                           </h4>
+                          <div className="flex items-center gap-1">
+                            <button
+                              type="button"
+                              onClick={(e) => {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                void handleArtifactFeedback(app, 'coverLetter', 'up');
+                              }}
+                              disabled={!canPersist || busyFeedback === `${rowKey}:coverLetter`}
+                              className={cn(
+                                'rounded-md border px-1.5 py-1 text-slate-500 hover:bg-slate-100 disabled:opacity-50',
+                                app.coverLetterFeedback === 'up' && 'border-emerald-300 bg-emerald-50 text-emerald-700'
+                              )}
+                              aria-label="Thumbs up cover letter"
+                              title="Thumbs up cover letter"
+                            >
+                              <ThumbsUp className="h-3.5 w-3.5" />
+                            </button>
+                            <button
+                              type="button"
+                              onClick={(e) => {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                void handleArtifactFeedback(app, 'coverLetter', 'down');
+                              }}
+                              disabled={!canPersist || busyFeedback === `${rowKey}:coverLetter`}
+                              className={cn(
+                                'rounded-md border px-1.5 py-1 text-slate-500 hover:bg-slate-100 disabled:opacity-50',
+                                app.coverLetterFeedback === 'down' && 'border-rose-300 bg-rose-50 text-rose-700'
+                              )}
+                              aria-label="Thumbs down cover letter"
+                              title="Thumbs down cover letter"
+                            >
+                              <ThumbsDown className="h-3.5 w-3.5" />
+                            </button>
+                          </div>
                           {!canPersist && (
                             <span className="text-xs text-amber-700">
                               Cloud save needs a synced application (re-open after saving from Tailor).
@@ -627,9 +873,47 @@ export function ApplicationsPage() {
                       </div>
 
                       <div>
-                        <h4 className="text-xs font-semibold uppercase tracking-wide text-slate-500 mb-2">
-                          Tailored resume
-                        </h4>
+                        <div className="mb-2 flex items-center justify-between gap-2">
+                          <h4 className="text-xs font-semibold uppercase tracking-wide text-slate-500">
+                            Tailored resume
+                          </h4>
+                          <div className="flex items-center gap-1">
+                            <button
+                              type="button"
+                              onClick={(e) => {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                void handleArtifactFeedback(app, 'resume', 'up');
+                              }}
+                              disabled={!canPersist || busyFeedback === `${rowKey}:resume`}
+                              className={cn(
+                                'rounded-md border px-1.5 py-1 text-slate-500 hover:bg-slate-100 disabled:opacity-50',
+                                app.resumeFeedback === 'up' && 'border-emerald-300 bg-emerald-50 text-emerald-700'
+                              )}
+                              aria-label="Thumbs up resume"
+                              title="Thumbs up resume"
+                            >
+                              <ThumbsUp className="h-3.5 w-3.5" />
+                            </button>
+                            <button
+                              type="button"
+                              onClick={(e) => {
+                                e.preventDefault();
+                                e.stopPropagation();
+                                void handleArtifactFeedback(app, 'resume', 'down');
+                              }}
+                              disabled={!canPersist || busyFeedback === `${rowKey}:resume`}
+                              className={cn(
+                                'rounded-md border px-1.5 py-1 text-slate-500 hover:bg-slate-100 disabled:opacity-50',
+                                app.resumeFeedback === 'down' && 'border-rose-300 bg-rose-50 text-rose-700'
+                              )}
+                              aria-label="Thumbs down resume"
+                              title="Thumbs down resume"
+                            >
+                              <ThumbsDown className="h-3.5 w-3.5" />
+                            </button>
+                          </div>
+                        </div>
                         <p className="text-xs text-slate-500 mb-3">
                           Readable preview below matches your saved JSON. Open{' '}
                           <span className="font-medium text-slate-600">Edit raw JSON</span> for precise edits. Save

@@ -1,0 +1,42 @@
+# Backend API + MongoDB. From repo root:
+#   docker compose up --build
+# Point the frontend at http://localhost:8000 (or set VITE_API_URL).
+#
+# Gemini: set GOOGLE_API_KEY or GEMINI_API_KEY in a `.env` file next to this file
+# (Compose loads it automatically), or export them in your shell before `docker compose up`.
+
+services:
+  mongo:
+    image: mongo:7
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand('ping')"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 15s
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      # Use the compose service name (must match service key above).
+      MONGODB_URL: mongodb://mongo:27017
+      HOST: 0.0.0.0
+      PORT: "8000"
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY:-}
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+    depends_on:
+      mongo:
+        condition: service_healthy
+
+volumes:
+  mongo_data:
