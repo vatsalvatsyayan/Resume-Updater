@@ -1,5 +1,7 @@
 from fastapi import APIRouter
 from fastapi.responses import Response
+
+from resume_generation.pdf import latin1_pdf_safe
 from schemas.cover_letter import CoverLetterRequest, CoverLetterResponse
 from services import cover_letter_service
 
@@ -26,7 +28,15 @@ async def generate_cover_letter(request: CoverLetterRequest) -> CoverLetterRespo
 async def generate_cover_letter_pdf(request: CoverLetterRequest) -> Response:
     """Generate a cover letter and return it as a PDF document."""
     pdf_bytes = cover_letter_service.generate_cover_letter_pdf(request)
-    filename = f"cover-letter-{request.company_name}-{request.role_name}.pdf".replace(" ", "-")
+    # Starlette encodes header values as latin-1; smart dashes / unicode in company or role break that.
+    raw_name = f"cover-letter-{request.company_name}-{request.role_name}.pdf".replace(" ", "-")
+    filename = (
+        latin1_pdf_safe(raw_name)
+        .replace('"', "")
+        .replace("\\", "")
+        .strip()[:200]
+        or "cover-letter.pdf"
+    )
     return Response(
         content=pdf_bytes,
         media_type="application/pdf",
