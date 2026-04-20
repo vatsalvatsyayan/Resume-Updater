@@ -43,6 +43,11 @@ FONT_SECTION_S = 12
 FONT_BODY_S = 11
 FONT_SMALL_S = 10
 
+# Professional summary: capped so one-page resumes still fit (see _write_multiline_truncate).
+# Previously max_lines=6 (~300 chars) clipped longer LLM/edited summaries mid-sentence.
+SUMMARY_TRUNC_MAX_LINES = 12
+SUMMARY_TRUNC_CHARS_PER_LINE_ESTIMATE = 52
+
 
 def _content_weight(resume: TailoredResume) -> float:
     """Estimate content volume from resume data. Used to pick spread vs normal vs compact."""
@@ -189,13 +194,20 @@ def _write_bullet(pdf, text: str, opts: dict) -> None:
 
 
 def _write_multiline_truncate(
-    pdf, text: str, max_lines: int, opts: dict, indent: float = 0, truncate_at_sep: Optional[str] = None
+    pdf,
+    text: str,
+    max_lines: int,
+    opts: dict,
+    indent: float = 0,
+    truncate_at_sep: Optional[str] = None,
+    *,
+    chars_per_estimate_line: int = 50,
 ) -> None:
-    """Cap long text to ~max_lines; truncate at word boundary (or at truncate_at_sep). No ellipsis added."""
+    """Budget long text (~max_lines × chars_per_estimate_line chars); truncate at word or separator. No ellipsis."""
     if not text:
         return
     safe = _pdf_safe(text)
-    max_chars = max(80, max_lines * 50)
+    max_chars = max(80, max_lines * chars_per_estimate_line)
     if len(safe) > max_chars:
         cut = safe[:max_chars].rstrip()
         if truncate_at_sep:
@@ -283,7 +295,13 @@ def build_pdf_template(
                 return pdf, opts["truncated"], pdf.get_y()
             _write_section_header(pdf, "Summary", max_y, opts)
             pdf.set_font("Helvetica", "", opts["font_body"])
-            _write_multiline_truncate(pdf, resume.professionalSummary, max_lines=6, opts=opts)
+            _write_multiline_truncate(
+                pdf,
+                resume.professionalSummary,
+                SUMMARY_TRUNC_MAX_LINES,
+                opts,
+                chars_per_estimate_line=SUMMARY_TRUNC_CHARS_PER_LINE_ESTIMATE,
+            )
             pdf.ln(3 * scale)
 
         # Education

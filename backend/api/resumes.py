@@ -2,10 +2,13 @@ import base64
 
 from fastapi import APIRouter, HTTPException, status
 from fastapi.responses import Response
+from pydantic import ValidationError
 
 from resume_generation import generate_resume
+from resume_generation.generator import tailored_resume_to_pdf_bytes
 from resume_generation.match_score import compute_resume_match_score
 from resume_generation.schemas.input_schema import ResumeGeneratorInput
+from resume_generation.tailor import parse_tailored_resume
 
 router = APIRouter(prefix="/resumes", tags=["Resumes"])
 
@@ -54,6 +57,37 @@ async def generate_tailored_resume_pdf(body: ResumeGeneratorInput):
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+
+@router.post("/render/pdf", response_class=Response)
+async def render_tailored_resume_pdf(body: dict):
+    """Build a PDF from an existing tailored resume JSON (no LLM). Used after editing stored output."""
+    raw = body.get("tailoredResume") if isinstance(body, dict) else None
+    if raw is None and isinstance(body, dict):
+        raw = body.get("tailored_resume")
+    if not isinstance(raw, dict):
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Request body must include a tailoredResume object",
+        )
+    try:
+        # Same parsing path as POST /resumes/generate after the LLM — avoids schema drift vs model_validate().
+        tailored = parse_tailored_resume(raw)
+        pdf_bytes = tailored_resume_to_pdf_bytes(tailored)
+        return Response(
+            content=pdf_bytes,
+            media_type="application/pdf",
+            headers={"Content-Disposition": 'attachment; filename="resume.pdf"'},
+        )
+    except ValueError as e:
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e)) from e
+    except ValidationError as e:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=e.errors(include_url=False),
+        ) from e
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e)) from e
 
 
 @router.get("/{resume_id}", status_code=status.HTTP_200_OK)

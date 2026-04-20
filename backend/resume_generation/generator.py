@@ -6,6 +6,16 @@ from typing import Optional, Union
 from core.config import settings
 
 from .pdf_template import build_pdf_template as build_pdf
+
+
+def tailored_resume_to_pdf_bytes(tailored: TailoredResume) -> bytes:
+    """PDF bytes using the resume template — same artifact as ``generate_resume`` produces for a given tailored model."""
+    raw = build_pdf(tailored, output=None)
+    if isinstance(raw, bytearray):
+        return bytes(raw)
+    if isinstance(raw, bytes):
+        return raw
+    raise TypeError(f"Expected PDF bytes from template, got {type(raw).__name__}")
 from .schemas.input_schema import ResumeGeneratorInput
 from .schemas.output_schema import (
     TailoredResume,
@@ -137,7 +147,7 @@ def generate_resume(
         data = ResumeGeneratorInput.model_validate(data)
     llm_config = _get_llm_config()
     tailored = tailor_resume(data, llm_config)
-    result = build_pdf(tailored, output=output_pdf_path)
     if output_pdf_path is not None:
+        result = build_pdf(tailored, output=output_pdf_path)
         return tailored, result
-    return tailored, result
+    return tailored, tailored_resume_to_pdf_bytes(tailored)

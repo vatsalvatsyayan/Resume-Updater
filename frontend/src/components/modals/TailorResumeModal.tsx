@@ -77,9 +77,9 @@ export function TailorResumeModal({
   const generateCoverLetterChecked = watch('generateCoverLetter');
 
   return (
-    <Modal open={open} onOpenChange={handleClose}>
+    <Modal open={open} onOpenChange={handleClose} preventClose={isLoading}>
       <form onSubmit={handleSubmit(handleFormSubmit)}>
-        <ModalHeader>
+        <ModalHeader showCloseButton={!isLoading}>
           <div className="flex items-center gap-3">
             <div className="p-2 bg-gradient-to-br from-amber-100 to-amber-50 rounded-xl">
               <Sparkles className="w-5 h-5 text-amber-500" />

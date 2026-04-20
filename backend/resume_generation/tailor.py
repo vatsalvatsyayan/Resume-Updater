@@ -4,6 +4,8 @@ import json
 import re
 from typing import Optional
 
+from pydantic import ValidationError
+
 from core.config import settings
 
 from .llm import LLMConfig, get_provider
@@ -42,6 +44,35 @@ def _extract_json_from_response(text: str) -> str:
     if match:
         return match.group(1).strip()
     return text
+
+
+def _parse_tailored_json_from_llm(raw: str) -> dict:
+    """Parse the tailored-resume JSON object from Gemini output.
+
+    Handles fenced ```json``` blocks, prose before/after the object, and occasional
+    truncation edge cases by taking the substring from the first ``{`` to the last ``}``.
+    """
+    text = raw.strip()
+    candidate = _extract_json_from_response(text)
+    try:
+        obj = json.loads(candidate)
+        if isinstance(obj, dict):
+            return obj
+    except json.JSONDecodeError:
+        pass
+
+    start = text.find("{")
+    end = text.rfind("}")
+    if start != -1 and end > start:
+        chunk = text[start : end + 1]
+        try:
+            obj = json.loads(chunk)
+            if isinstance(obj, dict):
+                return obj
+        except json.JSONDecodeError as e:
+            raise ValueError(f"LLM did not return valid JSON: {e}") from e
+
+    raise ValueError("LLM did not return valid JSON: could not find a JSON object")
 
 
 def _build_system_prompt() -> str:
@@ -90,7 +121,7 @@ Produce the tailored resume as a single JSON object with these exact keys (all r
 Return only the JSON object, no other text."""
 
 
-def _parse_tailored_resume(obj: dict) -> TailoredResume:
+def parse_tailored_resume(obj: dict) -> TailoredResume:
     def get(key: str, default=None):
         if default is None and key in (
             "education",
@@ -146,15 +177,25 @@ def tailor_resume(data: ResumeGeneratorInput, llm_config: Optional[LLMConfig] = 
     provider = get_provider(llm_config)
     system_prompt = _build_system_prompt()
     user_prompt = _build_user_prompt(data)
-    raw = provider.generate(
-        user_prompt,
-        system_prompt=system_prompt,
-        max_tokens=8192,
-        temperature=0.3,
-    )
-    json_str = _extract_json_from_response(raw)
-    try:
-        obj = json.loads(json_str)
-    except json.JSONDecodeError as e:
-        raise ValueError(f"LLM did not return valid JSON: {e}") from e
-    return _parse_tailored_resume(obj)
+
+    last_exc: BaseException | None = None
+    max_attempts = 3
+    for attempt in range(max_attempts):
+        try:
+            raw = provider.generate(
+                user_prompt,
+                system_prompt=system_prompt,
+                max_tokens=8192,
+                temperature=0.3,
+            )
+            obj = _parse_tailored_json_from_llm(raw)
+            return parse_tailored_resume(obj)
+        except (json.JSONDecodeError, ValidationError, ValueError) as e:
+            last_exc = e
+            continue
+
+    detail = str(last_exc) if last_exc else "unknown error"
+    raise ValueError(
+        "Resume tailoring failed after "
+        f"{max_attempts} attempts (invalid JSON or resume shape). {detail}"
+    ) from last_exc

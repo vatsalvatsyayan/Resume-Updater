@@ -22,6 +22,18 @@ def _pdf_safe(text: str) -> str:
     )
 
 
+def latin1_pdf_safe(text: str) -> str:
+    """Normalize unicode punctuation, then coerce to Latin-1 for fpdf core fonts.
+
+    Gemini and user text may include bullets (•), emoji, or other code points
+    that raise FPDFUnicodeEncodingException with Helvetica.
+    """
+    if not text:
+        return text
+    base = _pdf_safe(text)
+    return base.encode("latin-1", errors="replace").decode("latin-1")
+
+
 def _date_range(start: Optional[str], end: Optional[str], is_present: bool) -> str:
     if not start:
         return ""

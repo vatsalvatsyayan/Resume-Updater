@@ -26,7 +26,12 @@ def generate(prompt: str) -> str:
             model=settings.RESUME_LLM_MODEL,
             contents=prompt,
         )
-        return response.text
+        if not response.text or not str(response.text).strip():
+            raise HTTPException(
+                status_code=502,
+                detail="Gemini returned an empty response. Try again or adjust your input.",
+            )
+        return str(response.text).strip()
     except Exception as exc:
         raise HTTPException(
             status_code=502,

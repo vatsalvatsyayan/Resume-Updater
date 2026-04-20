@@ -8,7 +8,19 @@ import type {
   WorkExperience,
 } from '@/types/form.types';
 
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000';
+/** Dev default uses Vite proxy (see vite.config.ts) so API calls stay same-origin and avoid CORS when the dev server binds to a port other than 5173. */
+function resolveApiBaseUrl(): string {
+  const fromEnv = import.meta.env.VITE_API_URL;
+  if (typeof fromEnv === 'string' && fromEnv.trim() !== '') {
+    return fromEnv.trim();
+  }
+  if (import.meta.env.DEV) {
+    return '/api';
+  }
+  return 'http://127.0.0.1:8000';
+}
+
+const API_BASE_URL = resolveApiBaseUrl();
 
 export interface ApiResponse<T = unknown> {
   message: string;
@@ -186,6 +198,60 @@ export function normalizeApplications(apps: any[]): Application[] {
     updatedAt: app.updatedAt ?? app.updated_at,
     createdAt: app.createdAt ?? app.created_at,
   }));
+}
+
+export function normalizeApplication(raw: any): Application {
+  return normalizeApplications([raw])[0];
+}
+
+export type ApplicationPatch = Partial<{
+  coverLetter: string | null;
+  tailoredResume: Record<string, unknown>;
+  companyName: string;
+  roleName: string;
+  jobDescription: string;
+  status: string;
+  matchScore: number;
+}>;
+
+export async function patchApplication(
+  email: string,
+  applicationId: string,
+  patch: ApplicationPatch
+): Promise<Application> {
+  const response = await fetch(
+    `${API_BASE_URL}/applications/${encodeURIComponent(email)}/${encodeURIComponent(applicationId)}`,
+    {
+      method: 'PATCH',
+      headers: getAuthHeaders(email),
+      body: JSON.stringify(patch),
+    }
+  );
+
+  const result = await parseJsonSafe(response);
+
+  if (!response.ok) {
+    throw new Error(parseError(result.detail, 'Failed to update application'));
+  }
+
+  return normalizeApplication(result);
+}
+
+export async function renderTailoredResumePdf(
+  tailoredResume: Record<string, unknown>
+): Promise<Blob> {
+  const response = await fetch(`${API_BASE_URL}/resumes/render/pdf`, {
+    method: 'POST',
+    headers: getAuthHeaders(),
+    body: JSON.stringify({ tailoredResume }),
+  });
+
+  if (!response.ok) {
+    const err = await parseJsonSafe(response);
+    throw new Error(parseError(err.detail, 'Failed to render resume PDF'));
+  }
+
+  return response.blob();
 }
 
 export async function submitRegistration(

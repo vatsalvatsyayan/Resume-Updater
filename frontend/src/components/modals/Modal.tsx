@@ -8,11 +8,15 @@ interface ModalProps {
   onOpenChange: (open: boolean) => void;
   children: React.ReactNode;
   className?: string;
+  /** When true, Escape and outside clicks do not close the dialog */
+  preventClose?: boolean;
 }
 
 interface ModalHeaderProps {
   children: React.ReactNode;
   className?: string;
+  /** When false, the corner close control is omitted (e.g. during blocking operations) */
+  showCloseButton?: boolean;
 }
 
 interface ModalTitleProps {
@@ -35,7 +39,19 @@ interface ModalFooterProps {
   className?: string;
 }
 
-export function Modal({ open, onOpenChange, children, className }: ModalProps) {
+export function Modal({
+  open,
+  onOpenChange,
+  children,
+  className,
+  preventClose = false,
+}: ModalProps) {
+  const blockDismiss = (e: Event) => {
+    if (preventClose) {
+      e.preventDefault();
+    }
+  };
+
   return (
     <Dialog.Root open={open} onOpenChange={onOpenChange}>
       <AnimatePresence>
@@ -50,26 +66,27 @@ export function Modal({ open, onOpenChange, children, className }: ModalProps) {
                 className="fixed inset-0 z-50 bg-black/50 backdrop-blur-sm"
               />
             </Dialog.Overlay>
-            <Dialog.Content asChild>
+            <Dialog.Content
+              className={cn(
+                'fixed inset-0 z-50 flex items-center justify-center p-4 outline-none',
+                'focus:outline-none'
+              )}
+              onEscapeKeyDown={blockDismiss}
+              onPointerDownOutside={blockDismiss}
+              onInteractOutside={blockDismiss}
+            >
               <motion.div
                 initial={{ opacity: 0, scale: 0.95 }}
                 animate={{ opacity: 1, scale: 1 }}
                 exit={{ opacity: 0, scale: 0.95 }}
                 transition={{ duration: 0.2, ease: 'easeOut' }}
                 className={cn(
-                  'fixed inset-0 z-50 flex items-center justify-center p-4',
-                  'focus:outline-none'
+                  'w-full max-w-lg',
+                  'rounded-2xl bg-white shadow-2xl',
+                  className
                 )}
               >
-                <div
-                  className={cn(
-                    'w-full max-w-lg',
-                    'bg-white rounded-2xl shadow-2xl',
-                    className
-                  )}
-                >
-                  {children}
-                </div>
+                {children}
               </motion.div>
             </Dialog.Content>
           </Dialog.Portal>
@@ -79,22 +96,28 @@ export function Modal({ open, onOpenChange, children, className }: ModalProps) {
   );
 }
 
-export function ModalHeader({ children, className }: ModalHeaderProps) {
+export function ModalHeader({
+  children,
+  className,
+  showCloseButton = true,
+}: ModalHeaderProps) {
   return (
     <div className={cn('relative px-6 pt-6 pb-4', className)}>
       {children}
-      <Dialog.Close asChild>
-        <button
-          className={cn(
-            'absolute right-4 top-4 p-2 rounded-xl',
-            'text-slate-400 hover:text-slate-600 hover:bg-slate-100',
-            'transition-colors focus:outline-none focus:ring-2 focus:ring-slate-400'
-          )}
-          aria-label="Close"
-        >
-          <X className="w-5 h-5" />
-        </button>
-      </Dialog.Close>
+      {showCloseButton && (
+        <Dialog.Close asChild>
+          <button
+            className={cn(
+              'absolute right-4 top-4 p-2 rounded-xl',
+              'text-slate-400 hover:text-slate-600 hover:bg-slate-100',
+              'transition-colors focus:outline-none focus:ring-2 focus:ring-slate-400'
+            )}
+            aria-label="Close"
+          >
+            <X className="w-5 h-5" />
+          </button>
+        </Dialog.Close>
+      )}
     </div>
   );
 }

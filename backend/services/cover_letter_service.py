@@ -1,4 +1,5 @@
 from schemas.cover_letter import CoverLetterRequest
+from resume_generation.pdf import latin1_pdf_safe
 from services import llm_client, company_research_service
 from fpdf import FPDF
 
@@ -235,16 +236,36 @@ def generate_cover_letter_pdf(request: CoverLetterRequest) -> bytes:
     else:
         cover_letter = generate_cover_letter(request)
 
+    profile = _extract_profile_summary(request.profile_data)
+    title_name = latin1_pdf_safe((profile.get("name") or "Applicant").strip())
+    role_line = latin1_pdf_safe(request.role_name.strip())
+    company_line = latin1_pdf_safe(request.company_name.strip())
+    doc_title = latin1_pdf_safe(f"Cover Letter — {request.role_name} at {request.company_name}")
+
     pdf = FPDF()
+    pdf.set_title(doc_title)
     pdf.set_auto_page_break(auto=True, margin=15)
     pdf.add_page()
+
+    pdf.set_font("Helvetica", "B", 16)
+    pdf.multi_cell(0, 9, title_name, align="C", new_x="LMARGIN", new_y="NEXT")
+    pdf.set_font("Helvetica", "", 11)
+    pdf.multi_cell(
+        0,
+        6,
+        f"Application for {role_line} at {company_line}",
+        align="C",
+        new_x="LMARGIN",
+        new_y="NEXT",
+    )
+    pdf.ln(6)
     pdf.set_font("Helvetica", size=12)
 
     for paragraph in cover_letter.split("\n\n"):
         paragraph_text = paragraph.strip()
         if not paragraph_text:
             continue
-        pdf.multi_cell(0, 8, paragraph_text)
+        pdf.multi_cell(0, 8, latin1_pdf_safe(paragraph_text))
         pdf.ln(2)
 
     payload = pdf.output(dest="S")
