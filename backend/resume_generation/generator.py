@@ -45,6 +45,26 @@ def merge_ats_header_contact(tailored: TailoredResume, data: ResumeGeneratorInpu
     return tailored.model_copy(update=updates)
 
 
+# Stored application `source_profile` is profile-only JSON (no jobDescription). ResumeGeneratorInput
+# requires jobDescription for /resumes/generate validation — use this placeholder only when converting
+# profile → TailoredResume for scoring or PDF experiments.
+_PROFILE_SCHEMA_PLACEHOLDER_JD = (
+    "Placeholder job description satisfying schema validation when converting a stored profile to "
+    "resume JSON; actual scoring uses the real job description from the request."
+)
+
+
+def resume_input_from_profile_dict(data: dict) -> ResumeGeneratorInput:
+    """Build ResumeGeneratorInput from UI profile shape (camelCase) for base-resume conversion."""
+    payload = {
+        **data,
+        "jobDescription": _PROFILE_SCHEMA_PLACEHOLDER_JD,
+    }
+    payload.setdefault("companyName", "")
+    payload.setdefault("roleName", "")
+    return ResumeGeneratorInput.model_validate(payload)
+
+
 def input_to_tailored_no_llm(data: Union[ResumeGeneratorInput, dict]) -> TailoredResume:
     """Convert input schema to TailoredResume without calling the LLM (for PDF-only testing)."""
     if isinstance(data, dict):

@@ -71,6 +71,19 @@ class ApplicationRepo:
             me = payload.get("match_evaluation")
         if isinstance(me, dict):
             doc["match_evaluation"] = me
+        bms = payload.get("baselineMatchScore")
+        if bms is None:
+            bms = payload.get("baseline_match_score")
+        if bms is not None:
+            try:
+                doc["baseline_match_score"] = int(bms)
+            except (TypeError, ValueError):
+                pass
+        bme = payload.get("baselineMatchEvaluation")
+        if bme is None:
+            bme = payload.get("baseline_match_evaluation")
+        if isinstance(bme, dict):
+            doc["baseline_match_evaluation"] = bme
         source_profile = payload.get("sourceProfile")
         if source_profile is None:
             source_profile = payload.get("source_profile")
@@ -139,6 +152,8 @@ class ApplicationRepo:
             "coverLetter": "cover_letter",
             "matchScore": "match_score",
             "matchEvaluation": "match_evaluation",
+            "baselineMatchScore": "baseline_match_score",
+            "baselineMatchEvaluation": "baseline_match_evaluation",
             "sourceProfile": "source_profile",
             "coverLetterFeedback": "cover_letter_feedback",
             "resumeFeedback": "resume_feedback",

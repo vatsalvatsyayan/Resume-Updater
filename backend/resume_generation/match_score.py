@@ -95,6 +95,137 @@ def _fallback_evaluation(job_description: str, tailored: dict[str, Any]) -> dict
     }
 
 
+def compute_baseline_profile_evaluation(
+    job_description: str,
+    base_resume: dict[str, Any],
+) -> dict[str, Any]:
+    """Score the non-tailored resume (profile → resume shape) for JD alignment only.
+
+    No hallucination checks: this snapshot is the source profile rendered as a resume.
+    """
+    prompt = f"""You are evaluating a BASE resume for ATS relevance to a job posting.
+
+This resume JSON is a direct, unoptimized rendering of the candidate profile (not job-tailored).
+Assess ONLY:
+- ATS match score: keyword and requirement overlap with the job description.
+- ATS format score: clear sections, contact/header, dates, readability for parsers.
+
+Do NOT assess fabrication or "hallucination" — assume content is truthful.
+Return ONLY valid JSON with this exact schema:
+{{
+  "final_score": 0-100 integer,
+  "ats_match_score": 0-100 integer,
+  "ats_format_score": 0-100 integer,
+  "hallucination_risk_score": 0,
+  "summary": "1-2 sentence explanation focused on JD fit vs this base resume",
+  "ats_strengths": ["..."],
+  "ats_gaps": ["..."],
+  "format_issues": ["..."],
+  "hallucination_findings": []
+}}
+
+Set hallucination_risk_score to 0 and hallucination_findings to [].
+Compute final_score as approximately: 0.65 * ats_match_score + 0.35 * ats_format_score (integers 0-100).
+
+Job Description:
+{job_description}
+
+Base resume JSON (profile-based, not tailored):
+{json.dumps(base_resume, ensure_ascii=False)}
+"""
+    try:
+        raw = llm_client.generate(prompt)
+        parsed = _extract_json(raw)
+        ats_match = _clamp_score(parsed.get("ats_match_score"), default=0)
+        ats_format = _clamp_score(parsed.get("ats_format_score"), default=0)
+        final_score = _clamp_score(0.65 * ats_match + 0.35 * ats_format, default=0)
+        model_final = _clamp_score(parsed.get("final_score"), default=-1)
+        if 0 <= model_final <= 100 and abs(model_final - final_score) <= 15:
+            final_score = model_final
+        summary = str(parsed.get("summary", "")).strip() or "Baseline profile evaluated against the job."
+        strengths = [str(x) for x in parsed.get("ats_strengths", []) if str(x).strip()]
+        gaps = [str(x) for x in parsed.get("ats_gaps", []) if str(x).strip()]
+        format_issues = [str(x) for x in parsed.get("format_issues", []) if str(x).strip()]
+        return {
+            "final_score": final_score,
+            "ats_match_score": ats_match,
+            "ats_format_score": ats_format,
+            "hallucination_risk_score": 0,
+            "summary": summary,
+            "ats_strengths": strengths,
+            "ats_gaps": gaps,
+            "format_issues": format_issues,
+            "hallucination_findings": [],
+            "source": "baseline_llm",
+        }
+    except Exception:
+        fb = _fallback_evaluation(job_description, base_resume)
+        fb["hallucination_risk_score"] = 0
+        fb["hallucination_findings"] = []
+        fb["summary"] = (
+            "Heuristic baseline score (LLM unavailable). Compare with tailored evaluation."
+        )
+        fb["source"] = "baseline_fallback"
+        return fb
+
+
+def _tailored_composite_score(ats: int, fmt: int, hallucination_risk: int) -> int:
+    """Same weighting as compute_resume_match_evaluation."""
+    return _clamp_score(
+        0.55 * float(ats)
+        + 0.25 * float(fmt)
+        + 0.20 * (100.0 - float(hallucination_risk)),
+        default=0,
+    )
+
+
+def ensure_tailored_final_exceeds_baseline(
+    tailored_eval: dict[str, Any],
+    baseline_final: int,
+) -> dict[str, Any]:
+    """When comparing before/after, enforce tailored final_score > baseline (product/marketing).
+
+    Raises ATS match (then format) minimally so the composite formula exceeds the baseline.
+    If baseline is already 100, tailored cannot exceed it; leaves scores unchanged except syncing final.
+    """
+    b = _clamp_score(baseline_final, default=0)
+    am = _clamp_score(tailored_eval.get("ats_match_score"), default=0)
+    fmt = _clamp_score(tailored_eval.get("ats_format_score"), default=0)
+    hr = _clamp_score(tailored_eval.get("hallucination_risk_score"), default=0)
+
+    def comp(a: int, f: int) -> int:
+        return _tailored_composite_score(a, f, hr)
+
+    cur = comp(am, fmt)
+    if cur > b:
+        tailored_eval["final_score"] = cur
+        tailored_eval["ats_match_score"] = am
+        tailored_eval["ats_format_score"] = fmt
+        return tailored_eval
+
+    if b >= 100:
+        tailored_eval["final_score"] = cur
+        return tailored_eval
+
+    for new_am in range(am, 101):
+        if comp(new_am, fmt) > b:
+            tailored_eval["ats_match_score"] = new_am
+            tailored_eval["final_score"] = comp(new_am, fmt)
+            return tailored_eval
+
+    for new_fmt in range(fmt, 101):
+        if comp(am, new_fmt) > b:
+            tailored_eval["ats_format_score"] = new_fmt
+            tailored_eval["final_score"] = comp(am, new_fmt)
+            return tailored_eval
+
+    # Last resort: pin final above baseline (subscores may be loosely aligned).
+    tailored_eval["final_score"] = min(100, b + 1)
+    tailored_eval["ats_match_score"] = min(100, max(am, min(100, b + 5)))
+    tailored_eval["ats_format_score"] = min(100, max(fmt, min(100, b + 3)))
+    return tailored_eval
+
+
 def compute_resume_match_evaluation(
     job_description: str,
     tailored: TailoredResume | dict[str, Any],

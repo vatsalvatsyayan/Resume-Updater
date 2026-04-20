@@ -386,7 +386,7 @@ export function ApplicationsPage() {
     const app = getExpandedApp();
     const userEmail = user?.primaryEmailAddress?.emailAddress;
     if (!app?._id || !userEmail) {
-      toast.error('Cannot run analysis: missing application id or sign-in.');
+      toast.error('Cannot run ATS score: missing application id or sign-in.');
       return;
     }
     if (!app.tailoredResume || typeof app.tailoredResume !== 'object') {
@@ -400,15 +400,16 @@ export function ApplicationsPage() {
         jobDescription: app.jobDescription,
         tailoredResume: app.tailoredResume,
         originalProfile: (app.sourceProfile ?? profile) as unknown as object,
+        includeBaseline: false,
       });
       await patchApplication(userEmail, app._id, {
         matchScore: result.match_score,
         matchEvaluation: result.match_evaluation,
       });
       await refreshApplications();
-      toast.success('ATS analysis completed.');
+      toast.success('ATS score saved.');
     } catch (e) {
-      toast.error(e instanceof Error ? e.message : 'Failed to run ATS analysis.');
+      toast.error(e instanceof Error ? e.message : 'Failed to run ATS score.');
     } finally {
       setBusyAnalysis(null);
     }
@@ -782,7 +783,7 @@ export function ApplicationsPage() {
                             {busyAnalysis === rowKey ? (
                               <Loader2 className="w-4 h-4 animate-spin" aria-hidden />
                             ) : null}
-                            {app.matchEvaluation ? 'Re-run ATS analysis' : 'Run ATS analysis'}
+                            {app.matchEvaluation ? 'Re-run ATS score' : 'Run ATS score'}
                           </button>
                         </div>
                       </StoredBlock>

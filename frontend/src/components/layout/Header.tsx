@@ -10,7 +10,7 @@ export function Header({ onTailorResume }: HeaderProps) {
   return (
     <header className="border-b bg-white">
       <div className="mx-auto flex h-16 max-w-5xl items-center justify-between px-4">
-        <div className="text-lg font-semibold">Resume Updater</div>
+        <div className="text-lg font-semibold">ResuMasters: Build Your Perfect Resume</div>
 
         <div className="flex items-center gap-4">
           {onTailorResume && (

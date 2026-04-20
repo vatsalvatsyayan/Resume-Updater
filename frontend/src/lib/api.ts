@@ -62,6 +62,8 @@ export interface ApplicationPayload {
   matchScore?: number;
   /** Detailed LLM analysis and hallucination checks */
   matchEvaluation?: ResumeMatchEvaluation;
+  baselineMatchScore?: number;
+  baselineMatchEvaluation?: ResumeMatchEvaluation;
   /** Snapshot of profile used to generate this application's outputs */
   sourceProfile?: ProfileFormData;
   coverLetterFeedback?: 'up' | 'down' | null;
@@ -95,6 +97,9 @@ export interface Application {
   jobDescription: string;
   matchScore?: number;
   matchEvaluation?: ResumeMatchEvaluation;
+  /** ATS scan of profile-as-resume (before optimization) for the same job */
+  baselineMatchScore?: number;
+  baselineMatchEvaluation?: ResumeMatchEvaluation;
   sourceProfile?: ProfileFormData;
   coverLetterFeedback?: 'up' | 'down' | null;
   resumeFeedback?: 'up' | 'down' | null;
@@ -125,6 +130,8 @@ export interface ResumeEvaluationPayload {
   jobDescription: string;
   tailoredResume: Record<string, unknown>;
   originalProfile: object;
+  /** When true, also scores the saved profile as an untailored resume (extra LLM call). Default false. */
+  includeBaseline?: boolean;
 }
 
 export interface ProfileImportPayload {
@@ -227,6 +234,14 @@ function coerceApplicationMatchScore(raw: unknown): number | undefined {
   return Math.round(n);
 }
 
+/** Score 0–100 including 0 (used for baseline comparison scores). */
+function coerceOptionalPercent(raw: unknown): number | undefined {
+  if (raw === null || raw === undefined) return undefined;
+  const n = typeof raw === 'number' ? raw : Number(raw);
+  if (!Number.isFinite(n)) return undefined;
+  return Math.max(0, Math.min(100, Math.round(n)));
+}
+
 function coerceMatchEvaluation(raw: unknown): ResumeMatchEvaluation | undefined {
   if (!raw || typeof raw !== 'object') return undefined;
   const obj = raw as Record<string, unknown>;
@@ -273,6 +288,10 @@ export function normalizeApplications(apps: any[]): Application[] {
     jobDescription: app.jobDescription ?? app.job_description ?? '',
     matchScore: coerceApplicationMatchScore(app.matchScore ?? app.match_score),
     matchEvaluation: coerceMatchEvaluation(app.matchEvaluation ?? app.match_evaluation),
+    baselineMatchScore: coerceOptionalPercent(app.baselineMatchScore ?? app.baseline_match_score),
+    baselineMatchEvaluation: coerceMatchEvaluation(
+      app.baselineMatchEvaluation ?? app.baseline_match_evaluation
+    ),
     sourceProfile: (app.sourceProfile ?? app.source_profile) as ProfileFormData | undefined,
     coverLetterFeedback: (app.coverLetterFeedback ?? app.cover_letter_feedback ?? null) as
       | 'up'
@@ -303,6 +322,8 @@ export type ApplicationPatch = Partial<{
   status: string;
   matchScore: number;
   matchEvaluation: ResumeMatchEvaluation;
+  baselineMatchScore: number;
+  baselineMatchEvaluation: ResumeMatchEvaluation;
   sourceProfile: ProfileFormData;
   coverLetterFeedback: 'up' | 'down' | null;
   resumeFeedback: 'up' | 'down' | null;
@@ -477,13 +498,20 @@ export async function generateResume(
   return result as ResumeGenerateResponsePayload;
 }
 
-export async function evaluateResumeMatch(
-  payload: ResumeEvaluationPayload
-): Promise<{ match_score: number; match_evaluation?: ResumeMatchEvaluation }> {
+export async function evaluateResumeMatch(payload: ResumeEvaluationPayload): Promise<{
+  match_score: number;
+  match_evaluation?: ResumeMatchEvaluation;
+  baseline_match_score?: number | null;
+  baseline_match_evaluation?: ResumeMatchEvaluation | null;
+  score_delta?: number | null;
+}> {
   const response = await fetch(`${API_BASE_URL}/resumes/evaluate`, {
     method: 'POST',
     headers: getAuthHeaders(),
-    body: JSON.stringify(payload),
+    body: JSON.stringify({
+      ...payload,
+      includeBaseline: payload.includeBaseline === true,
+    }),
   });
 
   const result = await parseJsonSafe(response);
@@ -491,9 +519,28 @@ export async function evaluateResumeMatch(
     throw new Error(parseError(result.detail, 'Failed to evaluate resume'));
   }
 
+  const rawBaselineScore = result.baseline_match_score ?? result.baselineMatchScore;
+  let baseline_match_score: number | null | undefined;
+  if (rawBaselineScore === null || rawBaselineScore === undefined) {
+    baseline_match_score = undefined;
+  } else {
+    const n = Number(rawBaselineScore);
+    baseline_match_score = Number.isFinite(n) ? Math.round(n) : null;
+  }
+
   return {
     match_score: Number(result.match_score ?? 0),
     match_evaluation: coerceMatchEvaluation(result.match_evaluation),
+    baseline_match_score,
+    baseline_match_evaluation: coerceMatchEvaluation(
+      result.baseline_match_evaluation ?? result.baselineMatchEvaluation
+    ),
+    score_delta:
+      result.score_delta !== undefined && result.score_delta !== null
+        ? Number(result.score_delta)
+        : result.scoreDelta !== undefined && result.scoreDelta !== null
+          ? Number(result.scoreDelta)
+          : null,
   };
 }
 

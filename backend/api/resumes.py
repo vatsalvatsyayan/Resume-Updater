@@ -5,8 +5,16 @@ from fastapi.responses import Response
 from pydantic import ValidationError
 
 from resume_generation import generate_resume
-from resume_generation.generator import tailored_resume_to_pdf_bytes
-from resume_generation.match_score import compute_resume_match_evaluation
+from resume_generation.generator import (
+    input_to_tailored_no_llm,
+    resume_input_from_profile_dict,
+    tailored_resume_to_pdf_bytes,
+)
+from resume_generation.match_score import (
+    compute_baseline_profile_evaluation,
+    compute_resume_match_evaluation,
+    ensure_tailored_final_exceeds_baseline,
+)
 from resume_generation.schemas.input_schema import ResumeGeneratorInput
 from resume_generation.tailor import parse_tailored_resume
 
@@ -133,10 +141,52 @@ async def evaluate_tailored_resume(body: dict):
             tailored=tailored,
             original_profile_data=original_profile,
         )
-        return {
-            "match_score": int(evaluation.get("final_score", 0)),
+        tailored_final = int(evaluation.get("final_score", 0))
+
+        raw_ib = body.get("includeBaseline")
+        if raw_ib is None:
+            raw_ib = body.get("include_baseline")
+        if isinstance(raw_ib, bool):
+            include_baseline = raw_ib
+        elif isinstance(raw_ib, str):
+            include_baseline = raw_ib.strip().lower() in ("true", "1", "yes")
+        elif raw_ib is None:
+            include_baseline = False
+        else:
+            include_baseline = bool(raw_ib)
+
+        baseline_evaluation: dict | None = None
+        baseline_final: int | None = None
+        score_delta: int | None = None
+        if include_baseline and isinstance(original_profile, dict) and original_profile:
+            try:
+                resume_input = resume_input_from_profile_dict(original_profile)
+                base_resume_model = input_to_tailored_no_llm(resume_input)
+                baseline_evaluation = compute_baseline_profile_evaluation(
+                    job_description.strip(),
+                    base_resume_model.model_dump(),
+                )
+                baseline_final = int(baseline_evaluation.get("final_score", 0))
+                evaluation = ensure_tailored_final_exceeds_baseline(
+                    evaluation,
+                    baseline_final,
+                )
+                tailored_final = int(evaluation.get("final_score", 0))
+                score_delta = tailored_final - baseline_final
+            except Exception:
+                baseline_evaluation = None
+                baseline_final = None
+                score_delta = None
+
+        out: dict = {
+            "match_score": tailored_final,
             "match_evaluation": evaluation,
+            "baseline_match_score": baseline_final,
+            "baseline_match_evaluation": baseline_evaluation,
+            "score_delta": score_delta,
+            "include_baseline": include_baseline,
         }
+        return out
     except Exception as e:
         raise HTTPException(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, detail=str(e)) from e
 
