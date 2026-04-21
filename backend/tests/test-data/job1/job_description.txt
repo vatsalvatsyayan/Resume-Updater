@@ -1,0 +1,36 @@
+Job Title: Software Engineer – AI & Cloud Applications
+
+Location: Los Angeles, CA (Hybrid)
+Experience: 0–2 years (New Grad / Early Career)
+
+About the Role
+
+We are looking for a highly motivated Software Engineer to build scalable, cloud-native applications integrating AI/ML and data-driven systems. You will work across the full stack, develop intelligent features using LLMs, and collaborate with cross-functional teams to deliver production-grade solutions.
+
+This role requires strong backend engineering, experience with REST APIs, cloud deployment, database optimization, and exposure to modern AI systems such as Retrieval-Augmented Generation (RAG) and vector databases.
+
+Responsibilities
+
+Design and develop scalable full-stack web applications
+Build and consume RESTful APIs for data-driven applications
+Develop and deploy applications on AWS
+Implement CI/CD pipelines
+Integrate LLMs and AI-powered features 
+Work with SQL and NoSQL databases
+Collaborate with product, design, and analytics teams to translate requirements into scalable solutions
+Monitor system performance and implement logging and metrics
+
+Preferred Qualifications
+
+Experience with LLMs, RAG pipelines, or Vector Databases
+Experience optimizing systems for measurable performance improvements
+Prior internship experience in product-based companies
+Strong understanding of algorithms and system design fundamentals
+
+What We Look For
+
+Demonstrated impact (e.g., performance improvements, automation, scalability gains)
+Experience deploying production-ready cloud applications
+Ability to quantify engineering outcomes
+Strong communication and teamwork skills
+Passion for AI-driven systems and intelligent automation

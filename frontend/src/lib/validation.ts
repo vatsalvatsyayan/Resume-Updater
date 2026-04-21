@@ -6,6 +6,14 @@ const dateSchema = z.string().optional().or(z.literal('')).nullable();
 export const personalInfoSchema = z.object({
   name: z.string().min(1, 'Name is required').max(100, 'Name is too long'),
   email: z.string().email('Please enter a valid email address'),
+  phone: z.preprocess(
+    (v) => (v === '' || v === undefined || v === null ? null : v),
+    z.string().max(40, 'Phone is too long').nullable()
+  ),
+  location: z.preprocess(
+    (v) => (v === '' || v === undefined || v === null ? null : v),
+    z.string().max(120, 'Location is too long').nullable()
+  ),
   portfolioWebsite: urlSchema,
   githubUrl: urlSchema,
   linkedinUrl: urlSchema,

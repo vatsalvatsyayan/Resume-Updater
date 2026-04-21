@@ -1,0 +1,144 @@
+{
+  "Name": "John Doe",
+  "Target role": "New Grad Software",
+  "Target company": "Amazon",
+  "Education": [
+    {
+      "Institution": "University of Southern California",
+      "Degree": "Master's in Computer Science",
+      "Duration": "Jun 2024 – May 2026",
+      "GPA": "3.71",
+      "Courses": [
+        "Data Structures and Algorithms",
+        "Software Architectures",
+        "Natural Language Processing",
+        "Software Engineering"
+      ]
+    }
+  ],
+  "Experience": [
+    {
+      "Company": "Fractal Analytics",
+      "Role": "Data Scientist (ML/NLP)",
+      "Duration": "Sep 2021 – Jun 2024",
+      "Projects": [
+        {
+          "Name": "Customer Service Chatbot (Fortune 500 Insurance Company)",
+          "Details": [
+            "Implemented semantic chunking RAG chatbot for insurance policy Q&A, boosting accuracy to 91%",
+            "Created pipeline to normalize HTML, JPEG, and DOCX documents",
+            "Evaluated bot on 1,000+ synthetic queries using LLM-as-a-judge and human-in-the-loop"
+          ]
+        },
+        {
+          "Name": "LLM Data & Evaluation (Applied Research)",
+          "Details": [
+            "Developed Text-to-SQL application saving $4.25M annually",
+            "Built and deployed fault-tolerant Text-to-JSON REST service",
+            "Reduced marketing review time from 2.5 days to ~3 hours using GPT-3.5 Turbo",
+            "Performed log analysis, debugging, and reliability improvements"
+          ]
+        },
+        {
+          "Name": "Inventory Recommendation System (Major FMCG Company)",
+          "Details": [
+            "Led recommendation system improving inventory efficiency by 13%",
+            "Boosted forecasting accuracy from 86% to 93% using XGBoost and clustering",
+            "Led client demos and engagements"
+          ]
+        }
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "Improving Small Reasoning Models with Masked Critique Fine-Tuning",
+      "Duration": "Jan 2025 – Apr 2025",
+      "Details": [
+        "Improved AMC accuracy by 12.5% and MATH 500 by 12% via masked critique fine-tuning of DeepScaleR-1.5B (16K context)",
+        "Expanded LIMO dataset using Gemini-2.5-Pro generated critiques"
+      ]
+    },
+    {
+      "Name": "Fine-tuning SLMs on Text-to-SQL Reasoning Chains",
+      "Duration": "Aug 2024 – Nov 2024",
+      "Details": [
+        "Improved accuracy from 76% to 79% via LoRA fine-tuning of CodeS-7B",
+        "Generated synthetic reasoning chains for Spider 1.0 with 94%/92%/90% train/val/test accuracy using GPT-4o"
+      ]
+    }
+  ],
+  "Skills": {
+    "Programming Languages": [
+      "Python",
+      "Java",
+      "C++",
+      "SQL",
+      "Bash",
+      "R"
+    ],
+    "Computer Science Fundamentals": [
+      "Data Structures",
+      "Algorithms",
+      "Object-Oriented Programming",
+      "Complexity Analysis"
+    ],
+    "Cloud & Data": [
+      "AWS S3",
+      "AWS SageMaker",
+      "AWS Kendra",
+      "Data Pipelines",
+      "Data Normalization"
+    ],
+    "Software Engineering": [
+      "SDLC",
+      "Agile",
+      "Design Patterns",
+      "Clean Code",
+      "Git/GitHub",
+      "Code Reviews",
+      "Debugging",
+      "Troubleshooting",
+      "Technical Documentation",
+      "Docker",
+      "REST",
+      "FastAPI",
+      "Microservices",
+      "Service Design",
+      "Unit/Integration Testing"
+    ],
+    "Machine Learning & GenAI": [
+      "Regression",
+      "Classification",
+      "Clustering",
+      "Forecasting",
+      "Recommender Systems",
+      "Generative AI",
+      "RAG",
+      "LLM Evaluation"
+    ],
+    "NLP & Language Models": [
+      "BERT",
+      "RoBERTa",
+      "Sentence-BERT",
+      "Text-to-SQL",
+      "Transformer-based LLMs"
+    ],
+    "Frameworks & Libraries": [
+      "PyTorch",
+      "Keras",
+      "Hugging Face"
+    ],
+    "Agent Frameworks": [
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex"
+    ],
+    "Collaboration": [
+      "Cross-functional Communication",
+      "Stakeholder Management",
+      "Analytical Problem-Solving",
+      "Written Communication"
+    ]
+  }
+}

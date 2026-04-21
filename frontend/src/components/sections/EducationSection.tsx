@@ -27,7 +27,7 @@ export function EducationSection() {
     <FormSection
       id="education"
       title="Education"
-      description="Your academic background"
+      description="Your academic background - tailored resumes use ATS-friendly date text."
       icon={GraduationCap}
       action={
         <Button

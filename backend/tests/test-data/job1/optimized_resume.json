@@ -1,0 +1,123 @@
+{
+  "Name": "John Doe",
+  "Target role": "New Grad Software",
+  "Target company": "Amazon",
+  "Education": [
+    {
+      "Institution": "University of Southern California",
+      "Location": "Los Angeles, CA",
+      "Degree": "Master of Science in Computer Science",
+      "Duration": "August 2024 – May 2026",
+      "Coursework": [
+        "Analysis of Algorithms",
+        "Web Technologies",
+        "Database Systems",
+        "Applied Natural Language Processing"
+      ]
+    },
+    {
+      "Institution": "PES University",
+      "Location": "Bengaluru, India",
+      "Degree": "Bachelor of Technology in Computer Science & Engineering",
+      "Duration": "December 2020 – June 2024",
+      "GPA": "9.66/10.0",
+      "Highlights": [
+        "Top 20 out of 720 students",
+        "6 research papers",
+        "CNR Rao Award (Top 2%)",
+        "2 MRD Scholarships (Top 20%)"
+      ],
+      "Coursework": [
+        "Cloud Computing",
+        "Data Structures",
+        "Machine Intelligence",
+        "Object Oriented Programming",
+        "Software Engineering"
+      ]
+    }
+  ],
+  "Skills": {
+    "Technical": [
+      "Python",
+      "JavaScript",
+      "Node.js",
+      "NoSQL",
+      "HTML",
+      "CSS",
+      "SQL",
+      "RESTful APIs",
+      "GitHub",
+      "Angular",
+      "AWS",
+      "GCP",
+      "PyTorch",
+      "Docker"
+    ],
+    "Courses": [
+      "AWS Cloud Computing 101",
+      "Recommendation Systems – Google Cloud",
+      "AWS Cloud Practitioner Essentials",
+      "Agents – Hugging Face"
+    ]
+  },
+  "Experience": [
+    {
+      "Company": "USC Annenberg – Web Team",
+      "Role": "Software Developer",
+      "Location": "Los Angeles, CA",
+      "Duration": "September 2024 – Present",
+      "Responsibilities": [
+        "Extracted data from PDFs using Python and stored in MongoDB",
+        "Automated updates via GitHub Actions",
+        "Worked on classification models and LLM-based chatbot initiatives"
+      ]
+    },
+    {
+      "Company": "Baxter Healthcare",
+      "Role": "Software Development Intern",
+      "Location": "Bengaluru, India",
+      "Duration": "February 2024 – June 2024",
+      "Responsibilities": [
+        "Conducted feasibility studies on Power BI REST APIs",
+        "Developed Angular web applications with API integrations",
+        "Created Dockerized YAML generator in React",
+        "Maintained recommendation system and ETL pipelines using Azure Blob Storage and Databricks"
+      ]
+    },
+    {
+      "Company": "Adobe",
+      "Role": "Technical Intern",
+      "Location": "Bengaluru, India",
+      "Duration": "May 2023 – August 2023",
+      "Responsibilities": [
+        "Replaced Excel workflows with Python-Django and Streamlit solution",
+        "Optimized database schema for 1M+ records",
+        "Implemented authentication via Microsoft Identity APIs",
+        "Added Single Sign-On and RBAC",
+        "Integrated audit tracking"
+      ]
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "Educational Chatbot",
+      "Technologies": ["Python", "Streamlit", "LLMs", "RAG", "Weaviate", "VectorDB", "text2vec"],
+      "Description": "Developed AI-powered chatbot using RAG with 97% accuracy on JHS vector search algorithm"
+    },
+    {
+      "Name": "Capstone Project – Just Map It",
+      "Technologies": ["Python", "Django", "HTML", "JavaScript", "Bootstrap", "Data Analytics"],
+      "Description": "Indoor navigation app reducing inconvenience by 85%; automated connection processes via Python scripts"
+    },
+    {
+      "Name": "WeatherApp",
+      "Technologies": ["Kotlin", "Node.js", "GCP", "Tomorrow.io API", "Places API", "Autocomplete API", "ipinfo API", "Maps API", "MongoDB"],
+      "Description": "Weather application with 90% improvement in responsiveness"
+    },
+    {
+      "Name": "Fashion Recommendation System",
+      "Technologies": ["Python", "CNNs"],
+      "Description": "Implemented CNN-based recommendation system with transfer learning for clothing suggestions"
+    }
+  ]
+}

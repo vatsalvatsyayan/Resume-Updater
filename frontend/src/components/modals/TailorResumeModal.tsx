@@ -4,6 +4,7 @@ import { z } from 'zod';
 import { Sparkles } from 'lucide-react';
 
 import { Button } from '@/components/ui/Button';
+import { Checkbox } from '@/components/ui/Checkbox';
 import { Input } from '@/components/ui/Input';
 import { Textarea } from '@/components/ui/Textarea';
 import {
@@ -28,6 +29,7 @@ const tailorResumeSchema = z.object({
     .string()
     .min(50, 'Please provide a more detailed job description (at least 50 characters)')
     .max(10000, 'Job description is too long'),
+  generateCoverLetter: z.boolean(),
 });
 
 export type TailorResumeFormData = z.infer<typeof tailorResumeSchema>;
@@ -49,6 +51,7 @@ export function TailorResumeModal({
     register,
     handleSubmit,
     reset,
+    watch,
     formState: { errors, isValid },
   } = useForm<TailorResumeFormData>({
     resolver: zodResolver(tailorResumeSchema),
@@ -57,6 +60,7 @@ export function TailorResumeModal({
       companyName: '',
       roleName: '',
       jobDescription: '',
+      generateCoverLetter: false,
     },
   });
 
@@ -70,10 +74,12 @@ export function TailorResumeModal({
     onOpenChange(false);
   };
 
+  const generateCoverLetterChecked = watch('generateCoverLetter');
+
   return (
-    <Modal open={open} onOpenChange={handleClose}>
+    <Modal open={open} onOpenChange={handleClose} preventClose={isLoading}>
       <form onSubmit={handleSubmit(handleFormSubmit)}>
-        <ModalHeader>
+        <ModalHeader showCloseButton={!isLoading}>
           <div className="flex items-center gap-3">
             <div className="p-2 bg-gradient-to-br from-amber-100 to-amber-50 rounded-xl">
               <Sparkles className="w-5 h-5 text-amber-500" />
@@ -111,6 +117,12 @@ export function TailorResumeModal({
             required
             className="min-h-[200px]"
             {...register('jobDescription')}
+          />
+
+          <Checkbox
+            label="Also generate a cover letter"
+            checked={!!generateCoverLetterChecked}
+            {...register('generateCoverLetter')}
           />
         </ModalBody>
 

@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { CheckCircle2, ArrowRight, FileText, Sparkles } from 'lucide-react';
-import { Button } from '@/components/ui';
+
 import { Header } from '@/components/layout';
 
 export function SuccessPage() {
@@ -9,98 +9,64 @@ export function SuccessPage() {
     <div className="min-h-screen bg-slate-50">
       <Header />
 
-      <main className="max-w-2xl mx-auto px-4 py-20">
+      <main className="mx-auto flex min-h-[calc(100vh-64px)] max-w-4xl items-center justify-center px-4 py-10">
         <motion.div
-          initial={{ opacity: 0, y: 20 }}
+          initial={{ opacity: 0, y: 18 }}
           animate={{ opacity: 1, y: 0 }}
-          className="text-center"
+          transition={{ duration: 0.35 }}
+          className="w-full max-w-2xl rounded-3xl border border-slate-200 bg-white p-8 text-center shadow-sm"
         >
-          {/* Success Icon */}
-          <motion.div
-            initial={{ scale: 0 }}
-            animate={{ scale: 1 }}
-            transition={{ type: 'spring', stiffness: 200, delay: 0.2 }}
-            className="relative inline-block mb-8"
-          >
-            <div className="absolute inset-0 bg-green-400 rounded-full blur-xl opacity-30" />
-            <div className="relative w-24 h-24 bg-green-500 rounded-full flex items-center justify-center">
-              <CheckCircle2 className="w-12 h-12 text-white" />
-            </div>
-          </motion.div>
+          <div className="mx-auto mb-6 flex h-24 w-24 items-center justify-center rounded-full bg-green-100">
+            <CheckCircle2 className="h-12 w-12 text-green-600" />
+          </div>
 
-          {/* Content */}
-          <motion.h1
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.3 }}
-            className="text-4xl font-bold text-slate-900 mb-4"
-          >
+          <h1 className="text-4xl font-bold tracking-tight text-slate-900">
             Profile Saved Successfully!
-          </motion.h1>
+          </h1>
 
-          <motion.p
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.4 }}
-            className="text-xl text-slate-600 mb-8 max-w-md mx-auto"
-          >
-            Your professional profile is now ready. You can generate tailored resumes for any job application.
-          </motion.p>
+          <p className="mx-auto mt-4 max-w-xl text-lg leading-8 text-slate-600">
+            Your professional profile is now ready. You can generate tailored resumes for any job
+            application from the Applications page.
+          </p>
 
-          {/* Next Steps */}
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.5 }}
-            className="bg-white rounded-2xl border border-slate-200 p-8 mb-8"
-          >
-            <h2 className="text-lg font-semibold text-slate-900 mb-6">
-              What's Next?
-            </h2>
-            <div className="grid sm:grid-cols-2 gap-4">
-              <div className="flex items-start gap-4 p-4 bg-slate-50 rounded-xl">
-                <div className="p-2 bg-slate-900 rounded-xl">
-                  <FileText className="w-5 h-5 text-white" />
-                </div>
-                <div className="text-left">
-                  <h3 className="font-semibold text-slate-900">Generate Resume</h3>
-                  <p className="text-sm text-slate-500 mt-1">
-                    Create a tailored resume for specific jobs
-                  </p>
-                </div>
+          <div className="mx-auto mt-10 grid max-w-xl gap-4 sm:grid-cols-2">
+            <div className="rounded-2xl border border-slate-200 bg-slate-50 p-5 text-left">
+              <div className="mb-3 inline-flex rounded-xl bg-slate-900 p-3 text-white">
+                <FileText className="h-5 w-5" />
               </div>
-              <div className="flex items-start gap-4 p-4 bg-slate-50 rounded-xl">
-                <div className="p-2 bg-amber-500 rounded-xl">
-                  <Sparkles className="w-5 h-5 text-white" />
-                </div>
-                <div className="text-left">
-                  <h3 className="font-semibold text-slate-900">AI Optimization</h3>
-                  <p className="text-sm text-slate-500 mt-1">
-                    Let AI enhance your resume for ATS
-                  </p>
-                </div>
-              </div>
+              <h2 className="text-lg font-semibold text-slate-900">Generate Resume</h2>
+              <p className="mt-2 text-sm leading-6 text-slate-600">
+                Go to Applications and create a tailored resume for a specific job description.
+              </p>
             </div>
-          </motion.div>
 
-          {/* Actions */}
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.6 }}
-            className="flex flex-col sm:flex-row gap-4 justify-center"
-          >
-            <Link to="/profile">
-              <Button variant="outline" size="lg">
-                Edit Profile
-              </Button>
+            <div className="rounded-2xl border border-slate-200 bg-slate-50 p-5 text-left">
+              <div className="mb-3 inline-flex rounded-xl bg-amber-100 p-3 text-amber-700">
+                <Sparkles className="h-5 w-5" />
+              </div>
+              <h2 className="text-lg font-semibold text-slate-900">AI Optimization</h2>
+              <p className="mt-2 text-sm leading-6 text-slate-600">
+                Use the tailored resume flow to optimize your resume for each application.
+              </p>
+            </div>
+          </div>
+
+          <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
+            <Link
+              to="/profile"
+              className="inline-flex items-center justify-center rounded-xl border border-slate-300 px-6 py-3 text-sm font-medium text-slate-700 transition hover:bg-slate-50"
+            >
+              Edit Profile
             </Link>
-            <Link to="/">
-              <Button size="lg" rightIcon={<ArrowRight className="w-5 h-5" />}>
-                Back to Home
-              </Button>
+
+            <Link
+              to="/applications"
+              className="inline-flex items-center justify-center gap-2 rounded-xl bg-slate-900 px-6 py-3 text-sm font-medium text-white shadow-sm transition hover:bg-slate-800"
+            >
+              Generate Resume
+              <ArrowRight className="h-4 w-4" />
             </Link>
-          </motion.div>
+          </div>
         </motion.div>
       </main>
     </div>

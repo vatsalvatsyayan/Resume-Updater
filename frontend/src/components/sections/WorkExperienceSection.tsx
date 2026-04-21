@@ -17,7 +17,7 @@ export function WorkExperienceSection() {
     <FormSection
       id="experience"
       title="Work Experience"
-      description="Your professional journey"
+      description="Calendar dates here; tailored resumes use ATS-friendly text dates (e.g. Mar 2019 - Present)."
       icon={Briefcase}
       action={
         <Button

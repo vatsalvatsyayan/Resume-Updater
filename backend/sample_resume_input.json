@@ -1,0 +1,19 @@
+{
+  "personalInfo": {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "portfolioWebsite": "https://jane.dev",
+    "githubUrl": "https://github.com/janedoe",
+    "linkedinUrl": "https://linkedin.com/in/janedoe"
+  },
+  "education": [{"universityName": "Example University", "courseName": "B.S. Computer Science", "courseType": "Bachelor's", "major": "Computer Science", "gpa": "3.8", "location": "Boston, MA", "startDate": "2018-09", "endDate": "2022-05", "isPresent": false}],
+  "workExperience": [{"companyName": "Tech Corp", "position": "Software Engineer", "location": "Remote", "startDate": "2022-06", "endDate": null, "isPresent": true, "summary": "Full-stack development", "description": "Built REST APIs with Python and FastAPI. Led migration to microservices."}],
+  "projects": [{"projectName": "Open Source CLI", "link": "https://github.com/janedoe/dev-cli", "techStack": ["Python", "FastAPI"], "summary": "CLI for developers", "description": "Shipped a CLI used by 10k+ developers."}],
+  "skills": {"programmingLanguages": ["Python", "JavaScript"], "frameworks": ["React", "FastAPI"], "databases": ["PostgreSQL"], "toolsAndTechnologies": ["Docker", "Git"], "cloud": ["AWS"], "ai": [], "other": []},
+  "certifications": [],
+  "volunteer": [],
+  "leadership": [],
+  "jobDescription": "We are looking for a Senior Software Engineer with 3+ years of experience in Python and React. You will own backend services and collaborate with product and design. Experience with AWS and distributed systems is a plus.",
+  "roleName": "Senior Software Engineer",
+  "companyName": "Acme Inc"
+}
